@@ -311,7 +311,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						throw "ERROR";
 					}
 					// SAVE
-					fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"'));
+					fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"').replace("��","å"));
 				}
 			}
 			// FINISH
