@@ -4,4 +4,17 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"bageri 3",
 "instructiontext":"som bygger på kursen bageri 3. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"BAGBAG00S"}
+"code":"BAGBAG00S",
+"goaltext":"Kursen bageri &mdash; specialisering omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialområde.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Yrkesmässig tillverkning av bröd och bakverk inom valt specialområde.",
+"Tillverkningens trender och utveckling inom valt specialområde.",
+"Utseende och smak inom valt specialområde.",
+"Utformning av recept och arbetsbeskrivningar inom valt specialområde.",
+"Ekonomiska konsekvenser vid val och inköp av råvaror samt vid tillverkning och förvaring.",
+"Paketering och märkning av bröd och bakverk.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet.",
+"Förändringar av bröd, bakverk och brödkultur i allmänhet och inom valt specialområde genom historien och i olika kulturer."]}

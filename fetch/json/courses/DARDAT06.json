@@ -3,4 +3,8 @@
 "points":100,
 "requirements":"datorstyrd produktion 5",
 "instructiontext":"som bygger på kursen datorstyrd produktion 5.",
-"code":"DARDAT06"}
+"code":"DARDAT06",
+"goaltext":"Kursen datorstyrd produktion 6 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":{}}

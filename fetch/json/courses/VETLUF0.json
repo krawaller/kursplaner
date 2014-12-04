@@ -1,4 +1,14 @@
 {"subject":"VET",
 "name":"Luftbehandling",
 "points":100,
-"code":"VETLUF0"}
+"code":"VETLUF0",
+"goaltext":"Kursen luftbehandling omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+"goals":[2,1,1,1,1,1,1],
+"level":"normal",
+"content":["Ventilationsteknikens historia och utveckling.",
+"Grundläggande principer och förutsättningar för ventilationsteknik och luftbehandling samt grundläggande underhållsrutiner. ",
+"Luftens egenskaper på en grundläggande nivå.",
+"Användning av verktyg, utrustning och material.",
+"Ritningsläsning och arbetsbeskrivningar.",
+"Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.",
+"Metoder för dokumentation."]}

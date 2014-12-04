@@ -1,4 +1,12 @@
 {"subject":"DAN",
 "name":"Dansimprovisation och komposition",
 "points":100,
-"code":"DANDAI0"}
+"code":"DANDAI0",
+"goaltext":"Kursen dansimprovisation och komposition omfattar punkterna 2&mdash;5 och 7 under rubriken Ämnets syfte.",
+"goals":[0,1,1,1,1,0,1,0,0],
+"level":"normal",
+"content":["Improvisation utifrån olika instruktioner, både individuellt och i grupp, där impulser kan komma från den egna kroppen eller andras kroppar, rekvisita, text, rum eller musik.",
+"Samarbete och interaktion med andra genom att både följa, leda, ge och ta impulser.",
+"Olika kompositionsmetoder och koreografiska arbetssätt samt framförande av kompositioner.",
+"Konstnärliga processer, både individuella och kollektiva.",
+"Begrepp och metoder för reflektioner över den konstnärliga processen och kompositionsmaterialet."]}

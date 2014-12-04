@@ -1,4 +1,14 @@
 {"subject":"PED",
 "name":"Pedagogiskt ledarskap",
 "points":100,
-"code":"PEDPEG0"}
+"code":"PEDPEG0",
+"goaltext":"Kursen pedagogiskt ledarskap omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Ledarskap och organisationer utifrån olika teorier.",
+"Hur individer, grupper och det sociala sammanhanget påverkar och påverkas av ledaren.",
+"Ledarskap ur ett genus- och jämställdhetsperspektiv.",
+"Ledarskap vid konflikter samt konflikthantering.",
+"Kritisk bearbetning av information från olika källor.",
+"Planering, genomförande, dokumentation och utvärdering av olika aktiviteter.",
+"Interaktion och kommunikation i samarbete och möten med människor."]}

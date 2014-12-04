@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"biologi 2",
 "instructiontext":"som bygger på kursen biologi 2. ",
-"code":"HIOHIO0"}
+"code":"HIOHIO0",
+"goaltext":"Kursen hippologi &mdash; avel och hästens hälsa omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med betoning på avelsarbete och hästens hälsa. ",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Reproduktionsbiologi, genetik och nedärvning av olika egenskaper.",
+"Avelsarbete.",
+"Hästens hälsa, hälsofrämjande åtgärder som val av foder, träningsmetoder för muskeluppbyggnad och smittskydd.",
+"Mikroorganismer och virus som förorsakar sjukdomar hos hästen, sjukdomssymtom och behandling.",
+"Smittspridning, smittskydd och hygien samt förebyggande hälsovård.",
+"Skador, hästens reaktion på skador och lämpliga behandlingsmetoder.",
+"Observationer av hästars välbefinnande och hälsa.",
+"Veterinärmedicinska termer och begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",
+"Naturvetenskapliga presentationer, till exempel rapporter, reportage och seminarier.",
+"Lagar och andra bestämmelser, till exempel djurskydds-, arbetsmiljö- och miljölagstiftning relevant för verksamheten. "]}

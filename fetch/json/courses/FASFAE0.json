@@ -1,4 +1,16 @@
 {"subject":"FAS",
 "name":"Fastighetsservice &mdash; VVS",
 "points":100,
-"code":"FASFAE0"}
+"code":"FASFAE0",
+"goaltext":"Kursen fastighetsservice &mdash; VVS omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Övergripande bygglagstiftning för byggnaders konstruktion och material.",
+"Byggnaders tekniska konstruktion och byggmaterials egenskaper. Hur fuktskador kan förebyggas, lokaliseras och åtgärdas.",
+"Underhållsrutiner, regler, bestämmelser och besiktningsplaner för utrustning och inredning i kök, tvättstugor och badrum samt för till exempel sprinkler-, dricksvatten-, dagvatten- och avloppssystem i fastigheter.",
+"Säkerhetskontroller avseende vattenskador, mikrobiell tillväxt, brännskador och återströmning av vatten som inte uppfyller kraven för dricksvattenkvalitet. Hur arbetet kan utföras på ett säkert och ergonomiskt sätt och med miljöhänsyn.",
+"Uppbyggnad, konstruktion och funktion av komponenter och utrustning för fastigheters vatten- och avloppssystem, samt reservdelshållning.",
+"Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll och för reparationer av komponenter och utrustning i vatten- och avloppssystem i fastigheter samt av utrustning och inredning i kök, tvättstugor och badrum.",
+"Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.",
+"Felsökning och felavhjälpning av konstruktionsfel, slitage, mekaniska fel och elfel.",
+"Metoder för dokumentation av utförda åtgärder."]}

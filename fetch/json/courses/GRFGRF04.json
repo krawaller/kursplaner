@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"grafisk produktion 3",
 "instructiontext":"som bygger på kursen grafisk produktion 3.",
-"code":"GRFGRF04"}
+"code":"GRFGRF04",
+"goaltext":"Kursen grafisk produktion 4 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 5 och 6. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,2,1,1,2,2,1,1,1,1],
+"level":"high",
+"content":["Tryck och efterbearbetning av en flerfärgs grafisk produktion inom vald tryckteknik.",
+"Metoder för planering, övervakning, styrning och reglering av manuella eller automatiserade arbetsflöden.",
+"Materialkunskap vad gäller till exempel substrat, färg eller tryckformsmaterial.",
+"Färg- och kvalitetsstyrning.",
+"Grafisk produktionsplanering. Faktorer som påverkar logistik och produktionsekonomi.",
+"Metoder för lösning av produktionsrelaterade problem.",
+"Metoder för analys, tolkning och bearbetning av mätvärden, information och instruktioner.",
+"Begrepp och uttryck som är relevanta för ämnesområdet."]}

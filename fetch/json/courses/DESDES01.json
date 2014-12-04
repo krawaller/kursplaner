@@ -1,4 +1,16 @@
 {"subject":"DES",
 "name":"Design 1",
 "points":100,
-"code":"DESDES01"}
+"code":"DESDES01",
+"goaltext":"Kursen design 1 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 6 och 10. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,2,1,2,1,1,1,2],
+"level":"basic",
+"content":["Produktutveckling utifrån olika aspekter, till exempel målgruppers ekonomiska, ergonomiska, estetiska, funktionella och sociala behov.",
+"Design och designerns roll i samhället med fokus på människors olika behov och förutsättningar, till exempel utifrån genus eller funktionshinder.",
+"Grundläggande design- och kulturhistoria. Begrepp, stilar och material.",
+"Introduktion i designprocessens olika delar. Dessa är problemformulering, marknadsundersökning, funktionsanalys, kravspecifikation, faktainsamling, idégenerering, skiss, modellarbete, analys, presentation och utvärdering.",
+"Källor av olika slag i ett designprojekt.",
+"Material och tekniker för två- och tredimensionell visualisering av idéer, till exempel skisser och ritningar samt modeller i olika material.",
+"Modeller för analys och värdering av egna och andras idéer.",
+"Presentation av idéer med bild, ritning, modell, skrift och tal.",
+"Grundläggande projektarbetsmetodik, till exempel projektplan, val av metod och redovisningsform i ett designprojekt."]}

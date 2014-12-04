@@ -1,4 +1,16 @@
 {"subject":"ADM",
 "name":"Receptions- och konferensservice",
 "points":100,
-"code":"ADMREC0"}
+"code":"ADMREC0",
+"goaltext":"Kursen receptions- och konferensservice omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"basic",
+"content":["Mötesindustrin, konferens- och eventanläggningar samt branschorganisationer.",
+"Olika system och program för reception och kundtjänst, till exempel växelsystem, boknings- och säkerhetsprogram.",
+"Planering och utformning av arbete i reception och kundtjänst både internt och externt.",
+"Service- och kundservicebegrepp, till exempel telefonbemötande och marknadsföringsåtgärder.",
+"Administration, planering och genomförande av möten.",
+"Praktiskt arbete i samband med mässor och i montrar.",
+"Tekniska hjälpmedel och utrustning.",
+"Lagar och andra bestämmelser inom området.",
+"Miljöfrågor och säkerhetsfrågor i receptionsarbete."]}

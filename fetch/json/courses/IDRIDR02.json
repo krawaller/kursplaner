@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"idrott och hälsa 1",
 "instructiontext":"som bygger på kursen idrott och hälsa 1.",
-"code":"IDRIDR02"}
+"code":"IDRIDR02",
+"goaltext":"Kursen idrott och hälsa 2 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1],
+"level":"high",
+"content":["Upplevelsebaserade rörelseaktiviteter utomhus, till exempel paddling, klättring, ridning, orientering, friluftsliv och geografiskt betingade aktiviteter som skidåkning.",
+"Fysiologiska och psykologiska effekter av träning och fysisk aktivitet.",
+"Musik, rytm och dans som inspiration för att utveckla kroppslig förmåga.",
+"Hälsobegreppets grunder. Hälsofrämjande arbetssätt samt hur arbetssätten kan dokumenteras.",
+"Riskfaktorer i samband med fysiska aktiviteter, till exempel överträning och skador i samband med idrott och motionsaktiviteter.",
+"Idrott, dans och motionsaktiviteter som samhällsfenomen och som sociala och kulturella verktyg.",
+"Olika kroppsideals påverkan på människor, till exempel ätstörningar och dopning.",
+"Miljöer: samspel mellan situationens krav och människan utifrån ergonomiska aspekter."]}

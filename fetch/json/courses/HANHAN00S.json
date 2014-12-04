@@ -6,4 +6,15 @@
 "arr":["servicekunskap",
 "praktisk marknadsföring 1"]},
 "instructiontext":"som bygger på kursen servicekunskap eller kursen praktisk marknadsföring 1. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"HANHAN00S"}
+"code":"HANHAN00S",
+"goaltext":"Kursen handel &mdash; specialisering omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 7 och 10. I kursen behandlas fördjupade färdigheter inom valt verksamhetsområde.",
+"goals":[2,1,1,1,1,1,2,1,1,2],
+"level":"normal",
+"content":["Produktkunskap och branschkunskap inom valt verksamhetsområde.",
+"Yrken och arbetsuppgifter inom valt verksamhetsområde.",
+"Organisationsformer och verksamhetsformer inom valt verksamhetsområde.",
+"Entreprenörskap och eget företagande inom valt verksamhetsområde.",
+"Försäljningsinriktade och serviceinriktade arbetsuppgifter inom valt verksamhetsområde.",
+"Datoranvändning och relevanta datorprogram inom valt verksamhetsområde.",
+"Lagar och andra bestämmelser inom handels- och tjänstesektorn, till exempel om arbetsrätt och diskriminering, samt etiska regler.",
+"Miljö- och säkerhetsfrågor inom valt verksamhetsområde."]}

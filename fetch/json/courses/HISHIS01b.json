@@ -6,4 +6,13 @@
 "arr":["historia 1a1",
 "historia 1a2"]},
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1a1 eller kursen historia 1a2.",
-"code":"HISHIS01b"}
+"code":"HISHIS01b",
+"goaltext":"Kursen historia 1b omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Den europeiska epokindelningen utifrån ett kronologiskt perspektiv. Förhistorisk tid, forntiden, antiken, medeltiden, renässansen och upplysningstiden med vissa fördjupningar. Problematisering av historiska tidsindelningars beroende av kulturella och politiska förutsättningar utifrån valda områden till exempel varför tidsbegreppet vikingatid infördes i Sverige under 1800-talets slut eller jämförelser med tidsindelningar i någon utomeuropeisk kultur.",
+"Industrialisering och demokratisering under 1800- och 1900-talen i Sverige och globalt samt viktiga globala förändringsprocesser och händelser, till exempel migration, fredssträvanden, resursfördelning och ökat välstånd, internationellt samarbete, mänskliga rättigheter, jämställdhet, men också kolonialism, diktaturer, folkmord, konflikter och ökat resursutnyttjande. Långsiktiga historiska perspektiv på förändrade maktförhållanden och olika historiska förklaringar till dem.",
+"Olika historiska frågeställningar och förklaringar kring långsiktiga historiska förändringsprocesser som speglar både kontinuitet och förändring, till exempel befolkningsutveckling, statsbildning, jordbrukets utveckling och olika syn på människors värde, på makt och på könsmönster.",
+"Historiskt källmaterial som speglar människors roll i politiska konflikter, kulturella förändringar eller kvinnors och mäns försök att förändra sin egen eller andras situation. Olika perspektiv utifrån till exempel social bakgrund, etnicitet, generation, kön och sexualitet.",
+"Kritisk granskning, tolkning och användning av olika slags källmaterial utifrån källkritiska kriterier och metoder.",
+"Hur individer och grupper använt historia i vardagsliv, samhällsliv och politik. Betydelsen av historia i formandet av identiteter, till exempel olika föreställningar om gemensamma kulturarv, och som medel för påverkan i aktuella konflikter."]}

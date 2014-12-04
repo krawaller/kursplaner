@@ -3,4 +3,16 @@
 "points":300,
 "requirements":"lackeringsteknik – introduktion",
 "instructiontext":"som bygger på kursen lackeringsteknik – introduktion.",
-"code":"LACBAK0"}
+"code":"LACBAK0",
+"goaltext":"Kursen baskurs i lackering omfattar punkterna 2&mdash;4, 6 och 8&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,1,1,1,0,1,0,1,1,1],
+"level":"normal",
+"content":["Produkter som bildar lackskiktet med särskilt fokus på korrosionsskydd och hållbart ytskikt. ",
+"Skillnader i härd- och termoplasters fysiska och kemiska egenskaper gällande reparation av fordons plastdetaljer.",
+"Rengöringsvätskor och rengöringsmetoder för olika typer av arbeten.",
+"Applicering med sprutpistol på karosseridetaljer av stål och termo- och härdplaster.",
+"Demontering och montering av utvändiga karosseridetaljer som inte kräver specialverktyg.",
+"Användning av produktdatablad för färgblandning samt värdering av utfört arbete. ",
+"Reparation av skadade plastdetaljer till den noggrannhet som krävs för vidare lackeringsarbeten.",
+"Verkstadens utrustning och maskiner som används för arbetets utförande, till exempel för demontering och montering, reparation av plastdetaljer eller för lackering av lösa fordonsdelar.",
+"Arbetsmiljö samt lagar och bestämmelser som reglerar arbetsmiljön. Regler för härdplastarbeten och rutiner för övriga arbeten där personligt skydd krävs."]}

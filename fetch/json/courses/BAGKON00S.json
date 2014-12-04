@@ -4,4 +4,17 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"konditori 3",
 "instructiontext":"som bygger på kursen konditori 3. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"BAGKON00S"}
+"code":"BAGKON00S",
+"goaltext":"Kursen konditori &mdash; specialisering omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskper inom valt specialområde.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Yrkesmässig tillverkning av konditoriprodukter inom valt specialområde.",
+"Tillvekningens trender och utveckling inom valt specialområde.",
+"Utseende- och smaktrender inom valt specialområde.",
+"Utformning av recept och arbetsbeskrivningar inom valt specialområde.",
+"Ekonomiska konsekvenser vid val och inköp av råvaror samt tillverkning och förvaring.",
+"Paketering och märkning av konditoriprodukter.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet. ",
+"Arbetsmiljö och säkerhet.",
+"Förändringar av konditoriprodukter i allmänhet och inom valt specialområde genom historien och i olika kulturer."]}

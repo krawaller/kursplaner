@@ -6,4 +6,16 @@
 "skogsskötsel 1",
 "växtodling 1"]},
 "instructiontext":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
-"code":"ENEFÖR0"}
+"code":"ENEFÖR0",
+"goaltext":"Kursen förnybar energi omfattar punkterna 1&mdash;5 och 7&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Huvudkomponenter i olika alternativa energianläggningar och deras uppgift.",
+"Energiomvandling och energiproduktion vid drift av olika anläggningar.",
+"Förnybara energianläggningars bränsle och avfallshantering ur drift-, säkerhets- och miljösynpunkt.",
+"Bränslen och deras egenskaper samt förbränningsprocessen.",
+"Förnybara energikällor, till exempel bioenergi, solenergi, vindkraft och vågkraft. Naturliga värmekällor och värmepumpar. Förnybar energi för fordonsdrift.",
+"Drift- och underhållsrutiner för olika anläggningstyper.",
+"Säkerhetstänkande och yrkesetik.",
+"Användning och skötsel av utrustning och verktyg.",
+"Lagar och andra bestämmelser som gäller drift, miljö och säkerhet vid användning av förnybara energikällor och bränslen."]}

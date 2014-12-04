@@ -6,4 +6,15 @@
 "arr":["tränings- och tävlingslära 2",
 "träningslära 2"]}]},
 "instructiontext":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
-"code":"SPEIDS03"}
+"code":"SPEIDS03",
+"goaltext":"Kursen idrottsspecialisering 3 omfattar punkterna 1&mdash;2 och 4&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald idrott.",
+"goals":[1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Regler, taktik och teknik inom vald idrott.",
+"Val av träningsmetoder och sammansättning av individuellt anpassade träningsprogram.",
+"Planering, genomförande och utvärdering av individuellt anpassade tränings- och tävlingsprogram baserade på individuell utveckling.",
+"Planering, genomförande och utvärdering av tränings- och tävlingsprogram för andra utövare inom elitidrott.",
+"Skadeförebyggande träning.",
+"Idrottens tränings- och tävlingsverksamhet ur ett internationellt perspektiv.",
+"Livsstil och omgivande miljöers påverkan för att prestera inom tränings- och tävlingsverksamhet.",
+"Samhällsnyttan av tränings- och tävlingsaktiviteter samt elitidrott som förebild."]}

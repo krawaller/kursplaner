@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"svenskt teckenspråk 1",
 "instructiontext":"som bygger på kursen svenskt teckenspråk 1.",
-"code":"SVKSVK02"}
+"code":"SVKSVK02",
+"goaltext":"Kursen svenskt teckenspråk 2 omfattar punkterna 1&mdash;7 och 9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,0,1],
+"level":"high",
+"content":["Teckenspråkig framställning i och inför grupp med tillämpning av retorikens grunder. Strategier för att anpassa språk efter kommunikationssituation och mottagare.",
+"Diskussioner och debatter med fokus på samtalsregler och respekt för andras åsikter.",
+"Produktion, analys och bearbetning av olika genrer inom teckenspråk: avancerade berättande, poetiska, instruerande, argumenterande och informerande texter. Texters uppbyggnad, syfte och form.",
+"Teckenspråkets uttrycksformer inom poesi, scen- och bildkonst.",
+"Strategier för att samla och värdera information samt kritiskt granska olika typer av källor.",
+"Attityder till och värdering av olika former av språklig variation, till exempel varför människor tecknar olika. Geografiska faktorer, ålder, kön och social tillhörighet samt gruppspråk.",
+"Teckenspråkets ställning, dövas och hörselskadades livsvillkor, kultur och historia, i Sverige och världen.",
+"Fördjupning av svenska teckenspråkets form och struktur.",
+"Fördjupade jämförelser av texter på svenskt teckenspråk och svenska som belyser skillnader och likheter. Den egna två- eller flerspråkigheten."]}

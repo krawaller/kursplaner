@@ -3,4 +3,14 @@
 "points":200,
 "requirements":"vattenkraftstationer",
 "instructiontext":"som bygger på kursen vattenkraftstationer.",
-"code":"VAEKOR0"}
+"code":"VAEKOR0",
+"goaltext":"Kursen kontrollanläggningar omfattar punkterna 1&mdash;2 och 4&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,0,1,1,1,1,1],
+"level":"high",
+"content":["Kontrollanläggningsscheman med tillhörande tabeller.",
+"Mätning för kontroll och övervakning.",
+"Enklare störningsanalyser.",
+"Felsökning i kontrollanläggning.",
+"Start- och stoppautomatikens funktion.",
+"Reläskyddsfilosofi och dess praktiska tillämpning.",
+"Lokalkraft- och reservkraftssystem."]}

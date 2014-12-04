@@ -3,4 +3,17 @@
 "points":50,
 "req":"minst 800 poäng av yrkesprogrammets karaktärsämnen",
 "instructiontext":"som bygger på minst",
-"code":"PRFPRF01"}
+"code":"PRFPRF01",
+"goaltext":"Kursen industriteknisk fördjupning 1 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Planering, organisation och genomförande av en arbetsuppgift inom aktuellt teknikområde.",
+"Informationssökning via relevanta källor beträffande till exempel standarder, normer och kvalitetskrav inför sammanställning av tillverkningsunderlag.",
+"Informationssökning via relevanta källor beträffande hälso- och miljökrav för såväl arbete som produkt.",
+"Olika typer av kalkyler för ekonomi, tid, materialåtgång, verktygsslitage och andra aspekter som påverkar arbetsprocessen.",
+"Avancerad användning av bekant utrustning samt vid behov användning av kompletterande utrustning.",
+"Vanliga tekniker och metoder och vid behov även alternativa tekniker och metoder samt vid behov kompletterande tekniker och metoder.",
+"Underhåll av produktionsutrustning, kringutrustning och maskiner.",
+"Funktionskontroll, mätning, bedömning av mätfel och felsökning. ",
+"Effektivisering och optimering av inställningar på produktionsutrustning, kringutrustning och maskiner.",
+"Former för att presentera resultat och arbetsprocess med inriktning mot beställare, kund eller handledare."]}

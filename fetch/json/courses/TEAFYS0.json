@@ -1,4 +1,17 @@
 {"subject":"TEA",
 "name":"Fysisk teater",
 "points":100,
-"code":"TEAFYS0"}
+"code":"TEAFYS0",
+"goaltext":"Kursen fysisk teater omfattar punkterna 1 och 6&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+"goals":[2,0,0,0,0,1,1,1,1,1],
+"level":"normal",
+"content":["Rörelseorganens anatomi och fysiologi.",
+"Avspänningstekniker och fysisk träning för att utveckla ett naturligt användande av kroppen.",
+"Effekter på kropp och välbefinnande efter regelbunden fysisk träning.",
+"Gestaltning med fysiska tekniker, till exempel mim, pantomim och akrobatik.",
+"Kommunikation med publik genom fysisk gestaltning.",
+"Samarbete i träningsgrupper och gestaltningsgrupper.",
+"Reflektion över det egna skapandet och den egna fysiska träningen.",
+"Analys och tolkning av sceniska gestaltningar med fokus på fysiska uttryck.",
+"Begrepp för analys av fysisk teater, till exempel rörelse, kraft, rum och tid.",
+"Teaterformer från olika kulturer och tider där det fysiska uttrycket betonas."]}

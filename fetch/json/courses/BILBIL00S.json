@@ -6,4 +6,16 @@
 "arr":["bild",
 "form"]},
 "instructiontext":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"BILBIL00S"}
+"code":"BILBIL00S",
+"goaltext":"Kursen bild och form &mdash; specialisering omfattar punkterna 2&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3&mdash;5 och 6. I kursen behandlas fördjupade kunskaper i bild eller form.",
+"goals":[0,1,2,2,2,2,0],
+"level":"normal",
+"content":["Bilden och bildens element, hur de uttrycker stämningar, betydelser och berättelser i olika genrer, samt hur betraktaren tolkar bilden utifrån dess beståndsdelar.",
+"Bilders sätt att avspegla olika perspektiv, till exempel genus och klass, etnicitet och ålder hos konstnär och betraktare.",
+"Planering av bildprojekt och arbete i konstnärliga processer.",
+"Undersökande arbete, problemlösning i bild, problematisering i bild.",
+"Strömningar i samtidskonst och populärkultur som inspiration till konstnärligt arbete.",
+"Fördjupning av uttrycksförmåga och hantverksskicklighet i två- och tredimensionella bildtekniker, i traditionella material och metoder och i nya tekniker och medier, med syfte att utforma bildspråkliga budskap och konstnärliga gestaltningar.",
+"Utställning och presentation av färdiga arbeten. Marknadsföringsaspekter och grafisk formgivning.",
+"Kategorisering, analys, tolkning och värdering av egna, andra elevers och professionellas gestaltningsarbeten.",
+"Etiska frågeställningar och metoder för reflektion över arbetsprocessen, den egna arbetsinsatsen och resultatet."]}

@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"byggprocessens organisation och kursen planering före byggstart",
 "instructiontext":"som bygger på kursen byggprocessens organisation och kursen planering före byggstart.",
-"code":"BYLPRO0"}
+"code":"BYLPRO0",
+"goaltext":"Kursen produktionsstyrning i byggskedet omfattar punkterna 5 och 8&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,0,0,0,1,0,0,1,1,1],
+"level":"normal",
+"content":["Materialhantering på arbetsplatsen. Olika leveransvillkor. Interntransporter.",
+"Produktionsmetoder samt utrustning, verktyg, hjälpmaterial och hjälpmedel för att genomföra produktionsaktiviteter.",
+"Arbetsberedning för olika arbetsmoment. Gemensam planering för flera yrkeskategorier med hjälp av till exempel visuell planering och erfarenhetsdatabank eller arbetsinstruktioner. Genomförs inom olika delområden.",
+"Tekniska krav, arbetsmiljö- och miljökrav på arbetsberedning. Hantering av restprodukter. ",
+"Hjälpmedel och produktionsmetoder för arbetsmoment.",
+"Mötesteknik vid bland annat byggmöten och planeringsmöten.",
+"Uppföljning och avstämning av tid- och resursplan. Fakturering och avstämning.",
+"Kontrakthantering och entreprenadtvister. Hantering av ÄTA-arbeten (ändringsarbete, tilläggsarbete, avgående arbete).",
+"Lagar och regler för verksamheten på byggarbetsplatsen. Olika tillstånd och behörigheter som krävs under byggskedet."]}

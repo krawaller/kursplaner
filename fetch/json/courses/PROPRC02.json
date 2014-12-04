@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"processmätteknik 1",
 "instructiontext":"som bygger på kursen processmätteknik 1.",
-"code":"PROPRC02"}
+"code":"PROPRC02",
+"goaltext":"Kursen processmätteknik omfattar punkterna 1, 3&mdash;4 och 7&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,0,1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":["Persondatorer, plc eller liknande styrsystem som mätverktyg med omvandling av analoga signaler till digitala värden, upplösning och signalhantering.",
+"Metoder för mätning av viskositet, koncentration, pH, syre och konduktivitet.",
+"Metoder för gasanalys och mätning av partikelhalter.",
+"Metoder och utrustning för att testa och kalibrera mätningar av fysiska storheter och kemiska egenskaper.",
+"Planering och genomförande av underhållsarbete i en processanläggning.",
+"Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.",
+"Systematiserade dokumentationsmetoder.",
+"Standarder och föreskrifter inom området.",
+"Processäkerhet och funktionssäkerhet enligt SIL-standard IEC 61508.",
+"Mätosäkerhetens grunder med tillämpning och beräkning enligt ISO-GUM-standard (guide to the expression of uncertainty in measurement)."]}

@@ -1,4 +1,13 @@
 {"subject":"PEG",
 "name":"Dramapedagogik",
 "points":100,
-"code":"PEGDRA0"}
+"code":"PEGDRA0",
+"goaltext":"Kursen dramapedagogik omfattar punkterna 1&mdash;3 och 6&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,0,0,1,1,1],
+"level":"basic",
+"content":["Användning, organisation och uppföljning av dramapedagogiska övningar i pedagogiska sammanhang.",
+"Utveckling av fantasi och föreställningsförmåga genom dramapedagogiska övningar.",
+"Identiteter och roller i samspel.",
+"Olika former av rollspel.",
+"Människors samspel i grupp.",
+"Drama som konflikthanteringsmetod."]}

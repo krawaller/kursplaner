@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"latin – språk och kultur 1",
 "instructiontext":"som bygger på kursen latin – språk och kultur 1.",
-"code":"LATLAT02"}
+"code":"LATLAT02",
+"goaltext":"Kursen latin &mdash; språk och kultur 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Läsning och tolkning av enklare klassiska och efterklassiska latinska texter, till exempel legender, brev och tal.",
+"Latinets uttal under olika tider.",
+"Latinsk grammatik med utökad formlära och syntax. Relevanta begrepp som behövs för att beskriva och analysera språket.",
+"Centrala delar av det latinska ordförrådet med referenser till andra språk.",
+"Fördjupning i det latinska språkets historia med tonvikt på latinets roll i det internationella ordförrådet och den vetenskapliga terminologin.",
+"Fördjupning i det romerska rikets politiska historia, till exempel republikens upplösning och övergången till kejsardömet samt skillnaderna i styrelsesätt under dessa perioder.",
+"Fördjupning i romersk kultur och samhällsliv, till exempel religionens betydelse och romersk stadsplanering.",
+"De latinska texternas historiska och kulturella sammanhang och hur romersk historia, kultur och samhällsliv har påverkat senare tiders kulturer i Europa fram till vår egen tid."]}

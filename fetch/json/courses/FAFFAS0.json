@@ -1,4 +1,15 @@
 {"subject":"FAF",
 "name":"Fastighetsförvaltning",
 "points":100,
-"code":"FAFFAS0"}
+"code":"FAFFAS0",
+"goaltext":"Kursen fastighetsförvaltning omfattar punkterna 1&mdash;6 och 9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,0,1],
+"level":"normal",
+"content":["Fastighetsjuridik avseende avtalsrätt, till exempel hyresrätt, besittningsrätt och hyreslagstiftning samt besiktningar och besiktningsåtgärder.",
+"Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd, inbrottsskydd, övervakning, skyddsrum och utrymningsvägar.",
+"Ekonomiska frågor, till exempel hyresbevakning, inkasso och avskrivningar. Tekniska frågor, till exempel planerat underhåll och renoveringsarbete. Generella energibesparingsåtgärder.",
+"Avfallshantering, hälsofrågor och regler i samband med sophantering, källsortering och kompostering av sopor samt kommunala renhållningsregler.",
+"Modern digital utrustning för att övervaka fastighetsdrift, gemensamma utrymmen och ytor samt för att kommunicera och ta emot, hämta och söka information.",
+"Programvara för vanligt förekommande arbetsuppgifter inom fastighetsförvaltning.",
+"Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet, personuppgiftslagen och människors rätt till integritetsskydd.",
+"Olika informationstekniker beroende på målgrupp och kommunikationsmedel. Olika samverkansformer beroende på individ och grupp."]}

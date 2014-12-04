@@ -1,4 +1,17 @@
 {"subject":"DRY",
 "name":"Drycker och ansvarsfull alkoholservering",
 "points":100,
-"code":"DRYDRC0"}
+"code":"DRYDRC0",
+"goaltext":"Kursen drycker och ansvarsfull alkoholservering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3.",
+"goals":[2,2,2,1,1,1,1,1],
+"level":"normal",
+"content":["Svensk alkohollagstiftning.",
+"Fysiska, psykiska och sociala skadeverkningar av alkohol samt risker kopplade till alkoholkonsumtion.",
+"Etiska frågeställningar med anknytning till alkoholservering.",
+"Kalla och varma drycker: deras råvaror, ursprung, karaktär och användningsområde.",
+"Tillverkning av vin, öl och spritdrycker.",
+"Svenska och internationella dryckestraditioner samt hur olika drycker har utvecklats över tid.",
+"Serveringsmetoder för vin, öl och måltidsdrycker.",
+"Användning av redskap och utrustning vid hantering och servering av drycker.",
+"Hygieniskt, ergonomiskt och säkert arbetssätt.",
+"Kundbemötande och fackspråk."]}

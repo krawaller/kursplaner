@@ -1,4 +1,17 @@
 {"subject":"SPE",
 "name":"Idrottsspecialisering 1",
 "points":100,
-"code":"SPEIDS01"}
+"code":"SPEIDS01",
+"goaltext":"Kursen idrottsspecialisering 1 omfattar punkterna 1&mdash;2 och 4&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Regler, taktik och teknik inom vald idrott.",
+"Den valda idrottens utveckling nationellt och internationellt.",
+"Faktorer i tränings- och tävlingssammanhang som påverkar såväl fysisk som psykisk prestationsförmåga.",
+"Träningsmetoders betydelse för individuell utveckling.",
+"Olika träningsmetoders kvaliteter i vald idrott, till exempel teknik- och konditionsträning samt mental träning.",
+"Planering av träning baserad på individuell utveckling.",
+"Genomförande av träning baserad på individuell utveckling.",
+"Värdering av träning baserad på individuell utveckling.",
+"Skadeförebyggande aktiviteter och grundläggande behandling av skador samt agerande vid akut omhändertagande.",
+"Olika syn på träning och tävlande, till exempel tränarens och utövarens förväntningar och mål."]}

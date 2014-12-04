@@ -1,4 +1,17 @@
 {"subject":"SYS",
 "name":"Injusteringsteknik",
 "points":100,
-"code":"SYSINJ0"}
+"code":"SYSINJ0",
+"goaltext":"Kursen injusteringsteknik omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Grundprinciper för pumpteknik, pumpdata och driftsätt för cirkulationspumpar, fläktar och ventiler.",
+"Terminologi och begrepp samt funktioner hos komponenter inom reglerteknik. ",
+"Enheter och storheter som förekommer inom installations- och fastighetsbranscherna. ",
+"Metoder för att mäta tryck, temperatur, flöde och strömningshastighet i vatten och luft.",
+"Mätinstrument för ändamålet.",
+"Funktionstestning för att bedöma riktigheten i system i syfte att säkerställa funktionskrav.",
+"Utrustning för att reglera temperaturer och flöden.",
+"Inställning och idrifttagning av reglerkretsar.",
+"Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.",
+"Metoder för förbränningsanlys i värmepannor."]}

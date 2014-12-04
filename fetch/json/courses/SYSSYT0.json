@@ -1,4 +1,14 @@
 {"subject":"SYS",
 "name":"Systemuppbyggnad",
 "points":100,
-"code":"SYSSYT0"}
+"code":"SYSSYT0",
+"goaltext":"Kursen systemuppbyggnad omfattar punkterna 1 och 3&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkt 1 och 4.",
+"goals":[2,0,1,2,1,1,1],
+"level":"normal",
+"content":["Helhetssyn på värme-, sanitets-, ventilations-, kyl- och värmepumpssystems funktioner och samverkan i fastigheter, byggnadsverk och anläggningar.",
+"Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts.",
+"Flödesriktningar, tryck och temperaturer i olika system.",
+"Hur apparater och komponenter i system fungerar var för sig och i samverkan.",
+"Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
+"Flödesscheman, driftkort och användarmanualer för att utföra driftkontroll på verkliga eller fiktiva system.",
+"Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet."]}

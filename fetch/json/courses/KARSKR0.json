@@ -3,4 +3,16 @@
 "points":300,
 "requirements":"riktningsteknik – introduktion",
 "instructiontext":"som bygger på kursen riktningsteknik – introduktion. ",
-"code":"KARSKR0"}
+"code":"KARSKR0",
+"goaltext":"Kursen skarvnings- och sammanfogningsteknik omfattar punkterna 2 och 6&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,1,0,0,0,1,1,1,1,1],
+"level":"normal",
+"content":["Chassi- och karosserikonstruktioner samt deras uppbyggnad och funktion. Olika plastmaterial, aluminium- och stålkvaliteter samt deras sammanfogningstekniker.",
+"MIG/MAG-svetsning, MIG-lödning och motståndssvetsning.",
+"Svetsutrustningarnas funktion och inställning.",
+"Svetsnings- och skarvningsövningar med olika metoder och utrustning.",
+"Byte och skarvning av olika chassi- och karosserikomponenter på mindre skador.",
+"Mätningsteknik för inpassning av komponenter vid byte och skarvning.",
+"Limning av olika karosserikomponenter tillsammans med nitning och motståndssvetsning av till exempel tak och skärmar.",
+"Bearbetning och tätning av fogar samt olika rostskyddande åtgärder i samband med reparation och skarvning.",
+"Lagar och andra bestämmelser som reglerar arbetet vid olika sammanfogningsmetoder."]}

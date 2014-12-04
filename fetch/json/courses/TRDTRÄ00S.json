@@ -4,4 +4,12 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"trädgårdsanläggning 2",
 "instructiontext":"som bygger på kursen trädgårdsanläggning 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"TRDTRÄ00S"}
+"code":"TRDTRÄ00S",
+"goaltext":" Kursen trädgårdsanläggning &mdash; specialisering omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialområde. ",
+"goals":[1,1,1,1,1,1,0,1],
+"level":"normal",
+"content":["Arbetsuppgifter inom ett specialområde inom trädgårdsanläggning, till exempel stenarbeten, växtval, vattenanläggningar och gröna inomhusmiljöer.",
+"Säkerhet, arbetsteknik och ergonomi.",
+"Lagar och andra bestämmelser inom området.",
+"Kvalitetsfrågor och ekonomi.",
+"Anläggningsteknik, materialanvändning, växtval och estetik."]}

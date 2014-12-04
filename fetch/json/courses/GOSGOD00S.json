@@ -4,4 +4,11 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"godstrafik",
 "instructiontext":"som bygger på kursen godstrafik. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"GOSGOD00S"}
+"code":"GOSGOD00S",
+"goaltext":"Kursen godstransporter &mdash; specialisering omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.",
+"goals":[1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Transportledning och rutiner för administration och fakturering av transportverksamhet.",
+"Körning och manövrering av vald lastbil inom specialiseringen i skiftande trafikmiljöer med ett avancerat, rationellt och trafiksäkert körsätt. Funktionstillsyn och säkerhetskontroll av fordon och utrustning.",
+"Planering och genomförande av transportuppdrag med hänsyn till mängden gods som ska transporteras samt till vikt, volym och fördelningen på fordonets axlar.",
+"Rutiner vid lastning och leveranser av gods, med system och metoder för vägning och mätning för att beräkna godsvolym och vikt."]}

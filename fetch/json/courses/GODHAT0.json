@@ -1,4 +1,17 @@
 {"subject":"GOD",
 "name":"Hantering av varor och gods",
 "points":200,
-"code":"GODHAT0"}
+"code":"GODHAT0",
+"goaltext":"Kursen hantering av varor och gods omfattar punkterna 1&mdash;5 och 7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,0,1],
+"level":"normal",
+"content":["Begrepp och terminologi i fråga om transporthandlingar.",
+"Klassning och identifiering av gods.",
+"Lastning, lossning och hantering av olika varor och gods med hjälp av de maskiner och den utrustning som krävs.",
+"Risker med olika ämnen vid hantering av gods.",
+"Märkning och etikettering på emballage och förpackningar förknippade med hantering av gods.",
+"Arbetsmetoder och principer för lastning och lossning av gods efter genomförd riskbedömning.",
+"Särskilda krav på förpackningar och emballage.",
+"Godsskyddande åtgärder i samband med transport. Separationskrav och särskild hanteringsutrustning.",
+"Säkerhetsåtgärder och användning av föreskriven skyddsutrustning enligt transportkort och resultat av riskbedömningar.",
+"Brandskydd, första hjälpen och åtgärder vid olycka."]}

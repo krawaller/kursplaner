@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"medieproduktion 1",
 "instructiontext":"som bygger på kursen medieproduktion 1.",
-"code":"MEPMEI02"}
+"code":"MEPMEI02",
+"goaltext":"Kursen medieproduktion 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,1,1,1,1,2],
+"level":"high",
+"content":["Förarbete inför och planering av medieproduktioner utifrån givna sammanhang.",
+"Framställning av förlagor i form av utvecklade synopsis, skisser eller manus.",
+"Textskrivning, fotografering, filmning, ljudupptagning och redigering.",
+"Olika redovisningsformer av produkter, till exempel tidningar, filmer och utställningar, i analog eller digital form.",
+"Olika roller vid medieproduktioner, till exempel skribent, fotograf, ljudtekniker och redigerare, samt hur dessa samarbetar.",
+"Tidsramar och deras betydelse vid medieproduktioner. ",
+"Teorier, begrepp och modeller som behandlar produktionsprocessen. ",
+"Retoriska berättargrepp och strategier vid olika medieproduktioner.",
+"Modeller för fördjupad analys av olika målgrupper med fokus på beteenden och förväntningar samt hur produkter utformas för att möta olika målgrupper.",
+"Kommunikationsvetenskapliga modeller och teorier för analys av medieproduktioners innehåll, form och funktion."]}

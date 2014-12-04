@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"styckning 2",
 "instructiontext":"som bygger på kursen styckning 2.",
-"code":"STCSTY03"}
+"code":"STCSTY03",
+"goaltext":"Kursen styckning 3 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Djurens anatomi med betoning på nöt och kalv.",
+"Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.",
+"Styckningskvalitet och normer.",
+"Styckning, nedskärning och sortering av nöt och kalv.",
+"Styckningskalkyler och ekonomiska kalkyler.",
+"Metoder och tekniker vid industriell styckning.",
+"Användning och vård av utrustning vid industriell styckning.",
+"Ergonomi och riskfaktorer i arbetet.",
+"Hygien och egenkontroll."]}

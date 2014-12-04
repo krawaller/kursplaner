@@ -5,4 +5,17 @@
 "arr":["formgivning 1",
 "hantverk – introduktion"]},
 "instructiontext":"som bygger på kursen formgivning 1 eller kursen hantverk – introduktion.",
-"code":"FOMFAC0"}
+"code":"FOMFAC0",
+"goaltext":"Kursen fackteckning och design omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Figur- och modeteckning.",
+"Skissarbete, arbetsritning och produktionsteckning.",
+"Tekniska detaljer och materialegenskaper.",
+"Färg- och formlära. ",
+"Produkt- och stoffteckning i olika material och tekniker.",
+"Funktion och kvalitet.",
+"Relevanta begrepp inom designområdet.",
+"Inspirationskällor inom design och formgivning i olika tider och kulturer.",
+"Lagar och andra bestämmelser som gäller för formgivningsområdet.",
+"Miljö- och resursmässiga aspekter på design och materialval."]}

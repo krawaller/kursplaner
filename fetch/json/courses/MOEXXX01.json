@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"grundskolans kunskaper eller motsvarande",
 "instructiontext":"som bygger på grundskolans kunskaper eller motsvarande.",
-"code":"MOEXXX01"}
+"code":"MOEXXX01",
+"goaltext":" Kursen modersmål 1 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3. ",
+"goals":[2,2,2,1,1,1,0],
+"level":"normal",
+"content":["Egen språkproduktion i tal med anpassning till innehåll och mottagare samt utveckling av strategier för att göra sig förstådd och få fram sitt budskap. ",
+"Egen språkproduktion i skrift med anpassning till innehåll och mottagare samt utveckling av strategier för att göra sig förstådd och få fram sitt budskap. ",
+"Ord- och begreppsförråd.",
+"Språkriktighet, stil och struktur i samband med talade och skrivna texter.",
+"Texter på modersmålet valda med hänsyn till elevernas intressen och studieväg.",
+"Modern litteratur, bilder, konst och musik som tar upp vardagsliv, relationer och livsfrågor.",
+"Språkets spridning och förekomst samt hur språket används.",
+"Kultur, natur och geografiska förhållanden i språkområdet. "]}

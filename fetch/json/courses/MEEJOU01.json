@@ -1,4 +1,12 @@
 {"subject":"MEE",
 "name":"Journalistik, reklam och information 1",
 "points":100,
-"code":"MEEJOU01"}
+"code":"MEEJOU01",
+"goaltext":" Kursen journalistik, reklam och information 1 omfattar punkterna 1&mdash;3 och 7&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,1,1,0,0,0,1,1],
+"level":"basic",
+"content":["Grundläggande kommunikationsvetenskapliga metoder och teorier, till exempel envägskommunikation, tvåvägskommunikation eller intermedialitet, med fokus på kommunikationsprocessens olika steg.",
+"Analys av olika budskapsinnehåll, avseende språk och gestaltning, som är riktade mot en tänkt målgrupp.",
+"Kommunikation inom journalistik, information och reklam via olika medier i nationellt och internationellt perspektiv.",
+"Informationssökning via olika kanaler, källor och digitala medietillämpningar samt grundläggande metoder för kritisk granskning av deras relevans och trovärdighet.",
+"Lagstiftning, etiska regler och internationella överenskommelser som berör kommunikationsområdet, till exempel marknadsföringslagen, pressetiska regler och erkända internationella regler för reklam. "]}

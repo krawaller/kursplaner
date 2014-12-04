@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"inköp 1",
 "instructiontext":"som bygger på kursen inköp 1.",
-"code":"INKINK02"}
+"code":"INKINK02",
+"goaltext":" Kursen inköp 2 omfattar punkterna 1, 4&mdash;6 och 9&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,0,0,1,1,1,0,0,1,1],
+"level":"high",
+"content":["Inköpsarbete internationellt, att finna och bedöma leverantörer i olika länder, handelshinder.",
+"Inköpsstrategier och sortimentsfrågor.",
+"Förhandlingar och förhandlingsprocesser.",
+"Handelsregler inom EU och andra frihandelsområden.",
+"Lagar och andra bestämmelser inom inköpsområdet, till exempel avtalslagen, köplagen, internationella köplagen och räntelagen.",
+"Arbetsmiljöfrågor och socialt ansvarstagande, till exempel hur företag och organisationer tar ansvar i samhället och verkar för en långsiktig hållbar utveckling.",
+"Värderingar och etik i inköpsarbete."]}

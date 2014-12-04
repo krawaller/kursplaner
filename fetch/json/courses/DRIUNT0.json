@@ -1,4 +1,14 @@
 {"subject":"DRI",
 "name":"Underhåll &mdash; transmissioner och uppriktning",
 "points":100,
-"code":"DRIUNT0"}
+"code":"DRIUNT0",
+"goaltext":"Kursen underhåll &mdash; transmissioner och uppriktning omfattar punkterna 1&mdash;2 och 4&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,0,2,1,1,0,0],
+"level":"basic",
+"content":["Planering, utförande och dokumentation av förebyggande och avhjälpande underhåll av industriella drivsystem, till exempel transmissioner, växlar, variatorer samt kardan-, rem- och kedjedrifter.",
+"Driv- och servokomponenter.",
+"Grundläggande uppriktningsteknik.",
+"Orsaker till och verkan av uppriktningsfel.",
+"Montering och demontering av vanligt förekommande transmissionselement.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Underhållstekniska begrepp och parametrar."]}

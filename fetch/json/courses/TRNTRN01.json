@@ -1,4 +1,16 @@
 {"subject":"TRN",
 "name":"Träningslära 1",
 "points":100,
-"code":"TRNTRN01"}
+"code":"TRNTRN01",
+"goaltext":"Kursen träningslära 1 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"basic",
+"content":["Anatomi och fysiologi med fokus på kroppens rörelseapparat, skelett, leder och muskler.",
+"Närings- och kostkunskap för prestation och hälsa.",
+"Betydelsen av återhämtning och vila för prestation, välbefinnande och hälsa.",
+"Människors olika förutsättningar för fysisk aktivitet i olika situationer.",
+"Motionsmiljöers betydelse för träning, motivation och prestation.",
+"Träningsmetoder för till exempel uthållighet, styrka, rörlighet, koordination och koncentration.",
+"Planering, genomförande, utvärdering och dokumentation av anpassade träningsprogram för såväl individer som grupper.",
+"Metoder för att arbeta skadeförebyggande samt akut omhändertagande och grundläggande behandling av skada i samband med fysisk aktivitet.",
+"Etiska normer och regler för träningsverksamhet."]}

@@ -1,4 +1,16 @@
 {"subject":"DRI",
 "name":"Underhåll &mdash; driftsäkerhet",
 "points":100,
-"code":"DRIUND0"}
+"code":"DRIUND0",
+"goaltext":"Kursen underhåll &mdash; driftsäkerhet omfattar punkterna 1&mdash;2, 4 och 6&mdash;7. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,0,1,0,1,1,0],
+"level":"basic",
+"content":["Underhållsadministrativa system.",
+"Användning av ritningar, scheman och manualer samt redovisning av utförda åtgärder.",
+"Tekniker och utrustningar för inspektion, förebyggande underhåll och tillståndskontroll.",
+"Subjektiva och objektiva inspektionsmetoder samt oförstörande provning.",
+"Grundläggande symboler på ritningar och scheman inom till exempel elinstallation, ventilation, vatten, avlopp, värme och gas.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Grundläggande underhållstekniska begrepp samt parametrar, nyckeltal och internationell terminologi.",
+"Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.",
+"Grundläggande definitioner inom tillståndsbaserat underhåll samt beredning, planering av tillståndskontroll och förebyggande underhåll."]}

@@ -4,4 +4,15 @@
 "repeat":"Kursen kan läsas flera gånger med olika svetsmetoder.",
 "requirements":"svets grund",
 "instructiontext":"som bygger på kursen svets grund. Kursen kan läsas flera gånger med olika svetsmetoder.",
-"code":"SAAKÄL01S"}
+"code":"SAAKÄL01S",
+"goaltext":"Kursen kälsvets 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper inom vald svetsmetod.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Svetsning med vald svetsmetod av kälfogar i olika relevanta svetslägen till gängse acceptanskrav.",
+"Tillverkningsunderlag, till exempel svetsdatablad och ritningar.",
+"Funktion hos utrustning och kringutrustning för vald svetsmetod.",
+"Enklare underhåll och service på utrustningen.",
+"Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet. ",
+"Metoder för reparation av enklare fel som uppstår under svetsningen samt för att lösa enklare produktionstekniska problem.",
+"Standarder för kvalitetsbedömning av sammanfogningar.",
+"Termer och begrepp inom teknikområdet."]}

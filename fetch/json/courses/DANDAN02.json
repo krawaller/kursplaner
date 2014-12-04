@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"dansgestaltning 1",
 "instructiontext":"som bygger på kursen dansgestaltning 1.",
-"code":"DANDAN02"}
+"code":"DANDAN02",
+"goaltext":" Kursen dansgestaltning 2 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;5. ",
+"goals":[2,2,2,2,2,1,1,0,0],
+"level":"normal",
+"content":["Tolkning av koreografiskt material, tolknings- och gestaltningsarbete med betoning på resultat och framförande.",
+"Improvisation som rörelseteknik och metod för skapande.",
+"Undersökande av rörelser och skapande i nuet.",
+"Samarbete och interaktion med andra, ansvarstagande för både eget och gemensamt arbete.",
+"Skapande i olika konstellationer, med olika kompositionsmetoder och med olika koreografiska arbetssätt.",
+"Deltagande i och reflektion över konstnärliga processer, både individuella och kollektiva, samt lyhördhet i konstnärligt arbete.",
+"Praktisk sceniskt arbete och sceniska framföranden.",
+"Begrepp, till exempel uttryck och närvaro, och metoder för att analysera, diskutera och reflektera över arbetsprocessen, den egna arbetsinsatsen och resultatet."]}

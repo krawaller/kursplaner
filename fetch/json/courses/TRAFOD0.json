@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"persontransporter – specialisering",
 "instructiontext":"som bygger på kursen persontransporter – specialisering. ",
-"code":"TRAFOD0"}
+"code":"TRAFOD0",
+"goaltext":"Kursen fordonskombinationer &mdash; persontransporter omfattar punkterna 1&mdash;3 och 5&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,0],
+"level":"normal",
+"content":["Dragfordons och släpfordons olika kopplingsutrustningar.",
+"Gränsöverskridande trafik, mått och viktbestämmelser.",
+"Manövrering av fordonskombinationer för persontransporter.",
+"Körning med fordonskombinationer för persontransporter i olika och varierande trafikmiljöer på ett trafiksäkert och miljövänligt sätt.",
+"Sammankoppling och frånkoppling av släp samt åtgärder vid parkering.",
+"Släpfordonens bromssystem samt bromssystemens uppbyggnad och funktion.",
+"Säkerhetskontroll samt tillsyn och underhåll av fordonskombinationer.",
+"Lastviktsberäkningar på olika typer av fordonskombinationer."]}

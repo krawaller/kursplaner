@@ -4,4 +4,15 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"jakt och viltvård 2",
 "instructiontext":"som bygger på kursen jakt och viltvård 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"SKOJAK00S"}
+"code":"SKOJAK00S",
+"goaltext":"Kursen jakt och viltvård &mdash; specialisering omfattar punkterna 2&mdash;3, 5 och 8&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialområde.",
+"goals":[0,1,1,0,1,0,0,1,1],
+"level":"normal",
+"content":{"Biologisk grund":["Biologiska samband inom valt specialområde, till exempel djurskötsel, mikrobiologi och livsmedelshygien."],
+"Arbetsuppgifter":["Arbetsuppgifter inom valt specialområde inom jakt och viltvård, till exempel viltuppfödning och tillvaratagande och förädling av vilt.",
+"Ekonomiska kalkyler för valt specialområde.",
+"Användning av teknisk utrustning och hjälpmedel inom valt specialområde. ",
+"Utvecklingsmöjligheter inom valt specialområde, till exempel nya metoder, ny teknik och nya produkter."],
+"Arbetsmiljö, säkerhetsfrågor och bestämmelser":["Arbetsmiljö, ergonomi och säkerhet i samband med jakt och viltvård.",
+"Etiska ställningstaganden inom valt specialområde.",
+"Lagar och andra bestämmelser inom valt specialområde, till exempel djurskyddslagstiftning och livsmedelslagstiftning."]}}

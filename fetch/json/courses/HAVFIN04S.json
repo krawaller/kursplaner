@@ -4,4 +4,15 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll från vald inriktning.",
 "requirements":"finsnickeri 3",
 "instructiontext":"som bygger på kursen finsnickeri 3. Kursen kan läsas flera gånger med olika innehåll från vald inriktning.",
-"code":"HAVFIN04S"}
+"code":"HAVFIN04S",
+"goaltext":"Kursen finsnickeri 4 &mdash; specialisering omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper om tekniker och metoder inom valt specialiseringsområde närliggande inriktningen, eller mindre vanligt förekommande tekniker och metoder inom inriktningen.",
+"goals":[2,1,1,1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Material, verktyg, maskiner, tekniker och metoder för att genomföra arbeten inom valt specialiseringsområde, till exempel inredningssnickeri eller byggnadssnickeri. I samband med det behandlas arbetsplanering, till exempel materialberäkning och planering av tidsåtgång.",
+"Produkt- och materialkunskap. Hur man väljer lämpliga material och produkter för arbetsuppgiften. I samband med det behandlas miljöaspekter.",
+"Fackspråk, skissteknik och ritteknik för arbetsbeskrivning och utveckling av idéer.",
+"Analys av färgers, formers och proportioners betydelse för resultatet.",
+"Utvärdering och analys av arbetsprocess och resultat.",
+"Systematiskt arbetsmiljöarbete vid arbetsplatsen enligt säkerhetsföreskrifter samt hur man använder skyddsutrustning.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och användande av skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering."]}

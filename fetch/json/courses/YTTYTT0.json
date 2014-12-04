@@ -1,4 +1,13 @@
 {"subject":"YTT",
 "name":"Yttre miljö &mdash; anläggningar",
 "points":100,
-"code":"YTTYTT0"}
+"code":"YTTYTT0",
+"goaltext":"Kursen yttre miljö &mdash; anläggningar omfattar punkterna 1&mdash;6 och 8&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,1,1],
+"level":"normal",
+"content":["Olika typer av anläggningar inom fastighetsområden, till exempel gång- och cykelvägar, lek- och uteplatser och parkeringsytor.",
+"Hållbar utveckling samt utomhusmiljöns betydelse för människors hälsa och livskvalitet. Utformning av utomhusmiljöer för olika brukare.",
+"Planering och dimensionering av gröna miljöer och andra anläggningar inom fastighetsområden utifrån krav på estetik och funktion.",
+"Ritnings- och anläggningshandlingar, till exempel för vatten, avlopp och el i mark.",
+"Arbetstekniker vid arbeten med anläggning av gröna ytor, till exempel parkområden och träd- och buskplanteringar.",
+"Lagar, andra bestämmelser och säkerhetsföreskrifter inom området. Olycksförebyggande arbete avseende arbets- och anläggningsområden, lekplatser, vägar och gångvägar."]}

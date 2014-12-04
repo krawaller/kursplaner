@@ -1,4 +1,15 @@
 {"subject":"MEP",
 "name":"Medieproduktion 1",
 "points":100,
-"code":"MEPMEI01"}
+"code":"MEPMEI01",
+"goaltext":"Kursen medieproduktion 1 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3&mdash;4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,2,2,1,1],
+"level":"basic",
+"content":["Förarbete inför medieproduktioner och framställning av enkla förlagor i form av synopsis, skisser eller manus.",
+"Textskrivning, fotografering, filmning, ljudupptagning och redigering.",
+"Olika redovisningsformer av produkter, till exempel tidningar, filmer och utställningar, i analog eller digital form.",
+"Olika roller vid medieproduktioner, till exempel skribent, fotograf, ljudtekniker och redigerare. Betydelsen av samarbete.",
+"Tidsramar och deras betydelse vid medieproduktioner.",
+"Grundläggande berättargrepp och modeller som behandlar produktionsprocessen.",
+"Modeller för analys av olika målgrupper.",
+"Modeller för grundläggande analys av egna och andras medieproduktioner utifrån innehåll, form och funktion."]}

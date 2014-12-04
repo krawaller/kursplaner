@@ -1,4 +1,17 @@
 {"subject":"FOD",
 "name":"Fordonsteknik &mdash; introduktion",
 "points":200,
-"code":"FODFOO0"}
+"code":"FODFOO0",
+"goaltext":"Kursen fordonsteknik &mdash; introduktion omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Fordons huvudkomponenter, till exempel motor, drivlina, chassikomponenter och bromsar.",
+"Materiallära och olika sammanfogningstekniker som används i fordon.",
+"Enklare intervallservice enligt fordonstillverkarens anvisningar.",
+"Enklare demonterings- och monteringsmoment av olika delar i fordons huvudkomponenter.",
+"Informationssystem och manualer för arbetet.",
+"Hantering av de verktyg och maskiner som används i arbetet.",
+"Underhåll av verktyg, utrustning och verkstadsmiljöer.",
+"Lyft och uppallning av motorfordon.",
+"Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.",
+"Tekniska termer och begrepp. "]}

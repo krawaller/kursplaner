@@ -1,4 +1,15 @@
 {"subject":"PRU",
 "name":"Produktionsutrustning 1",
 "points":100,
-"code":"PRUPRD01S"}
+"code":"PRUPRD01S",
+"goaltext":"Kursen produktionsutrustning 1 omfattar punkterna 1&mdash;3, 5&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i vald produktionsutrustning.",
+"goals":[1,1,1,0,1,1,0,1],
+"level":"normal",
+"content":["Enklare hantering och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.",
+"Funktion och konstruktion hos enklare produktionsutrustning och kringutrustning.",
+"Grundläggande produktionsrelaterade arbetsmoment, till exempel bänkarbeten, enkla arbeten inom skärande bearbetning, sammanfogning av enkel plåtprodukt, användning av mätdon samt läsning och tydning av enkla ritningar. Heta arbeten.",
+"Dagligt underhåll av produktions- och kringutrustning.",
+"Relevanta mätningar, till exempel dimensioneringar, koncentrationer och toleranser, i samband med användande av utrustning. ",
+"Vanligt förekommande användningsområden, metoder och tekniker för relevant produktionsutrustning och kringutrustning.",
+"Vanligt förekommande begrepp, för relevant industriteknisk produktionsutrustning och kringutrustning.",
+"Grundläggande symboler, beteckningar och märkningar."]}

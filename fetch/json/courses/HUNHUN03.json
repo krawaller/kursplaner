@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"hundkunskap 2",
 "instructiontext":"som bygger på kursen hundkunskap 2.",
-"code":"HUNHUN03"}
+"code":"HUNHUN03",
+"goaltext":"Kursen hundkunskap 3 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Utrustning för olika verksamheter, produktkännedom och produkthantering.",
+"Olika hundorganisationer och deras verksamheter samt bestämmelser som reglerar verksamheterna.",
+"Arbetsuppgifter inom ett specialområde, till exempel hunddagis, uppfödning och avel, i butik med försäljning av hundartiklar samt i verksamheter som erbjuder olika hundtjänster.",
+"Skötsel av hundar och anläggningar inom olika verksamheter.",
+"Kundbemötande.",
+"Ergonomi samt arbetsmiljö- och säkerhetsfrågor.",
+"Lagar och andra bestämmelser inom området.",
+"Kvalitetsfrågor och ekonomi.",
+"Journalföring."]}

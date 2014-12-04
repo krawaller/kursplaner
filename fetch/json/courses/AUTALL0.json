@@ -1,4 +1,16 @@
 {"subject":"AUT",
 "name":"Allmän automationsteknik",
 "points":100,
-"code":"AUTALL0"}
+"code":"AUTALL0",
+"goaltext":"Kursen allmän automationsteknik omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Uppbyggnad av, funktion och principer för olika typer av automatiska system.",
+"Olika typer av risker i automatiska system inom valt område.",
+"Standarder och koncept som används vid arbete med automatiska system inom valt område.",
+"Planering och genomförande av arbete i automatiska system.",
+"Arbetsmiljö och säkerhet vid arbete med automatiska system.",
+"Olika typer av scheman, ritningar och annan dokumentation över automatiska system inom valt område. Tolkning av och metoder för framställning av dessa.",
+"Metoder för installation, programmering och driftsättning av automatiska system inom valt område.",
+"Informationsteknik som arbetsmetod vid byggnation, drift och underhåll av automatiska system inom valt område.",
+"Förebyggande och avhjälpande underhåll i automatiska system inom valt område."]}

@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"skärgårdsnavigation",
 "instructiontext":"som bygger på kursen skärgårdsnavigation.",
-"code":"BATKUS0"}
+"code":"BATKUS0",
+"goaltext":"Kursen kustnavigation och säkerhet omfattar punkterna 2&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5.",
+"goals":[0,1,2,1,2,1],
+"level":"normal",
+"content":["Hantering och framförande av båtar och skepp i kustnära vatten.",
+"Olika metoder för hantering och framförande beroende på maskinstyrka och manöversystem.",
+"Val av naturhamn och ankrings- och förtöjningsmetod.",
+"Kursrättning med hänsyn till deviation, missvisning, vind eller strömmar.",
+"Positions- och lägesbestämningar i kustnära vatten.",
+"Olika tillvägagångssätt vid bogsering av olika typer av flytetyg.",
+"Handhavande av livräddningsfarkoster.",
+"Brandrisker och brandbekämpning ombord.",
+"Åtgärder vid brandskada, olycksfall eller akut sjukdom ombord.",
+"Personlig skyddsutrustning."]}

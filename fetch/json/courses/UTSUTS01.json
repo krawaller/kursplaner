@@ -1,4 +1,15 @@
 {"subject":"UTS",
 "name":"Utställningsdesign 1",
 "points":100,
-"code":"UTSUTS01"}
+"code":"UTSUTS01",
+"goaltext":" Kursen utställningsdesign 1 omfattar punkterna 1&mdash;5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 5. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[2,1,2,1,2,0,1],
+"level":"basic",
+"content":["Arbete med butiks- och fönsterexponeringar, utställningar, mässor och event.",
+"Lagar och andra bestämmelser inom området.",
+"Metoder för analys av olika budskap och för att föra ut dem till olika målgrupper.",
+"Framställning av idéer med hjälp av skissmetoder och två- och tredimensionella modeller.",
+"Två- och tredimensionellt skapande.",
+"Matchning och koordinering.",
+"Färglära och olika textframställningar.",
+"Digital teknik och teknisk utrustning."]}

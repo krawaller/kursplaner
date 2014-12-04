@@ -1,4 +1,15 @@
 {"subject":"VET",
 "name":"Ventilationsteknik &mdash; injustering",
 "points":100,
-"code":"VETVEL0"}
+"code":"VETVEL0",
+"goaltext":"Kursen ventilationsteknik &mdash; injustering omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkt 2.",
+"goals":[1,2,1,1,1,1,1],
+"level":"normal",
+"content":["Grundläggande injustering av luftbehandlingssystem.",
+"Grundläggande temperatur- och luftflödesmätningar.",
+"Kanalsystem, kanaler och kanaldetaljer.",
+"Fläktar på en grundläggande nivå.",
+"Tryckfall och strömningsförluster.",
+"Ritningsläsning och arbetsbeskrivningar.",
+"Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning.",
+"Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv."]}

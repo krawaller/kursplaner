@@ -1,4 +1,16 @@
 {"subject":"DAT",
 "name":"Dansträning",
 "points":100,
-"code":"DATDAR0"}
+"code":"DATDAR0",
+"goaltext":"Kursen dansträning omfattar punkterna 2 och 6&mdash;9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[0,1,0,0,0,1,1,1,1],
+"level":"basic",
+"content":["Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Hur man kan följa sin egen kunskapsutveckling i dansteknik.",
+"Grundläggande anatomi.",
+"Skadeförebyggande träning. Dansteknikövningar med betoning på att arbeta anatomiskt och fysiskt rätt.",
+"Övningar för uppvärmning, nedvarvning, stretch och vila samt hur dessa moment kan sättas samman för att förstärka danstekniska övningar.",
+"Övningar för att träna kondition, smidighet, rörlighet och styrka.",
+"Kostens betydelse för att stärka kroppen vid träning. Hur övningar och träningsprogram sätts samman för att stärka och optimera den egna kroppen i dansteknikträning. ",
+"Övningar i stresshantering och hur dessa genomförs för att hantera situationer som kan upplevas som pressade både i träningssituationer och vid sceniska framträdanden.",
+"Begrepp, till exempel stretch, uppvärmning och nedvarvning.",
+"Arbetsmiljöns betydelse för dansträning."]}

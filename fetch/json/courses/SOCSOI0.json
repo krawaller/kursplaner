@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"sociologi",
 "instructiontext":"som bygger på kursen sociologi.",
-"code":"SOCSOI0"}
+"code":"SOCSOI0",
+"goaltext":"Kursen socialt arbete omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Innehållet i, bakgrunden till samt framväxten och organisationen av samhällets socialpolitik och socialt arbete.",
+"Samhällets hantering av sociala frågor och problem.",
+"Sociala myndigheter och ombudsmän, deras funktioner och roller i samhället.",
+"Offentliga, frivilliga och privata sociala verksamheter, deras organisationer, innehåll och ideologier samt roller i samhället.",
+"Kritisk bearbetning av information från olika källor.",
+"Lagar, förordningar, internationella överenskommelser och riktlinjer för sociala verksamheter.",
+"Bestämmelser och praxis när det gäller arbetsmiljö, säkerhet och yrkesetik inom sociala verksamheter.",
+"Planering, genomförande, utvärdering och dokumentation av uppgifter och aktiviteter inom sociala verksamheter.",
+"Yrkesroll och ledarskap.",
+"Kommunikation, samarbete och samverkan med människor i olika situationer."]}

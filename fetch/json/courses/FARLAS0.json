@@ -1,4 +1,8 @@
 {"subject":"FAR",
 "name":"Lasthantering och passagerarsäkerhet",
 "points":100,
-"code":"FARLAS0"}
+"code":"FARLAS0",
+"goaltext":"Kursen lasthantering och passagerarsäkerhet omfattar punkterna 1 och 4&mdash;7 under rubriken Ämnets syfte, med särskild betoning på lasthantering på tankfartyg. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,0,0,1,1,1,1],
+"level":"basic",
+"content":{}}

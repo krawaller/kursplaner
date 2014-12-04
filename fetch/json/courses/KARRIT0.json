@@ -1,4 +1,16 @@
 {"subject":"KAR",
 "name":"Riktningsteknik &mdash; introduktion",
 "points":200,
-"code":"KARRIT0"}
+"code":"KARRIT0",
+"goaltext":"Kursen riktningsteknik &mdash; introduktion omfattar punkterna 1&mdash;4 och 7&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":["Verksamhetsområden inom karosseriteknik.",
+"Grunderna i karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.",
+"Introduktion till olika reparationsmetoder och sammanfogningstekniker för de olika material som ingår i en fordonskaross.",
+"Metoder för ytriktning med handverktyg och måttriktning med lös hydraulik.",
+"Mätningsteknik för karosseri, chassi och hjulvinklar.",
+"Introduktion till analys och diagnos av skador som underlag för val av reparationsmetod samt kostnadsberäkning.",
+"Verktyg och utrustning som används vid bilskadereparationer.",
+"Informationsmaterial från olika fordonstillverkare och fordonsdatabaser, verkstadshandböcker samt manualer på svenska och engelska.",
+"Begränsningar av det arbete som får utföras ur säkerhetssynpunkt. Skyddsutrustning, faror, olyckssamband och riskbedömning av egen och omgivande verksamhet."]}

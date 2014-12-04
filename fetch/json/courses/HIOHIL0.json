@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"biologi 2",
 "instructiontext":"som bygger på kursen biologi 2. ",
-"code":"HIOHIL0"}
+"code":"HIOHIL0",
+"goaltext":"Kursen hippologi &mdash; etologi omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med betoning på hästens etologi och samspelet mellan människa och häst. ",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Hästens ursprung, hästens domesticering, dagens hästraser, deras exteriör och signalement samt hästens evolution.",
+"Biologisk fördjupning inom vetenskapsområdet etologi med utgångspunkt från hästens etologi samt jämförande studier inom området.",
+"Organisationer inom hästnäringen, hästens ekonomiska och sociala betydelse i dagens samhälle samt hästens historiska användning och betydelse.",
+"Diskussioner om hästens betydelse i dagens och morgondagens samhälle. Utvecklingtendenser, hinder och möjligheter.",
+"Tolkning av hästens beteende med utgångspunkt från kunskaper i etologi. Samspel mellan människa och häst. Hantering av hästar.",
+"Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",
+"Källkritisk granskning, tolkning och värdering av information från olika medier och källor.",
+"Planering och genomförande av fältstudier och observationer inom etologi samt formulering och prövning av hypoteser i samband med detta.",
+"Naturvetenskapliga presentationer, till exempel rapporter, reportage och seminarier.",
+"Lagar och andra bestämmelser, till exempel djurskydds-, arbetsmiljö- och miljölagstiftning samt lagstiftning som rör lastning och transport av hästar. "]}

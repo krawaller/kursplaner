@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"textil design 4",
 "instructiontext":"som bygger på kursen textil design 4.",
-"code":"HAVTEX05"}
+"code":"HAVTEX05",
+"goaltext":"Kursen textil design 5 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 och 6. I kursen befästs fördjupade kunskaper i ämnet.",
+"goals":[2,2,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Kreativt produktionsarbete med effektivisering, lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas produktionsplanering material-, tids- och kostnadskalkyler.",
+"Modeteckningar och tekniska plaggskisser för vidareutveckling av idéer. I samband med det behandlas konstruktion.",
+"Analys av färger, former och proportioner för kvalitetshöjning av resultatet.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Digitala tekniker för presentation av det färdiga arbetet.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service."]}

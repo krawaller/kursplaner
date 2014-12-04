@@ -3,4 +3,12 @@
 "points":100,
 "requirements":"biologi 1",
 "instructiontext":"som bygger på kursen biologi 1.",
-"code":"BIOBIT0"}
+"code":"BIOBIT0",
+"goaltext":"Kursen bioteknik omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Experimentellt arbete inom bioteknik inklusive genteknik. Sterilteknik, odlingsteknik och fermentationsteknik.",
+"Biologiskt verksamma makromolekyler, deras funktion och interaktion inom och mellan celler.",
+"Cellers användning inom industri, jordbruk, medicin och forskning. Bakterier, jästceller, cancerceller, stamceller och deras betydelse för bioteknikens utveckling.",
+"Biotekniska inklusive gentekniska verktyg och metoder samt deras användning inom industri, jordbruk, medicin och forskning. Bioteknik och genteknik i frågor om ekologiskt hållbar utveckling.",
+"Möjligheter och risker med bioteknik och genmodifierade organismer ur ett etiskt och samhälleligt perspektiv."]}

@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"servering 1",
 "instructiontext":"som bygger på kursen servering 1.",
-"code":"SERARR0"}
+"code":"SERARR0",
+"goaltext":"Kursen arrangemang omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2. I kursen behandlas fördjupade färdigheter i ämnet. ",
+"goals":[2,2,1,1,1,1,1,1],
+"level":"normal",
+"content":["Metoder, material, redskap och annan utrustning som används vid servering i olika typer av matsalar och lokaler.",
+"Uppdukningar i matsal eller lokal utifrån olika teman och högtider.",
+"Rummets och bordets utformning och dekoration.",
+"Ceremoniella måltider.",
+"Planering, organisation och servering av mat och dryck vid olika beställningsarrangemang.",
+"Promemoria, arrangé och körschema. Utformning av matsedlar till offerter samt kuvertmatsedlar efter mallar till större middagar.",
+"Gästbemötande, service och försäljning.",
+"Kalkylering och prissättning.",
+"Ergonomi och säkerhet i arbetet.",
+"Hygien och ändamålsenlig klädsel."]}

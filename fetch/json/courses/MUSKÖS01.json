@@ -1,4 +1,13 @@
 {"subject":"MUS",
 "name":"Körsång 1",
 "points":100,
-"code":"MUSKÖS01"}
+"code":"MUSKÖS01",
+"goaltext":"Kursen körsång 1 omfattar punkterna 1&mdash;2, 4&mdash;5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 7. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[2,1,0,1,1,0,2,0,0],
+"level":"normal",
+"content":["Körmusicerande i flerstämmig körmusik på en grundläggande nivå från olika repertoarområden.",
+"Musicerande i gehörsbaserad och noterad musik.",
+"Genrer i olika tider och kulturer. Stildrag och kännetecken.",
+"Samarbetsförmåga och metoder för instudering, enskilt och i grupp.",
+"Grundläggande röstvård och metoder för det.",
+"Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra."]}

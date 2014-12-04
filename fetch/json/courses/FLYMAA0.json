@@ -1,4 +1,13 @@
 {"subject":"FLY",
 "name":"Materiallära &mdash; flyg",
 "points":100,
-"code":"FLYMAA0"}
+"code":"FLYMAA0",
+"goaltext":"Kursen materiallära &mdash; flyg omfattar punkterna 3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,0,1,0,1,1,1,1,0],
+"level":"normal",
+"content":["Luftfartygsmaterial och flygmaterial samt deras karakteristik. Hur materialen påverkas av olika faktorer.",
+"Materialhantering och korrosion.",
+"Sammanfogningstekniker, till exempel nit- och skruvförband samt limning.",
+"Konstruktion av och användningsområde för till exempel lager, fjädrar, rör, slangar och kopplingar.",
+"Transmissioner, till exempel kugghjulsväxlar, kedjor och roderlinor. ",
+"Elkablar, elanslutningsdon och kontaktdon."]}

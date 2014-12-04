@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"kyl- och värmepumpsteknik – grund",
 "instructiontext":"som bygger på kursen kyl- och värmepumpsteknik – grund.",
-"code":"KYLKYH0"}
+"code":"KYLKYH0",
+"goaltext":"Kursen kyl- och värmepumpsteknik &mdash; miljö och säkerhet omfattar punkterna 1, 3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,0,1,0,1,1,1,1],
+"level":"normal",
+"content":["Kyl- och värmepumpssystem, deras funktion och miljöpåverkan.",
+"Köldbärare och köldmedier, deras egenskaper och miljöpåverkan.",
+"Miljöpåverkans historiska orsaker och konsekvenser.",
+"Miljö-, hälso- och säkerhetsfrågor ur ett samhälleligt perspektiv.",
+"Lagar och andra bestämmelsers påverkan på arbeten med kyl- och värmepumpssystem.",
+"Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.",
+"Miljö- och säkerhetsaspekter i förhållande till hållbar utveckling.",
+"Metoder för att utvärdera miljöaspekter.",
+"Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer."]}

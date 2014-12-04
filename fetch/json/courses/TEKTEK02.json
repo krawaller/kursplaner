@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"teknik 1",
 "instructiontext":"som bygger på kursen teknik 1.",
-"code":"TEKTEK02"}
+"code":"TEKTEK02",
+"goaltext":"Kursen teknik 2 omfattar punkterna 2&mdash;5 och 9 under rubriken Ämnets syfte.",
+"goals":[0,1,1,1,1,0,0,0,1],
+"level":"normal",
+"content":["Principer och tekniker för mätning och registrering av prestanda i mekaniska, pneumatiska, hydrauliska och elektriska system.",
+"Principer och samband för omvandling av elektrisk energi till mekanisk energi och vice versa, till exempel motor och generator.",
+"Principer och samband för mekaniska, hydrauliska, pneumatiska och elektriska transmissionssystem för energiöverföring.",
+"Förutsättningar och begränsningar vid andra former av energiomvandling, till exempel fusion, fission och sol-, vind- och vattenkraft.",
+"Dimensionsanalys och rimlighetsbedömning.",
+"De matematiska och fysikaliska förutsättningarna och de teknikvetenskapliga grunderna för energiöverföring i olika system med betoning på analys, beräkningar, simuleringar och rimlighetsbedömningar.",
+"Matematiska modeller för givna förlopp.",
+"Mätteknik, till exempel principer för mätgivare och komponenter, mätning av olika storheter, användning och tolkning av resultat.",
+"Planering och genomförande av experimentella undersökningar samt hur mätdata inhämtas, analyseras och redovisas.",
+"Visualisering och analys av tekniska system och processer med hjälp av anpassad programvara."]}

@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"grafisk illustration",
 "instructiontext":"som bygger på kursen grafisk illustration.",
-"code":"GRAGRP0"}
+"code":"GRAGRP0",
+"goaltext":"Kursen grafisk illustration i pixelgrafik omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Illustrationsteknik i relevanta pixelprogram.",
+"Skissteknik, både manuell och i pixelgrafikmiljö.",
+"Tematiserad fördjupning inom pixelgrafik, till exempel bildbehandling för repro, bildretusch eller bildmanipulation, serieteckning eller karikatyrteckning, spelgrafik, kollageteknik och mönsterdesign.",
+"Illustrationsstilar för valt tema.",
+"Analysmodeller för kreativa, estetiska och tekniska aspekter. ",
+"Produktions- och presentationsformer för arbetsprover inom den valda tematiserade fördjupningen.",
+"Relevant fackspråk och grafiska begrepp inom illustrationsteknik och digitaliseringsteknik, till exempel inom bildretusch."]}

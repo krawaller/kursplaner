@@ -1,4 +1,17 @@
 {"subject":"SPE",
 "name":"Idrottsledarskap",
 "points":100,
-"code":"SPEIDT0"}
+"code":"SPEIDT0",
+"goaltext":"Kursen idrottsledarskap omfattar punkterna 3 och 5&mdash;7 under rubriken Ämnets syfte, med speciell betoning på punkt 7. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[0,0,1,0,1,1,1],
+"level":"basic",
+"content":["Funktionärskap och ledarskap inom idrotten.",
+"Idrottsföreningars organisation och verksamhet.",
+"Ledarskap och organisation utifrån olika teorier och modeller.",
+"Ledarens påverkan på individerna, gruppen och det sociala sammanhanget samt individernas, gruppens och det sociala sammanhangets påverkan på ledaren.",
+"Utvecklingsområden för idrottsledarskap inom barn- och ungdomsverksamhet.",
+"Tränings- och tävlingsmiljöernas betydelse för prestationsutveckling.",
+"Riskanalyser av tränings- och tävlingsmiljöer.",
+"Värderingar kring ledarskap och idrottsverksamhet. Ledarskap ur ett genus- och jämställdhetsperspektiv.",
+"Planering, genomförande, dokumentation och utvärdering av olika ledaraktiviteter.",
+"Konflikthantering i tränings- och tävlingsmiljöer, till exemepel förhållningssätt till medspelare, motspelare och domare."]}

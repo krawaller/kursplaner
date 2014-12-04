@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"fiske och vattenvård 1",
 "instructiontext":"som bygger på kursen fiske och vattenvård 1.",
-"code":"SKOFIS02"}
+"code":"SKOFIS02",
+"goaltext":"Kursen fiske och vattenvård 2 omfattar punkterna 2&mdash;3 och 6&mdash;9 under rubriken Ämnets syfte, med särskild betoning på förmåga att upprätta vattenvårdsplaner.",
+"goals":[0,1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":{"Biologisk grund":["Olika fiskarter samt deras egenskaper och miljökrav.",
+"Vattenlevande organismers biologi samt miljöfaktorer som påverkar dem.",
+"Internationella förhållanden beträffande fiske och vattenvård."],
+"Arbetsuppgifter":["Utarbetande av vattenvårdsplaner och ekonomiska kalkyler för förvaltning och tillsyn av fiskevatten.",
+"Planering, genomförande och utvärdering av vattenvård och fiskevårdande åtgärder.",
+"Arbetsuppgifter i samband med fiske och tillvaratagande av fisk."],
+"Arbetsmiljö, säkerhetsfrågor och bestämmelser":["Arbetsmiljö, ergonomi och säkerhet i samband med vattenvård och fiskevård.",
+"Lagar och andra bestämmelser, till exempel internationella förhållanden inom vattenvård och fiskevård."]}}

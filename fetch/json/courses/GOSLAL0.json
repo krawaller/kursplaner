@@ -1,4 +1,15 @@
 {"subject":"GOS",
 "name":"Lastbilsmonterad kran",
 "points":100,
-"code":"GOSLAL0"}
+"code":"GOSLAL0",
+"goaltext":"Kursen lastbilsmonterad kran omfattar punkterna 1, 3, 5 och 7 under rubriken Ämnets syfte.",
+"goals":[1,0,1,0,1,0,1],
+"level":"normal",
+"content":["Lastbilsmonterade kranars uppbyggnad och konstruktion för olika användningsområden.",
+"Hydraulsystemets uppbyggnad och funktion med styrsystem och säkerhetsfunktioner.",
+"Manövrering och säkerhet vid lastningsmoment samt handhavande vid på- och avställning från fordonet.",
+"Uppställningsstabilitet och belastning vid lyftmoment för lastning och lossning av gods.",
+"Lyftmetoder och användning av olika lyftredskap vid lastning och lossning av gods.",
+"Underhåll och tillsyn samt besiktningskrav på kranar.",
+"Säkerhetsavstånd vid arbete med lastbilsmonterade kranar.",
+"Personlig säkerhet och skyddsutrustning för kranförare."]}

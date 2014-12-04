@@ -1,4 +1,17 @@
 {"subject":"JUR",
 "name":"Affärsjuridik",
 "points":100,
-"code":"JURAFF0"}
+"code":"JURAFF0",
+"goaltext":"Kursen affärsjuridik omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Associationsrätt: företagsformens betydelse för verksamheten och intressenterna.",
+"Avtalsrätt: företagsavtal och deras rättsverkan.",
+"Hyresrätt: företagens rättigheter och skyldigheter som hyresgäster.",
+"Arbetsrätt: arbetsgivarens rättigheter och skyldigheter mot arbetstagaren.",
+"Marknadsrätt: marknadsrättsliga och konkurrensrättsliga regler som rör företagens verksamhet.",
+"Köprätt: regler som rör handel mellan näringsidkare.",
+"Immaterialrätt: skyddet för varumärken, patent och andra upphovsrätter.",
+"Kredit- och panträtt samt obeståndsrätt: regler som rör företagens finansiering samt skulder, utmätning och konkurs.",
+"Tvistlösning: olika sätt att lösa affärstvister.",
+"Juridiska begrepp och problemlösning i rättsliga sammanhang."]}

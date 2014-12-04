@@ -1,4 +1,17 @@
 {"subject":"FLY",
 "name":"Mänskliga faktorer",
 "points":100,
-"code":"FLYMAS0"}
+"code":"FLYMAS0",
+"goaltext":"Kursen mänskliga faktorer omfattar punkt 9 under rubriken Ämnets syfte.",
+"goals":[0,0,0,0,0,0,0,0,1],
+"level":"normal",
+"content":["Människans förutsättningar och begränsningar.",
+"Det mänskliga minnets struktur, funktion och kapacitet samt faktorer som styr människans uppmärksamhet. ",
+"Socialpsykologi, till exempel kamrattryck, kulturfrågor och arbete i grupp.",
+"Faktorer som påverkar prestationer.",
+"Den fysiska miljöns påverkan på människan.",
+"Olika typer av arbetsuppgifters påverkan på människan.",
+"Kommunikation, till exempel inom och mellan olika grupper.",
+"Anpassning av tekniska systems gränssnitt till individens kognitiva och perceptuella kapacitet.",
+"Modeller och teorier om mänskliga misstag.",
+"Risker på arbetsplatsen."]}

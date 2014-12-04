@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"digitalt skapande 1",
 "instructiontext":"som bygger på kursen digitalt skapande 1.",
-"code":"DIGDIG02"}
+"code":"DIGDIG02",
+"goaltext":" Kursen digitalt skapande 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4&mdash;5. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,2,1,2,2,1],
+"level":"high",
+"content":["Skapande och gestaltande processer från idé till färdig produktion.",
+"Estetiska och tekniska begrepp och metoder för analys av digitala uttryck.",
+"Metoder för analys av digitalt skapade gestaltningar samt tekniska och konstnärliga kvaliteter.",
+"Digitala verktyg för skapande och gestaltande.",
+"Fördjupad och specialiserad programvara och hårdvara som används för skapande i en eller flera olika estetiska uttrycksformer.",
+"Kommunikation med digital teknik och digitala medier.",
+"Samarbeten, synkront och asynkront, via digitala plattformar, till exempel webbapplikationer, wiki och tankekartor. ",
+"Plattformar och kanaler för spridning av digitala produktioner, till exempel bloggar och andra sociala medier och spridningsplattformar."]}

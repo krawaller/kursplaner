@@ -1,4 +1,11 @@
 {"subject":"SAH",
 "name":"Byggprocessen",
 "points":100,
-"code":"SAHBYC0"}
+"code":"SAHBYC0",
+"goaltext":"Kursen byggprocessen omfattar punkterna 7 och 9&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,0,0,0,0,0,1,0,1,1],
+"level":"normal",
+"content":["Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämnande och förvaltning.",
+"Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.",
+"Tillämpliga regler i byggprocessen, till exempel plan- och bygglagen samt Boverkets och Arbetsmiljöverkets regler.",
+"Kvalitets-, miljö- och arbetsmiljöledningssystem, till exempel enligt ISO9000 och ISO14000 samt branschspecifika tillämpningar."]}

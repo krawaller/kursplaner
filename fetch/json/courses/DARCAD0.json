@@ -1,4 +1,16 @@
 {"subject":"DAR",
 "name":"Cad/cam",
 "points":100,
-"code":"DARCAD0"}
+"code":"DARCAD0",
+"goaltext":"Kursen cad/cam omfattar punkterna 1, 5&mdash;6 och 10 under rubriken Ämnets syfte.",
+"goals":[1,0,0,0,1,1,0,0,0,1],
+"level":"normal",
+"content":["Ritteknik för 2D, 3D och solidmodellering inom valt område.",
+"Cad/cam-teknikens möjligheter.",
+"Anpassning av cam-system för aktuellt område.",
+"Beredning och planering för generering av programkod till datorstyrd utrustning.",
+"Generering av koder, överföring av cam-resultat till maskin, anpassning av programmet för maskinen samt iordningställande av maskin för bearbetning.",
+"Kommunikation och informationsutbyte mellan utrustningar och applikationer.",
+"Produktionsunderlag för aktuell utrustning samt kontroll, och vid behov komplettering, av geometri och programkod.",
+"Anpassning med hänsyn tagen till miljö, ekonomi och säkerhet.",
+"Kontroll, bedömning och dokumentation av kvaliteten på utfårt arbete."]}

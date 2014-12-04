@@ -3,4 +3,12 @@
 "points":50,
 "requirements":"cad 2",
 "instructiontext":"som bygger på kursen cad 2.",
-"code":"CADCAD03"}
+"code":"CADCAD03",
+"goaltext":"Kursen cad 3 omfattar punkterna 3&mdash;6 under rubriken Ämnets syfte.",
+"goals":[0,0,1,1,1,1,0,0],
+"level":"normal",
+"content":["Grundläggande dokumenthantering.",
+"Fördjupning inom solidmodellering.",
+"Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+"Fördjupning av applikationer beroende på valt teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+"Grundläggande rörelsesimulering, till exempel studstal, friktion och last med beaktande av randvillkor."]}

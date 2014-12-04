@@ -1,4 +1,14 @@
 {"subject":"MNU",
 "name":"Mönsterkonstruktion 1",
 "points":100,
-"code":"MNUMON01"}
+"code":"MNUMON01",
+"goaltext":"Kursen mönsterkonstruktion 1 omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1],
+"level":"basic",
+"content":["Måttagning och storlekssystem.",
+"Grundkonstruktioner.",
+"Mönsterförändringar utifrån grundmallar.",
+"Mönsterförändringar utifrån olika kroppsformer.",
+"Framställning av mönster utifrån den färdiga produktens användningsområde.",
+"Fackspråk för att förstå och använda instruktioner och tekniska beskrivningar, till exempel manualer.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."]}

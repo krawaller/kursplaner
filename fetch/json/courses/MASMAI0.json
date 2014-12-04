@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"fordonsteknik – introduktion",
 "instructiontext":"som bygger på kursen fordonsteknik – introduktion.",
-"code":"MASMAI0"}
+"code":"MASMAI0",
+"goaltext":"Kursen maskin- och lastbilsteknik &mdash; introduktion omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Konstruktionsprinciper för lastbilar och mobila maskiner i relation till deras användningsområden.",
+"Funktionsprinciper för fordons system och deras huvudkomponenter samt hur komponenter och system samverkar med varandra.",
+"Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.",
+"Funktions- och säkerhetskontroll.",
+"Regler för handhavande, vård och tillsyn av lastbilar, mobila maskiner och tillbehör.",
+"Regler för besiktning av lastbilar, mobila maskiner och tillbehör.",
+"Konsekvenser av eftersatt underhåll, beträffande ekonomi, miljö, driftstörningar och trafiksäkerhet.",
+"Faktorer som påverkar kostnader för drift och underhåll.",
+"Begrepp i samband med teknisk information om handhavande, kontroll och vård av maskiner, lastbilar och tillbehör."]}

@@ -4,4 +4,14 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll från vald inriktning.",
 "requirements":"frisör 3",
 "instructiontext":"som bygger på kursen frisör 3. Kursen kan läsas flera gånger med olika innehåll från vald inriktning.",
-"code":"HAVFRI04S"}
+"code":"HAVFRI04S",
+"goaltext":"Kursen frisör 4 &mdash; specialisering omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper om tekniker och metoder inom valt specialiseringsområde närliggande inriktningen, eller mindre vanligt förekommande tekniker och metoder inom inriktningen.",
+"goals":[2,1,1,1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Material, verktyg, maskiner, tekniker och metoder för att genomföra arbeten inom valt specialiseringsområde, till exempel underhåll av peruker, tupéer och hårersättningar eller behandling av afrohår. I samband med det behandlas arbetsplanering, till exempel materialberäkning och planering av tidsåtgång.",
+"Produkt- och materialkunskap. Hur man väljer lämpliga material och produkter för arbetsuppgiften. I samband med det behandlas miljöaspekter.",
+"Fackspråk, skissteknik och ritteknik för arbetsbeskrivning och utveckling av idéer.",
+"Analys av färgers, formers och proportioners betydelse för resultatet.",
+"Utvärdering och analys av arbetsprocess och resultat.",
+"Hygieniskt, ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt hur man använder skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering."]}

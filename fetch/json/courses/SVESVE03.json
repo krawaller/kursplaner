@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"svenska 2",
 "instructiontext":"som bygger på kursen svenska 2.",
-"code":"SVESVE03"}
+"code":"SVESVE03",
+"goaltext":"Kursen svenska 3 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Muntlig framställning med fördjupad tillämpning av den retoriska arbetsprocessen som stöd i planering och utförande samt som redskap för analys. Användning av presentationstekniska hjälpmedel som stöd i muntlig framställning.",
+"Viktiga generella drag som rör disposition, språk och stil i texter av vetenskaplig karaktär.",
+"Läsning av och arbete med texter, vilket inkluderar strukturering, sovring, sammanställning, sammanfattning och källkritisk granskning.",
+"Skriftlig framställning som anknyter till den vetenskapliga texttypen och som behandlar någon aspekt av svenskämnet.",
+"Skönlitterära texter, författade av såväl kvinnor som män, inom genrerna prosa, lyrik och dramatik. Litteraturvetenskapligt inriktad analys av stilmedel och berättartekniska grepp. Litteraturvetenskapliga begrepp och verktyg.",
+"Det svenska språkets ursprung, historiska utveckling och släktskapsförhållanden. Språkförändring."]}

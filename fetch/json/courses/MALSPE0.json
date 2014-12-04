@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"matlagning 3",
 "instructiontext":"som bygger på kursen matlagning 3.",
-"code":"MALSPE0"}
+"code":"MALSPE0",
+"goaltext":"Kursen specialkoster omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Yrkesmässig tillagning av specialkoster.",
+"Immunologi och födoämnesintolerans.",
+"Mat och måltider för olika behov.",
+"Ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.",
+"Näringsberäkningar av måltider med hjälp av datorprogram.",
+"Svenska näringsrekommendationer.",
+"Kreativt framtagande av recept, matsedlar och menyer för olika specialkoster.",
+"Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+"Arbetsmiljö och livsmedelssäkerhet samt lagar och andra bestämmelser som gäller inom området.",
+"Kommunikation med andra samt fackterminologi."]}

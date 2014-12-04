@@ -5,4 +5,15 @@
 "arr":["fordons- och transportbranschens villkor och arbetsområden",
 "fordonsteknik – introduktion"]},
 "instructiontext":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik – introduktion.",
-"code":"TRAYRK01a"}
+"code":"TRAYRK01a",
+"goaltext":"Kursen yrkestrafik 1a omfattar punkterna 1 och 3&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,0,1,1,1,1,1,1],
+"level":"normal",
+"content":["Körning och manövrering av fordon på ett trafiksäkert och miljövänligt sätt i varierande trafikmiljöer.",
+"Olika typer av transportuppdrag samt de krav på säkerhet, kvalitet och noggrannhet som de olika uppdragen kräver.",
+"Säkerhetskontroll, funktionstillsyn och underhåll av transportfordon.",
+"Olika fordons säkerhetsanordningar samt säkerhetsanordningarnas tekniska egenskaper och funktioner.",
+"Tillståndskrav, utbildning och ekonomiska villkor i vägtransportverksamheter.",
+"Lastning av fordon, lastsäkringsmetoder och lastviktsberäkning med hänsyn till begränsningar för bruttovikter, axeltryck och vägnätets bärighet.",
+"Kör- och vilotidsregler samt färdskrivarens funktioner och användning.",
+"Faktorer som kan orsaka olyckor samt hur man kan förebygga olyckor och agera när en olycka har hänt."]}

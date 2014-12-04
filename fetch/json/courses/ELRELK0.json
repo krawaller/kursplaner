@@ -1,4 +1,16 @@
 {"subject":"ELR",
 "name":"Elektromekanik",
 "points":100,
-"code":"ELRELK0"}
+"code":"ELRELK0",
+"goaltext":"Kursen elektromekanik omfattar punkterna 1&mdash;4 och 6&mdash;7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,0,1,1],
+"level":"basic",
+"content":["Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.",
+"Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.",
+"Ritningsläsning inom verkstadstekniken.",
+"Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+"Fästteknik, materialkunskap och mekanisk mätning.",
+"Handverktyg som används inom de olika yrkesområdena.",
+"Elsäkerhet för personer och egendom.",
+"Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.",
+"Säkerhet i heta arbeten, ställningsbyggande och arbete från stege."]}

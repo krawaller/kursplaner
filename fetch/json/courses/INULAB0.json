@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"industritekniska processer 2",
 "instructiontext":"som bygger på kursen industritekniska processer 2.",
-"code":"INULAB0"}
+"code":"INULAB0",
+"goaltext":"Kursen laboratorieteknik omfattar punkterna 1, 3, 5 och 7&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,0,1,0,1,0,1,1],
+"level":"normal",
+"content":["Arbetsuppgifter i ett laboratorium inom industritekniska processer, till exempel mottagning av prover, utförande av analyser, dokumentation och rapportering.",
+"Tillvägagångssätt vid provtagningar.",
+"Faktorer som påverkar val av mätmetoder och analysmetoder för kvalitetskontroll och produktutveckling.",
+"Bedömning, hantering och dokumentation av provresultat enligt bestämmelser för toleransvärden.",
+"Förädlingsvärden.",
+"Systematiskt kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat. ",
+"Uppbyggnad av, egenskaper hos, hantering av och hälsorisker med kemikalier och material.",
+"Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+"Kommunikation och samarbete mellan olika målgrupper inom den industritekniska processen, till exempel personalgrupper, leverantörer och kunder.",
+"Kemiska begrepp och formler inom teknikområdet."]}

@@ -5,4 +5,17 @@
 "arr":["besöksnäringen",
 "fordons- och transportbranschens villkor och arbetsområden"]},
 "instructiontext":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
-"code":"RESREM0"}
+"code":"RESREM0",
+"goaltext":"Kursen resmål och resvägar omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkt 2, 3 och 5.",
+"goals":[1,2,2,1,2,1,1,1,1,1],
+"level":"normal",
+"content":["Vanliga resmål i Sverige och i andra länder.",
+"Val av transportmedel och resväg med hänsyn till miljön.",
+"Turismens och destinationens utveckling i takt med samhällsförändringar och trender.",
+"Resvägen som attraktion.",
+"Marknadsföring och presentation av olika resmål.",
+"Seder och bruk i olika kulturer.",
+"Händelser och aktiviteter som påverkar turistflöden till och från en destination.",
+"Geografisk information från kartor för att söka alternativa resvägar mellan resmål.",
+"Företags och offentliga verksamheters satsningar på resmål samt konsekvenser av dessa.",
+"Lagar, andra bestämmelser och överenskommelser inom området."]}

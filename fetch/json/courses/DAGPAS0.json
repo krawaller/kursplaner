@@ -1,4 +1,15 @@
 {"subject":"DAG",
 "name":"Pas de deux/partnering",
 "points":100,
-"code":"DAGPAS0"}
+"code":"DAGPAS0",
+"goaltext":"Kursen pas de deux/partnering omfattar punkterna 1&mdash;4 och 7&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas färdigheter på avancerad nivå.",
+"goals":[1,1,2,1,0,0,1,1],
+"level":"normal",
+"content":["Koder och konventioner för repetitionsarbete. Repetitionsprocessens delar, dvs. förberedelse, uppvärmning, memorering av rörelser och feedback samt sambandet mellan repetitionsprocess och det konstnärliga resultatet.",
+"Konstnärliga processer. Problemlösande arbete.",
+"Teknikträning med partner. Lyftteknik utifrån fysiska förutsättningar. Lyhördhet inför kroppar med olika förutsättningar. I klassisk specialisering ingår tåspetsteknik för den kvinnliga dansen beroende på koreografiskt material.",
+"Interaktion och samspel med partner. Samarbete med uppmärksamhet riktad mot en annan kropp. Fokus på kropp i och ur balans. Följa och leda impulser.",
+"Analys, tolkning och gestaltning av koreografiskt material. Musikalisk tolkning av koreografier. Spatial uppfattning i förhållande till den egna kroppen, andra medverkande och rummet. Stilkänsla inom koreografiernas estetiska förhållningssätt.",
+"Träning av uthållighet och koncentration",
+"Etiska förhållningssätt vid samarbete med partner.",
+"Begrepp och metoder för reflektioner över den konstnärliga processen och resultatet."]}

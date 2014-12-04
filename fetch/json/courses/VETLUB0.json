@@ -3,4 +3,13 @@
 "points":200,
 "requirements":"luftströmning",
 "instructiontext":"som bygger på kursen luftströmning.",
-"code":"VETLUB0"}
+"code":"VETLUB0",
+"goaltext":"Kursen luftbehandlingssystem omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Energieffektiva luftbehandlingssystem.",
+"Grundläggande ventilationsmontering.",
+"Fysikaliska begrepp, konstanter och beräkningar.",
+"Systemkomponenter i luftbehandlingsanläggningar.",
+"Ritningsläsning och arbetsbeskrivningar.",
+"Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, EU-direktiv och bestämmelser för brandsäkerhet. Behörigheter för ett säkert arbete."]}

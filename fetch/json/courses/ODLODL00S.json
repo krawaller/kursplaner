@@ -8,4 +8,17 @@
 "frukt och bär",
 "växtodling 2"]},
 "instructiontext":"som bygger på kursen trädgårdsodling – plantskoleväxter, kursen trädgårdsodling – grönsaker, frukt och bär eller kursen växtodling 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"ODLODL00S"}
+"code":"ODLODL00S",
+"goaltext":"Kursen odling &mdash; specialisering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas fördjupade kunskaper inom vald produktion.",
+"goals":[1,2,1,1,1,1,1,1],
+"level":"normal",
+"content":["Odlingsplaner och ekonomiska kalkyler.",
+"Arbetsuppgifter inom en specialiserad produktion med aktuell teknisk utrustning.",
+"Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med specialiserad produktion.",
+"Lagar och andra bestämmelser inom området.",
+"Odlingsprocessen och produktionsplaner inom aktuell produktion.",
+"Miljöaspekter och produktkvalitet.",
+"Odlingsförutsättningar, produktionsmöjligheter, marknad och arbetsmarknad inom aktuell produktion. Småskalig respektive storskalig produktion.",
+"Informationssökning om aktuell produktion samt presentation.",
+"Utvecklingsmöjligheter inom specialiserad produktion, nya produkter, ny teknik och nya användningsområden för de odlade produkterna.",
+"Förebyggande och direkta växtskyddsåtgärder."]}

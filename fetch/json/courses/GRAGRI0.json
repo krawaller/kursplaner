@@ -1,4 +1,14 @@
 {"subject":"GRA",
 "name":"Grafisk illustration",
 "points":100,
-"code":"GRAGRI0"}
+"code":"GRAGRI0",
+"goaltext":"Kursen grafisk illustration omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"basic",
+"content":["Funktioner inom det grafiska illustrationsområdet.",
+"Manuella illustrationstekniker för fortsatt bearbetning i digitala miljöer, till exempel akvarell, kroki och kalligrafi.",
+"Skissteknik, skissmaterial, snabbskissning och skisstilar samt skillnaden mellan skissning och illustrering.",
+"Begreppen idéhöjd, kongenialitet, kontext och målgrupp i illustrationssammanhang. Analys av begreppen med bild- och kommunikationsteorier, till exempel semiotik, bildretorik och grafisk funktionsanalys.",
+"Digitaliseringsmetoder för illustrationsprogram, till exempel digitalkamera och skanner, och användning av dessa metoder på original gjorda med manuella illustrationstekniker.",
+"Illustrationsprogram. Fördelar och nackdelar, skillnader mellan vektor- och pixelgrafik, programkännedom och illustrationsstilar.",
+"Relevant fackspråk inom illustration, typografi, färglära och digitaliseringsmetodik. "]}

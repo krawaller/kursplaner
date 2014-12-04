@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"utställningsdesign 1",
 "instructiontext":"som bygger på kursen utställningsdesign 1.",
-"code":"UTSUTS02"}
+"code":"UTSUTS02",
+"goaltext":" Kursen utställningsdesign 2 omfattar punkterna 1&mdash;5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,2,1,2,1,0,1],
+"level":"high",
+"content":["Fördjupat arbete med butiks- och fönsterexponeringar, utställningar, mässor och event samt med projektering och gestaltning.",
+"Lagar och andra bestämmelser inom området.",
+"Metoder för analys, dokumentation och utvärdering av egna och andras idéer i olika exponerings- och utställningsproduktioner.",
+"Intern och extern marknadsföring samt marknadsföringens funktion som bärare av budskap.",
+"Presentationstekniker i form av texter, ljud, bilder och modeller.",
+"Fördjupat modellarbete.",
+"Form- och innehållskomposition, problemlösning och kvalitetstänkande.",
+"Fördjupad matchning och koordinering.",
+"Färgsystem, belysning och ljudteknik.",
+"Fördjupad digital teknik och teknisk utrustning."]}

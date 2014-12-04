@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"vård- och omsorgsarbete 2",
 "instructiontext":"som bygger på kursen vård- och omsorgsarbete 2.",
-"code":"ITIITI0"}
+"code":"ITIITI0",
+"goaltext":"Kursen it i vård och omsorg omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["It-tillämpningar för vård- och omsorgsarbete samt hur de har utvecklats.",
+"Funktion, konstruktion och uppbyggnad av it-tillämpningar.",
+"Samspelet mellan it och människan.",
+"It inom informationsöverföring och dokumentation samt medicintekniska informationsdatasystem (MIDS).",
+"It som hjälpmedel för vård och omsorg i hemmet, till exempel bildkommunikation, elektroniska sensorer och övervakningssystem.",
+"Internetbaserade funktioner för rådgivning, hälsoinformation och stödnätverk.",
+"It kopplat till arbetssätt, metoder och ergonomi.",
+"Etiska frågeställningar kopplade till specifika it-tillämpningar i vård- och omsorgsarbete.",
+"Framtida utveckling, till exempel att stödja äldre så att de kan använda tekniken. ",
+"Lagar och andra bestämmelser om sekretess och datalagring."]}

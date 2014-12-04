@@ -5,4 +5,17 @@
 "arr":["lågspänningsnät",
 "högspänningsnät"]},
 "instructiontext":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
-"code":"ELDNÄD0"}
+"code":"ELDNÄD0",
+"goaltext":"Kursen nätunderhållsarbete på luftledningsnät 0,4&mdash;24 kV omfattar punkterna 1&mdash;8 under rubriken Ämnet syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Röjning vid trädpåfällning och islast. ",
+"Underhåll och besiktning av luftledningsnät och nätstationer i luftledningsnät.",
+"Föreskrifter och andra bestämmelser inom området.",
+"Byggmetoder och underhållsmetoder enligt reglerna för elbyggnadsrationalisering (EBR).",
+"Elscheman och andra dokument.",
+"Verktyg, maskiner och annan utrustning.",
+"Säkerhetsrutiner och anvisningar vid arbete med luftledningar (ESA). ",
+"Säkerhet gällande arbete på väg och från korg.",
+"Kontroll av nätstationer i luftledningsnät. ",
+"Felsökning och reparation av luftledningsnät."]}

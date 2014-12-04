@@ -1,4 +1,14 @@
 {"subject":"HAA",
 "name":"Komplementärmedicin",
 "points":100,
-"code":"HAAKOM0"}
+"code":"HAAKOM0",
+"goaltext":"Kursen komplementärmedicin omfattar punkterna 1&mdash;2 och 5&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,0,0,1,1,1,1,1],
+"level":"normal",
+"content":["Den komplementärmedicinska historiken ur ett kulturellt perspektiv. Etiska perspektiv på komplementärmedicinska behandlingsmetoder.",
+"Komplementära behandlingsmetoder och verkningssätt och effekter ur ett fysiologiskt och psykologiskt perspektiv.",
+"Komplementära behandlingsmetoder i relation till skolmedicin.",
+"Massage och beröring som terapeutisk metod och dess fysiologiska samt psykologiska effekter.",
+"Lagar och andra bestämmelser som reglerar det komplementärmedicinska verksamhetsområdet.",
+"Planering, genomförande och utvärdering samt dokumentation av komplementär metod i syfte att öka psykiskt, fysiskt eller socialt välbefinnande, till exempel taktil stimulering eller klassisk massage.",
+"Yrkesetik i samarbete och kommunikation i utövande av komplementärmedicinska behandlingsmetoder."]}

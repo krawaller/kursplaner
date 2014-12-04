@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"bageri 3",
 "instructiontext":"som bygger på kursen bageri 3.",
-"code":"BAGBAG04"}
+"code":"BAGBAG04",
+"goaltext":"Kursen bageri 4 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1,1,0],
+"level":"high",
+"content":["Produktion av bröd och bakverk, utifrån beställning eller i befintlig verksamhet, med hänsyn tagen till drift, planering, rutiner, tempo, organisation och ekonomi.",
+"Metoder, redskap, maskiner och annan utrustning som används vid produktion av bröd och bakverk.",
+"Produktion av bröd och bakverk, utifrån branschens krav på kvantitet och kvalitet.",
+"Ekonomiska kalkyler som är lämpliga för ändamålet.",
+"Råvaror och andra ingredienser.",
+"Paketering och märkning av bröd och bakverk.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet."]}

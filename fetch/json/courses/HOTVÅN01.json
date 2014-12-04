@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"logi",
 "instructiontext":"som bygger på kursen logi.",
-"code":"HOTVÅN01"}
+"code":"HOTVÅN01",
+"goaltext":"Kursen våningsservice 1 omfattar punkterna 1 och 3&mdash;7. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,0,1,1,1,1,1],
+"level":"basic",
+"content":["Organisation, yrkesroller och arbetsuppgifter inom housekeeping.",
+"Systematisk och säker städning samt underhåll av inredning.",
+"Design, färg och form samt dess påverkan på upplevelsen.",
+"Inredning i gästrum och övriga lokaler, med hänsyn till säkerhet, ekonomi, miljö och ergonomi.",
+"Miljömärkningar och certifieringar.",
+"Ergonomi, arbetsmiljö och säkerhet utifrån lagar och andra bestämmelser.",
+"Hänsyn till gästens integritet och säkerhet utifrån företagets policy.",
+"Service och bemötande samt omtanke om gästen inför ankomst och under vistelse.",
+"Kommunikation och samverkan såväl inom som mellan olika avdelningar.",
+"Bedömning av kvaliteten på utfört arbete."]}

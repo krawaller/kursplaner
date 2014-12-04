@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"renen och dess naturmiljö 1",
 "instructiontext":"som bygger på kursen renen och dess naturmiljö 1.",
-"code":"RENREN02"}
+"code":"RENREN02",
+"goaltext":"Kursen omfattar punkterna 1&mdash;3 och 9&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,0,0,0,0,0,1,1],
+"level":"high",
+"content":["Klimatets och klimatförändringarnas betydelse för betesförhållanden och andra förhållanden inom rennäringen.",
+"Traditionella bostäder, förråd, samt övrig utrustning som använts inom rennäringen. Teknisk utveckling inom rennäringen.",
+"Rennäringens framtida utvecklingsmöjligheter.",
+"Förvaltningsorgan, samebyarnas roll, lagar, regler och konventioner som berör rennäringen. Organisering av rennäring inom olika delar av Sápmi.",
+"Renens hälsa. Undernäring, sjukdom och skador hos renen.",
+"Mikroorganismer, virus och parasiter samt deras betydelse och inverkan för renens hälsa. ",
+"Smitta, smittspridning, immunförsvar och antibiotika samt förebyggande av skador, undernäring och sjukdomar.",
+"Foder, foderberäkning samt hantering av foder vid nödutfodring.",
+"Identifiering av rovdjur. Rovdjurens beteenden och vilka skador de orsakar hos renar.",
+"Samisk terminologi inom rennäringen."]}

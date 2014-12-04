@@ -1,4 +1,15 @@
 {"subject":"MUS",
 "name":"Musikproduktion 1",
 "points":100,
-"code":"MUSMUS01"}
+"code":"MUSMUS01",
+"goaltext":"Kursen musikproduktion 1 omfattar punkterna 8&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 9. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[0,0,0,0,0,0,0,1,2],
+"level":"basic",
+"content":["Grundläggande bearbetning av ljud med analog och digital teknik.",
+"Medier för spridning av musikaliska produktioner.",
+"Koppling och styrning av ljudutrustning vid inspelningar och scenframföranden.",
+"Grundläggande ljuddesign och teknik vid livemusik.",
+"Rumsakustik och ljudlära.",
+"Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra, till exempel vid inspelning av sång eller av akustiska eller elektriska instrument.",
+"Lagar och regler som gäller konstnärliga produktioner, till exempel upphovsrätt.",
+"Arbetsmiljöfrågor med fokus på elsäkerhet, ergonomi, hörselvård, belysning, arbetstidsregler och arbetsmiljöregler."]}

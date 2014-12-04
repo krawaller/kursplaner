@@ -4,4 +4,17 @@
 "requirements":"bild och form 1a1",
 "notwith":"bild och form 1b",
 "instructiontext":"som bygger på kursen bild och form 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen bild och form 1b.",
-"code":"BILBIL01a2"}
+"code":"BILBIL01a2",
+"goaltext":"Kursen bild och form 1a2 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,2,2,2,1,1,1],
+"level":"basic",
+"content":["Betraktande, analys, tolkning av och samtal om egna och andras visuella framställningar i anslutning till bildarbetet. Sammanhangets betydelse för tolkningen.",
+"Grundläggande kompositionstraditioner för två- och tredimensionella bilder samt färglära.",
+"Bildspråkliga grundbegrepp och deras användbarhet i praktiskt bildarbete.",
+"Diskussioner och värderingsövningar omkring eget och andras arbete med bilder.",
+"Arbete med konstnärliga processer, enskilt och i grupp. Metoder för idéproduktion, till exempel brainstorming, skissarbete, inspirerande förebilder. Metoder för dokumentation i syfte att driva och ta ansvar för sina egna arbetsprocesser och dokumentation, till exempel portföljmetoden.",
+"Problematisering av ett stoff och problemlösning i bild.",
+"Gestaltande bildarbete i två- och tredimensionella tekniker i nya och traditionella material, metoder och medier. Bildens uttrycksmedel, till exempel linje, form, färg, ljus och skugga, och hur de hänger samman med det färdiga bilduttrycket.",
+"Metoder och principer för redovisningar och presentationer av färdiga arbeten.",
+"Bilders funktioner och användningsområden, skillnader mellan olika genrer.",
+"Etiska förhållningssätt, arbetsmiljö och lagar och andra bestämmelser om upphovsrätt."]}

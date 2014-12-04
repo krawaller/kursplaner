@@ -1,4 +1,17 @@
 {"subject":"MUS",
 "name":"Ensemble med körsång",
 "points":200,
-"code":"MUSENS0"}
+"code":"MUSENS0",
+"goaltext":"Kursen ensemble med körsång omfattar punkterna 1&mdash;2 och 4&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4 och 6&mdash;9.",
+"goals":[2,1,0,2,1,2,2,2,2],
+"level":"normal",
+"content":["Spel eller sång i ensemble på en grundläggande nivå.",
+"Körsång på en grundläggande nivå.",
+"Musicerande i noterad och gehörsbaserad musik.",
+"Konstnärlighet och genrer i olika tider och kulturer. Stildrag och kännetecken.",
+"Instudering i grupp, till exempel stämövning, intonationsövning och repetitionsmetodik.",
+"Grundläggande röstvård och metoder för det.",
+"Grundläggande musikalisk bearbetning, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.",
+"Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.",
+"Grundläggande hantering av musikteknisk utrustning med grundläggande begrepp inom ljudteknik och rumsakustik. Ljudanläggning för repetition och konsert. Mikrofonteknik och kabelhantering. Analogt och digitalt ljud samt midi. Digital bearbetning av musikaliskt material med olika inspelningstekniker.",
+"Arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi, hörselvård och belysning."]}

@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"finsnickeri 4",
 "instructiontext":"som bygger på kursen finsnickeri 4.",
-"code":"HAVFIN05"}
+"code":"HAVFIN05",
+"goaltext":"Kursen finsnickeri 5 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 och 6. I kursen befästs fördjupade kunskaper i ämnet.",
+"goals":[2,2,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Kreativt produktionsarbete där effektivisering, lönsamhet och resultatets kvalitet ligger i fokus, till exempel utveckling av digitala produktionstekniker. I samband med det behandlas produktionsplanering samt material-, tids- och kostnadskalkyler.",
+"Skiss- och ritteknik för detaljerade tekniska beskrivningar och vidareutveckling av idéer.",
+"Analys av färg, form och proportioner för kvalitetshöjning av resultatet.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Digitala tekniker för presentation av det färdiga arbetet.",
+"Systematiskt arbetsmiljöarbete vid arbetsplatsen enligt säkerhetsföreskrifter samt hur man använder skyddsutrustning.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och användande av skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service."]}

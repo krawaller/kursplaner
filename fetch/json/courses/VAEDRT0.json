@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"vattenkraftstationer",
 "instructiontext":"som bygger på kursen vattenkraftstationer.",
-"code":"VAEDRT0"}
+"code":"VAEDRT0",
+"goaltext":"Kursen drift, underhåll, säkerhet och miljö omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Vattenkraftutbyggnadens miljöpåverkan samt de miljöfrämjande åtgärder som kraftföretagen vidtar.",
+"Kraftindustrins miljöpåverkan globalt.",
+"Underhåll av vattenkraftstationers huvudkomponenter enligt gällande rutiner.",
+"Drift och underhåll av alla huvudkomponenter i en vattenkraftstation.",
+"Driftåtgärder vid normal drift och driftåtgärder vid störningar i driften.",
+"Elsäkerhetsanvisningar (ESA) vars huvudsakliga syfte är att skydda personer från skada orsakad av elektrisk ström.",
+"Säkerhetsanvisningar för arbete i och invid kraftstationers och vattenmagasins vattenvägar.",
+"Dammsäkerhet."]}

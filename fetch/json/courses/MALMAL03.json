@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"matlagning 2",
 "instructiontext":"som bygger på kursen matlagning 2.",
-"code":"MALMAL03"}
+"code":"MALMAL03",
+"goaltext":"Kursen matlagning 3 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 5 och 8. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[2,1,1,1,2,1,1,2,1],
+"level":"normal",
+"content":["Yrkesmässig matlagning och metoder, tekniker, redskap, maskiner och annan utrustning avsedd för restaurang och storkök.",
+"Kreativt skapande av kalla och varma maträtter.",
+"Kemiska och fysikaliska processer vid matlagning och hantering av råvaror.",
+"Fördjupning av hur råvaror kan hanteras och förvaras. ",
+"Råvarors kvalitet och näringsinnehåll samt ekonomiska beräkningar när det gäller val av råvaror och prissättning av maträtter.",
+"Framtagande av recept, matsedlar och menyer.",
+"Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+"Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+"Egenkontroll. ",
+"Kommunikation och logistik för arbete i kök samt fackterminologi."]}

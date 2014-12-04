@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"konditori 2",
 "instructiontext":"som bygger på kursen konditori 2.",
-"code":"BAGKON03"}
+"code":"BAGKON03",
+"goaltext":"Kursen konditori 3 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;6. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,2,2,2,2,2,1,1,1,0],
+"level":"high",
+"content":["Tillverkning av avancerade konditoriprodukter, där olika parallella tillverkningsmetoder krävs och där alternativ måste vägas mot varandra för att produktens smak och estetiska utformning ska bli bra.",
+"Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av konditoriprodukter.",
+"Tillverkning av konditoriprodukter utifrån smak och utseende där recept och arbetsbeskrivningar konstrueras med hänsyn till pris och kvalitet utifrån ekonomiska kalkyler.",
+"Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+"Paketering och märkning av konditoriprodukter.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet."]}

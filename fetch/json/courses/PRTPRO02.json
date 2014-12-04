@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"produktionsfilosofi 1",
 "instructiontext":"som bygger på produktionsfilosofi 1.",
-"code":"PRTPRO02"}
+"code":"PRTPRO02",
+"goaltext":"Kursen produktionsfilosofi 2 omfattar punkterna 1 och 3&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,0,1,1,1,1,1,1],
+"level":"high",
+"content":["Modern produktionsfilosofi i ett hållbart samhälle med kundens behov i fokus, vilket innebär hur produktion på olika nivåer i en organisation planeras och styrs. Planerings- och styrmetoder för utveckling i ett ständigt förbättringsarbete. ",
+"Produktionsfilosofi, där alla delar av en organisation ingår i förbättringsprocessen. ",
+"Metoder för strukturerat förbättringsarbete, till exempel lean eller six sigma. ",
+"Kvalitetsstyrningssystem, till exempel ISO 9001.",
+"Miljöledningssystem, till exempel ISO 14001.",
+"Dokumentation, redovisning och presentation av utvecklings- och förbättringsarbete.",
+"Leverantörens roll i utvecklingsprocessen och produktionskedjan.",
+"Inköp, logistik, produktion, miljö- och kvalitetsarbete samt hur dessa faktorer samverkar.",
+"Beslutsprocesser inom arbetsmiljö- och miljöområdet för valt teknikområde. "]}

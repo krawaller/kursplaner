@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"administration 1",
 "instructiontext":"som bygger på kursen administration 1.",
-"code":"ADMADM02"}
+"code":"ADMADM02",
+"goaltext":" Kursen administration 2 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Handläggning av ärenden, till exempel sammanställning och uppföljning av ansökningar.",
+"Arbetsmarknad, till exempel att söka arbete, vägar till arbete och att arbeta utomlands.",
+"Användning av modern teknik och programvara i olika administrativa och kommunikativa arbetsuppgifter.",
+"Serviceinriktat arbete och bemötande samt den egna rollen i mötet med andra som till exempel kunder och medarbetare.",
+"Metoder för planering, genomförande, presentation och utvärdering av projekt.",
+"Register, regler, lagar och andra bestämmelser inom administration, till exempel offentlighetsprincipen och sekretessregler.",
+"Ergonomi, arbetsrättslagar och andra bestämmelser samt arbetsmiljöfrågor, till exempel hur en ergonomiskt riktig arbetsplats planeras och hur man arbetar med fysiska och psykosociala frågor.",
+"Kvalitetssäkring och internkontroll på företag."]}

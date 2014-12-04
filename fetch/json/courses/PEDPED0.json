@@ -3,4 +3,12 @@
 "points":100,
 "requirements":"pedagogiskt arbete",
 "instructiontext":"som bygger på kursen pedagogiskt arbete.",
-"code":"PEDPED0"}
+"code":"PEDPED0",
+"goaltext":"Kursen pedagogiska teorier och praktiker omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Fördjupning i en eller flera pedagogiska teorier, till exempel Montessoripedagogik, Waldorfpedagogik och Freinetpedagogik, som ligger till grund för arbete i pedagogiska verksamheter.",
+"Pedagogiska arbetssätt, praktiker och lärmiljöer.",
+"Sambandet mellan pedagogiska förhållningssätt samt arbetssätt och lärande.",
+"Kritisk bearbetning av information från olika källor.",
+"Interaktion och kommunikation i samarbete och möten med människor."]}

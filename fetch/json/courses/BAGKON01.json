@@ -1,4 +1,15 @@
 {"subject":"BAG",
 "name":"Konditori 1",
 "points":100,
-"code":"BAGKON01"}
+"code":"BAGKON01",
+"goaltext":"Kursen konditori 1 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 7&mdash;8. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,2,2,1,1],
+"level":"basic",
+"content":["Tillverkning av enklare konditoriprodukter med hänsyn till utseende och smak.",
+"Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av konditoriprodukter.",
+"Hur man läser och använder recept.",
+"Råvaror och andra ingredienser som är lämpliga för ändamålet. Paketering och märkning av konditoriprodukter.",
+"Hygien och dagliga hygienrutiner.",
+"Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+"Arbetsmiljö och säkerhet samt de lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen och EU-bestämmelser.",
+"Konditoriprodukters historia."]}

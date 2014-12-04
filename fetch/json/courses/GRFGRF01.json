@@ -1,4 +1,15 @@
 {"subject":"GRF",
 "name":"Grafisk produktion 1",
 "points":100,
-"code":"GRFGRF01"}
+"code":"GRFGRF01",
+"goaltext":"Kursen grafisk produktion 1 omfattar punkterna 1&mdash;6 och 8&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,0,1,1,1],
+"level":"basic",
+"content":["Design, originalarbete, repro, tryck och efterbearbetning av en enfärgs grafisk produktion inom vald tryckteknik.",
+"Planering, övervakning, styrning och reglering av manuella eller automatiserade arbetsflöden.",
+"Materialkunskap vad gäller till exempel substrat, färg eller tryckformsmaterial.",
+"Färg- och kvalitetsstyrning.",
+"Metoder för lösning av produktionsrelaterade problem.",
+"Metoder för analys, tolkning och bearbetning av mätvärden, information och instruktioner.",
+"Arbetsuppgifter och ansvarsområden inom grafisk produktion.",
+"Begrepp och uttryck som är relevanta för ämnesområdet."]}

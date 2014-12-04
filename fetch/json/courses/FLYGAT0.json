@@ -1,4 +1,17 @@
 {"subject":"FLY",
 "name":"Gasturbinmotorer",
 "points":200,
-"code":"FLYGAT0"}
+"code":"FLYGAT0",
+"goaltext":"Kursen gasturbinmotorer omfattar punkterna 2 och 4&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,0,1,1,1,1,1,0],
+"level":"normal",
+"content":["Service och underhållsåtgärder av gasturbinmotorer.",
+"Felsökning och reparation av gasturbinmotorer.",
+"Energiomvandlingsprocessen i gasturbinmotorn.",
+"Gasturbinmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+"Motorprestanda, till exempel beräkning av dragkraft och motorers verkningsgrad.",
+"Turbopropmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+"Turboaxelmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+"Hjälpkraftaggregatets konstruktion och arbetssätt.",
+"Motorinstallation och brandskyddssystem, till exempel utformning av motorupphängning och brandvägg.",
+"Motorövervakning och markdrift, till exempel motorkörning och trendövervakning."]}

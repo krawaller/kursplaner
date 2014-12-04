@@ -1,4 +1,17 @@
 {"subject":"MUS",
 "name":"Bruksspel och ackompanjemang",
 "points":100,
-"code":"MUSBRU0"}
+"code":"MUSBRU0",
+"goaltext":"Kursen bruksspel och ackompanjemang omfattar punkterna 1&mdash;5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 och 7. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[2,2,1,1,1,0,2,0,1],
+"level":"normal",
+"content":["Spel på ett eller flera ackordinstrument i gehörsbaserad och noterad musik på en grundläggande nivå.",
+"Ackordläggningar och ackordfärgningar.",
+"Ackompanjemangsmodeller.",
+"Transponering till näraliggande och vanliga tonarter.",
+"Musikstilar från olika tider och genrer samt typiska stildrag.",
+"Improvisation – ackompanjemang på gehör.",
+"Instrument, deras egenskaper och musikaliska användningsområden.",
+"Samarbete i musikalisk gestaltning och strategier för instudering.",
+"Framförande av musik inför publik, i mindre, slutna sammanhang såväl som i större och öppna, offentliga sammanhang i eller utanför skolan.",
+"Arbetsmiljö med avseende på ergonomi och hörselvård vid musikutövning."]}

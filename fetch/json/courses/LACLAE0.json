@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"fordonsteknik – introduktion och kursen fordons- och transportbranschens villkor och arbetsområden",
 "instructiontext":"som bygger på kursen fordonsteknik – introduktion och kursen fordons- och transportbranschens villkor och arbetsområden.",
-"code":"LACLAE0"}
+"code":"LACLAE0",
+"goaltext":"Kursen lackeringsteknik &mdash; introduktion omfattar punkterna 1&mdash;3, 5&mdash;6 och 8&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,0,1,1,1],
+"level":"normal",
+"content":["Verksamhetsområden inom lackeringsteknik.",
+"Principer för lackskiktets uppbyggnad för att få ett gott korrosionsskydd och en i övrigt hållbar yta.",
+"Introduktion till reparationsmetoder för reparation av plastdetaljer och bilskadereparerad yta.",
+"Enklare lackeringsarbeten.",
+"Analys av lättare skada och de produkter som olika reparationer kräver.",
+"Handhavande och skötsel av verktyg, utrustning och produkter.",
+"Introduktion till lagar och andra bestämmelser som reglerar arbetet ur miljö- och arbetsmiljöperspektiv. Begränsningar av det arbete som får utföras ur säkerhetssynpunkt. Skyddsutrustning för olika arbeten, faror och olyckssamband samt riskbedömning av den egna och omgivande verksamheten. ",
+"Ergonomi med avsikt att förhindra lyftskador samt ansvar för den egna utrustningen och medvetenhet om objekt- och materialkostnad.",
+"Vård av den egna utrustningen samt ansvarstagande för objekt och material."]}

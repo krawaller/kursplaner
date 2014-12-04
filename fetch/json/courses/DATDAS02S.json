@@ -4,4 +4,17 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"dansteknik 1",
 "instructiontext":"som bygger på kursen dansteknik 1. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"DATDAS02S"}
+"code":"DATDAS02S",
+"goaltext":"Kursen dansteknik 2 omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;6. I kursen behandlas färdigheter inom vald genre.",
+"goals":[1,2,2,2,2,2,0,1,0],
+"level":"normal",
+"content":["Teknikträningens koder och konventioner.",
+"Träningsprocessens olika delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering samt sambandet mellan träningsprocessen och den danstekniska utvecklingen. Hur man kan följa sin egen kunskapsutveckling i dansteknik.",
+"Grundläggande dansteknik i två eller flera genrer samt fördjupat arbete med placering och hur den relaterar till dansteknik. ",
+"Fördjupad träning av kroppsminnet. Rörelsevokabulär i relation till stildrag och tydlighet i rörelser, tid, rum, dynamik samt kvaliteter som relaterar till tyngd, flöde och energi. Rörelsernas förhållande till musikens fraser, takter och dynamik.",
+"Grundläggande träning av den spatiala förmågan i relation till den egna kroppen, andra medverkande och till användning av rummet.",
+"Fördjupning om dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man uppfattar fraser, taktarter och musikens dynamik.",
+"Fördjupade kunskaper om hur den egna kroppen fungerar.",
+"Fördjupad träning i koordination, rörlighet, styrka och koncentration.",
+"Sammansättning av enklare fraser och övningar enligt genrernas konventioner.",
+"Begrepp, till exempel rörelsefraser och musikaliska fraser, rörelsekvaliteter som tyngd, flöde och energi samt dansgenrernas vokabulär."]}

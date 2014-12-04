@@ -1,4 +1,14 @@
 {"subject":"HAL",
 "name":"Mental träning",
 "points":100,
-"code":"HALMEN0"}
+"code":"HALMEN0",
+"goaltext":"Kursen mental träning omfattar punkterna 1&mdash;2, 4, 7 och 9 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,0,0,1,0,1],
+"level":"normal",
+"content":["Psykologiska faktorer i relation till prestation.",
+"Olika stressorer i vardagen.",
+"Teoretiska modeller för stresshantering.",
+"Aktuell forskning inom området.",
+"Motivation och målfokusering.",
+"Mentala avslappnings- och träningsmetoder, till exempel mindfulness.",
+"Pedagogiska modeller för instruktion och handledning."]}

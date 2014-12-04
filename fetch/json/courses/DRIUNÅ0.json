@@ -1,4 +1,16 @@
 {"subject":"DRI",
 "name":"Underhåll &mdash; lager och smörjteknik",
 "points":100,
-"code":"DRIUNÅ0"}
+"code":"DRIUNÅ0",
+"goaltext":"Kursen underhåll &mdash; lager och smörjteknik omfattar punkterna 1&mdash;2 och 4&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 6. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,0,2,1,2,0,0],
+"level":"basic",
+"content":["Planering, genomförande och dokumentation av smörjunderhåll.",
+"Sökning av teknisk data för olika lagertyper med tillhörande maskinelement.",
+"Mätprotokoll och monteringsprotokoll.",
+"Metoder för montering och demontering av olika lagertyper samt enklare tillståndskontroll.",
+"Smörjmedelstyper, smörjmedelskvaliteter och användningsområden. Olika smörjtekniker och smörjsystem.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Termer och begrepp inom teknikområdet.",
+"Grundläggande underhållstekniska begrepp och parametrar.",
+"Tribologiska grundbegrepp."]}

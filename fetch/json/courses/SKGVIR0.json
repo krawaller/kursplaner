@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"skogsskötsel 1",
 "instructiontext":"som bygger på kursen skogsskötsel 1.",
-"code":"SKGVIR0"}
+"code":"SKGVIR0",
+"goaltext":"Kursen virkeslära omfattar punkterna 1&mdash;2 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":["Olika trädslags egenskaper och användningsområden.",
+"Träets egenskaper, virkets förädling och användning samt sortiment.",
+"Skadesvampar och insektsangrepp på virke samt förebyggande åtgärder för virkesskydd.",
+"Aptering enligt instruktioner.",
+"Hantering, kvalitetsbedömning, volymberäkning och prissättning.",
+"Skogliga mått och omräkningstal.",
+"Ekonomisk aptering och prislistans uppbyggnad. ",
+"Virkesförsäljning, kontraktering och organisation av virkesmätning. ",
+"Uppföljning och virkesredovisning.",
+"Virkesmätningslagen och andra bestämmelser inom området."]}

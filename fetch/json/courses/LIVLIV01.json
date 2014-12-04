@@ -1,4 +1,17 @@
 {"subject":"LIV",
 "name":"Livsmedels- och näringskunskap 1",
 "points":100,
-"code":"LIVLIV01"}
+"code":"LIVLIV01",
+"goaltext":" Kursen livsmedels- och näringskunskap 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"basic",
+"content":["Identifiering och kvalitetsbedömning av råvaror och livsmedel.",
+"Näringsämnen, deras uppbyggnad och funktioner i kroppen samt deras betydelse för människors hälsa.",
+"Olika led i hanteringen av råvaror och livsmedel: odling, djurhållning, transport, förvaring och förädling.",
+"Hur olika tillagningsmetoder påverkar råvarors och livsmedels kvalitet och näringsinnehåll.",
+"Kemiska processer som pågår i råvaror och livsmedel vid förädling och förvaring.",
+"Näringsberäkningar. Hälsa och livsstil. Hur individers energibehov och näringsbehov påverkas av olika faktorer, till exempel aktivitet.",
+"Allergi- och specialkost. Näringstillstånd med kostrekommendationer för till exempel äldre, barn och sjuka.",
+"Kostsituationen i Sverige och i övriga världen, till exempel undernäring, fetma och resursfördelning.",
+"Etik och miljö när det gäller råvaru- och livsmedelshantering samt resurshushållning. ",
+"Lagar och andra bestämmelser inom området."]}

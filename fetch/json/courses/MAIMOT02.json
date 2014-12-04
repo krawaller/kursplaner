@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"motorelektronik 1",
 "instructiontext":"som bygger på kursen motorelektronik 1.",
-"code":"MAIMOT02"}
+"code":"MAIMOT02",
+"goaltext":"Kursen motorelektronik 2 omfattar punkterna 1&mdash;3 och 5&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,1,1],
+"level":"normal",
+"content":["Uppbyggnad och programmering av datorbaserade kontrollsystem för presentation av motordata.",
+"Sammankopplingstekniker för kommunikation mellan motortekniska installationer samt multifunktionsdisplayer.",
+"Analytisk felsökning på motorelektroniska system.",
+"Oscilloskopbaserade diagnosverktyg.",
+"Tolkning av installationsbeskrivningar och servicemanualer.",
+"Yrkets fackspråk, termer och begrepp.",
+"Beräkningar av material- och tidsåtgång samt kostnader.",
+"Sambandet mellan kvalitet och ekonomi.",
+"Dokumentation, presentation och utvärdering av arbete."]}

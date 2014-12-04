@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"ljudproduktion 2",
 "instructiontext":"som bygger på kursen ljudproduktion 2. ",
-"code":"LJUFIL0"}
+"code":"LJUFIL0",
+"goaltext":"Kursen film- och interaktiv ljudproduktion omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i film- och interaktiv ljudproduktion.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Filmljud och filmmusik. Planering, utformning och utvärdering.",
+"Produktionsmetoder, planering samt olika fiktiva produktioners kostnader och budget.",
+"Avancerad ljudredigering, ljudbearbetning och mastring. Hur arbetsprover kan utformas.",
+"Digital musikproduktion.",
+"Ljud i olika interaktiva produktioner. Hur det används, produceras och distribueras.",
+"Publicering på olika distributionsplattformar med betoning på interaktiva produktioner, musik och filmljud.",
+"Interaktivt berättande och tekniska verktyg.",
+"Filmljudets berättartekniska funktioner.",
+"Innehåll, form, teknik och målgrupp i ljudproduktioner ur ett estetiskt och etiskt perspektiv.",
+"Avtal och kontrakt samt bestämmelser och överenskommelser med betoning på interaktiva produktioner, musik och filmljud."]}

@@ -1,4 +1,14 @@
 {"subject":"LED",
 "name":"Ledarskap och organisation",
 "points":100,
-"code":"LEDLED0"}
+"code":"LEDLED0",
+"goaltext":"Kursen ledarskap och organisation omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Begrepp, teorier och modeller som förklarar hur individer och grupper fungerar i organisatoriska sammanhang samt hur ledarskap fungerar.",
+"Grupprocesser, grupputveckling och konflikthantering.",
+"Kommunikation, samverkan och motivationsskapande faktorer inom en organiserad verksamhet.",
+"Ledarskap på olika nivåer, ledarstilar och ledarroller. I samband med det behandlas personlig ledarutveckling och hur man tar tillvara egna och andras resurser.",
+"Organisationsformer: olika metoder att organisera en verksamhet för att nå uppsatta mål av olika karaktär.",
+"Organisationskulturer: antaganden, värderingar och normer som präglar en organisation samt hur organisationskulturen påverkar ledarskap, medarbetare och resultat.",
+"Ledarskap och organisation ur ett etiskt och historiskt perspektiv samt i relation till frågor om demokrati och genus."]}

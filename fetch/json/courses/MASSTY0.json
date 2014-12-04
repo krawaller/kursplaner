@@ -5,4 +5,14 @@
 "arr":["lastbilsmonterad hydraulik och pneumatik",
 "mobil hydraulik 1"]},
 "instructiontext":"som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1.",
-"code":"MASSTY0"}
+"code":"MASSTY0",
+"goaltext":"Kursen styr- och övervakningssystem omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Funktion hos och konstruktion av manövreringssystem och övervakning.",
+"Metoder för diagnos, funktions- och säkerhetskontroll samt reparation av styr- och övervakningssystem.",
+"Uppdatering och komponentbyte i styr- och övervakningssystem.",
+"Byte av komponenter och styrenheter samt digital uppdatering av maskin- och programvara i system för styrning och övervakning av komfort, säkerhet och emissioner.",
+"Byte av komponenter och styrenheter samt digital uppdatering av maskin- och programvara i system för manövrering och övervakning av fjädring, styranordning, drivlina, bromsar, mobila aggregat och tillbehör.",
+"Byte av komponenter och styrenheter samt digital uppdatering av maskin- och programvara för system som samverkar med nivåreglering och navigering.",
+"Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö."]}

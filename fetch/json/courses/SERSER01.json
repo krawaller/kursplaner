@@ -1,4 +1,17 @@
 {"subject":"SER",
 "name":"Servering 1",
 "points":100,
-"code":"SERSER01"}
+"code":"SERSER01",
+"goaltext":" Kursen servering 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3 och 7. I kursen behandlas grundläggande färdigheter i ämnet. ",
+"goals":[2,2,2,1,1,1,2,1],
+"level":"normal",
+"content":["Metoder, material, redskap och annan utrustning som används vid servering.",
+"Uppdukningar i matsal.",
+"Arbetsorganisation och servering av mat och dryck i matsal.",
+"Bärtekniker i matsal.",
+"Olika typer av serveringssätt, till exempel fatservering och bufféservering.",
+"Matsedlars och dryckeslistors uppbyggnad.",
+"Ansvarsfull alkoholservering och alkoholpolitik.",
+"Kommunikation, både verbal och icke verbal, gästbemötande, service och försäljning.",
+"Kassaarbete och kassarutiner.",
+"Lagar och andra bestämmelser inom området, till exempel i fråga om hygien, ergonomi och säkerhet samt ändamålsenlig klädsel."]}

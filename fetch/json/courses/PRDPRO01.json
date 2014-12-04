@@ -1,4 +1,16 @@
 {"subject":"PRD",
 "name":"Produktionskunskap 1",
 "points":100,
-"code":"PRDPRO01"}
+"code":"PRDPRO01",
+"goaltext":" Kursen produktionskunskap 1 omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,0,1],
+"level":"basic",
+"content":["Processen för hur en produktionsidé påverkar till exempel en produkts design, funktion och kvalitet. Hur förändringar när det till exempel gäller design, funktion och kvalitet påverkar befintlig produktion.",
+"Olika organisationsenheter, deras samarbete och hur de bildar en helhet och skapar ett sammanhang i industriteknisk produktion.",
+"Arbetsuppgifter och ansvarsområden inom produktionstekniska avdelningar och vilken funktion dessa fyller i företaget.",
+"Val av material, metod och teknik för såväl produktion som driftsäkerhet och underhåll för ett fungerande produktionsflöde och hållbar utveckling.",
+"Logistik i industriteknisk produktion, till exempel orderingång, råvaruinköp, produktionsplanering, personalfrågor, försäljning, marknadsföring och lagerföring.",
+"Produktionsekonomi, till exempel vilka intäkter och kostnader som finns för produktionen.",
+"Efterfrågans påverkan på produktionen. ",
+"Samarbetets betydelse för en fungerande och lönsam tillverkning.",
+"Begrepp och uttryck som är lämpliga för ämnesområdet."]}

@@ -1,4 +1,15 @@
 {"subject":"FLY",
 "name":"Flyglagstiftning",
 "points":50,
-"code":"FLYFLY0"}
+"code":"FLYFLY0",
+"goaltext":"Kursen flyglagstiftning omfattar punkterna 7&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,0,0,0,0,0,1,1,0],
+"level":"normal",
+"content":["Introduktion av regelverk.",
+"Regelverk för certifierande personal.",
+"Regelverk för godkända underhållsorganisationer.",
+"Regelverk för kommersiella flygtransporter.",
+"Regelverk för certifiering av luftfartyg.",
+"Regelverk för godkända operatörer.",
+"Samband mellan nationella och internationella regelverk med kopplingar till de olika verksamheterna.",
+"Olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem."]}

@@ -3,4 +3,13 @@
 "points":50,
 "requirements":"cad 1",
 "instructiontext":"som bygger på kursen cad 1.",
-"code":"CADCAD02"}
+"code":"CADCAD02",
+"goaltext":"Kursen cad 2 omfattar punkterna 1&mdash;2 och 4&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,1,1,1,0],
+"level":"normal",
+"content":["Cad-systemets inställningar för sammanställningar och analys.",
+"Skiss- och ritteknik inom valt teknikområde.",
+"Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+"Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+"Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+"Cad-systemets roll i produktutvecklings- och produktionsprocessen."]}

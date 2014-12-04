@@ -4,4 +4,16 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"produktionsutrustning 1",
 "instructiontext":"som bygger på kursen produktionsutrustning 1. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"PRUPRD02S"}
+"code":"PRUPRD02S",
+"goaltext":"Kursen produktionsutrustning 2 omfattar punkterna 1, 3, och 5&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i vald produktionsutrustning.",
+"goals":[1,0,1,0,1,1,1,1],
+"level":"normal",
+"content":["Arbete med och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.",
+"Funktion och konstruktion hos relevant produktionsutrustning och kringutrustning.",
+"Enklare funktionskontroll och mätningar samt visst underhåll av produktionsutrustning och kringutrustning.",
+"Enklare dimensionering och tekniska beräkningar.",
+"Användningsområden för relevant produktionsutrustning och kringutrustning.",
+"Enklare begrepp, metoder och tekniker för industriteknisk produktionsutrustning och kringutrustning.",
+"Enklare teknisk beskrivning för produktionsutrustning och kringutrustning.",
+"Materialegenskaper och materialets betydelse för funktion och kvalitet hos produktionsutrustning och kringutrustning samt produkter.",
+"Mätning och dokumentation av kvalitet på utfört arbete."]}

@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"baskurs i lackering",
 "instructiontext":"som bygger på kursen baskurs i lackering.",
-"code":"LACLAC0"}
+"code":"LACLAC0",
+"goaltext":"Kursen lackeringssystem omfattar punkterna 2&mdash;4, 6 och 8&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,1,1,1,0,1,0,1,1,1],
+"level":"normal",
+"content":["Modeller för att beskriva processer och skeenden.",
+"Produkters egenskaper och användningsområden sammansatta till produktionssystem med hänsyn tagen till underlagets betydelse för det färdiga resultatet.",
+"Applicering och slipteknik. Optimering av utrustning, produkter och utförande för levererbart resultat.",
+"Ytdefekter och åtgärder för dessa kopplat till kostnad.",
+"Utvändig och invändig rekonditionering av personbilar.",
+"Fastställande av kulör.",
+"Principer för luftföring och ventilation i lokaler som är anpassade för arbeten med lösningsmedel. ",
+"Arbetsteknik och skyddsutrustning anpassat till produktionslackering. Ergonomi i syfte att förhindra förslitningsskador."]}

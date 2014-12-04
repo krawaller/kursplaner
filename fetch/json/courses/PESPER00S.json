@@ -6,4 +6,12 @@
 "arr":["persontrafik 1a och persontrafik 1b",
 "på persontrafik – vux"]},
 "instructiontext":"som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik – vux. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"PESPER00S"}
+"code":"PESPER00S",
+"goaltext":"Kursen persontransporter &mdash; specialisering omfattar punkterna 4&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.",
+"goals":[0,0,0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Körning och manövrering av vald buss inom specialiseringen, i skiftande trafikmiljöer och med ett avancerat, rationellt och trafiksäkert körsätt. Funktionstillsyn och säkerhetskontroll av fordon och utrustning.",
+"Körteknik och handhavande av fordonets utrustning före och under färd.",
+"Planering och genomförande av transporter mot olika resmål.",
+"Passagerarsäkerhet och tillvägagångssätt vid olyckstillbud.",
+"Kundbemötande och service till passagerare samt aktuell information före och under resan."]}

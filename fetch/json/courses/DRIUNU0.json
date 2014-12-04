@@ -1,4 +1,15 @@
 {"subject":"DRI",
 "name":"Underhåll &mdash; pumpteknik",
 "points":100,
-"code":"DRIUNU0"}
+"code":"DRIUNU0",
+"goaltext":"Kursen underhåll &mdash; pumpteknik omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,1,2,1,1,0,0],
+"level":"basic",
+"content":["Planering, genomförande och dokumentation av förebyggande och avhjälpande underhåll av vald pumputrustning.",
+"Grundläggande principer för vald pumpteknik, pumpprestanda och pumpkonstruktion.",
+"Grundläggande teorier, begrepp och terminologi inom teknikområdet.",
+"Termisk inverkan på pumpar och medier.",
+"Avtätningssystem, tätningstyper, kopplingar för drivning och lagerteknik.",
+"Montering, demontering, uppriktning, balansering och vibrationsmätning på utrustning.",
+"Analys av mätvärden och utvärdering av tänkbara felkällor.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet."]}

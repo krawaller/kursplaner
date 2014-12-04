@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"scenisk gestaltning 2",
 "instructiontext":"som bygger på kursen scenisk gestaltning 2.",
-"code":"TEASCE03"}
+"code":"TEASCE03",
+"goaltext":"Kursen scenisk gestaltning 3 omfattar punkterna 1&mdash;3 och 5&mdash;9 under rubriken Ämnets syfte, med betoning på punkt 5.",
+"goals":[1,1,1,0,1,1,1,1,1,0],
+"level":"normal",
+"content":["Gestaltning med fokus på något eller några av teaterns uttrycksområden, dvs. kropp, röst, scenografi, mask, kostym, ljud eller ljus.",
+"Gestaltning av en scenisk berättelse.",
+"Arbetsprocessen med en scenisk produktion från idé till färdig föreställning. Repetitionsarbetets olika stadier och samverkan mellan samtliga uttrycksområden i en scenisk produktion.",
+"Scenisk produktion, möte med publik.",
+"Teatern som kollektiv konstart, samarbetets betydelse för att skapa en scenisk produktion.",
+"Reflektion över det egna skapandet.",
+"Analys och tolkning av sceniska gestaltningar med fokus på att förmedla en berättelse till publik.",
+"Begrepp för analys av scenisk gestaltning, till exempel helhet, samband och samverkan."]}

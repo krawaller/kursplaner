@@ -1,4 +1,14 @@
 {"subject":"BEV",
 "name":"Brand och räddning",
 "points":200,
-"code":"BEVBRA0"}
+"code":"BEVBRA0",
+"goaltext":"Kursen brand och räddning omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. ",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Regler för brandskydd i byggnader och grunderna i ett systematiskt brandskyddsarbete<i>.</i>",
+"Brandbekämpningsresurser inom räddningstjänsten, till exempel kommunens räddningstjänst.",
+"Åtgärder för att förhindra och mildra fortsatta skador på liv, egendom och miljö vid brand i byggnad.",
+"Faktorer som ligger bakom en brands uppkomst och vad som styr spridningen av en brand.",
+"Brandbekämpningsutrustning, till exempel räddningstjänstens fordon och utrustning, handbrandsläckare, brandfilt.",
+"Räddningstjänstens yrkesroller och arbetsuppgifter.",
+"Arbetsmiljö- och säkerhetsaspekter i samband med bekämpande av en brand. "]}

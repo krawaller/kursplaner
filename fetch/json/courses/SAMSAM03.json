@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"samhällskunskap 2",
 "instructiontext":"som bygger på kursen samhällskunskap 2.",
-"code":"SAMSAM03"}
+"code":"SAMSAM03",
+"goaltext":"Kursen samhällskunskap 3 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,2,1,1],
+"level":"high",
+"content":["Globalisering och dess betydelse utifrån ett demokratiskt, ekonomiskt och politiskt perspektiv samt för individer, grupper och nationer. Analys av utmaningar som individen, nationen och jorden står inför i en globaliserad värld.",
+"Introduktion av vetenskapsteori.",
+"Hur vetenskapliga begrepp används i samhällsdebatten och påverkar individens syn på sig själv, på andra och på det omgivande samhället.",
+"Tillämpning av samhällsvetenskapliga begrepp, teorier, modeller och metoder i arbetet med komplexa samhällsfrågor.",
+"Källkritisk granskning, tolkning och värdering av information från olika medier och källor i arbetet med komplexa samhällsfrågor. Källhänvisning enligt vanliga system.",
+"Muntlig och skriftlig presentation i utredande och andra former och med olika tekniker som är vanliga inom området, till exempel debatter, debattartiklar, rapporter och essäer."]}

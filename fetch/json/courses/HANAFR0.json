@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"praktisk marknadsföring 1",
 "instructiontext":"som bygger på kursen praktisk marknadsföring 1.",
-"code":"HANAFR0"}
+"code":"HANAFR0",
+"goaltext":"Kursen affärsutveckling och ledarskap omfattar punkterna 2&mdash;3 och 5&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,1,1,0,1,1,1,1,1,1],
+"level":"high",
+"content":["Affärsutveckling, omvärldsanalys och marknadsundersökningar.",
+"Affärsidé, koncept, försäljningskanaler och positionering.",
+"Entreprenörskap och eget företagande.",
+"Praktisk butiksdrift.",
+"Säljmiljö, inredning och utrustning i butiker.",
+"Ledarens roll och uppgifter i butiker, stormarknader och varuhus.",
+"Arbetsledning samt organisations- och personalfrågor, till exempel projektledning, konflikthantering, samarbete, sociala normer och arbetsvillkor.",
+"Lagar och andra bestämmelser, till exempel om arbetsrätt.",
+"Olika tekniker och metoder för ekonomiska beräkningar samt riskbedömningar och nyckeltal.",
+"Säkerhet och risker i handeln samt förebyggande arbete för god inre och yttre säkerhet."]}

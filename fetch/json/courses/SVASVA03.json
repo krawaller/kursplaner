@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"svenska som andraspråk 2",
 "instructiontext":"som bygger på kursen svenska som andraspråk 2.",
-"code":"SVASVA03"}
+"code":"SVASVA03",
+"goaltext":"Kursen svenska som andraspråk 3 omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,1],
+"level":"normal",
+"content":["Muntlig framställning av utredande och argumenterande slag för olika mottagare. Strategier för att förstå och göra sig förstådd i samtal, diskussioner, debatter och föredrag. Faktorer som gör en muntlig presentation intressant och övertygande och hur presentationstekniska hjälpmedel kan användas för att stödja och förbättra en muntlig presentation. Deltagande i samtal och diskussioner, där språk, innehåll och disposition anpassats till syfte och mottagare, och där argument används för att tydliggöra egna åsikter och bemöta andras argument. Disposition, språkliga drag och retoriska grepp i olika typer av muntlig framställning.",
+"Skriftlig framställning av utredande och argumenterande texter av vetenskaplig karaktär. Strategier för att skriva olika typer av texter som är anpassade efter ämne, syfte, situation och mottagare. Textuppbyggnad, textmönster och språkliga drag. Referat- och citatteknik samt grundläggande kunskaper i källkritik.",
+"Svenska språkets ordförråd och struktur i olika kommunikationssituationer.",
+"Läsning av och samtal om texter av olika slag, med tonvikt på att strukturera, referera, värdera och kritiskt granska större textmängder, samt diskutera dispositionen, språket och stilen i texter av vetenskaplig karaktär.",
+"Läsning av och samtal om skönlitteratur författad av såväl kvinnor som män från olika kulturer och tider, med tonvikt på att sammanfatta, tolka, värdera och referera till texterna.",
+"Språklig variation och språkanvändning, med tonvikt på hur kön, social bakgrund och kulturell tillhörighet påverkar människors sätt att tala och skriva och hur språket kan användas för att uttrycka maktförhållanden. Skillnader mellan majoritetssamhällets och minoriteternas språkbruk.",
+"Reflektion över språkinlärning, med tonvikt på att utveckla strategier för fortsatt lärande."]}

@@ -3,4 +3,11 @@
 "points":100,
 "requirements":"vattenkraftstationer",
 "instructiontext":"som bygger på kursen vattenkraftstationer.",
-"code":"VAEHYD0"}
+"code":"VAEHYD0",
+"goaltext":"Kursen hydraulik, kraftstationshydraulik och turbiner omfattar punkterna 1&mdash;2, 6 och 10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,0,0,0,1,0,0,null,1],
+"level":"high",
+"content":["Hydraulikkomponenters funktion och användning.",
+"Olika turbinmodellers uppbyggnad och funktion.",
+"Kraftstationshydraulik och turbinreglering.",
+"Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar."]}

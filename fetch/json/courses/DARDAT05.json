@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"datorstyrd produktion 4",
 "instructiontext":"som bygger på kursen datorstyrd produktion 4.",
-"code":"DARDAT05"}
+"code":"DARDAT05",
+"goaltext":"Kursen datorstyrd produktion 5 omfattar punkterna 1 och 3&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,0,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Programmering, problemlösning och operatörsarbete i datorstyrd utrustning med programmerbar villkorsstyrd kringutrustning och materialhanteringssystem.",
+"Enklare säkerhetsanalys vid automatiserad bearbetning.",
+"Operatörsarbete i datorstyrd utrustning med övervakning och styrning med hjälp av kvalitetsstyrningsmetoder.",
+"Operatörsarbete i robotbetjänad utrustning.",
+"Arbete med metoder och verktyg för processtyrning.",
+"Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.",
+"Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+"Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."]}

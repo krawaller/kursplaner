@@ -1,4 +1,15 @@
 {"subject":"SNO",
 "name":"Pistmaskinkörning",
 "points":100,
-"code":"SNOPIS0"}
+"code":"SNOPIS0",
+"goaltext":"Kursen pistmaskinkörning omfattar punkterna 1&mdash;2, 4&mdash;5 och 7&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,1,0,1,1,0],
+"level":"normal",
+"content":["Olika typer av snöfordon, deras utrustning och användningsområden.",
+"Funktions- och säkerhetskontroll samt vård och underhåll av pistmaskin och utrustning.",
+"Användning av olika informationssystem för färdplanering och vägval samt planering av körtider.",
+"Körning och manövrering av pistmaskin i skiftande prepareringsområden med rätt nyttjande av pistmaskinens kapacitet.",
+"Val av inställningar och motorvarvtal samt användning av övriga tekniska funktioner för ökad framkomlighet i olika terrängförhållanden och väderlek.",
+"Avancerad körteknik och köruppträdande med hög säkerhetsnivå i prepareringsområden.",
+"Användning av mobil kommunikationsutrustning under färd.",
+"Ergonomi i förarmiljön."]}

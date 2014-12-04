@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"specialpedagogik 1",
 "instructiontext":"som bygger på kursen specialpedagogik 1.",
-"code":"SPCSPE02"}
+"code":"SPCSPE02",
+"goaltext":"Kursen specialpedagogik 2 omfattar punkterna 2&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Innehållet i, bakgrunden till och framväxten av organisationer, arbetssätt och olika insatser inom funktionshinderområdet.",
+"Användande, utveckling och anpassning av specialpedagogiska arbetssätt och övriga hjälpmedel.",
+"Kritisk bearbetning av information från olika källor.",
+"Lagar, förordningar, internationella överenskommelser och riktlinjer som styr insatser och verksamheter för människor med funktionsnedsättningar.",
+"Lagar, andra bestämmelser och praxis när det gäller arbetsmiljö, säkerhet och yrkesetik inom funktionshinderområdet.",
+"Planering, genomförande, utvärdering, uppföljning och dokumentation av olika insatser och aktiviteter.",
+"Interaktion och kommunikation i samarbete och möten med människor."]}

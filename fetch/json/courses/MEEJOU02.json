@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"journalistik, reklam och information 1",
 "instructiontext":"som bygger på kursen journalistik, reklam och information 1.",
-"code":"MEEJOU02"}
+"code":"MEEJOU02",
+"goaltext":"Kursen journalistik, reklam och information 2 omfattar punkterna 2&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,1,1,1,1,1,0,0],
+"level":"high",
+"content":["Analys av olika mediers räckvidd och genomslagskraft på olika målgrupper.",
+"Analys av olika budskapsinnehåll, avseende språk och gestaltning, som är riktade mot en tänkt målgrupp genom användande av socialpsykologiska begrepp, till exempel perception, varseblivning och kognitiv dissonans.",
+"Metoder för utformning och presentation av reklamtexter, informationstexter och journalistiska texter och arbeten.",
+"Utformning av reklamtexter, informationstexter och journalistiska texter grundade på fakta och saklighet, riktade till olika målgrupper, för såväl intern som extern kommunikation.",
+"Olika former av marknadsundersökningar och publika undersökningar, till exempel segmentering, tracking, konsumentpaneler och tittar- och läsvärdesundersökningar, i relation till olika typer av medier.",
+"Informationssökning via olika kanaler, källor och digitala medietillämpningar samt metoder för kritisk granskning av deras relevans och trovärdighet."]}

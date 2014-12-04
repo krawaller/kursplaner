@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"yrkestrafik 1a och kursen yrkestrafik 1b",
 "instructiontext":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
-"code":"PESPER01a"}
+"code":"PESPER01a",
+"goaltext":"Kursen persontrafik 1a omfattar punkterna 3&mdash;7 och 9&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,0,1,1,1,1,1,0,1,1],
+"level":"normal",
+"content":["Användning av mobil kommunikationsutrustning under färd.",
+"Körning och manövrering av tung buss i skiftande trafikmiljöer med rätt nyttjande av bussens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.",
+"Service, tillsyn, vård och underhåll av fordon, utrustning och lastutrymmen.",
+"Avancerad körteknik, mjukhet vid inbromsningar och stopp, betryggande säkerhetsavstånd till övrig trafik samt manövrering och trafikuppträdande vid hållplatser för av- och påstigning.",
+"Användning av olika informationssystem för färdplanering och vägval samt planering av körtider fram till olika resmål.",
+"Körträning i linjetrafik utifrån tidtabell och rutiner vid hållplatser.",
+"Körträning i beställningstrafik med passagerare, med planering av färdvägar och tidsplaner för resmål. Förmedlande av aktuell information till resande.",
+"Lastsäkring av resgods och viktberäkningar utifrån fordonets kapacitet och vägval.",
+"Ergonomi i förarmiljön och vid lastning av gods."]}

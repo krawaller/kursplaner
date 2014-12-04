@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"musikproduktion 1",
 "instructiontext":"som bygger på kursen musikproduktion 1.",
-"code":"MUSMUS02"}
+"code":"MUSMUS02",
+"goaltext":"Kursen musikproduktion 2 omfattar punkterna 5 och 8&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 8. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,0,0,0,1,0,0,2,1],
+"level":"high",
+"content":["Akustiska och elektriska instrument och deras konstruktion, funktion och egenskaper samt röstens fysiologi.",
+"Fördjupad bearbetning av ljud med analog och digital teknik. Teknik och metoder för musiksampling samt bearbetning av midisignaler.",
+"Fördjupad ljuddesign för publik och scen, till exempel enklare beräkningar av ljudtryck och spridningsområde, planering och val av utrustning.",
+"Koppling, synkronisering och styrning av ljudutrustning vid inspelningar och scenframföranden, både avseende publikljud och scenljud med monitormixning. Ljudnivåmätning.",
+"Fördjupad liveteknik, till exempel digital signaldistribution, förinställning och intrimning av ljudutrustning.",
+"Interaktion mellan musikproduktion och andra medier, till exempel film och tv.",
+"Ellära som är relevant för musikproduktion.",
+"Felsökning, underhåll och enkel reparation av musikteknisk utrustning.",
+"Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra och med ett konstnärligt kvalitativt resultat."]}

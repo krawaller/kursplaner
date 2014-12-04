@@ -3,4 +3,11 @@
 "points":100,
 "requirements":"religionskunskap 1",
 "instructiontext":"som bygger på kursen religionskunskap 1.",
-"code":"RELREL0"}
+"code":"RELREL0",
+"goaltext":"Kursen religionskunskap &mdash; specialisering omfattar punkterna 1 och 3&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,0,1,1,1],
+"level":"high",
+"content":["Fördjupning inom något eller några av ämnets kunskapsområden, till exempel centrala idéer, etiska principer, texter, riter och handlingsmönster i en eller flera valda religioner och livsåskådningar.",
+"Begrepp, teorier och metoder som är relevanta för kunskapsområdet.",
+"Analys och diskussion av kunskapsområdet ur historiska och samtida perspektiv.",
+"Källkritisk metod inom kunskapsområdet. Granskning, analys och tolkning av texter, bilder och annat material som det valda kunskapsområdet har gett upphov till samt av hur det valda kunskapsområdet framställs i olika medier och källor."]}

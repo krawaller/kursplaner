@@ -4,4 +4,13 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"animation 2",
 "instructiontext":"som bygger på kursen animation 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"ANIANI00S"}
+"code":"ANIANI00S",
+"goaltext":"Kursen animation &mdash; specialisering omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 5 och 7&mdash;8. I kursen behandlas fördjupade kunskaper inom valt material.",
+"goals":[1,2,1,1,2,1,2,2,1,1],
+"level":"normal",
+"content":["Produktionsprocessen: idé, synopsis, manus och storyboard, genomförande, efterbearbetning och publicering.",
+"Dokumentation och värdering av den pågående processen.",
+"Kombination av olika tekniska verktyg för animation inom valt material.",
+"Effektanimation, till exempel vatten, rök och eld.",
+"Det egna bildspråket och hur man kan utveckla sitt bildspråk.",
+"Lagar och andra bestämmelser om upphovsrätt."]}

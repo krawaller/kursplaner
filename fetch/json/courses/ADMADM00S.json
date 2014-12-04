@@ -6,4 +6,17 @@
 "arr":["servicekunskap",
 "administration 1"]},
 "instructiontext":"som bygger på kursen servicekunskap eller kursen administration 1. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"ADMADM00S"}
+"code":"ADMADM00S",
+"goaltext":"Kursen administration &mdash; specialisering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt verksamhetsområde.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Administrativa rutiner och dokumentutformning inom valt verksamhetsområde.",
+"Organisation och ansvarsfördelning inom valt verksamhetsområde.",
+"Företagande och entreprenörskap inom valt verksamhetsområde.",
+"Arbetsmarknaden samt dess utveckling och framtid inom det administrativa området.",
+"Digitala administrativa hjälpmedel i arbetet, till exempel ordbehandlings-, kalkyl-, register- och presentationsprogram.",
+"Sociala medier, intranät och internet.",
+"Administrativa arbetsuppgifter i olika företag och organisationer, till exempel handelsföretag, tjänsteföretag, kommunal och statlig förvaltning.",
+"Arbetsrätt, den enskildes rättigheter och skyldigheter.",
+"Diskriminerings- och säkerhetsfrågor samt frågor om resurshushållning och miljö.",
+"Etik och kvalitet."]}

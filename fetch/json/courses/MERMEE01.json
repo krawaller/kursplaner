@@ -1,4 +1,13 @@
 {"subject":"MER",
 "name":"Medier, samhälle och kommunikation 1",
 "points":100,
-"code":"MERMEE01"}
+"code":"MERMEE01",
+"goaltext":"Kursen medier, samhälle och kommunikation 1 omfattar punkterna 1&mdash;4 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;4.",
+"goals":[2,2,2,2,0,0,1],
+"level":"normal",
+"content":["Mediernas tillkomst, utveckling och påverkan ur ett historiskt och dagsaktuellt perspektiv. Mediernas roll i samhället och deras betydelse för demokratin och samtidskulturen.",
+"Analys av nationella och internationella mediestrukturer samt pågående förändringar inom dem.",
+"Strukturer och ägandeförhållanden inom mediesektorn på såväl nationell som internationell nivå.",
+"Grundläggande kommunikationsteori samt masskommunikation via både traditionella medier och nya medieformer.",
+"Lagar och andra bestämmelser samt internationella överenskommelser och etiska regler inom kommunikationsområdet.",
+"Analoga och digitala medietillämpningars betydelse för medieutvecklingen såväl historiskt som nationellt och globalt samt som plattform för nationell och internationell opinionsbildning."]}

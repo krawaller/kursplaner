@@ -3,4 +3,8 @@
 "points":100,
 "requirements":"praktisk ellära",
 "instructiontext":"som bygger på kursen praktisk ellära.",
-"code":"ELPINS0"}
+"code":"ELPINS0",
+"goaltext":"Kursen installationer omfattar punkterna 2&mdash;3 och 5&mdash;7 under rubriken Ämnets syfte. ",
+"goals":[0,1,1,0,1,1,1,0,0],
+"level":"normal",
+"content":{}}

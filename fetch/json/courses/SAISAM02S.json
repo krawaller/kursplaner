@@ -4,4 +4,17 @@
 "repeat":"Kursen kan läsas flera gånger med innehåll från olika hantverksområden.",
 "requirements":"samiskt hantverk 1",
 "instructiontext":"som bygger på kursen samiskt hantverk 1. Kursen kan läsas flera gånger med innehåll från olika hantverksområden.",
-"code":"SAISAM02S"}
+"code":"SAISAM02S",
+"goaltext":"Kursen samiskt hantverk 2 omfattar punkterna 2&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 7&mdash;9. I kursen befästs grundkunskaperna i valt hantverksområde. ",
+"goals":[0,2,1,2,1,1,2,2,2,1],
+"level":"normal",
+"content":["Kreativt och metodiskt tänkande i samiskt hantverk.",
+"Beskrivning, hantering och kvalitetsbedömning av materialet redan vid materialinsamlingen.",
+"Materialets uppbyggnad och tillväxt.",
+"Färgers, formers och proportioners betydelse vid planering av produkter.",
+"Ekonomiska beräkningar samt bedömning av produktens kvalitet och estetiska värde.",
+"Traditionella samiska måttenheter samt internationella måttenheter och standarder.",
+"Beskrivning och dokumentation av idéer och arbetsprocesser med hjälp av fackspråk och samisk terminologi.",
+"Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och hur man använder skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel återvinning och källsortering. "]}

@@ -1,4 +1,16 @@
 {"subject":"HAA",
 "name":"Kost, måltid och munhälsa",
 "points":100,
-"code":"HAAKOS0"}
+"code":"HAAKOS0",
+"goaltext":"Kursen kost, måltid och munhälsa omfattar punkterna 1&mdash;2, 5 och 7&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,0,0,1,0,1,1,1],
+"level":"normal",
+"content":["Näringsbehov, nutrition och nationella kostrekommendationer.",
+"Livsmedelshygien och hantering av livsmedel för bevarande av dess näringsinnehåll.",
+"Kulturella aspekter på kost och måltid samt måltidsmiljöns estetiska och psykosociala aspekter.",
+"Sambanden mellan kost, levnadsvanor, hälsa och välbefinnande.",
+"Balanserad kost och specialkost vid ohälsa, sjukdom och funktionsnedsättning.",
+"Functional food, dvs. livsmedel med specifika fysiologiska hälsoeffekter.",
+"Tillagning, iordningställande och servering av måltider.",
+"Svälj- och matsmältningsbesvär samt anpassning av kosten vid olika sjukdomstillstånd.",
+"Munhygien och munvård hos äldre och sjuka."]}

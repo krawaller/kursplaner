@@ -4,4 +4,13 @@
 "requirements":"florist 5",
 "notwith":"florist 6a",
 "instructiontext":"som bygger på kursen florist 5. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen florist 6a.",
-"code":"HAVFLO06b"}
+"code":"HAVFLO06b",
+"goaltext":"Kursen florist 6a omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6. I kursen behandlas fördjupad färdighetsträning.",
+"goals":[2,1,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Avancerade floristiska arbeten. Effektivt och kreativt produktionsarbete med lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas planering av tidsåtgång och kostnadsberäkning med hjälp av kalkyleringsprogram samt val av material med miljöhänsyn.",
+"Kommunikation kring arbetsprocessen samt utvärdering och analys av det färdiga resultatet.",
+"Digitala tekniker vid försäljning samt vid presentation av idé och resultat.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad produktion, försäljning och service."]}

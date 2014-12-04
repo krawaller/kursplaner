@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"samiskt hantverk 3",
 "instructiontext":"som bygger på kursen samiskt hantverk 3.",
-"code":"SAISAM04"}
+"code":"SAISAM04",
+"goaltext":"Kursen samiskt hantverk 4 omfattar punkterna 2&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;3, 6&mdash;8 och 10. I kursen behandlas utökade fördjupade kunskaper i ämnet.",
+"goals":[0,2,2,1,1,2,2,2,1,2],
+"level":"normal",
+"content":["Produkt- och materialkunskap i samband med planering och genomförande.",
+"Produktionsplanering för effektivisering. I samband med det behandlas material-, tids- och kostnadskalkyler.",
+"Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer. Analys av färg, form och proportioner för kvalitetshöjning av resultat.",
+"Fackspråk och samisk terminologi, anpassat efter situation och mottagare, till exempel vid kommunikation med bransch och kund.",
+"Utvärdering och analys av arbetsprocess och resultat.",
+"Digitala tekniker för presentation av det färdiga arbetet.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service, till exempel vid kundsamtal."]}

@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"de kunskaper grundskolan ger eller motsvarande",
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande.",
-"code":"SVASVA01"}
+"code":"SVASVA01",
+"goaltext":"Kursen svenska som andraspråk 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Muntliga presentationer och muntligt berättande för olika mottagare. Strategier för att förstå och göra sig förstådd i samtal och diskussioner. Deltagande i samtal och diskussioner, där språk, innehåll och disposition anpassats till ämne, syfte, situation och mottagare, och där argument används för att tydliggöra egna åsikter och bemöta andras argument.",
+"Skriftlig framställning av texter för kommunikation och reflektion. Strategier för att skriva olika typer av texter som är anpassade efter ämne, syfte, situation och mottagare. Textuppbyggnad, textmönster och språkliga drag i framför allt berättande, beskrivande och argumenterande texter. Referat- och citatteknik samt hänvisningar till olika källor.",
+"Svenska språkets ordförråd och struktur i olika kommunikationssituationer.",
+"Läsning av och samtal om texter som används i vardags-, samhälls-, studie- och arbetsliv.",
+"Läsning av och samtal om modern skönlitteratur författad av såväl kvinnor som män som ger inblick i olika kulturer, allmänmänskliga teman och svenska referensramar.",
+"Språklig variation i Sverige och i det svenska språket, med tonvikt på hur språkvariationen hänger samman med till exempel ursprung och bostadsort, ålder, kön och social bakgrund. Attityder till språklig variation. Skillnader mellan formellt och informellt språkbruk samt talat och skrivet språk.",
+"Jämförelse mellan svenska språket och elevens modersmål.",
+"Reflektion över språkinlärning, med tonvikt på hur muntliga situationer och texter kan användas för att bygga upp ordförrådet och utveckla språket."]}

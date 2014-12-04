@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"grafisk kommunikation 1",
 "instructiontext":"som bygger på kursen grafisk kommunikation 1.",
-"code":"GRAGRA02"}
+"code":"GRAGRA02",
+"goaltext":" Kursen grafisk kommunikation 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Funktioner inom det grafiska området och deras inbördes förhållande.",
+"Kreativa processer för att skapa budskap och visuella idéer.",
+"Typografiska regler, typografisk hantering av olika budskapsmodeller, typografi i layout- och illustrationsprogram, kalligrafi.",
+"Layout i spaltarrangemang och med hjälp av gridteknik, symmetri och asymmetri, gestaltpsykologiska regler och redigering i layoutprogram. Grafiska profilprogram och varumärkeskonstruktion. ",
+"Färg- och bildhantering i relevanta layout-, illustrations- och bildbehandlingsprogram, bildformat, bildkomprimering, grafiska färgsystem.",
+"Utskrifts- och originalhantering i illustrations-, bildbehandlings- och layoutprogram samt anpassning för publicering via tryckprocesser eller webb.",
+"Analys utifrån vetenskapliga modeller inom bild- och kommunikationsteori, till exempel semiotik, bildretorik och grafisk funktionsanalys.",
+"Relevant fackspråk inom typografi, layout, gestaltpsykologi, färglära och utskriftshantering."]}

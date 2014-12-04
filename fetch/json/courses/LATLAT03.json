@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"latin – språk och kultur 2",
 "instructiontext":"som bygger på kursen latin – språk och kultur 2.",
-"code":"LATLAT03"}
+"code":"LATLAT03",
+"goaltext":"Kursen latin &mdash; språk och kultur 3 omfattar punkterna 1&mdash;3 och 5&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,0,1,1],
+"level":"high",
+"content":["Läsning och tolkning av klassiska och efterklassiska latinska texter av olika slag, både prosa och poesi, utifrån elevernas intressen, till exempel tal, historiska texter och kärleks- och hjältedikter.",
+"Grunderna i läsning av latinsk vers.",
+"Fördjupning i latinets formlära och syntax. Relevanta begrepp som behövs för att beskriva och analysera språket.",
+"Utökat latinskt ordförråd med referenser till andra språk.",
+"Det romerska rikets historia, kultur och samhällsliv med utgångspunkt i de texter som läses. Hur händelser, företeelser och idéer kommer till uttryck i texterna samt hur texterna har påverkat senare tiders kulturer och samhällen fram mot vår egen tid.",
+"Teman som är centrala i romersk litteratur, till exempel synen på livet, människan, historien och kärleken. Hur dessa teman har påverkat senare tiders litteratur och konst.",
+"Språklig, litterär eller kulturhistorisk fördjupning inom valt område."]}

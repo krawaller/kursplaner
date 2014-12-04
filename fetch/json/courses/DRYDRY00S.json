@@ -4,4 +4,17 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"drycker",
 "instructiontext":"som bygger på kursen drycker. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"DRYDRY00S"}
+"code":"DRYDRY00S",
+"goaltext":"Kursen drycker &mdash; specialisering omfattar punkterna 2&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+"goals":[0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Drycker inom valt specialiseringsområde: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris. Exempel på specialiseringsområden kan vara kaffe, öl, champagne, barteknik, viner från olika delar av världen, vintillverkning och vinprovning.",
+"Trender, traditioner och utveckling inom valt specialiseringsområde.",
+"Påverkan från olika kulturer inom valt specialiseringsområde.",
+"Yrkesmässiga och experimentella metoder och tekniker inom valt specialiseringsområde.",
+"Material, redskap och utrustning för arbete med drycker.",
+"Hygieniskt, ergonomiskt och säkert arbetssätt.",
+"Provningsmetoder och sensorik.",
+"Identifiering och bedömning av dryckers kvalitet.",
+"Utformning av dryckeslistor inom valt specialiseringsområde.",
+"Kundbemötande och fackspråk."]}

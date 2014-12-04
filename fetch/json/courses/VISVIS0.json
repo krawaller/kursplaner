@@ -1,4 +1,14 @@
 {"subject":"VIS",
 "name":"Visuell kommunikation",
 "points":100,
-"code":"VISVIS0"}
+"code":"VISVIS0",
+"goaltext":" Kursen visuell kommunikation omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. ",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Analys av hur fotografiet och den rörliga bilden har använts inom olika områden och vid olika tidpunkter för att bära olika typer av budskap. ",
+"Visuell kommunikation som bärare av budskap.",
+"Teknikens utveckling och dess påverkan på den visuella kulturen.",
+"Avsändar- och mottagarperspektiv samt bilddistribution och bildkonsumtion.",
+"Semiotik, kontext och dramaturgi.",
+"Bildteoretiska modeller och teorier.",
+"Fotografiska och rörliga bilder och deras samspel med andra uttycksformer, till exempel text och ljud."]}

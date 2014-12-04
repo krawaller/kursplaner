@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"fotografisk bild 2",
 "instructiontext":"som bygger på kursen fotografisk bild 2.",
-"code":"FOTFOT03"}
+"code":"FOTFOT03",
+"goaltext":"Kursen fotografisk bild 3 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;5 och 7. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,2,2,2,2,1,2,0,0],
+"level":"high",
+"content":["Den fotografiska processen med särskilt fokus på den digitala bilden.",
+"Den fotografiska produktionsprocessen ur ett yrkesperspektiv, dvs. arbetsorganisation, arbetsdisciplin, initiativförmåga, omdömesförmåga, tidsramar och kostnadsramar.",
+"Initiering, planering och genomförande av fotografiska projekt.",
+"Avancerad studiofotografering och ljussättning med digital utrustning.",
+"Metoder för att utveckla kommunikationsförmåga och ett personligt bildspråk. ",
+"Fördjupning av fotografiets historia från camera obscura till dagens kamerateknik.",
+"Den fotografiska bildens användningsområden inom till exempel vetenskaplig kunskapsutveckling, sjukvård, information, medier, internet, näringsliv och kultur. Villkor och kvalitetskrav för publicering på internet eller i grafisk produktion och vid olika utskrifter.",
+"Lagar och andra bestämmelser om upphovsrätt och etiska frågeställningar, till exempel vad gäller bildmanipulation."]}

@@ -3,4 +3,12 @@
 "points":100,
 "requirements":"vattenkraftstationer och kursen praktisk ellära",
 "instructiontext":"som bygger på kursen vattenkraftstationer och kursen praktisk ellära.",
-"code":"VAEGEN0"}
+"code":"VAEGEN0",
+"goaltext":"Kursen generatorer och transformatorer omfattar punkterna 1, 5&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,0,0,0,1,1,0,1],
+"level":"high",
+"content":["Trefassynkrongeneratorns konstruktion och verkningssätt.",
+"Trefassynkrongeneratorns kringutrustningar.",
+"Trefastransformatorns konstruktion och verkningssätt.",
+"Trefastransformatorns kringutrustningar.",
+"Elmotorers funktion och användning."]}

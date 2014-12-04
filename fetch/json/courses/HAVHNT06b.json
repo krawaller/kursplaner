@@ -4,4 +4,14 @@
 "requirements":"hantverksteknik 5",
 "notwith":"hantverksteknik 6a",
 "instructiontext":"som bygger på kursen hantverksteknik 5 med innehåll från vald profil. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen hantverksteknik 6a.",
-"code":"HAVHNT06b"}
+"code":"HAVHNT06b",
+"goaltext":"Kursen hantverksteknik 6b omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6. I kursen behandlas fördjupad färdighetsträning inom profilen.",
+"goals":[2,1,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Varierade tekniker i komplexa konstruktioner. Effektivitet och kreativitet i produktionsarbetet, med lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas miljöhänsyn i produktionsarbete och vid materialhantering.",
+"Skissteknik för att presentera idéer för kunder samt teknisk beskrivning eller konstruktion för att kommunicera inom branschen.",
+"Analys av färg, form och proportioner för kvalitetshöjning av resultatet.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt hur man använder eventuell skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad produktion, försäljning och service."]}

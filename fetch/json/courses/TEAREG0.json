@@ -1,4 +1,15 @@
 {"subject":"TEA",
 "name":"Regi",
 "points":100,
-"code":"TEAREG0"}
+"code":"TEAREG0",
+"goaltext":"Kursen regi omfattar punkterna 4&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 4&mdash;6.",
+"goals":[0,0,0,2,2,2,1,1,1,0],
+"level":"normal",
+"content":["Aktörers samspel i en gemensam scenisk gestaltning.",
+"Moment i regiprocessen, till exempel faser med analys och tolkning, utforskande faser samt faser med det sceniska uttryckets form och komposition.",
+"Samordning och ledarskap i regiarbetet, till exempel samarbetet med skådespelarna.",
+"Regiarbetet i kommunikation med publik.",
+"Sceniskt produktionsarbete som kollektiv konstform.",
+"Reflektion över eget och andras regiarbete.",
+"Analys och tolkning av sceniska gestaltningar med fokus på regiarbetet.",
+"Begrepp för regiarbete, till exempel läsart, konflikt, vändpunkt, rytm och scenerier."]}

@@ -174,24 +174,122 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							course.instructiontext = instructiontext;
 						}
 					}
-					// DATA
+					// RAW DATA
+					var raw;
 					try {
 						var regdef = course.name+',  ?\\d{2,3}  ?poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9 ]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
 							regex = new RegExp(regdef,"i"),
 							match = data.match(regex);
 						course.code = match[1].replace(" ","");
-						//course.raw = match[2];
+						raw = match[2];
 					} catch(e){
 						try {
 							var regdef = course.name.replace("&mdash;","-")+',  ?'+course.points+'  ?poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
 								regex = new RegExp(regdef,"i"),
 								match = data.match(regex);
 							course.code = match[1];
-							course.raw = match[2];
+							raw = match[2];
 						} catch(e) {
 							console.log("Failed to read code and raw for course",type,code,course.name,regdef);
 							throw "MOO"
 						}
+					}
+					// PARSE COURSEDESCRIPTION
+					function which(str){
+						var parts = str.split(/, | ?och | ?samt /);
+						return _.reduce(parts,function(m,val){
+							var nums = _.map(val.trim().split(/&mdash;|[-–]/),function(s){return +s;});
+							if (_.find(nums,function(n){return (typeof n === "string") && n.match(/\D/);})){
+								//console.log("SHITPART",str,parts,nums,_.find(nums,function(n){return (typeof n === "string") && n.match(/\D/);}))
+								return m;
+							}
+							return m.concat(nums.length===2 ? _.range(nums[0]-1,nums[1]) : nums[0]-1);
+						},[]);
+					}
+					function addToArr(arr,add){
+						_.map(add,function(pos){arr[pos] = (arr[pos]||0)+1;});
+						return arr;
+					}
+					var regdef = '<h2>Kurskod: '+course.code+' ?<\\/h2><p>(.*?)<\/p><h2',
+						regex = new RegExp(regdef),
+						match = raw.match(regex),
+						goalstr;
+					try {
+						goalstr = match[1].replace(/<\/?italic>/g,"").replace("Ämnets syfte i ämnet materialkunskap.","Ämnets syfte.").replace("&mdash;­-","");
+						course.goaltext = goalstr;
+						if (goalstr.match(/omfattar samtliga mål/)){
+							course.goals = _.range(sub.goals.length).map(function(l){return 1;});
+							//console.log("ALL GOALS",course.name,course.goals)
+						} else {
+							var m = goalstr.match(/(Kursen bygger på |s?k?a? ?omfattar? punkte?r?n?a? )(.*?)( o?c?h? ?under r?u?b?r?i?k?e?n? ?[Ää]mnets? syfte[\.\,]|\.)/),
+								f = (m && m[2] || "").replace("&mdash;­","&mdash;"),
+								w = which(f);
+							course.goals = addToArr(_.range(sub.goals.length).map(function(l){return 0;}),w);
+							//console.log("GOAL",course.name,course.goals,f,w,goalstr);
+						}
+						if (goalstr.match(/särskild betoning/)){
+							var M = goalstr.match(/särskild betoning på (punkte?r?n?a? )?(.*?)\./),
+								F = M && (M[2]||"").replace(/^[A-ZÅÄÖa-zåäö ,]*punkterna/,"")
+								W = which(F);
+							course.goals = addToArr(course.goals,W);
+						}
+						course.level = goalstr.match("I kursen behandlas grundläggande kunskaper i ämnet") ? "basic" :
+							goalstr.match("I kursen behandlas fördjupade kunskaper i ämnet.") ? "high" : "normal";
+					} catch(e) {
+						console.log("Error reading goaldata for course",course.code,course.name,f,goalstr);
+						throw e;
+					}
+					// CENTRAL CONTENT
+					_.map({
+						simple: [6,(/följande c?e?n?t?r?a?l?a? ?(innehåll|områden)(<\/i>)?(<i>)?[\:\;]?(<\/i>)? *<\/[h4p]{1,2}> *(<p> *<\/p>)?<ul> *<li>(.*?)<\/li> *<\/ul>/)],
+						noheadline: [2,(/Centralt innehåll<\/h2><div style="padding-bottom:10px; border-bottom:5px solid #EEEEE9;"><\/div> *(<p> ?<\/p>)?<ul> ?<li>(.*?)<\/li> ?<\/ul>/)],
+						italic: [2,(/följande c?e?n?t?r?a?l?a? ?innehåll<\/i>\:? *<\/italic>\:? ?<\/p> *(<p> *<\/p>)?<ul> ?<li>(.*?)<\/li> ?<\/ul>/)]
+					},function(a,name){
+						if (!course.content){
+							var match = raw.match(a[1]);
+							if (match){
+								try {
+									if (match[a[0]].length < 10){
+										console.warn("Very small hit for",name,"for course",course.code,course.name,match);
+										throw "ERROR";
+									}
+									course.content = match[a[0]].split("</li> <li>");
+								} catch(e){
+									console.warn("Error while singletrying",name,"for course",course.code,course.name,match);
+									throw e;
+								}
+							}
+						}
+					});
+					if (!course.content){
+						_.map({
+							normalmulti: [4,(/följande (centrala )?innehåll: ?<\/[h4i]{1,2}>(<\/p>)?(<p> ?<\/p>)?(.*?)<p> *(<b> *<\/b>)? *<\/p>/)],
+							italicmulti: [2,(/följande (centrala )?innehåll<\/i>\:? *<\/italic>\:? ?<\/p> *(.*?) *<p> *<\/p>  *<div class="clearer">/)]
+						},function(a,name){
+							if (!course.content){
+								var match = raw.match(a[1]);
+								if (match){
+									try {
+										var o={}, part, block = match[a[0]];
+										while(part = block.match(/^<p>(.*?)<\/p><ul>(.*?)<\/ul>/)){
+											//console.log("PART",part);
+											var title = part[1].replace(/<\/?[a-z0-9]*>/g,"").trim(),
+												lines = part[2].replace(/^ *<li>| *<\/li> *$/g,"").trim().split(/<\/li> *<li>/);
+											o[title]=lines;
+											block = block.replace(part[0],"");
+										}
+										course.content = o;
+									} catch(e){
+										console.warn("Error while multitrying",name,"for course",course.code,course.name);
+										throw e;
+									}
+								}
+							}
+						});
+					}
+					if (!course.content){
+						console.warn("Couldn't figure out where central content is for",course.code,course.name,raw);
+						throw "ERROR";
 					}
 					// SAVE
 					fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"'));

@@ -1,4 +1,16 @@
 {"subject":"FLY",
 "name":"Ellära &mdash; flyg",
 "points":100,
-"code":"FLYELL0"}
+"code":"FLYELL0",
+"goaltext":"Kursen ellära &mdash; flyg omfattar punkterna 2 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,0,0,1,1,1,1,0],
+"level":"normal",
+"content":["Elektronteori.",
+"Statisk elektricitet.",
+"Ledningsförmåga i olika miljöer.",
+"Begrepp, formler och beräkningar som används inom ellära.",
+"Resistans och kapacitans.",
+"Magnetism och induktion.",
+"Elektriska motorer och generatorer.",
+"Likströms- och växelströmskretsar.",
+"Uppkopplingar av elektriska kretsar utifrån anvisningar samt tolkning av resultat."]}

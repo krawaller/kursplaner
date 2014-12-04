@@ -1,4 +1,17 @@
 {"subject":"MAC",
 "name":"Mat och dryck i kombination",
 "points":100,
-"code":"MACMAT0"}
+"code":"MACMAT0",
+"goaltext":"Kursen mat och dryck i kombination omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Traditionella och moderna kök samt mat- och dryckeskombinationer.",
+"Trender, till exempel crossover-kök samt historiska mat- och dryckeskombinationer.",
+"Grundsmakerna. Hur man skapar smakkombinationer.",
+"Måltiden som helhetsupplevelse, till exempel hur råvaror, maträtter och dryck kan kombineras.",
+"Sinnenas betydelse vid mat- och dryckesprovningar.",
+"Sensoriska provningsmetoder för mat och dryck.",
+"Tematiska måltider.",
+"Dukning, färg, form och dekoration.",
+"Planering, tillredning, uppdukning och servering i syfte att i praktiken pröva olika smakkombinationer, samt skapande av en helhetsupplevelse.",
+"Kommunikationens och samverkans betydelse för intern service."]}

@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"mönsterkonstruktion 2",
 "instructiontext":"som bygger på kursen mönsterkonstruktion 2.",
-"code":"DAIMON01"}
+"code":"DAIMON01",
+"goaltext":"Kursen datoriserad mönsterhantering 1 omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1],
+"level":"basic",
+"content":["Gradering. I samband med det behandlas koordinatsystemets uppbyggnad.",
+"Enkel grundkonstruktion.",
+"Mönsterförändringar utifrån grundmallar.",
+"Modellsammanställningar och läggbilder.",
+"Fackspråk för att förstå och använda instruktioner och tekniska beskrivningar, till exempel manualer.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."]}

@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"matlagning 3",
 "instructiontext":"som bygger på kursen matlagning 3.",
-"code":"MALMAL04"}
+"code":"MALMAL04",
+"goaltext":"Kursen matlagning 4 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Yrkesmässigt arbete inom restaurang och storkök.",
+"Tillverkning av avancerade maträtter och anrättningar.",
+"Restaurangekonomi. Ekonomisk planering, kalkylering och ekonomiska konsekvenser för verksamheter inom restaurang- och storköksbranschen.",
+"Kreativt framtagande av recept, matsedlar och menyer.",
+"Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+"Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+"Utförande och uppföljning av egenkontroll för att uppnå matsäkerhet.",
+"Kommunikation och logistik för arbete i kök samt fackterminologi."]}

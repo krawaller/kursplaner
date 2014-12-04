@@ -1,4 +1,14 @@
 {"subject":"MUI",
 "name":"Gehörs- och musiklära 1",
 "points":100,
-"code":"MUIGEH01"}
+"code":"MUIGEH01",
+"goaltext":"Kursen gehörs- och musiklära 1 omfattar punkterna 1&mdash;5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[2,2,2,1,1,0,0,0,1],
+"level":"normal",
+"content":["Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.",
+"Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.",
+"Gehörsträning av puls, rytm, melodi, harmoni och form.",
+"Grundläggande satslära och harmonisk analys.",
+"Notering av klingande musik.",
+"A prima vista-träning.",
+"Aktivt lyssnande och diskussion om musikframförande."]}

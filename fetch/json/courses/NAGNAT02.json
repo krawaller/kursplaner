@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"naturguidning 1",
 "instructiontext":"som bygger på kursen naturguidning 1.",
-"code":"NAGNAT02"}
+"code":"NAGNAT02",
+"goaltext":"Kursen naturguidning 2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Planering, organisation, genomförande och utvärdering av naturguidningar för olika målgrupper, till exempel förskolebarn, ungdomar och vuxna.",
+"Val av utrustning och material för aktuella aktiviteter.",
+"Hantering och vård av material och utrustning för aktuella aktiviteter.",
+"Instruktioner till deltagare i naturguidningar inför användning av utrustning och material.",
+"Planering av säkerhet vid aktiviteter för att minimera olycksrisker samt första hjälpen och livräddning.",
+"Lagar och andra bestämmelser som rör säkerhet samt natur- och kulturmiljöer.",
+"Växter, djur och ekologiska samband i olika natur- och kulturmiljöer.",
+"Handledning av aktuella målgrupper så att de får rikare naturupplevelser."]}

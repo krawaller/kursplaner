@@ -6,4 +6,14 @@
 "arr":["ensemble med körsång",
 "körsång 1"]},
 "instructiontext":"som bygger på kursen ensemble med körsång eller kursen körsång 1. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"MUSKÖS02S"}
+"code":"MUSKÖS02S",
+"goaltext":"Kursen körsång 2 omfattar punkterna 1&mdash;2, 4&mdash;5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4&mdash;5 och 7. I kursen behandlas fördjupade kunskaper inom vald körtyp.",
+"goals":[2,1,0,2,2,0,2,0,0],
+"level":"normal",
+"content":["Körmusicerande i olika körtyper från olika repertoarområden och tidsepoker, med ett konstnärligt musikaliskt och sceniskt uttryck. ",
+"Rytm, melodi, harmonik och form.",
+"Körmusicerande i gehörsbaserad och noterad musik.",
+"Klangideal, stildrag och uppförandepraxis i repertoar från olika tider.",
+"Samarbetsförmåga och fördjupade metoder för instudering, enskilt och i grupp, med textanalys och grundläggande körledning. Initiativtagande i instudering.",
+"Grundläggande röstfysiologi och fördjupad röstvård samt metoder för det.",
+"Fördjupad musikalisk gestaltning och kommunikation i samarbete med andra vid framträdanden inför publik."]}

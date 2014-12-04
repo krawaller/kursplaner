@@ -1,4 +1,14 @@
 {"subject":"SAI",
 "name":"Samisk hantverkskultur",
 "points":50,
-"code":"SAISAM0"}
+"code":"SAISAM0",
+"goaltext":"Kursen samisk hantverkskultur omfattar punkterna 1 och 4&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,0,0,1,1,1,1,0,0,0],
+"level":"normal",
+"content":["Det samiska hantverkets roll i samiskt näringsliv både ur ett historiskt och nutida perspektiv.",
+"Samiska slöjdare och konstnärer och deras betydelse för den samiska kulturen och dess utveckling.",
+"Användningsområde och material för samiskt hantverk och samiska bruksföremål samt utvecklingen av konsthantverk.",
+"Material-, tids- och kostnadskalkyler samt arbetsbeskrivningar.",
+"Samiska ortskaraktärer och traditionellt samiskt hantverk.",
+"Samisk design med färg, form och symboler.",
+"Samisk terminologi och fackspråk. "]}

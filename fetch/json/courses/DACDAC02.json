@@ -3,4 +3,8 @@
 "points":300,
 "requirements":"däckstjänst 1",
 "instructiontext":"som bygger på kursen däckstjänst 1.",
-"code":"DACDAC02"}
+"code":"DACDAC02",
+"goaltext":"Kursen Däckstjänst 2 omfattar punkterna 2&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;3 och 6. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[0,2,2,1,1,2,0],
+"level":"high",
+"content":{}}

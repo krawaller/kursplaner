@@ -4,4 +4,16 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"odling i växthus 2",
 "instructiontext":"som bygger på kursen odling i växthus 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"ODIODI00S"}
+"code":"ODIODI00S",
+"goaltext":"Kursen odling i växthus &mdash; specialisering omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3 och 5. I kursen behandlas fördjupade kunskaper inom vald produktion.",
+"goals":[2,2,2,1,2,1,1,1,1],
+"level":"normal",
+"content":["Odlingsprocessen och produktionsplaner samt ekonomiska beräkningar inom vald produktion.",
+"Arbetsuppgifter inom en specialiserad produktion i växthus med aktuell teknisk utrustning.",
+"Arbetsmiljö, ergonomi och säkerhet i samband med specialiserad produktion.",
+"Lagar och andra bestämmelser inom området.",
+"Odlingsförutsättningar, produktionsmöjligheter och försäljning inom aktuell produktion. Småskalig respektive storskalig produktion.",
+"Miljöaspekter, produktkvalitet och livsmedelssäkerhet.",
+"Utvecklingsmöjligheter, nya produkter och ny teknik inom en specialiserad produktion.",
+"Informationssökning om aktuell produktion samt presentation. ",
+"Förebyggande och direkta växtskyddsåtgärder."]}

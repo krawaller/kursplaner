@@ -1,4 +1,13 @@
 {"subject":"TIL",
 "name":"Tillverkningsunderlag 1",
 "points":100,
-"code":"TILTIL01"}
+"code":"TILTIL01",
+"goaltext":"Kursen tillverkningsunderlag 1 omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,0,1],
+"level":"basic",
+"content":["Tolkning av mönster- och ritningsunderlag.",
+"Metoder för manuell framställning av ritningar eller mönster.",
+"Metoder för beredning av tillverkningsritningar.",
+"Specifika beteckningar för mönster eller ritningar.",
+"Informationssökning i relevanta källor.",
+"Termer och begrepp som är relevanta för teknikområdet."]}

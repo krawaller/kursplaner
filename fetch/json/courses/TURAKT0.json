@@ -5,4 +5,16 @@
 "arr":["besöksnäringen",
 "naturbruk"]},
 "instructiontext":"som bygger på kursen besöksnäringen eller kursen naturbruk.",
-"code":"TURAKT0"}
+"code":"TURAKT0",
+"goaltext":"Kursen aktiviteter och upplevelser omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;4, 6 och 9. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,2,2,2,1,2,1,1,2,1],
+"level":"high",
+"content":["Aktivitetsledarens roll och betydelse för gruppens samspel för att nå syfte och mål.",
+"Aktiviteten som mervärde för att förhöja deltagarens upplevelse av arrangemang eller vistelse.",
+"Planering, genomförande och utvärdering av aktiviteter för olika målgrupper.",
+"Olika aktiviteter beroende på efterfrågan samt hänsyn till platsens och situationens förutsättningar.",
+"Kalkylering och prissättning av aktiviteter.",
+"Marknadsföring och presentation av planerad aktivitet.",
+"Lagar, andra bestämmelser samt överenskommelser att ta hänsyn till för utförandet av aktiviteten.",
+"Riskanalys och förebyggande säkerhet i samband med planering av aktiviteter.",
+"Kroppsspråkets betydelse för kommunikation och samverkan med andra."]}

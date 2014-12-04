@@ -1,4 +1,16 @@
 {"subject":"GOD",
 "name":"Lastbärare",
 "points":200,
-"code":"GODLAS0"}
+"code":"GODLAS0",
+"goaltext":"Kursen lastbärare omfattar punkterna 1 och 3&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,0,1,1,1,1,1],
+"level":"normal",
+"content":["Olika lastbärares uppbyggnad och lastförutsättningar.",
+"Begrepp och terminologi inom godshantering för vägtrafik, järnväg, flyg, kombitrafik och för ro-ro-trafik.",
+"Funktion hos, användning och användningsområde för förekommande utrustning för lastsäkring och kapacitetsmärkning.",
+"Metoder och hanteringsprinciper för lastning och lossning av olika lastbärare.",
+"Hantering av olika typer av lastbärare.",
+"Säkring av lastbärare vid lastning och lossning.",
+"Lastsäkring av olika typer av gods i olika typer av lastbärare, inklusive beräkningsmetoder och arbetsmetoder.",
+"Förutsättningar som påverkar vidare transport med olika transportslag vid omlastning.",
+"Regler för och hantering av gasade lastbärare."]}

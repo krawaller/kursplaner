@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"scenisk gestaltning 1",
 "instructiontext":"som bygger på kursen scenisk gestaltning 1.",
-"code":"TEASCE02"}
+"code":"TEASCE02",
+"goaltext":"Kursen scenisk gestaltning 2 omfattar punkterna 1&mdash;3 och 5&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,2,1,0,1,1,1,1,1,0],
+"level":"high",
+"content":["Gestaltning av en scenisk karaktär med kropp och röst.",
+"Gestaltning med teaterns olika uttrycksområden scenografi, mask, kostym, ljud och ljus.",
+"Den sceniska berättelsens uppbyggnad och olika vägar att skapa en scenisk berättelse.",
+"Samverkan mellan teaterns uttrycksområden genom kombination av två eller flera områden i gemensamma uttryck.",
+"Kommunikation med publik genom gestaltning via teaterns uttrycksområden.",
+"Reflektion över det egna skapandet, både individuellt och i grupp.",
+"Teatern som kollektiv konstart med fokus på teatern som arbetsplats och samarbetet mellan de olika yrkesroller som finns där. ",
+"Analys och tolkning av sceniska gestaltningar med fokus på hur teaterns uttrycksområden kommunicerar med publiken.",
+"Begrepp för analys av scenisk gestaltning, till exempel avsikt, kraft, tid och rum."]}

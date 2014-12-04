@@ -5,4 +5,17 @@
 "arr":["fordons- och transportbranschens villkor och arbetsområden",
 "fordonsteknik – introduktion"]},
 "instructiontext":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik – introduktion.",
-"code":"PERPES0"}
+"code":"PERPES0",
+"goaltext":"Kursen personbilsteknik &mdash; introduktion omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Personbilars och lätta transportfordons konstruktion i relation till användningsområden och teknik.",
+"Funktionsprinciper för fordons huvudkomponenter och huvudsystem samt hur dessa komponenter och system samverkar med varandra.",
+"Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.",
+"Funktions- och säkerhetskontroll, till exempel periodiska inspektioner och service.",
+"Handhavande, vård och tillsyn av personbilar och lätta transportfordon, inklusive arbetsuppföljning, reklamations- och garantiärenden samt konsumentlagar.",
+"Konsekvenser av eftersatt underhåll, beträffande ekonomi, driftstörningar och trafiksäkerhet.",
+"Faktorer som påverkar miljö samt kostnader för drift och underhåll.",
+"Arbetsmetoder, arbetsinstruktioner och servicelitteratur från verkstadshandböcker på svenska och engelska, inklusive information som finns lagrad i datormiljö.",
+"Administrativa verkstadsfunktioner anpassade för fordonsbranschen, inklusive arbetsorder, reservdelsbeställning, offert och prisförslag.",
+"Begrepp i samband med teknisk information om handhavande, kontroll och vård av personbilar och lätta transportfordon."]}

@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"produktutveckling 1",
 "instructiontext":"som bygger på kursen produktutveckling 1.",
-"code":"PRKPRK02"}
+"code":"PRKPRK02",
+"goaltext":"Kursen produktutveckling 2 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med betoning på punkt 10.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Introduktion i produktionstekniska förutsättningar och produktionsfilosofi.",
+"Estetikens och ergonomins betydelse för bruksvärde och marknadsvärde hos produkter och material.",
+"Grundläggande färg- och formlära.",
+"Konstruktionsberäkningar enligt modeller och formler.",
+"Överföring av tillverkningsunderlag till datorstödd tillverkning eller friformframställning.",
+"Designprocessens olika delar, dvs. marknadsundersökning, funktionsanalys, kravspecifikation, faktainsamling, problemformulering, idéarbete, skiss, modellarbete, analys, presentation och utvärdering.",
+"Planering, konstruktion, design och tillverkning av en egen, enkel prototyp eller egna, enkla modeller.",
+"Dokumentation, redovisning och presentation av eget arbete och resultat med termer och begrepp som är relevanta för teknikområdet.",
+"Slutsatser ur framkomna resultat i enlighet med föreskrifter och kvalitetssäkringssystem.",
+"Miljöcertifiering och märkning."]}

@@ -3,4 +3,14 @@
 "points":50,
 "requirements":"de kunskaper grundskolan ger eller motsvarande",
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande.",
-"code":"RELREL01"}
+"code":"RELREL01",
+"goaltext":"Kursen religionskunskap 1 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Kristendomen, de övriga världsreligionerna och olika livsåskådningar, deras kännetecken och hur de tar sig uttryck för individer och grupper i samtiden, i Sverige och i omvärlden.",
+"Olika människosyn och gudsuppfattningar inom och mellan religioner.",
+"Religion i relation till kön, socioekonomisk bakgrund, etnicitet och sexualitet.",
+"Individers och gruppers identiteter och hur de kan formas i förhållande till religion och livsåskådning utifrån till exempel skriftliga källor, traditioner och historiska och nutida händelser.",
+"Olika uppfattningar om relationen mellan religion och vetenskap i den aktuella samhällsdebatten.",
+"Tolkning och analys av olika teorier och modeller inom normativ etik samt hur dessa kan tillämpas. Etiska och andra moraliska föreställningar om vad ett gott liv och ett gott samhälle kan vara.",
+"Analys av argument i etiska frågor med utgångspunkt i kristendomen, övriga världsreligioner, livsåskådningar och elevernas egna ställningstaganden."]}

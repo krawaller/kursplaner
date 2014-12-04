@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"bageri 2",
 "instructiontext":"som bygger på kursen bageri 2.",
-"code":"BAGBAG03"}
+"code":"BAGBAG03",
+"goaltext":"Kursen bageri 3 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;6. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,2,2,2,2,2,1,1,1,0],
+"level":"high",
+"content":["Tillverkning av avancerade mat- och kaffebröd och övriga bakverk av olika degar och blandningar, där olika parallella tillverkningsmetoder krävs och där alternativ måste vägas mot varandra för att produktens konsistens, smak och estetiska utformning ska bli bra.",
+"Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av bröd och bakverk.",
+"Tillverkning av bröd och bakverk utifrån smak och utseende där recept och arbetsbeskrivningar konstrueras med hänsyn till pris och kvalitet utifrån ekonomiska kalkyler.",
+"Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+"Paketering och märkning av bröd och bakverk.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet."]}

@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"datoriserad mönsterhantering 1",
 "instructiontext":"som bygger på kursen datoriserad mönsterhantering 1.",
-"code":"DAIMON02"}
+"code":"DAIMON02",
+"goaltext":"Kursen datoriserad mönsterhantering 2 omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1],
+"level":"high",
+"content":["Gradering.",
+"Grundkonstruktioner.",
+"Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.",
+"Mönsterkonstruktioner utifrån den färdiga produktens användningsområde samt estetiska och tekniska produktkrav.",
+"Läggbilder och materialplanering.",
+"Fackspråk för att kommunicera inom branschen.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."]}

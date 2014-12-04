@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"yrkestrafik 1a och kursen yrkestrafik 1b",
 "instructiontext":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
-"code":"PESPER01b"}
+"code":"PESPER01b",
+"goaltext":"Kursen persontrafik 1b omfattar punkterna 1&mdash;3 och 8&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,0,0,0,1,1,0],
+"level":"normal",
+"content":["Transportadministration med biljettsystem, turlistor och taxameterutrustningar.",
+"Administrativa rutiner vid gränspassager med dokumentation och tillstånd för internationella persontransporter utanför och inom EU.",
+"Olika transportverksamheter för persontrafiken, till exempel linjetrafik, beställningstrafik, taxitrafik, skolskjuts, sjukresor och färdtjänst. De olika transportverksamheternas förutsättningar och krav på utförande och utmärkning.",
+"Uppbyggnad, funktion och användningsområden för de vanligast förekommande busskonstruktionerna samt riskfaktorer med vindkänslighet och tyngdpunktsfördelning.",
+"Passagerarsäkerhet vid olyckstillbud. Brandrisker med utrymningsvägar samt orsaker till uppkomsten av bussbränder.",
+"Olika sjukdomstillstånd hos passagerare samt hur man kan agera och hjälpa personer som uppvisar symtom på sjukdom.",
+"Omhändertagande av passagerare med särskilda behov, till exempel barn, äldre och personer med funktionsnedsättning.",
+"Service och kundbemötande vid persontransporter.",
+"Gods med speciella farliga egenskaper i samband med persontransporter."]}

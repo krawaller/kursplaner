@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"produktionsutrustning 3",
 "instructiontext":"som bygger på kursen produktionsutrustning 3.",
-"code":"PRUPRD04"}
+"code":"PRUPRD04",
+"goaltext":"Kursen produktionsutrustning 4 omfattar punkterna 1 och 3&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter och kunskaper.",
+"goals":[1,0,1,1,1,1,1,1],
+"level":"normal",
+"content":["Avancerad hantering, vård och användning av produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.",
+"Funktion och konstruktion hos avancerad produktionsutrustning och kringutrustning.",
+"Funktionskontroll, mätning, bedömning av mätfel och felsökning av produktionsutrustning och kringutrustning.",
+"Dimensionering samt tekniska och ekonomiska beräkningar.",
+"Effektivisering och optimering av inställningar på produktionsutrustning och kringutrustning.",
+"Användningsområden för produktionsutrustning och kringutrustning.",
+"Avancerade begrepp, metoder och tekniker för produktionsutrustning och kringutrustning.",
+"Avancerad teknisk beskrivning av produktionsutrustning och kringutrustning.",
+"Materialegenskaper, materials beteckningssystem och materialets betydelse för funktion och kvalitet hos samt tillverkning och destruktion av produktionsutrustning, kringutrustning och produkter.",
+"Mätning, dokumentation och bedömning av kvaliteten på utfört arbete."]}

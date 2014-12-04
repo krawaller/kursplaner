@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"lackeringssystem",
 "instructiontext":"som bygger på kursen lackeringssystem.",
-"code":"LACPRD0"}
+"code":"LACPRD0",
+"goaltext":"Kursen produktionsflöden omfattar punkterna 1&mdash;3 och 5&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,1,1,1],
+"level":"normal",
+"content":["Verkstadens layout, utrustning, belysning och ventilation i syfte att optimera produktionsflödet.",
+"Garantiåtagande i samband med reparationsarbeten.",
+"Produkter och metoder länkade samman till ett tidsbesparande produktionsflöde med rätt kvalitet.",
+"Appliceringsmetoder ställda mot produktionskrav.",
+"Kulörval och nyansering. Blandning och justering av färg till rätt kulör och i rätt mängd med hjälp av mixsystem, färgprovsamlingar och färgkoder.",
+"Efterarbeten och färdigställande av fordon för leverans. Rengöringsmetod och material kopplat till rekonditionering i samband med färdigställande av fordon. ",
+"Kvalitet, kvalitetssäkring och kostnad på utfört arbete.",
+"Miljöarbete, skyddsutrustning samt yttre och inre miljöarbete.",
+"Kundbemötande."]}

@@ -1,4 +1,12 @@
 {"subject":"BEV",
 "name":"Vardagsolyckor",
 "points":100,
-"code":"BEVVAR0"}
+"code":"BEVVAR0",
+"goaltext":"Kursen vardagsolyckor omfattar punkterna 1&mdash;2 och 4&mdash;7 under rubriken Ämnets syfte. ",
+"goals":[1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Kommunens regler och ansvar för att förebygga olyckor.",
+"Grunderna för kommunens systematiska säkerhetsarbete.",
+"Olycks- och skadebilden i samhället.",
+"Olyckor som inträffar i hem- och fritidsmiljö och hur de kan förebyggas.",
+"Risker och riskbeteende som finns hos särskilt utsatta grupper, till exempel barn, äldre och människor med funktionsnedsättning. "]}

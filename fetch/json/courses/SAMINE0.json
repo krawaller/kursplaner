@@ -5,4 +5,15 @@
 "arr":["samhällskunskap 1a2",
 "samhällskunskap 1b"]},
 "instructiontext":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
-"code":"SAMINE0"}
+"code":"SAMINE0",
+"goaltext":"Kursen internationell ekonomi omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"high",
+"content":["Internationella handelsrelationer och ekonomisk integration samt deras aktörer. Den internationella ekonomins och handelns utveckling med hjälp av ekonomiska teorier, utifrån både ett historiskt och ett nutida perspektiv. Den internationella ekonomins och handelns effekter för länders välfärd och för miljön.",
+"Kulturens betydelse för affärskontakter mellan företag i olika länder.",
+"Drivkrafter bakom och effekter av olika handels- och valutapolitiska ingrepp i internationella handelsrelationer. Finansiella marknader i den internationella ekonomin.",
+"Global resursfördelning. Relationen mellan produktionskostnader i olika delar av världen och företagens lokalisering och internationella handel. Förklaringar till uppkomsten av transnationella företag.",
+"Den ekonomiska integrationsprocessen inom EU och den fortsatta utvecklingen mot gemensamma marknader.",
+"Samhällsvetenskapliga begrepp, teorier, modeller och metoder.",
+"Källkritisk granskning, tolkning och värdering av information från olika medier och andra källor. Källhänvisning enligt vanliga system.",
+"Muntlig och skriftlig presentation i olika former som är vanliga inom området, till exempel debatter, debattartiklar, rapporter och essäer."]}

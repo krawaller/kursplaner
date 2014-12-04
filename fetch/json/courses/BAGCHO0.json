@@ -1,4 +1,16 @@
 {"subject":"BAG",
 "name":"Choklad och konfektyr",
 "points":100,
-"code":"BAGCHO0"}
+"code":"BAGCHO0",
+"goaltext":"Kursen choklad och konfektyr omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1,1,0],
+"level":"basic",
+"content":["Tillverkning av choklad-, marsipan- och konfektyrprodukter.",
+"Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av choklad-, marsipan- och konfektyrprodukter.",
+"Tillverkning av produkter utifrån smak, utseende, trend och tradition med hänsyn till pris och kvalitet utifrån ekonomiska kalkyler.",
+"Råvaror och andra ingredienser.",
+"Kemiska förändringar, kvalitet, smak och konsistens hos chokladen som råvara och hos förädlade produkter.",
+"Paketering och märkning av choklad- och konfektyrprodukter.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet."]}

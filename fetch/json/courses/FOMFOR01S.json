@@ -1,4 +1,17 @@
 {"subject":"FOM",
 "name":"Formgivning 1",
 "points":100,
-"code":"FOMFOR01S"}
+"code":"FOMFOR01S",
+"goaltext":"Kursen formgivning 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;5 och 7. I kursen behandlas grundläggande kunskaper inom valt eller valda material.",
+"goals":[2,2,2,2,2,1,2,1],
+"level":"normal",
+"content":["Grundläggande hantverksmässigt arbete i ett eller flera valda material. Exempel på material kan vara trä, tyg eller glas.",
+"Enkla bearbetningsmetoder, användningsområden och verktyg.",
+"Grundläggande färg- och formlära.",
+"Introduktion i formgivningsprocessen och formgivningens grundläggande uttrycksmöjligheter, till exempel färg, form och material. ",
+"Det valda materialets egenskaper.",
+"Grundläggande värdering av formgivning i relation till intentioner.",
+"Relevanta begrepp.",
+"Traditionell och samtida formgivning.",
+"Lagar och andra bestämmelser som gäller för formgivningsområdet.",
+"Säkerhet och arbetsmiljö för maskiner och verktyg samt materials miljöpåverkan."]}

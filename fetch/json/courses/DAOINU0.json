@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"datorteknik 1a",
 "instructiontext":"som bygger på kursen datorteknik 1a.",
-"code":"DAOINU0"}
+"code":"DAOINU0",
+"goaltext":"Kursen industriell informationsteknik omfattar punkterna 1&mdash;4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,0],
+"level":"high",
+"content":["Vanligt förekommande övergripande programvaror för kontroll, övervakning och datainsamling inom elkrafts- och energidistribution och i fastigheter, tillverknings- och processindustrin, till exempel SCADA (supervisory control and data acquisition).",
+"HMI (human machine interface), dvs. användning av programvara för visualisering av data i realtid till ett säkert och lättolkat gränssnitt.",
+"Vanligt förekommande fältbussar och trådlös informationsteknik inom elkrafts- och energidistribution, i fastigheter samt i tillverknings- och processindustrin.",
+"Driftsäkerhet och spårbarhet inom industriell informationsteknik.",
+"Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglerteknisk applikation till persondator. Till exempel adresserad I/O-enhet (input/output), som kan läsa en mätgivares värde till datorn.",
+"Installation och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient (open connectivity).",
+"Analyser och bedömningar av insamlad data, med avseende på till exempel datakvalitet och funktion.",
+"Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.",
+"Metoder för systematisk dokumentation i projekt, till exempel PDM (product data management).",
+"Systematisk dokumentation, med hjälp av till exempel loggningsdata eller databashanterare."]}

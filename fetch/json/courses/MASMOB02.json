@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"mobil hydraulik 1",
 "instructiontext":"som bygger på kursen mobil hydraulik 1.",
-"code":"MASMOB02"}
+"code":"MASMOB02",
+"goaltext":"Kursen mobil hydraulik 2 omfattar punkterna 1&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Funktion hos och konstruktion av variabla pumpar och motorer i lastkännande hydraulsystem.",
+"Funktion hos och konstruktion av pilotstyrda ventiler.",
+"Förändring av egenskaper hos mobila hydraulsystem.",
+"Beräkning av tryck, kraft och volymström.",
+"Val av komponenter och monteringsdetaljer.",
+"Metoder för diagnos och felsökning.",
+"Reparation och eftermontering av hydraulfunktioner.",
+"Reparation av hydraulkomponenter.",
+"Uppdatering av hydraulschema.",
+"Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö."]}

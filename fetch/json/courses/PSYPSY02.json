@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"psykiatri 1",
 "instructiontext":"som bygger på kursen psykiatri 1.",
-"code":"PSYPSY02"}
+"code":"PSYPSY02",
+"goaltext":" Kursen psykiatri 2 omfattar punkterna 1, 5&mdash;6 och 8&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,0,0,0,1,1,0,1,1,1],
+"level":"high",
+"content":["Olika lagar och andra bestämmelser som styr verksamheten: lagen om psykiatrisk tvångsvård, lagen om vård av missbrukare och lagen om vård av unga. ",
+"Orsak, symtom, skattningsinstrument, behandling, vård och omsorg, omvårdnad, återhämtning samt prevention vid mindre vanliga psykiska funktionsnedsättningar. ",
+"Olika behandlingsformer, till exempel kognitiv beteendeterapi och dialektisk beteendeterapi samt ESL, ett självständigt liv.",
+"Samsjuklighet, bruk och missbruk vid psykisk funktionsnedsättning.",
+"Bedömning av behov, planering, genomförande, dokumentation och utvärdering av vård och omsorg samt omvårdnadsarbete vid mindre vanliga psykiska funktionsnedsättningar.",
+"Samtalsmetodik individuellt och i grupp. Motiverande samtal med öppna frågor, reflektioner och sammanfattningar. Kommunikationens betydelse vid tvångssituationer.",
+"Arbete med förbättrings- och kvalitetsarbete i den praktiska verksamheten. ",
+"Vikten av samarbete mellan olika yrkesgrupper och olika ansvarsområden. Revirtänkande.",
+"Intresse- och anhörigföreningar samt deras möjlighet till påverkan på vården och omsorgen. Stödverksamhet till barn med föräldrar som har psykisk funktionsnedsättning eller missbruksproblematik samt utbildning om psykiska funktionsnedsättningar. Delaktighet för patienter, brukare och närstående i vård- och omsorgs- samt omvårdnadsarbete."]}

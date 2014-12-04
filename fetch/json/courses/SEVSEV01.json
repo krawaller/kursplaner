@@ -1,4 +1,14 @@
 {"subject":"SEV",
 "name":"Service och bemötande 1",
 "points":100,
-"code":"SEVSEV01"}
+"code":"SEVSEV01",
+"goaltext":"Kursen service och bemötande 1 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Kulturella skillnader i kommunikationsmönster.",
+"Bemötande, kroppsspråk och språklig kommunikation i olika servicesituationer samt yrkesmässigt hänsynstagande till kundens eller gästens integritet.",
+"Kunders eller gästers olika behov samt hur man kan anpassa produkter och tjänster till individuella önskemål.",
+"Bemötande av kunder eller gäster i servicesituationer samt hantering av klagomål och reklamationer.",
+"Betydelsen av god kännedom om de produkter och tjänster som branschen erbjuder samt intern och extern marknadsföring.",
+"Grundläggande skyltning och presentationsteknik.",
+"Presentation av varor och tjänster tillsammans och var för sig."]}

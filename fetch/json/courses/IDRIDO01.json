@@ -1,4 +1,15 @@
 {"subject":"IDR",
 "name":"Idrott och hälsa 1 &mdash; specialisering",
 "points":100,
-"code":"IDRIDO01"}
+"code":"IDRIDO01",
+"goaltext":"Kursen idrott och hälsa 1 &mdash; specialisering omfattar punkterna 1 och 3&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5&mdash;6. I kursen behandlas specialisering inom vald idrott.",
+"goals":[2,0,1,1,2,2,0],
+"level":"normal",
+"content":["Regler, tekniker och taktik inom vald idrott.",
+"Planering, genomförande och analys av träningsprogram för vald idrott.",
+"Hur vald idrott utvecklar den kroppsliga förmågan.",
+"Vald idrott ur ett hälsoperspektiv.",
+"Vald idrotts organisation och historia.",
+"Organisation av barnverksamhet inom vald idrott.",
+"Kulturella och sociala aspekter på vald idrott.",
+"Etik och moral i förhållande till vald idrott."]}

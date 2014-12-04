@@ -1,4 +1,15 @@
 {"subject":"MUS",
 "name":"Musikimprovisation",
 "points":100,
-"code":"MUSMUI0"}
+"code":"MUSMUI0",
+"goaltext":"Kursen musikimprovisation omfattar punkterna 1&mdash;3 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 3.",
+"goals":[1,1,2,0,0,0,1,0,0],
+"level":"normal",
+"content":["Musikskapande på det egna instrumentet, alternativt med den egna rösten.",
+"Spel, alternativt sång, i gehörsbaserad musik.",
+"Musikaliska stilar och musikaliska strukturer, melodiska, harmoniska och rytmiska element. Musikteoretiska begrepp till grund för improvisation.",
+"Fria improvisationer, musikalisk lek och spontanitet.",
+"Experimenterande med musikaliskt material.",
+"Byggstenar för improvisation, till exempel modus, skalor och musikaliska former.",
+"Fri improvisation.",
+"Interaktion, samspel och kommunikation med medmusiker."]}

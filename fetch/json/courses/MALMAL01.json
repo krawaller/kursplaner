@@ -1,4 +1,15 @@
 {"subject":"MAL",
 "name":"Matlagning 1",
 "points":100,
-"code":"MALMAL01"}
+"code":"MALMAL01",
+"goaltext":"Kursen matlagning 1 omfattar punkterna 1&mdash;3, 6&mdash;7 och 9 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[1,1,1,0,0,1,1,0,1],
+"level":"normal",
+"content":["Grundläggande matlagning och matlagningsmetoder.",
+"Kalla och varma maträtter.",
+"Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.",
+"Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.",
+"Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+"Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+"Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+"Grundläggande kommunikation för arbete i kök."]}

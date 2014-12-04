@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"lärande och utveckling och kursen människors miljöer",
 "instructiontext":"som bygger på kursen lärande och utveckling och kursen människors miljöer.",
-"code":"PEDBAS0"}
+"code":"PEDBAS0",
+"goaltext":"Kursen barns lärande och växande omfattar punkterna 1&mdash;3 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,0,0,1],
+"level":"high",
+"content":["Barns lärande, utveckling och socialisation i olika sammanhang och utifrån olika teorier och teoretiska perspektiv.",
+"Hur synen på barn, barndom och fostran har förändrats.",
+"Barns olika uppväxtmiljöer och levnadsvillkor och hur samhällsförändringar har påverkat detta.",
+"Innebörden och betydelsen av barns interaktion i kamratgrupper samt skapandet av kamratkulturer.",
+"Vuxnas betydelse för barns lärande och växande.",
+"Hur olika mediekulturer påverkar barns lärande och växande.",
+"Hur till exempel genus, klass, etnicitet, funktionsnedsättningar och fritid påverkar barns levnadsvillkor.",
+"Kritisk bearbetning av information från olika källor."]}

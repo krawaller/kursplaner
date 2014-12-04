@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"gehörs- och musiklära 1",
 "instructiontext":"som bygger på kursen gehörs- och musiklära 1.",
-"code":"MUIGEH02"}
+"code":"MUIGEH02",
+"goaltext":"Kursen gehörs- och musiklära 2 omfattar punkterna 1&mdash;5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[2,2,2,1,1,0,0,0,1],
+"level":"normal",
+"content":["Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis och notationssystem samt ackordbeteckningssystem.",
+"Fördjupade musikteoretiska begrepp och teoribildningar i en eller flera genrer.",
+"Gehörsträning av puls, rytm, melodi, harmoni och form.",
+"Harmonisering och stämföring i flerstämmig sats. ",
+"Melodibildning.",
+"Formlära.",
+"Fördjupad satslära och harmonisk analys.",
+"Notering av klingande musik.",
+"A prima vista-träning."]}

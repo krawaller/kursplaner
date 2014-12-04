@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"datorstyrd produktion 3",
 "instructiontext":"som bygger på kursen datorstyrd produktion 3.",
-"code":"DARDAT04"}
+"code":"DARDAT04",
+"goaltext":"Kursen datorstyrd produktion 4 omfattar punkterna 1, 4&mdash;6, 8 och 10 under rubriken Ämnets syfte.",
+"goals":[1,0,0,1,1,1,0,1,0,1],
+"level":"normal",
+"content":["Programmering och operatörsarbete med utrustning för komplettbearbetning.",
+"3D-bearbetning och programmering för bearbetning av ytor med oregelbundna former.",
+"Operatörsarbete i datorstyrd utrustning för komplettbearbetning.",
+"Bearbetning med programmerbara uppspänningsutrustningar.",
+"Felsökning och systematiskt underhåll.",
+"Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.",
+"Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+"Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."]}

@@ -5,4 +5,16 @@
 "arr":["administration 2",
 "våningsservice 2"]},
 "instructiontext":"som bygger på kursen administration 2 eller kursen våningsservice 2.",
-"code":"ADMPER0"}
+"code":"ADMPER0",
+"goaltext":" Kursen personaladministration omfattar punkterna 1&mdash;2 och 4&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[1,1,0,1,1,1,1,1],
+"level":"high",
+"content":["Organisationer för arbetsgivare och arbetstagare.",
+"Rekrytering och anställningsförfarande samt introduktion för nyanställda.",
+"Personalavdelning och personalpolitik.",
+"Kompetens- och personalplanering.",
+"Personalekonomi, löner och personalkostnader.",
+"Ledarskap och förändringsarbete.",
+"Gruppsykologi och konflikthantering.",
+"Arbetsrättslagar.",
+"Arbetsmiljölagen och personalvård."]}

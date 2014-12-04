@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"textil design 2",
 "instructiontext":"som bygger på kursen textil design 2.",
-"code":"HAVTEX03"}
+"code":"HAVTEX03",
+"goaltext":"Kursen textil design 3 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2, 5 och 10. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,2,1,1,2,1,1,1,1,2],
+"level":"high",
+"content":["Produktion med varierade tekniker utifrån material- och kvalitetstänkande, med avseende på både dam- och herrkläder. I samband med det behandlas mönsterförändringar och mönsteranpassningar.",
+"Produkt- och materialkunskap i samband med planering och genomförande.",
+"Utnyttjande av materials egenskaper vid tillverkningen.",
+"Färgers, formers och proportioners betydelse vid modeteckningar, tekniska plaggskisser och för resultatets kvalitet. I samband med det behandlas arbetsgångsplanering, konstruktion och beräkning av material-, tids- och kostnadskalkyler.",
+"Fackspråk, anpassat efter situation och mottagare.",
+"Utvärdering och analys av arbetsprocess och resultat.",
+"Digitala tekniker för dokumentation av arbetsprocessen och det färdiga resultatet.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid tillverkning, försäljning och service, till exempel vid kundsamtal."]}

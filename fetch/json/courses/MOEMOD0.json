@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"modersmål 1",
 "instructiontext":"som bygger på kursen modersmål 1.",
-"code":"MOEMOD0"}
+"code":"MOEMOD0",
+"goaltext":" Kursen modersmål &mdash; aktiv tvåspråkighet omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;3 och 7. ",
+"goals":[2,2,2,1,1,1,2],
+"level":"normal",
+"content":["Kommunikation i tal och skrift, till exempel med myndigheter, högskolor och arbetsgivare. ",
+"Informella brev som syftar till social kommunikation.",
+"Ord- och begreppsförråd med särskild tonvikt på ord som hör till medborgarrollen och samhällslivet.",
+"Tolkning och översättning i vardagliga sammanhang till och från modersmålet.",
+"Översättning till modersmålet av olika blanketter som medborgare i Sverige använder.",
+"Texter i form av berättelser och dikter inom modern litteratur på modersmålet och texter från svensk litteratur för olika typer av jämförelser.",
+"Aktuella samhällsfrågor. Jämförande studier mellan länder där modersmålet talas och Sverige.",
+"Kulturella företeelser och sevärdheter. Jämförande studier mellan länder där modersmålet talas och Sverige."]}

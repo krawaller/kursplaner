@@ -6,4 +6,15 @@
 "reception 2",
 "konferens 2"]},
 "instructiontext":"som bygger på kursen information och kommunikation 1, kursen reception 2 eller kursen konferens 2.",
-"code":"ADMADM01"}
+"code":"ADMADM01",
+"goaltext":" Kursen administration 1 omfattar punkterna 1 och 3&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,0,1,1,1,1,1,1],
+"level":"basic",
+"content":["Grundläggande administrativa arbetsrutiner, till exempel diarieföring, arkivering och postrutiner samt dokument- och skrivregler, till exempel allmänna och sekretessbelagda handlingar.",
+"Administrativa funktioner, till exempel ekonomi, material, personal, information och kommunikation.",
+"Handelsdokument, till exempel order, faktura och dokument för inköp och lagerhantering. Begrepp inom området, till exempel blankett, mall och brev.",
+"Organisation och arbetsformer i företag, till exempel hur ansvar och uppgifter fördelas i en organisation, hur ett organisationsschema upprättas, hur olika arbetsformer, projekt- och distansarbete kan tillämpas.",
+"Offentlig förvaltning samt företags och organisationers uppbyggnad och verksamhet.",
+"Grundläggande programvaror för administration.",
+"Planering och organisation av det administrativa arbetet, till exempel att handlägga ett ärende eller anordna möten, konferenser och event, enskilt eller tillsammans med andra. Presentation av ett företags interna och externa information.",
+"Lagar och andra bestämmelser inom området, till exempel arbetsrätt och arkivlagen."]}

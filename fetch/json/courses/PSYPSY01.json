@@ -1,4 +1,12 @@
 {"subject":"PSY",
 "name":"Psykiatri 1",
 "points":100,
-"code":"PSYPSY01"}
+"code":"PSYPSY01",
+"goaltext":" Kursen psykiatri 1 omfattar punkterna 2, 4&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[0,1,0,1,1,1,0,1,0,0],
+"level":"basic",
+"content":["Psykiatrins historiska utveckling vad gäller organisation, människosyn, kunskap, utveckling och användning av olika behandlingsformer samt behov av evidensbaserad kunskap.",
+"Förklaringsmodeller till att psykisk ohälsa uppstår. Hur individens fysiska, psykosociala och socioekonomiska situation samt könstillhörighet påverkar psykisk hälsa och ohälsa. ",
+"Identifikation av psykiska hälsorisker och förebyggande av psykisk ohälsa.",
+"Orsak, symtom, skattningsinstrument, behandling, vård och omsorg, omvårdnad, återhämtning samt prevention vid vanliga psykiska funktionsnedsättningar.",
+"Professionell hållning, balanspunkter, överföring–motöverföring, närhet–distans, empati–sympati samt hållpunkter för ett bra samtal.<i> </i>"]}

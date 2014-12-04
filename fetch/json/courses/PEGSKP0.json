@@ -1,4 +1,11 @@
 {"subject":"PEG",
 "name":"Skapande verksamhet",
 "points":100,
-"code":"PEGSKP0"}
+"code":"PEGSKP0",
+"goaltext":"Kursen skapande verksamhet omfattar punkterna 1&mdash;3 och 6&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,0,0,1,1,1],
+"level":"basic",
+"content":["Skapande verksamheters betydelse för människors lärande och växande.",
+"Användning av bild och form, drama, dans och musik som redskap i pedagogiska sammanhang.",
+"Olika metoder, tekniker och material för skapande aktiviteter.",
+"Interaktion och kommunikation i samarbete och möten med människor."]}

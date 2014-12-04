@@ -3,4 +3,14 @@
 "points":200,
 "requirements":"kyl- och värmepumpsteknik – grund",
 "instructiontext":"som bygger på kursen kyl- och värmepumpsteknik – grund.",
-"code":"KYLKYV0"}
+"code":"KYLKYV0",
+"goaltext":"Kursen kyl- och värmepumpsteknik &mdash; service omfattar punkterna 1&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Äldre och nyare typer av kyl- och värmepumpanläggningar med olika typer av köld- och värmebärare samt hantering av dessa i enlighet med miljö- och säkerhetskrav.",
+"Kylsystemets komponenters uppgifter och funktioner.",
+"Planering av servicearbete utifrån ritningar och manualer.",
+"Driftskontroll och läcksökning samt systemens energieffektivitet.",
+"Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för sig själv som för andra. Ergonomiskt riktigt arbetssätt.",
+"Metoder för utvärdering och dokumentation av utfört arbete. ",
+"Kundkommunikation."]}

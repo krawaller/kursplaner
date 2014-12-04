@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"hantverksteknik 4",
 "instructiontext":"som bygger på kursen hantverksteknik 4 med innehåll från vald profil.",
-"code":"HAVHNT05"}
+"code":"HAVHNT05",
+"goaltext":"Kursen hantverksteknik 5 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 och 6. I kursen befästs fördjupade kunskaper i ämnet, inom den valda profilen.",
+"goals":[2,2,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Kreativt produktionsarbete med effektivisering, lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas produktionsplanering samt material-, tids- och kostnadskalkyler.",
+"Skissteknik, ritteknik, konstruktion och teknisk beskrivning.",
+"Analys av färg, form och proportioner för kvalitetshöjning av resultatet.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Digitala tekniker för presentation av det färdiga arbetet.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt hur man använder eventuell skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service."]}

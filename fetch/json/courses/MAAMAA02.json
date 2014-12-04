@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"massage 1",
 "instructiontext":"som bygger på kursen massage 1.",
-"code":"MAAMAA02"}
+"code":"MAAMAA02",
+"goaltext":"Kursen massage 2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"high",
+"content":["Anatomi och fysiologi med fokus på muskelfysiologi, rörelse och träning samt medicinsk terminologi.",
+"Grundläggande skade- och sjukdomslära med fokus på rörelseapparaten.",
+"Rörlighetsträning, muskeltöjningar och triggerpunktsbehandling.",
+"Hjärt-lungräddning med defibrillator.",
+"Olika metoder för att ge avspänning.",
+"Massage i praktiken.",
+"Olika undersökningsformer, behandlingstekniker och skadeförbyggande och rehabiliterande träning.",
+"Hygien, miljö och arbetsställning vid massage."]}

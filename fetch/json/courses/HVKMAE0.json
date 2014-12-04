@@ -3,4 +3,16 @@
 "points":50,
 "requirements":"material och miljö",
 "instructiontext":"som bygger på kursen material och miljö.",
-"code":"HVKMAE0"}
+"code":"HVKMAE0",
+"goaltext":"Kursen omfattar punkterna 4&mdash;7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper om material och miljö.",
+"goals":[0,0,0,1,1,1,1],
+"level":"normal",
+"content":["Materials och produkters ursprung, uppbyggnad och egenskaper.",
+"Materials och produkters hantering, funktion och användningsområden.",
+"Återanvändning och återvinning av material och produkter.",
+"Vård och skötsel av material. Hållbarhet och förbättring av materialens funktion.",
+"Påverkan på människor och miljö vid användning, framställning och hantering av material och produkter. ",
+"Faktorer som påverkar den fysiska och psykosociala arbetsmiljön, till exempel stresshantering, skyddsutrustning, hygien och ergonomi. I samband med det behandlas konsekvenser av en bristande arbetsmiljö.",
+"Arbetsmiljölagen, regler och föreskrifter som gäller arbetsmiljö och säkerhet inom det valda hantverksområdet. I samband med det behandlas konsekvenser som kan uppstå om dessa inte följs.",
+"El- och brandsäkerhet. Regler och föreskrifter, samt konsekvenser som kan uppstå om de inte följs.",
+"Agerande vid arbetsrelaterade olycksfall."]}

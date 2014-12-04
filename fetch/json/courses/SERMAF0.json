@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"servering 2",
 "instructiontext":"som bygger på kursen servering 2.",
-"code":"SERMAF0"}
+"code":"SERMAF0",
+"goaltext":"Kursen matsalshantverk omfattar punkterna 1&mdash;2, 4&mdash;5 och 7&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[2,2,0,1,1,0,1,1],
+"level":"normal",
+"content":["Metoder, material, redskap och annan utrustning som används vid servering.",
+"Festuppdukningar i matsal med specialbestick för olika typer av menyer.",
+"Servettbrytning och hantering av linne.",
+"Arbetsorganisation och samverkan i matsal.",
+"Tillagning, uppläggning och servering av mat vid bord i gästmatsal, till exempel tranchering, fileing och flambering.",
+"Dekantering av viner.",
+"Gästbemötande, service och försäljning.",
+"Ergonomi, hygien och ändamålsenlig klädsel."]}

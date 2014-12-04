@@ -1,4 +1,16 @@
 {"subject":"EVE",
 "name":"Eventteknik",
 "points":100,
-"code":"EVEEVN0"}
+"code":"EVEEVN0",
+"goaltext":"Kursen eventteknik omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2&mdash;4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,2,2,2,1,1],
+"level":"basic",
+"content":["Funktion och arbetssätt hos tekniska ljud-, bild- och ljusanläggningar för event.",
+"Funktion och monteringssätt hos komponenter, enheter och system för scenuppbyggnad.",
+"Uppbyggnad och riggning av scenanläggningar för musikprojekt, mässor och andra event.",
+"Ergonomi.",
+"Säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och riggning av utrustning.",
+"Handhavande och funktionsprovning av anläggningar.",
+"Enklare systematisk felsökning och reparation.",
+"Planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+"Tillstånd som kan krävas vid offentliga framföranden."]}

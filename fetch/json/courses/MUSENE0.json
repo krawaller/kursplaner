@@ -1,4 +1,17 @@
 {"subject":"MUS",
 "name":"Ensembleledning och dirigering",
 "points":100,
-"code":"MUSENE0"}
+"code":"MUSENE0",
+"goaltext":"Kursen ensembleledning och dirigering omfattar punkterna 1&mdash;2, 4&mdash;5 och 7 under rubriken Ämnets syfte, med särskild betoning på färdigheter i att använda ett konstnärligt och musikaliskt uttryck samt punkterna 4 och 7.",
+"goals":[1,1,0,2,1,0,2,0,0],
+"level":"normal",
+"content":["Musikaliskt ledarskap samt konstnärligt och personligt uttryck, i två eller flera genrer.",
+"Repertoar och stildrag i olika genrer.",
+"Repetitionsmetodik för olika ensembletyper. Studium av partitur från olika stilar och tider.",
+"Slagteknik och taktartsfigurer.",
+"Förmedling och gestaltning av konstnärliga intentioner, muntligt och med gester.",
+"Olika ensembletyper och deras konventioner för ledning.",
+"Rösten, akustiska och elektriska instrument och deras egenskaper och musikaliska användningsområden. Röstvård och metoder för det, till exempel uppsjungningsövningar.",
+"Musikalisk kommunikation och samarbetsförmåga.",
+"Kommunikation med publik. Presentation av program.",
+"Kvalitetsbedömning av musikframföranden, vilket innebär musikalisk värdering, analys och tolkning."]}

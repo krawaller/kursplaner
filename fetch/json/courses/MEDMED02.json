@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"medicin 1",
 "instructiontext":"som bygger på kursen medicin 1.",
-"code":"MEDMED02"}
+"code":"MEDMED02",
+"goaltext":"Kursen medicin 2 omfattar punkterna 1&mdash;4 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,0,1],
+"level":"high",
+"content":["Människokroppens uppbyggnad med fördjupning i dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.",
+"Fysiologiska processer med utgångspunkt i hälsa.",
+"Sjukdomar och deras orsaker, symtom och diagnoser. Undersökningar, medicinska behandlingar, vård och omsorg vid dessa sjukdomar.",
+"Vatten-, elektrolyt-, syrabas- och näringsbalans.",
+"Farmakologi inklusive specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+"Mikroorganismer och kroppens försvarssystem.",
+"Medicinsk terminologi."]}

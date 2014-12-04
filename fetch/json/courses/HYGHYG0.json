@@ -1,4 +1,15 @@
 {"subject":"HYG",
 "name":"Hygien",
 "points":100,
-"code":"HYGHYG0"}
+"code":"HYGHYG0",
+"goaltext":"Kursen hygien omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Mikroorganismers förekomst, egenskaper, livsbetingelser och betydelse.",
+"Smittvägar, livsmedelsburna infektioner och matförgiftningar.",
+"God hygienpraxis i samband med livsmedelshantering.",
+"Metoder för hantering av råvaror samt för tillagning, varmhållning, nedkylning, uppvärmning och förvaring av livsmedel.",
+"Provtagning och andra kontroller.",
+"Rengöring av utrustning och lokaler.",
+"Lagar och andra bestämmelser inom livsmedelsområdet.",
+"Kontrollprogram för livsmedelshygien."]}

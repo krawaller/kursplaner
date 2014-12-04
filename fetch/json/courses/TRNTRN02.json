@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"träningslära 1",
 "instructiontext":"som bygger på kursen träningslära 1.",
-"code":"TRNTRN02"}
+"code":"TRNTRN02",
+"goaltext":"Kursen träningslära 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Kroppens anatomi och fysiologi med fokus på energigivande processer.",
+"Kroppens energiomsättning, näringsfysiologi, energibehov och energibalans utifrån tränings- och hälsoperspektiv.",
+"Användande av kostregistrering och kostdataprogram.",
+"Olika faktorers påverkan på individers upplevelse av fysisk aktivitet och träning.",
+"Tränings- och motionsmiljöers betydelse för träning, motivation och prestation.",
+"Träningsmetoder för till exempel uthållighet, styrka, rörlighet, koordination och koncentration.",
+"Tester för att mäta fysiska kvaliteter, till exempel konditions- och rörlighetstester.",
+"Planering, genomförande, utvärdering och dokumentation av träningsprogram för individer och grupper.",
+"Skadeförebyggande träning samt enklare träningsprogram för rehabilitering, till exempel efter idrottsskada."]}

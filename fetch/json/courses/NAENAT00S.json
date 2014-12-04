@@ -1,4 +1,13 @@
 {"subject":"NAE",
 "name":"Naturvetenskaplig spets",
 "points":50,
-"code":"NAENAT00S"}
+"code":"NAENAT00S",
+"goaltext":"Kursen naturvetenskaplig spets omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas kunskaper inom spetsutbildningens område. ",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
+"Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",
+"Experiment, fältstudier eller observationer.",
+"Någon tillämpning inom kunskapsområdet, till exempel i samarbete med institutioner och organisationer i det omgivande samhället.",
+"Källkritisk granskning, tolkning och värdering av information från olika medier och källor.",
+"Naturvetenskapliga uttrycks- och presentationsformer, till exempel planschutställningar, rapporter, reportage och seminarier. "]}

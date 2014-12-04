@@ -1,4 +1,16 @@
 {"subject":"STY",
 "name":"Charkuteri 1",
 "points":100,
-"code":"STYCHA01"}
+"code":"STYCHA01",
+"goaltext":"Kursen charkuteri 1 omfattar punkterna 2 och 4&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[0,1,0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Olika köttråvaror inom charkindustrin, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Andra råvaror och tillsatser som är vanligt förekommande vid tillverkning av charkuterivaror.",
+"Tillverkning av oblandade och blandade charkuterivaror, i huvudsak emulsionsprodukter.",
+"Tillverkningsprocessen – uppvägning, beredning, formning, värmebehandling och kylning.",
+"Hantering och förvaring av vanligt förekommande råvaror i charkindustrin.",
+"Hur man läser recept samt beräkning av recept- och näringsinnehåll.",
+"Användning och vård av produktionsutrustning och maskiner inom charkindustrin.",
+"Förpackning, förvaring och märkning av charkuterivaror.",
+"Arbetsmiljö, ergonomi och säkerhet.",
+"Praktisk hygien och egenkontroll."]}

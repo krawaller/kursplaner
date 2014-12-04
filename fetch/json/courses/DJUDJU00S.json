@@ -6,4 +6,17 @@
 "arr":["sällskapsdjur 1",
 "lantbruksdjur 2"]},
 "instructiontext":"som bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"DJUDJU00S"}
+"code":"DJUDJU00S",
+"goaltext":"Kursen djur &mdash; specialisering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Fördjupning inom vald specialisering. Exempel på specialiseringar kan vara djurparksdjur och forskningsdjur samt djur för hälsa och livskvalitet.",
+"Djurarter och djurraser inom vald specialisering.",
+"Etologi inom vald specialisering.",
+"Foder, utfodring och djurens näringsbehov inom vald specialisering.",
+"Arbetsplanering och genomförande av arbetsuppgifter inom vald specialisering.",
+"Skötsel och hantering av djur inom vald specialisering.",
+"Skötsel och hantering av anläggningar och utrustning inom vald specialisering.",
+"Ergonomi, arbetsmiljö och säkerhet.",
+"Hygien, smittskydd och förebyggande hälsoarbete.",
+"Lagar och andra bestämmelser inom vald specialisering, vad gäller till exempel djurskydd, handel med djur, införsel och hotade arter."]}

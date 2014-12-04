@@ -1,4 +1,16 @@
 {"subject":"FAS",
 "name":"Fastighetsservice &mdash; ytor",
 "points":100,
-"code":"FASFAV0"}
+"code":"FASFAV0",
+"goaltext":"Kursen fastighetsservice &mdash; ytor omfattar punkterna 1&mdash;2 och 4&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2.",
+"goals":[2,2,0,1,1,1,1,1],
+"level":"normal",
+"content":["Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.",
+"Vanliga byggskador, hur de kan förebyggas och åtgärdas.",
+"Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete. Förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.",
+"Underhållsrutiner, regler, bestämmelser och besiktningsplaner för våtutrymmen, ytor och nödöppningar.",
+"Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.",
+"Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter och utrustning.",
+"Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.",
+"Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel på olika ytor.",
+"Metoder för dokumentation av utförda åtgärder."]}

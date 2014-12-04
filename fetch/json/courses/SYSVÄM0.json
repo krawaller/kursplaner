@@ -1,4 +1,14 @@
 {"subject":"SYS",
 "name":"Värmelära",
 "points":100,
-"code":"SYSVÄM0"}
+"code":"SYSVÄM0",
+"goaltext":"Kursen värmelära omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 6.",
+"goals":[1,2,1,1,1,2,1],
+"level":"normal",
+"content":["Sambanden mellan värme och andra former av energi. Begrepp inom termodynamiken, till exempel värmeöverföring, temperatur, energiomvandling och tryck.",
+"Metoder för och tillämpning av energi- och effektberäkningar.",
+"Dimensionering av rör- och luftkanalsystem, värmare och köldbärarsystemens luftkylare samt flöden och tryckfall i dessa. ",
+"Effektiv energianvändning för byggnader.",
+"Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
+"Produktinformation, beräkningshandböcker, schabloner, lathundar, datorprogram och beräkningsmetoder samt hur de används för att utföra beräkningar av system.",
+"Bygglagstiftning för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet."]}

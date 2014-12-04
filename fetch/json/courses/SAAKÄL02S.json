@@ -4,4 +4,16 @@
 "repeat":"Kursen kan läsas flera gånger med olika svetsmetoder.",
 "requirements":"kälsvets 1",
 "instructiontext":"som bygger på kursen kälsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-"code":"SAAKÄL02S"}
+"code":"SAAKÄL02S",
+"goaltext":"Kursen kälsvets 2 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas kunskaper inom vald svetsmetod.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Svetsning med vald svetsmetod av kälfogar plåt mot plåt samt plåt mot rör i olika relevanta svetslägen till gängse acceptanskrav.",
+"Tillverkningsunderlag, till exempel svetsdatablad, ritningar och standarder.",
+"Funktion hos utrustning och kringutrustning för vald svetsmetod.",
+"Systematiskt underhåll och service på utrustningen. Organisation av arbetsplatsen.",
+"Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+"Metoder för reparation av enklare fel som uppstår under svetsningen samt för att lösa enklare produktionstekniska problem.",
+"Standarder för kvalitetsbedömning av den utförda sammanfogningen.",
+"Termer och begrepp inom teknikområdet.",
+"Olika delar i produktionsprocessen. Betydelsen av kommunikation och samverkan mellan dessa."]}

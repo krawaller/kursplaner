@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"avhjälpande underhåll 1",
 "instructiontext":"som bygger på kursen avhjälpande underhåll 1.",
-"code":"DRIAVH02"}
+"code":"DRIAVH02",
+"goaltext":"Kursen avhjälpande underhåll 2 omfattar punkterna 1&mdash;2 och 4&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,0,1,1,1,0,0],
+"level":"high",
+"content":["Avhjälpande underhåll på maskiner och utrustningar.",
+"Beredning, planering och dokumentation av åtgärder med stöd av ritningar, scheman och manualer.",
+"Metoder och tekniker för avhjälpande underhåll, materialuppbyggnad med materialval samt för- och efterbehandling. ",
+"Arbetsinstruktioner för montering och demontering.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Underhållstekniska begrepp och parametrar.",
+"Felsökningsmetoder, utvärdering och förbättringsteknik."]}

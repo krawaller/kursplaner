@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"biologi i vattenmiljöer 2",
 "instructiontext":"som bygger på kursen biologi i vattenmiljöer 2.",
-"code":"BIIVAT03"}
+"code":"BIIVAT03",
+"goaltext":"Kursen biologi i vattenmiljöer 3 omfattar punkterna 1, 3 och 7&mdash;8 under rubriken Ämnets syfte. I kursens behandlas fördjupade kunskaper inom valt fördjupningsområde.",
+"goals":[1,0,1,0,0,0,1,1],
+"level":"normal",
+"content":["Fältstudier och egna undersökningar inom fördjupningsområdet.",
+"Artinventering av vattenlevande organismer inom fördjupningsområdet och de olika arternas betydelse i naturbruket. ",
+"Beteendeekologi hos vattenlevande organismer, till exempel vandringar och revirbehov.",
+"Ekologiska samband och de olika faktorer som på olika sätt påverkar vattenlevande organismer inom f��rdjupningsområdet.",
+"Skyddsvärda biotoper och biotoprestaureringar. Etiska frågor i samband med bevarandebiologi. ",
+"Biotopkrav, utbredning och hemområden för utrotningshotade arter inom fördjupningsområdet. ",
+"Lagar och andra bestämmelser inom fördjupningsområdet. ",
+"Myndigheter och organisationer som arbetar med frågor inom fördjupningsområdet.",
+"Metoder för informationssökning.",
+"Begrepp, teorier och modeller inom fördjupningsområdet."]}

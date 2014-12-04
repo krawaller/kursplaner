@@ -1,4 +1,14 @@
 {"subject":"CAD",
 "name":"Cad 1",
 "points":50,
-"code":"CADCAD01"}
+"code":"CADCAD01",
+"goaltext":"Kursen cad 1 omfattar punkterna 1&mdash;3 och 6&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,0,1,1,1],
+"level":"normal",
+"content":["Cad-system och begrepp inom cad.",
+"Cad-systemets inställningar för modellering.",
+"Grundläggande skiss- och ritteknik inom valt teknikområde.",
+"Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+"Solidmodellering i tre dimensioner för att avbilda verkliga och tänkta föremål, till exempel genom extrudering, rotation, svepning och återanvändning av geometri för att skapa mönster.",
+"Cad-systemets roll i produktutvecklings- och produktionsprocessen.",
+"Ergonomiska krav på cad-arbetsplatser och arbetsmiljökrav."]}

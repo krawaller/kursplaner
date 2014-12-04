@@ -4,4 +4,15 @@
 "requirements":"de kunskaper grundskolan ger eller motsvarande",
 "notwith":"samhällskunskap 1b",
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1b.",
-"code":"SAMSAM01a1"}
+"code":"SAMSAM01a1",
+"goaltext":"Kursen samhällskunskap 1a1 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån olika demokratimodeller och den digitala teknikens möjligheter. Mediers innehåll och nyhetsvärdering i samband med frågor om demokrati och politik.",
+"De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.",
+"Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.",
+"Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Arbetsmarknadens sätt att fungera, anställningsvillkor.",
+"Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.",
+"Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.",
+"Metoder för att kritiskt bearbeta information, till exempel källkritik.",
+"Presentation i olika former och med olika tekniker med betoning på det skriftliga och muntliga, till exempel debatter och debattartiklar."]}

@@ -1,4 +1,11 @@
 {"subject":"PED",
 "name":"Aktivitetsledarskap",
 "points":100,
-"code":"PEDAKI00S"}
+"code":"PEDAKI00S",
+"goaltext":"Kursen aktivitetsledarskap omfattar punkterna 1 och 4&mdash;6 under rubriken Ämnets syfte, med särskild betoning på pedagogiska sammanhang och ledarskap inom dessa.",
+"goals":[1,0,0,1,1,1],
+"level":"normal",
+"content":["Pedagogiskt ledarskap inom specifika aktiviteter i samverkan med verksamheter.",
+"Verksamhetens organisation, målsättning, verksamhetsform, ledarutbildning och centrala begrepp för aktiviteten.",
+"Människors interaktion, gruppens och det sociala sammanhangets betydelse för lärande och det pedagogiska ledarskapet.",
+"Planering, genomförande, dokumentation och utvärdering av aktiviteter på ett sätt som är i enlighet med målen för verksamheten."]}

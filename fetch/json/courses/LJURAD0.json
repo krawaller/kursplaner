@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"ljudproduktion 2",
 "instructiontext":"som bygger på kursen ljudproduktion 2.",
-"code":"LJURAD0"}
+"code":"LJURAD0",
+"goaltext":"Kursen radioproduktion omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i radioproduktion.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Radioproduktioner. Planering, genomförande och utvärdering. Hur arbetsprover kan utformas.",
+"Radioproduktionsmetoder samt olika radioproduktioners kostnader och budget.",
+"Research för radioprogrammet och källkritiskt arbete.",
+"Direktsändning och förinspelade radioprogram.",
+"Att tala i radio med hjälp av manus och röstteknik.",
+"Publicering på olika distributionsplattformar och ljudformat med betoning på radio.",
+"Olika typer av intervjuer.",
+"Innehåll, form, teknik och målgrupp i radioproduktioner ur ett estetiskt och etiskt perspektiv.",
+"Avtal och kontrakt samt lagar, andra bestämmelser och överenskommelser med betoning på radiomediet. "]}

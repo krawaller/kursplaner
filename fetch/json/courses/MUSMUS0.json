@@ -1,4 +1,16 @@
 {"subject":"MUS",
 "name":"Musik",
 "points":100,
-"code":"MUSMUS0"}
+"code":"MUSMUS0",
+"goaltext":"Kursen musik omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på 1&mdash;2 och röstvård. Kursen behandlar grundläggande färdigheter i ämnet.",
+"goals":[2,2,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Musicerande i gehörsbaserad och noterad musik med röst eller instrument.",
+"Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.",
+"Sånger, alternativt låtar och danser, från olika tider eller kulturer.",
+"Instudering i grupp.",
+"Instrument och deras grundläggande egenskaper, kvaliteter och inbördes relationer. Grundläggande röstvård och metoder för det.",
+"Grundläggande musikskapande och bearbetning av musikaliskt material, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.",
+"Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.",
+"Programvaror för musikbearbetning och grundläggande hantering av musikteknisk utrustning och digital bearbetning av musikaliskt material.",
+"Grundläggande arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi och hörselvård."]}

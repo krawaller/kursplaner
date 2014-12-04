@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"grafisk kommunikation 2",
 "instructiontext":"som bygger på kursen grafisk kommunikation 2.",
-"code":"GRAGRR0"}
+"code":"GRAGRR0",
+"goaltext":"Kursen original, reproduktion och prepress omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4 och 6. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,1,1,2,1,2],
+"level":"high",
+"content":["Manuella och automatiserade produktionsflöden, kvalitets- och leveransaspekter samt distributionskanaler.",
+"Utskrifts- och originalhantering i illustrations-, bildbehandlings- och layoutprogram samt anpassning för publicering via tryckprocesser eller webb.",
+"Instruktioner för avlämning av original samt instruktioner för arbetsflöden.",
+"Reproduktionsteknik, digital utskjutning och preflight. Reproduktionsprocessen, med utskrifts-, original- och postskripthantering.",
+"Fördjupning inom valt tematiseringsområde: 1) Originalproduktion i relevanta grafiska program. 2) Prepressprocessen (från original till mångfaldigandeproduktion). Tematiseringen kan omfatta båda områdena. ",
+"Relevant fackspråk inom arbetsflöden som gäller original och prepress samt inom valt tematiseringsområde."]}

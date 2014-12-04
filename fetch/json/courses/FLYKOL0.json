@@ -1,4 +1,15 @@
 {"subject":"FLY",
 "name":"Kolvmotor",
 "points":200,
-"code":"FLYKOL0"}
+"code":"FLYKOL0",
+"goaltext":"Kursen kolvmotor omfattar punkterna 2 och 4&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,0,1,1,1,1,1,0],
+"level":"normal",
+"content":["Service och underhållsåtgärder av kolvmotorer.",
+"Felsökning och reparation av kolvmotorer.",
+"Energiomvandlingsprocessen i kolvmotorer.",
+"Kolvmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+"Motorprestanda, till exempel beräkning av effekt och motorers verkningsgrad.",
+"Motorindikeringssystem, till exempel cylindertemperatur, motorvarvtal och oljetryck.",
+"Motorinstallation och brandskyddssystem, till exempel utformning av motorupphängning och brandvägg.",
+"Motorövervakning och markdrift, till exempel motorkörning och trendövervakning."]}

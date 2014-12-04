@@ -1,4 +1,16 @@
 {"subject":"MAS",
 "name":"Arbete från servicebil",
 "points":100,
-"code":"MASARB0"}
+"code":"MASARB0",
+"goaltext":"Kursen arbete från servicebil omfattar punkterna 2&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Metoder för fältmässiga reparationer.",
+"Demontering, montering och justering av komponenter i samband med fältmässig reparation.",
+"Fordonsförflyttning, till exempel bärgning och bogsering.",
+"Säkerhet vid fältmässig reparation. Riskbedömning.",
+"Lagar och andra bestämmelser som reglerar arbetet.",
+"Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.",
+"Administrativa funktioner, kommunikationssystem, serviceavtal, garantier samt dialog för felsökning och reparation.",
+"Efterdokumentation.",
+"Utrustning i assistansfordon."]}

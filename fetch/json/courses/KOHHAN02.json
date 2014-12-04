@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"konsthantverk 1",
 "instructiontext":"som bygger på kursen konsthantverk 1.",
-"code":"KOHHAN02"}
+"code":"KOHHAN02",
+"goaltext":"Kursen konsthantverk 2 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas utökade grundkunskaper.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Hantverkets och materialets historia och betydelse i kulturutvecklingen.",
+"Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.",
+"Bearbetningsmetoder, användningsområden och verktyg.",
+"Formgivningsprocessen och formgivningens uttrycksmöjligheter, till exempel färg, form och material.",
+"Färg- och formlära.",
+"Värdering av formgivning i relation till intentioner.",
+"De valda materialens egenskaper.",
+"Utvärdering av arbetsprocessen och resultatet.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.",
+"Påverkan på människor och miljö vid användning, framställning och hantering av material."]}

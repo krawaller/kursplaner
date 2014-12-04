@@ -1,4 +1,15 @@
 {"subject":"DAR",
 "name":"Datorstyrd produktion 1",
 "points":100,
-"code":"DARDAT01S"}
+"code":"DARDAT01S",
+"goaltext":"Kursen datorstyrd produktion 1 omfattar punkterna 1, 4&mdash;6 och 10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper för vald utrustning eller valda metoder och programmeringssätt.",
+"goals":[1,0,0,1,1,1,0,0,0,1],
+"level":"normal",
+"content":["Programmering efter etablerade koder för valt programmeringssätt, manuellt och med programmeringsstöd samt med pc-baserade hjälpsystem.",
+"Simulering och testkörning av valda program.",
+"Iordningställande av vald datorstyrd utrustning för enklare bearbetning eller produktion.",
+"Tolkning av tillverkningsunderlag till styrsystem och överförande av dessa till aktuell utrustning.",
+"Tillverkning av produkter efter eget skapat program.",
+"Enklare felsökning och systematiskt underhåll.",
+"Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet. ",
+"Resultatkontroll samt justering av program och inställningar."]}

@@ -6,4 +6,16 @@
 "träningslära 2"]},
 "notwith":"träningslära 3",
 "instructiontext":"som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3.",
-"code":"SPETRÄ03"}
+"code":"SPETRÄ03",
+"goaltext":"Kursen tränings- och tävlingslära 3 omfattar punkterna 2 och 4&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,1,0,1,1,1,0],
+"level":"high",
+"content":["Sambandet mellan prestationsförmåga, prestationsberedskap, prestationstillstånd och prestationsfaktorer.",
+"Villkor för en internationell satsning i specialidrotten och tävlingsförberedelsens betydelse för prestationen.",
+"Träningsvetenskaplig utvärdering av det egna specialidrottandet.",
+"Inhämtning, bearbetning och analys av data från tävlingsprocessen.",
+"Planering och förberedelse av strategiska handlingsplaner för tävlandet med hänsyn till tävlingsregler samt till styrkor och svagheter hos den egna aktiva eller laget i relation till styrkor, svagheter och möjliga förhållningssätt hos motståndare.",
+"Målsättning och planering för det egna idrottsliga engagemanget efter avslutad studietid.",
+"Taktiska val för individen eller kollektivet för att finna lösningar i tävlingssituationer, till exempel att göra taktiska eller tekniska förändringar för att uppnå bättre resultat.",
+"Idrottsmiljöers betydelse för tränings- och tävlingsprestation.",
+"Alternativa behandlingsformer för idrottsskador."]}

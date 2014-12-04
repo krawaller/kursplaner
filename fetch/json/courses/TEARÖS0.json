@@ -1,4 +1,17 @@
 {"subject":"TEA",
 "name":"Röst",
 "points":100,
-"code":"TEARÖS0"}
+"code":"TEARÖS0",
+"goaltext":"Kursen röst omfattar punkterna 1 och 6&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+"goals":[2,0,0,0,0,1,1,1,1,0],
+"level":"normal",
+"content":["Röstorganens anatomi och fysiologi.",
+"Avspänningsteknik och röstövningar för att utveckla ett naturligt användande av rösten.",
+"Effekter av regelbunden röstträning.",
+"Röst och text i samspel.",
+"Rösten som en del i skapandet av en scenisk karaktär.",
+"Röstträning för att göra sig hörd på och utanför scenen samt för att med rösten förmedla en avsikt till en publik.",
+"Samarbete i röstövningsgrupper och gestaltningsgrupper.",
+"Reflektion över det egna skapandet och den egna röstträningen.",
+"Analys och tolkning av sceniska gestaltningar med fokus på rösten.",
+"Begrepp för röstträning och analys av rösten som sceniskt uttrycksmedel, till exempel magstöd, artikulation, ton och volym."]}

@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"arrangering och komposition 1",
 "instructiontext":"som bygger på kursen arrangering och komposition 1.",
-"code":"MUIARA02"}
+"code":"MUIARA02",
+"goaltext":"Kursen arrangering och komposition 2 omfattar punkterna 1 och 4&mdash;9 under rubriken Ämnets syfte, med särskild betoning på musikaliska former och punkterna 6&mdash;8. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,0,0,1,1,2,2,2,1],
+"level":"high",
+"content":["Ensembleformer och musikformer samt stildrag från valda tidsperioder, genrer eller kulturer.",
+"Flerdelade symmetriska och asymmetriska formtyper, till exempel sonat, rondo, fuga, medley och visa.",
+"Fördjupning av någon kompositionsprincip för en musikalisk sats, till exempel kontrapunkt, mediantik, aleatorik, serialism och minimalism.",
+"Arrangering och komposition av flerstämmig vokal musik i vald genre. Textbehandling i vokalmusik.",
+"Arrangering och komposition av flerstämmig instrumental musik i vald genre.",
+"Instrumentering för valda ensembletyper.",
+"Konstnärlig kreativitet i experiment med och bearbetning av musikaliskt material.",
+"Användning av digitala medier och musikteknisk utrustning vid arrangering, komposition och produktion av musik.",
+"Analys och tolkning av konstnärliga kvaliteter i form av musikaliskt resultat, form och struktur samt användning av musikteoretiska begrepp som är relevanta i sammanhanget, till exempel med avseende på tonalitet och modalitet."]}

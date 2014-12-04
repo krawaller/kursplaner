@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"yrkestrafik 1a och kursen yrkestrafik 1b",
 "instructiontext":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
-"code":"GOSGOD0"}
+"code":"GOSGOD0",
+"goaltext":"Kursen godstrafik omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Användningsområden för olika lastbilskonstruktioner, utrustningar och redskap för godstransporter.",
+"Dispensregler för avvikande mått och viktbestämmelser på lastbilar och last. Ansökningsförfarande, utmärkning av bred last och transportrestriktioner.",
+"Planering, färdigställande samt val av lastbil och utrustning inför transportuppdrag. Funktionskontroll av utrustningen och säkerhetskontroll av fordonet.",
+"Planering, förberedelse och utförande av lastning av gods. Lastviktsberäkning, viktfördelning på lastbilen samt lastsäkring med val av lastsäkringsmetod.",
+"Planering av färdvägar med tung lastbil med hänsyn till olika begränsningar i trafikmiljön samt transportavstånd.",
+"Körning med tung lastbil i skiftande trafikmiljöer med last och rätt nyttjande av lastbilens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.",
+"Manövrering av tung lastbil och hantering av utrustning vid lossning och leveranser av gods. Handhavande av frakthandlingar och dokumentationer. ",
+"Genomförande av godstransportuppdrag som uppfyller kraven på yrkeskunnande, till exempel redovisning av kör- och vilotider, dokumentation, hög säkerhetsnivå, kvalitet och kundbemötande."]}

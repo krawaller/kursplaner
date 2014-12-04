@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"grafisk kommunikation 2",
 "instructiontext":"som bygger på kursen grafisk kommunikation 2.",
-"code":"GRAGRA0"}
+"code":"GRAGRA0",
+"goaltext":"Kursen grafiska arbetsflöden och analysmodeller omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"high",
+"content":["Manuella och digitala arbetsflöden med start i idéprocessen samt avlämning av original. Arbetsflödets kvalitetsaspekter. Kund- och leverantörsaspekter.",
+"Visualisering med kundskiss samt instruktioner för avlämning av original.",
+"Utskrifts- och originalhantering i illustrations-, bildbehandlings- och layoutprogram samt anpassning för publicering via tryckprocesser eller webb.",
+"Fördjupning inom valt tematiseringsområde: 1) Idéprocesser och kreativa processer för framtagande av visuella budskap och idéer via grafiska uttrycksmedel. 2) Analysmodeller och processer för framtagande av visuella budskap och idéer via grafiska uttrycksmedel. Tematiseringen kan omfatta båda områdena.",
+"Bild-, kommunikations- och marknadsföringsteorier, till exempel semiotik, bildretorik och grafisk funktionsanalys.",
+"Relevant fackspråk inom arbetsflöden, i kund- och leverantörskonktakter samt inom valt tematiseringsområde."]}

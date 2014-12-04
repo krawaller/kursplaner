@@ -6,4 +6,15 @@
 "ellära 2",
 "praktisk ellära"]},
 "instructiontext":"som bygger på kursen elkraftteknik, kursen ellära 2 eller kursen praktisk ellära.",
-"code":"INSBES0"}
+"code":"INSBES0",
+"goaltext":"Kursen belysningsteknik omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Olika typer av ljuskällor för olika miljöer. Installation av olika ljuskällor.",
+"Lagar och andra bestämmelser om säkerhet inom området. Standarder.",
+"Enklare ljusberäkningar med hjälp av olika hjälpmedel, till exempel datorprogrammet Dialux.",
+"Val av ledningar med hänsyn till störningar och olika miljöer.",
+"Installation av styrutrustning och styrsystem.",
+"Driftsättning och underhåll av belysningsinstallationer. ",
+"Dokumentation inom belysningsområdet.",
+"Felsökning och felavhjälpning av belysningsinstallationer."]}

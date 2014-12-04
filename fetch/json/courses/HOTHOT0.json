@@ -5,4 +5,17 @@
 "arr":["reception 2",
 "konferens 2"]},
 "instructiontext":"som bygger på kursen reception 2 eller kursen konferens 2.",
-"code":"HOTHOT0"}
+"code":"HOTHOT0",
+"goaltext":"Kursen hotelladministration omfattar punkterna 1 och 3&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 3&mdash;4 och 7. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,0,2,2,1,1,2],
+"level":"high",
+"content":["Hantering och kontroll av dagskassor samt bokföring av olika avdelningars försäljning.",
+"Hantering av betalningar samt kontroll av kreditvärdighet.",
+"Användning av förekommande ekonomisystem.",
+"Uppföljning av kundjournaler samt arkivering.",
+"Dokumentation av företagets miljöarbete och rapportering till berörda avdelningschefer, ägare och den certifierande organisationen.",
+"Uppföljning av resultat och nyckeltal.",
+"Anställnings- och lönefrågor, kontakter med berörda parter, till exempel fack- eller arbetsgivarorganisation, samt regler för sjukfrånvaro och sjuklön.",
+"Ergonomi, arbetsmiljö och säkerhet i enlighet med lagar och andra bestämmelser.",
+"Bemötande och hantering av kundförfrågningar.",
+"Kommunikation och samverkan mellan avdelningarna."]}

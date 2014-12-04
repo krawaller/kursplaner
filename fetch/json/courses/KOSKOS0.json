@@ -1,4 +1,14 @@
 {"subject":"KOS",
 "name":"Konstarterna och samhället",
 "points":50,
-"code":"KOSKOS0"}
+"code":"KOSKOS0",
+"goaltext":" Kursen konstarterna och samhället omfattar punkterna 2&mdash;6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[0,1,1,1,1,1],
+"level":"basic",
+"content":["Orientering om samtida kulturuttryck och beröringspunkter mellan dem.",
+"Kulturbegreppets olika innebörder samt relationen mellan etablerade konstformer och populärkultur.",
+"Samband mellan samhällsförändring och konstnärliga uttrycksformer, i nutiden och med historiska tillbakablickar.",
+"Konstnärliga uttrycksformers roll och villkor i dagens samhälle. Frågor som rör upphovsrätt, yttrandefrihet, demokrati och censur liksom tekniska möjligheter att presentera konstnärligt skapande.",
+"Det konstnärliga yrkesutövandets villkor samt föreställningar om kreativitet och vad som kännetecknar kreativa miljöer.",
+"Elevernas eget skapande och hur det förhåller sig till samtidens konstnärliga uttryck.",
+"Analys och tolkning av aktuella kultur- och konstföreteelser. Begrepp och teorier som förekommer i aktuell kulturdebatt."]}

@@ -3,4 +3,13 @@
 "points":200,
 "requirements":"luftbehandlingssystem",
 "instructiontext":"som bygger på kursen luftbehandlingssystem.",
-"code":"VETLUT0"}
+"code":"VETLUT0",
+"goaltext":"Kursen luftbehandlingsanläggningar omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Drift och underhåll av luftbehandlingsanläggningar.",
+"Luftflödes- och ljudmätningar av luftbehandlingsanläggningar.",
+"Luftbehandlingsanläggningars optimering efter byggnadens energi- och klimatbehov.",
+"Mätningar av verkningsgrad för värmeåtervinning samt specifik fläkteffekt, SFP.",
+"Ritningsläsning och arbetsbeskrivningar.",
+"Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter och EU-direktiv. Behörigheter för ett säkert arbete."]}

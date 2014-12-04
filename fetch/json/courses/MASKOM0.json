@@ -3,4 +3,12 @@
 "points":100,
 "requirements":"lastbilar och utrustning",
 "instructiontext":"som bygger på kursen lastbilar och utrustning.",
-"code":"MASKOM0"}
+"code":"MASKOM0",
+"goaltext":"Kursen komfortsystem omfattar punkterna 2&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Funktion och konstruktion av mobila motor- och kupévärmare samt deras komponenter och kringutrustning.",
+"Metoder för diagnos, service och underhåll samt reparation av mobila komfortsystem, till exempel kylanläggningar och rast- och parkeringsvärmare.",
+"Demontering, montering och justering av komponenter och detaljer i samband med reparationsarbete på mobila komfortsystem.",
+"Lagar och andra bestämmelser som reglerar arbetet med olika komfortsystem. ",
+"Svenska och engelska reservdelskataloger och manualer samt digitala informationssystem."]}

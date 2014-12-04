@@ -1,4 +1,14 @@
 {"subject":"MAO",
 "name":"Mat och butik 1",
 "points":100,
-"code":"MAOMAT01"}
+"code":"MAOMAT01",
+"goaltext":"Kursen mat och butik 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3. I kursen behandlas grundläggande färdigheter i ämnet.",
+"goals":[2,1,2,1,1,1,1,1],
+"level":"normal",
+"content":["Råvaror och produkter och hur de används för att skapa kombinationer och anrättningar, till exempel hur kött och charkuterivaror kan kombineras med frukt och grönt samt mejeri.",
+"Dagligvaruhandelns struktur samt hur verksamheten på olika avdelningar bedrivs, till exempel beställning och exponering av varor, uppläggning, paketering och prismärkning.",
+"Grundläggande matlagning och bakning i butik samt beredning av uppläggningar inom till exempel delikatess-, ost- samt frukt- och gröntområdet.",
+"Metoder, redskap, maskiner och annan utrustning som används vid matlagning och bakning samt inom olika avdelningar i dagligvaruhandeln.",
+"Rådgivning till kunder om hur olika varor och produkter kan kombineras och tillredas till en maträtt eller måltid.",
+"Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+"Butiksekonomiska begrepp samt metoder för utvärdering av arbete och resultat."]}

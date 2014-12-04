@@ -1,4 +1,16 @@
 {"subject":"SPC",
 "name":"Specialpedagogik 1",
 "points":100,
-"code":"SPCSPE01"}
+"code":"SPCSPE01",
+"goaltext":"Kursen specialpedagogik 1 omfattar punkterna 1, 3&mdash;5 och 7&mdash;9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,0,1,1,1,0,1,1,1],
+"level":"basic",
+"content":["Olika funktionsnedsättningar och hur de kan påverka människors liv, lärande och delaktighet i samhället.",
+"Anpassning av arbetssätt och innehåll i verksamheter till både individers och gruppers olika behov och erfarenheter samt till situationen.",
+"Specialpedagogiska insatser, arbetssätt och hjälpmedel i sociala och pedagogiska sammanhang.",
+"Människors olikheter, förutsättningar och möjligheter för lärande och delaktighet i olika situationer och aktiviteter.",
+"Innebörden av olika begrepp, till exempel funktionsnedsättning, funktionshinder, normalitet, avvikelse, diagnoser, inkludering, exkludering, tillgänglighet, delaktighet och likvärdighet.",
+"Kritisk bearbetning av information från olika källor.",
+"Planering, genomförande, utvärdering, uppföljning och dokumentation av olika insatser och aktiviteter på individ- och gruppnivå.",
+"Alternativa kompletterande kommunikationssätt och vilken funktion och betydelse de har för människors delaktighet.",
+"Interaktion och kommunikation i samarbete och möten med människor."]}

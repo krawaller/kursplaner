@@ -6,4 +6,17 @@
 "arr":["samhällskunskap 1a1",
 "samhällskunskap 1a2"]},
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1a1 eller kursen samhällskunskap 1a2.",
-"code":"SAMSAM01b"}
+"code":"SAMSAM01b",
+"goaltext":"Kursen samhällskunskap 1b omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån grundläggande demokratimodeller och den digitala teknikens möjligheter. Politiska ideologier och deras koppling till samhällsbyggande och välfärdsteorier.",
+"De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.",
+"Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.",
+"Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Arbetsmarknadens sätt att fungera, anställningsvillkor.",
+"Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.",
+"Samhällsekonomi, till exempel ekonomiska strukturer och flöden i Sverige och internationellt. Försörjning, tillväxt och företagande, resursanvändning och resursfördelning utifrån olika förutsättningar.",
+"Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.",
+"Massmediers och informationsteknikens roll i samhället. Deras möjligheter att påverka människor och samhällsutvecklingen samt de möjligheter de ger människor att påverka. Mediers innehåll och nyhetsvärdering.",
+"Samhällsvetenskapliga begrepp, teorier, modeller och metoder i samband med undersökningar av samhällsfrågor och samhällsförhållanden. Exempel på metoder för att samla in information är intervju, enkät och observation. Exempel på metoder för att bearbeta information är statistiska metoder, samhällsvetenskaplig textanalys, argumentationsanalys och källkritik.",
+"Presentation i olika former och med olika tekniker med betoning på det skriftliga och muntliga, till exempel debatter, debattartiklar och rapporter."]}

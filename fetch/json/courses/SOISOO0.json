@@ -1,4 +1,14 @@
 {"subject":"SOI",
 "name":"Sociologi",
 "points":100,
-"code":"SOISOO0"}
+"code":"SOISOO0",
+"goaltext":"Kursen sociologi omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Skapandet av samhällen, kulturer, identiteter, sociala processer och socialisation.",
+"Sociala strukturer utifrån klass, genus, etnicitet, kultur och religion.",
+"Sociala normer och kategoriseringar av människor.",
+"Innebörden av integritet, social kontroll, segregering och marginalisering.",
+"Diskriminering, jämställdhet och likabehandling.",
+"Metoder för att kritiskt bearbeta information, till exempel källkritik.",
+"Aktuella sociala frågor."]}

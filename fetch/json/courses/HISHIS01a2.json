@@ -4,4 +4,12 @@
 "requirements":"historia 1a1",
 "notwith":"historia 1b",
 "instructiontext":"som bygger på kursen historia 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1b.",
-"code":"HISHIS01a2"}
+"code":"HISHIS01a2",
+"goaltext":"Kursen historia 1a2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 4.",
+"goals":[1,1,2,2,1],
+"level":"normal",
+"content":["Olika historiska frågeställningar och förklaringar kring långsiktiga historiska förändringsprocesser i ett kronologiskt perspektiv som speglar både kontinuitet och förändring, till exempel befolkningsutveckling, statsbildning, jordbrukets utveckling och olika syn på människors värde, på makt och på könsmönster.",
+"Industrialisering och demokratisering under 1800- och 1900-talen i Sverige och globalt samt viktiga globala förändringsprocesser och händelser, till exempel migration, fredssträvanden, resursfördelning och ökat välstånd, internationellt samarbete, mänskliga rättigheter, jämställdhet, men också kolonialism, diktaturer, folkmord och konflikter. Långsiktiga historiska perspektiv på förändrade maktförhållanden och olika historiska förklaringar till dem.",
+"Historiskt källmaterial som speglar människors roll i politiska konflikter, kulturella förändringar eller kvinnors och mäns försök att förändra sin egen eller andras situation. Olika perspektiv utifrån till exempel social bakgrund, etnicitet, generation, kön och sexualitet.",
+"Kritisk granskning, tolkning och användning av olika slags källmaterial utifrån källkritiska kriterier och metoder.",
+"Hur individer och grupper använt historia i vardagsliv, samhällsliv och politik. Betydelsen av historia i formandet av identiteter, till exempel olika föreställningar om gemensamma kulturarv."]}

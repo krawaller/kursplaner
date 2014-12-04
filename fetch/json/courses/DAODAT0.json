@@ -5,4 +5,16 @@
 "arr":["datorteknik 1a",
 "datorteknik 1b"]},
 "instructiontext":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
-"code":"DAODAT0"}
+"code":"DAODAT0",
+"goaltext":"Kursen datorsamordning och support omfattar punkterna 2&mdash;5 under rubriken Ämnets syfte, med särskild betoning på punkt 5. ",
+"goals":[0,1,1,1,2],
+"level":"normal",
+"content":["Grundläggande felsökningsmetodik.",
+"Systemintegration.",
+"Teknisk dokumentation av datorsystem.",
+"Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.",
+"Analysera användarkrav och översätta dem till konkreta lösningar. ",
+"Pedagogisk handledning av it-system: både det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.",
+"Licenstyper och licenshantering.",
+"Utvärdering och val av it-produkter på marknaden i dagsläget.",
+"Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering. "]}

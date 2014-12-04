@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"psykiatri 2",
 "instructiontext":"som bygger på kursen psykiatri 2.",
-"code":"PSYSAM0"}
+"code":"PSYSAM0",
+"goaltext":" Kursen samhällsbaserad psykiatri omfattar punkterna 7&mdash;10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+"goals":[0,0,0,0,0,0,1,1,1,1],
+"level":"high",
+"content":["Möjligheter till stöd. Case management, resurspersoner, olika boenden och boendestödsverksamheter samt sysselsättningens betydelse och utformning.",
+"Återhämtningsprocessens olika skeenden, återhämtningens betydelse samt återhämtning och kultur. Brukarens behov av kunskap om sin psykiska funktionsnedsättning och de professionellas roll i detta. Behovet av stöd. ",
+"Stigmatisering vid psykisk sjukdom, hur det uppstår, varför det förekommer, brukarens erfarenheter, allmänhetens och professionens roll samt självstigmatisering. ",
+"Professionalism, personlig integritet och självbestämmande, bemötande och relationer vid arbete i brukarens hemmiljö.",
+"Arbete med förbättrings- och kvalitetsarbete i den praktiska verksamheten. ",
+"Samverkan mellan olika huvudmän och samverkans möjligheter och hinder."]}

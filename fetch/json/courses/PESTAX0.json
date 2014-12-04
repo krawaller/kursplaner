@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"persontransporter – specialisering",
 "instructiontext":"som bygger på kursen persontransporter – specialisering.",
-"code":"PESTAX0"}
+"code":"PESTAX0",
+"goaltext":"Kursen taxitrafik omfattar punkterna 1&mdash;2, 6 och 8&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,0,0,0,1,0,1,1,0],
+"level":"normal",
+"content":["Trafikledningssystem som är specifika för taxilogistik och taxametersystem.",
+"Lagar och andra bestämmelser som reglerar taxiverksamheten, till exempel branschetiska regler, prisinformation och vilotidsförordningar.",
+"Fordonstillbehör och tilläggsutrustning i fordon, till exempel ramper, lyftar, bårar, alkolås, skyddskameror och fästanordningar för bagage och rullstolar.",
+"Ergonomi, hälsa och miljö.",
+"Agerande vid olycka och nödsituationer.",
+"Bemötande och värdskap med särskild tonvikt på sjukresenärer och resande inom särskild kollektivtrafik samt de särskilda krav dessa grupper ställer på förare och fordon."]}

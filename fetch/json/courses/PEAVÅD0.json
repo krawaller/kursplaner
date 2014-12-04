@@ -1,4 +1,17 @@
 {"subject":"PEA",
 "name":"Vårdpedagogik och handledning",
 "points":100,
-"code":"PEAVÅD0"}
+"code":"PEAVÅD0",
+"goaltext":" Kursen vårdpedagogik och handledning omfattar punkterna 3&mdash;9 under rubriken Ämnets syfte. ",
+"goals":[0,0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Hur samtalssituationer påverkas av patienter och brukare, vårdpersonal och omgivningen.",
+"Kunskap och kompetens inom vård och omsorg.",
+"Handledningsprocessens olika delar: inventering, planering, genomförande och utvärdering.",
+"Rollen som pedagog och handledare.",
+"Innebörden av olika begrepp och teorier inom området pedagogik, kommunikation, handledning och samtalsmetodik. Olika former av handledning.",
+"Pedagogiska metoder vid handledning.",
+"Handledningsuppgifter, till exempel hjälp med motivationsarbete.",
+"Lärande- och bedömningssamtal.",
+"Kommunikationens betydelse för mötet mellan patienter och brukare och personal.",
+"Avsikter med och utförande av kvalitetsarbete inom vård och omsorg."]}

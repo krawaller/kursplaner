@@ -1,4 +1,17 @@
 {"subject":"TEA",
 "name":"Scenografi, mask och kostym",
 "points":100,
-"code":"TEASCE00S"}
+"code":"TEASCE00S",
+"goaltext":"Kursen scenografi, mask och kostym omfattar punkterna 2 och 5&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas kunskaper med betoning på ett av områdena scenografi, mask eller kostym.",
+"goals":[0,2,0,0,1,1,1,1,1,0],
+"level":"normal",
+"content":["Design och tillverkning av sceniska uttryck, dvs. scenografi, rekvisita, kostym och maskering. Kursen kan fokusera på ett eller flera av dessa områden.",
+"Materialkunskap och hantverksteknik som är relevant för valt fokus.",
+"Skissteknik och färglära samt metoder för arbete med planering, skisser, ritningar och modeller.",
+"Arbetsmiljö och säkerhet i verkstad och på scen som är relevant för valt fokus, till exempel hållfasthet, brand och utrymning.",
+"Samspelet mellan formgivningen av scenrummet, rekvisitan, kostymen eller maskeringen och teaterns övriga gestaltningskomponenter.",
+"Kommunikation med publik.",
+"Teatern som kollektiv konstform och arbetsplats.",
+"Reflektion över eget och andras designarbete.",
+"Analys och tolkning av sceniska gestaltningar med fokus på teaterns visuella uttrycksformer.",
+"Begrepp för analys av visuella uttrycksformer, till exempel färg, form, materialval och stil."]}

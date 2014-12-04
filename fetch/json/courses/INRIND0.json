@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem",
 "instructiontext":"som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem.",
-"code":"INRIND0"}
+"code":"INRIND0",
+"goaltext":"Kursen industriautomation omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Uppbyggnad av samt funktion och principer för produktionsceller.",
+"Uppbyggnad av samt funktion och principer för ingående utrustning i produktionsceller.",
+"Industriella tillverkningsprocesser ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning. Framtida perspektiv på hållbar utveckling och teknikens roll i den.",
+"Begrepp och standarder inom automatiserad produktion, till exempel informationstekniska standarder.",
+"Montering av den utrustning som ingår i en produktionscell.",
+"Ritningsläsning vid arbete i en produktionscell.",
+"Kabeldragning mellan utrustningar som ingår i en produktionscell.",
+"Driftsättning av produktionsceller.",
+"Styrning, programmering och kontroll av produktionsceller.",
+"Förebyggande och avhjälpande underhåll av produktionsceller."]}

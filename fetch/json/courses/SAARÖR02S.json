@@ -4,4 +4,14 @@
 "repeat":"Kursen kan läsas flera gånger med olika svetsmetoder.",
 "requirements":"rörsvets 1",
 "instructiontext":"som bygger på kursen rörsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-"code":"SAARÖR02S"}
+"code":"SAARÖR02S",
+"goaltext":"Kursen rörsvets 2 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald svetsmetod.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Svetsning med vald svetsmetod av stumfogar i rör i olika relevanta svetslägen till gängse acceptanskrav.",
+"Avancerade tillverkningsunderlag.",
+"Systematiskt underhåll och service samt felsökning på utrustningen. Organisation av arbetsplatsen.",
+"Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+"Metoder för reparation av fel som uppstår under svetsning samt för att lösa produktionstekniska problem.",
+"Standarder för kvalitetsbedömning av den utförda sammanfogningen.",
+"Termer och begrepp inom teknikområdet."]}

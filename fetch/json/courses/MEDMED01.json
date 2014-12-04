@@ -1,4 +1,15 @@
 {"subject":"MED",
 "name":"Medicin 1",
 "points":150,
-"code":"MEDMED01"}
+"code":"MEDMED01",
+"goaltext":"Kursen medicin 1 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"basic",
+"content":["Människokroppens uppbyggnad och utveckling samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.",
+"Vanliga sjukdomar och deras orsaker, symtom och diagnoser, undersökningar, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+"Vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+"Vanliga mikroorganismer och deras spridningsvägar. ",
+"Första hjälpen vid skador och akuta sjukdomar samt hjärt-lungräddning.",
+"Samhällets hjälpinsatser vid krig och katastrofer.",
+"Brandsäkerhetsarbete som att upptäcka och åtgärda brandrisker samt agerande i händelse av brand.",
+"Medicinsk terminologi."]}

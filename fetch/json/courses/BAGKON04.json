@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"konditori 3",
 "instructiontext":"som bygger på kursen konditori 3.",
-"code":"BAGKON04"}
+"code":"BAGKON04",
+"goaltext":"Kursen konditori 4 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1,1,0],
+"level":"high",
+"content":["Produktion av konditorivaror, utifrån beställning eller i befintlig verksamhet, med hänsyn tagen till drift, planering, rutiner, tempo, organisation och ekonomi.",
+"Metoder, redskap, maskiner och annan utrustning som används vid produktion av konditoriprodukter.",
+"Produktion av konditoriprodukter, utifrån branschens krav på kvantitet och kvalitet.",
+"Ekonomiska kalkyler som är lämpliga för ändamålet.",
+"Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+"Paketering och märkning av konditoriprodukter.",
+"Hygien och hygienbestämmelser.",
+"Ergonomi och ergonomiska riskfaktorer i arbetet.",
+"Arbetsmiljö och säkerhet."]}

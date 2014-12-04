@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"drycker och ansvarsfull alkoholservering",
 "instructiontext":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
-"code":"DRYDRY0"}
+"code":"DRYDRY0",
+"goaltext":"Kursen drycker omfattar punkterna 2 och 4&mdash;8 under rubriken Ämnets syfte.",
+"goals":[0,1,0,1,1,1,1,1],
+"level":"normal",
+"content":["Kalla och varma drycker: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris.",
+"Tillverkning av vin, öl och spritdrycker.",
+"Serveringsmetoder för vin, öl och måltidsdrycker.",
+"Hur man använder redskap och utrustning vid hantering och servering av drycker.",
+"Hygieniskt, ergonomiskt och säkert arbetssätt.",
+"Provningsmetoder och sensorik.",
+"Identifiering och bedömning av olika alkoholhaltiga och alkoholfria dryckers kvalitet.",
+"Utformning av dryckeslistor.",
+"Kundbemötande och fackspråk."]}

@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"mekatronik 1",
 "instructiontext":"som bygger på kursen mekatronik 1.",
-"code":"MEKMEK02"}
+"code":"MEKMEK02",
+"goaltext":"Kursen mekatronik 2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet utifrån både en produktmekatronisk och en processmekatronisk utgångspunkt.",
+"goals":[1,1,1,1,1],
+"level":"high",
+"content":["Mekatroniska system och mekatroniska processer.",
+"Fördjupad tolkning av ritningar och manualer.",
+"Informationsteknik som stöd vid uppbyggnad och programmering av mekatroniska system, till exempel cad-programvara med stöd för hållfasthetsprövning vid olika belastningar och programmeringsverktyg för aktuellt styrsystem.",
+"Metoder för integration av mekanisk struktur, elektroteknik och styrteknik vid byggandet av mekatroniska system i form av såväl produkter som tillverkningssystem.",
+"Begreppen process och system.",
+"Modularisering och demodularisering av tillverkningssystem och tekniska system i vardagen.",
+"Matematiska och fysikaliska begrepp vid arbete med mekatroniska system, till exempel hävarm, moment, kraft, tröghet, uthållning, styvhet och jämvikt."]}

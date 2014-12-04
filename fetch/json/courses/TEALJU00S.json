@@ -1,4 +1,17 @@
 {"subject":"TEA",
 "name":"Ljud och ljus",
 "points":100,
-"code":"TEALJU00S"}
+"code":"TEALJU00S",
+"goaltext":"Kursen ljud och ljus omfattar punkterna 2 och 5&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas fördjupade kunskaper inom ljud och ljus, alternativt ljud eller ljus.",
+"goals":[0,2,0,0,1,1,1,1,1,0],
+"level":"normal",
+"content":["Design av sceniska gestaltningar med ljud och ljus, alternativt ljud eller ljus.",
+"Val och hantering av relevant utrustning för scenisk gestaltning.",
+"Planerings-, ritnings- och riggningsarbete.",
+"Arbetsmiljö och säkerhet vid arbete med teknisk utrustning, riggningsarbete, repetition och föreställning, till exempel el, hållfasthet, brand och utrymning.",
+"Samspel mellan ljud, alternativt ljus, och teaterns övriga gestaltningskomponenter.",
+"Kommunikation med ljud och ljus med publik, till exempel genom att förstärka känslor och stämningar och skapa uppfattning av tid och rum.",
+"Teatern som kollektiv konstform och arbetsplats.",
+"Reflektion över eget och andras arbete med ljud eller ljus.",
+"Analys och tolkning av sceniska gestaltningar med fokus på ljud och ljus, alternativt ljud eller ljus.",
+"Begrepp för analys av ljud och ljus, till exempel färg, riktning, intensitet och klang."]}

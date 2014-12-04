@@ -1,4 +1,17 @@
 {"subject":"HAV",
 "name":"Hantverk &mdash; introduktion",
 "points":200,
-"code":"HAVHAV0"}
+"code":"HAVHAV0",
+"goaltext":"Kursen hantverk &mdash; introduktion omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper inom den valda inriktningen eller profilen.",
+"goals":[1,1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Material, verktyg, maskiner och tekniker för att utföra enkla arbetsuppgifter. I samband med det behandlas materialberäkning och planering av tidsåtgång.",
+"Produkt- och materialkunskap i samband med planering och genomförande. Skissteknik, ritteknik och konstruktion.",
+"Färg och form.",
+"Fackspråk för att förstå och följa instruktioner.",
+"Utvärdering av arbetsprocess och resultat.",
+"Digitala tekniker för inspiration och dokumentation, till exempel fotografering av arbetet.",
+"Hantering, underhåll och skötsel av maskiner och verktyg.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt samt hur man använder skyddsutrustning.",
+"Miljöhänsyn i arbetet, till exempel med återvinning och källsortering.",
+"Ansvarsfullt uppträdande i yrkesutövandet."]}

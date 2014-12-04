@@ -3,4 +3,14 @@
 "points":50,
 "requirements":"byggprocessens organisation",
 "instructiontext":"som bygger på kursen byggprocessens organisation.",
-"code":"BYLGRN0"}
+"code":"BYLGRN0",
+"goaltext":"Kursen grundläggande mätningsteknik omfattar punkterna 1&mdash;2 under rubriken Ämnets syfte.",
+"goals":[1,1,0,0,0,0,0,0,0,0],
+"level":"normal",
+"content":["Geodesins grundbegrepp, till exempel satellitmätning, kartprojektioner, stomnät, transformationer, plan- och höjdmätning och ritningsläsning.",
+"Utsättning och inmätning av byggnader, vägar och anläggningar.",
+"Bygg- och utsättningstoleranser.",
+"Kontrollmätningsmetoder vid leverans och inbyggnad.",
+"Kvalitetsmätmetoder beträffande fuktförhållande i material, akustikegenskaper, lufttäthet hos byggnader och byggnaders energiegenskaper, till exempel täthetsprovning.",
+"Felteori och toleranskrav inom bygg- och anläggningsbranschen.",
+"Begrepp som används inom kunskapsområdet, till exempel kartprojektion, två- och tredimensionella system, höjdsystem, höjdmätning, planmätning, polygontåg, areaberäkning, utsättning, geoiden, landhöjning, fukthalt, fuktkvot, ljudnivå, ljuddämpning, temperatur och värmemotstånd."]}

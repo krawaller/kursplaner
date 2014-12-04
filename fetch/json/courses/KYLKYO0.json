@@ -1,4 +1,15 @@
 {"subject":"KYL",
 "name":"Kyl- och värmepumpsteknik &mdash; grund",
 "points":100,
-"code":"KYLKYO0"}
+"code":"KYLKYO0",
+"goaltext":"Kursen kyl- och värmepumpsteknik &mdash; grund omfattar punkterna 1&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,1,1,1,1],
+"level":"normal",
+"content":["Kylsystemets uppbyggnad och funktion.",
+"Olika uppbyggnadssätt, till exempel direkta, delvis indirekta och fullständigt indirekta system.",
+"Kylsystemets komponenters uppgifter och funktioner samt hållbarhet, korrosionsskydd och mekanisk påverkan.",
+"Hantering av olika köldmedier och nödvändiga miljöaspekter på dem.",
+"Arbetsmiljöaspekter på köldmedier, köldbärare och oljor.",
+"Driftövervakning med mätning och övervakning av tryck och temperatur samt läcksökning.",
+"Mätning av överhettning och underkylning i kylprocesser.",
+"Egenkontroll av kyl- och värmepumpsaggregat."]}

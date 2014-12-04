@@ -1,4 +1,15 @@
 {"subject":"LJU",
 "name":"Ljudproduktion 1",
 "points":100,
-"code":"LJULJU01"}
+"code":"LJULJU01",
+"goaltext":"Kursen ljudproduktion 1 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Research, källkritik, produktionsplanering och utvärdering.",
+"Inspelnings- och redigeringsteknik. Distribution.",
+"Ljud vid film- och radioproduktion.",
+"Manusarbete, intervjuteknik och röstfunktion.",
+"Orientering om digital musikproduktion för film och radio, till exempel jinglar och enklare filmmusik.",
+"Orientering om olika genrer och stilar genom ljudmediernas historia.",
+"Förutsättningar för produktion för public service jämfört med reklamfinansierade medier.",
+"Upphovsrätten och pressetiska regler."]}

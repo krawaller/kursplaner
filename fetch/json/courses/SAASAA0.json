@@ -1,4 +1,15 @@
 {"subject":"SAA",
 "name":"Sammanfogning",
 "points":100,
-"code":"SAASAA0"}
+"code":"SAASAA0",
+"goaltext":"Kursen sammanfogning omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"basic",
+"content":["Sammanfogning av olika material med relevanta sammanfognings- metoder, till exempel limning, nitning, skruvförband, svetsning och lödning.",
+"Enklare tillverkningsunderlag för sammanfogning.",
+"Olika utrustningars funktion och användningsområden.",
+"Enklare underhåll och service på utrustningarna. Organisation av arbetsplatsen.",
+"Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet. ",
+"Metoder för bedömning av sammanfogningsprocessen och korrigeringsmöjligheter.",
+"Kvalitetsbedömning av resultatet.",
+"Termer och begrepp inom teknikområdet."]}

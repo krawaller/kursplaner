@@ -1,4 +1,14 @@
 {"subject":"HAL",
 "name":"Kost och hälsa",
 "points":100,
-"code":"HALKOC0"}
+"code":"HALKOC0",
+"goaltext":"Kursen kost och hälsa omfattar punkterna 1&mdash;2, 4&mdash;5, 8 och 9 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,1,0,0,1,1],
+"level":"normal",
+"content":["Kostens och måltidens betydelse för hälsa och välbefinnande.",
+"Näringslära, livsmedelskvalitet och tillagning.",
+"Betydelsen av fysisk aktivitet och vila för människors hälsa.",
+"Hygien, smitta och smittspridning.",
+"Olika allergier, deras konsekvenser och hur de kan hanteras.",
+"Människors behov av specialkoster utifrån medicinska, kulturella och etiska skäl och hantering av detta.",
+"Kritisk användning av information från olika källor."]}

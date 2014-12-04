@@ -5,4 +5,15 @@
 "arr":["bild och form 1a2",
 "bild och form 1b"]},
 "instructiontext":"som bygger på kursen bild och form 1a2 eller kursen bild och form 1b.",
-"code":"BILFOM0"}
+"code":"BILFOM0",
+"goaltext":"Kursen form omfattar punkterna 1­&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i form.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Betraktande, analys och tolkning av, och även samtal om, olika typer av två- och tredimensionell form.",
+"Begrepp för samtal om form och formgivning i olika genrer och ur olika perspektiv, till exempel färg och form, genus och klass, etnicitet och ålder.",
+"Diskussioner och värderingsövningar om eget och andras arbete.",
+"Arbete med skulptur- och formgivningsprocesser och metoder för idéproduktion. Problemlösning i form. Dokumentation, till exempel med portföljmetoden, för att driva och ta ansvar för egna arbetsprocesser.",
+"Produktion av form i två- och tredimensionella tekniker med nya och traditionella material, metoder och medier. Användningsområden och egenskaper hos olika material och tekniker. Formspråk, material, volym, färg och ytstruktur i relation till det färdiga formuttrycket. Uttrycksförmåga och hantverksskicklighet i några tekniker.",
+"Formens användningsområden och kommunikation, lokalt och globalt. Planering och produktion av formprojekt som kan ha såväl tydliga mål som öppnare intentioner.",
+"Exponering och utställning av form, marknadsföringsaspekter, grafisk formgivning och värdering av presentationen.",
+"Lagar och andra bestämmelser om upphovsrätt och arbetsmiljö."]}

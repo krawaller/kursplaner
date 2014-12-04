@@ -6,4 +6,15 @@
 "arr":["instrument",
 "sång 2"]},
 "instructiontext":"som bygger på kursen instrument eller sång 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"MUSINS03S"}
+"code":"MUSINS03S",
+"goaltext":"Kursen instrument eller sång 3 omfattar punkterna 1&mdash;2, 4, och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 samt musicerande inför och kommunikation med publik. I kursen behandlas avancerade färdigheter inom valt instrument eller i sång.",
+"goals":[2,2,0,1,0,0,1,0,0],
+"level":"normal",
+"content":["Avancerad instrumental spelteknik, alternativt avancerad sångteknik.",
+"Musikalisk tolkning, uppförandepraxis och form.",
+"Genrer, stilar och epoker.",
+"Konstnärligt uttryck och tolkning vid musikframförande.",
+"Repertoar för det egna instrumentet.",
+"Musikaliska instuderingsmetoder.",
+"Musikalisk kommunikation med publik och medmusiker, scennärvaro.",
+"Solistiskt framträdande."]}

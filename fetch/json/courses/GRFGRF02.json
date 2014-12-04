@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"grafisk produktion 1",
 "instructiontext":"som bygger på kursen grafisk produktion 1.",
-"code":"GRFGRF02"}
+"code":"GRFGRF02",
+"goaltext":"Kursen grafisk produktion 2 omfattar punkterna 1&mdash;6 och 9&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,0,1,1],
+"level":"normal",
+"content":["Design, originalarbete, repro, tryck och efterbearbetning av en tvåfärgs grafisk produktion inom vald tryckteknik.",
+"Metoder för planering, övervakning, styrning och reglering av manuella eller automatiserade arbetsflöden.",
+"Materialkunskap vad gäller till exempel substrat, färg eller tryckformsmaterial.",
+"Färg- och kvalitetsstyrning.",
+"Metoder för lösning av produktionsrelaterade problem.",
+"Metoder för analys, tolkning och bearbetning av mätvärden, information och instruktioner.",
+"Begrepp och uttryck som är relevanta för ämnesområdet."]}

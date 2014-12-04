@@ -9,4 +9,14 @@
 "akutsjukvård",
 "palliativ vård"]},
 "instructiontext":"som beroende av valt kunskapsområde bygger på kursen vård och omsorgsarbete 2, kursen medicin 2, kursen psykiatri 2, kursen akutsjukvård eller kursen palliativ vård. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"VADVAR00S"}
+"code":"VADVAR00S",
+"goaltext":"Kursen vård och omsorg &mdash; specialisering omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Begrepp och teorier som är relevanta för kunskapsområdet.",
+"Granskning, tolkning och värdering av information från olika källor.",
+"Fördjupning inom valt kunskapsområde, till exempel inom gerontologi, geriatrik, palliativ vård, rehabilitering och habilitering, demenssjukvård, prehospital vård eller psykiatri.",
+"Planering och utvärdering av arbetsuppgifter inom kunskapsområdet.",
+"Lagar och andra bestämmelser relevanta för kunskapsområdet.",
+"Kommunikation, bemötande och förhållningssätt relevant för kunskapsområdet.",
+"Uttrycks- och presentationsformer som är relevanta för kunskapsområdet och för vård- och omsorgsverksamheten."]}

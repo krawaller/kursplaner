@@ -1,4 +1,15 @@
 {"subject":"GRU",
 "name":"Grundläggande vård och omsorg",
 "points":100,
-"code":"GRUGRD0"}
+"code":"GRUGRD0",
+"goaltext":"Kursen grundläggande vård och omsorg omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Grundläggande anatomi och fysiologi.",
+"Vanligt förekommande sjukdomar och åtgärder vid dem.",
+"Innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.",
+"Omvårdnadshygien, mikroorganismer, smitta och smittspridning.",
+"Användning och hantering av vanligt förekommande läkemedel. Läkemedlens biverkningar.",
+"Bestämmelser och praxis om arbetsmiljö, säkerhet och yrkesetik i samband med arbetet med grundläggande vård och omsorg.",
+"Funktionella kroppshållningar. Innebörden och betydelsen av att arbeta ergonomiskt. Förutsättningar för funktionella kroppshållningar.",
+"Hjärt-lungräddning med defibrillering samt första hjälpen vid skada och akut sjukdom."]}

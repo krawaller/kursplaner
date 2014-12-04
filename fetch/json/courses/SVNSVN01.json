@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"de kunskaper specialskolan ger eller motsvarande",
 "instructiontext":"som bygger på de kunskaper specialskolan ger eller motsvarande.",
-"code":"SVNSVN01"}
+"code":"SVNSVN01",
+"goaltext":"Kursen svenska för döva 1 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Skriftlig framställning av texter för kommunikation, lärande och reflektion. Språkriktighet, dvs. vilka språkliga egenskaper och textegenskaper i övrigt som en text bör ha för att fungera väl i sitt sammanhang.",
+"Argumentationsteknik och skriftlig framställning av argumenterande text.",
+"Grunderna i den retoriska arbetsprocessen.",
+"Bearbetning, sammanfattning och kritisk granskning av text. Citat- och referatteknik. Grundläggande källkritik.",
+"Skönlitteratur, författad av såväl kvinnor som män, från olika tider och kulturer.",
+"Centrala motiv, berättarteknik och vanliga stildrag i fiktivt berättande, till exempel i skönlitteratur och teater samt i film och andra medier.",
+"Grundläggande språkliga begrepp som behövs för att på ett metodiskt och strukturerat sätt samtala om och analysera språk och språklig variation samt diskutera språkriktighetsfrågor.",
+"Språklig variation i skriftlig direktkommunikation och skrivet språk som hänger samman med till exempel ålder, kön och social bakgrund. Skillnader mellan formellt och informellt språkbruk samt attityder till olika former av språklig variation.",
+"Grundläggande jämförelser av språkliga särdrag i svenskt teckenspråk och svenska som belyser skillnader och likheter avseende form, struktur och framställning."]}

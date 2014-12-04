@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"service och bemötande 1",
 "instructiontext":"som bygger på kursen service och bemötande 1.",
-"code":"SEVSEV02"}
+"code":"SEVSEV02",
+"goaltext":"Kursen service och bemötande 2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Kundmöten i syfte att skapa en relation med kunden för att sälja varor eller tjänster.",
+"Personlig försäljning till kunder eller gäster samt servicearbete från servicedisk eller telefon.",
+"Gästpsykologi.",
+"Attityder och värderingar hos gäster, kunder och medarbetare.",
+"Etiska ställningstaganden i möten med kunder eller gäster.",
+"Skapande av helhetsupplevelser i servicesituationer.",
+"Bemötande av kunder eller gäster i olika servicesituationer samt hantering av klagomål och reklamationer.",
+"Kundvårdande åtgärder för att skapa och bibehålla kundrelationer.",
+"Säljande rum, dvs. skapande av miljö och atmosfär för att öka försäljningen.",
+"Presentation av mat och dryck på ett säljande sätt, var för sig och tillsammans."]}

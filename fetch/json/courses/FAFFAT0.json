@@ -1,4 +1,12 @@
 {"subject":"FAF",
 "name":"Fastighetskommunikation",
 "points":100,
-"code":"FAFFAT0"}
+"code":"FAFFAT0",
+"goaltext":"Kursen fastighetskommunikation omfattar punkterna 4&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 7 och 8.",
+"goals":[0,0,0,1,1,1,2,2,1],
+"level":"normal",
+"content":["Digital utrustning och programvara för att kommunicera med och informera olika målgrupper.",
+"Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet och människors rätt till integritetsskydd.",
+"Hur man reflekterar över sitt eget och andra människors sätt att kommunicera individuellt och i grupp. Det sociala sammanhangets betydelse för kommunikation och interaktion.",
+"Kommunikationens komplexitet utifrån sociala faktorer, till exempel individualitet, kroppsspråk, krissituationer och känslor samt utifrån kulturella faktorer, till exempel kulturmöten och kulturkrockar.",
+"Muntlig och skriftlig information till olika individer och målgrupper, till exempel ägare, brukare, entreprenörer och hyresgäster med olika kulturella och etniska bakgrunder. Olika informationstekniker och pedagogiska principer för att i tal och skrift informera olika målgrupper och samverka med andra människor. Metoder för att dokumentera kommunikationsprocesser."]}

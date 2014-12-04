@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"styckning 3",
 "instructiontext":"som bygger på kursen styckning 3.",
-"code":"STCSTY04"}
+"code":"STCSTY04",
+"goaltext":"Kursen styckning 4 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
+"Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.",
+"Branschkrav då det gäller kvalitet och produktionens effektivitet.",
+"Yrkesmässig styckning, nedskärning och sortering av alla djurslag.",
+"Lönsamhet, styckningskalkyler och ekonomiska kalkyler.",
+"Användning och vård av industriutrustning.",
+"Planering och organisation av arbetet. Arbetstempo.",
+"Arbetsmiljö och säkerhet samt riskfaktorer.",
+"Hygien och egenkontroll."]}

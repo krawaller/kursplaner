@@ -1,4 +1,16 @@
 {"subject":"ELL",
 "name":"Ellära 1",
 "points":100,
-"code":"ELLELL01"}
+"code":"ELLELL01",
+"goaltext":"Kursen ellära 1 omfattar punkterna 2, 4&mdash;5 och 7 under rubriken Ämnets syfte.",
+"goals":[0,1,0,1,1,0,1],
+"level":"normal",
+"content":["Ledare, halvledare och isolatorer.",
+"Elektriska storheter i lik- och enfasväxelströmskretsar.",
+"Grundläggande principer för motorer, generatorer och transformatorer samt för överföring av elenergi.",
+"Elektrisk serie och parallell koppling.",
+"Lik- och enfasväxelström.",
+"Elektriska och magnetiska fält.",
+"Elektromagnetisk kompabilitet (EMC), övertoner och faskompensering.",
+"Resistiva, induktiva och kapacitiva kretsar.",
+"Olika mättekniker samt metoder för att analysera mätvärden och utföra felsökning och felavhjälpning."]}

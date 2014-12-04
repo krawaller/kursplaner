@@ -4,4 +4,13 @@
 "requirements":"de kunskaper grundskolan ger eller motsvarande",
 "notwith":"naturkunskap 1b",
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
-"code":"NAKNAK01a1"}
+"code":"NAKNAK01a1",
+"goaltext":"Kursen naturkunskap 1a1 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Frågor om hållbar utveckling: energi, klimat och ekosystempåverkan. Ekosystemtjänster, resursutnyttjande och ekosystemens bärkraft.",
+"Olika aspekter på hållbar utveckling, till exempel vad gäller konsumtion, resursfördelning, mänskliga rättigheter och jämställdhet.",
+"Naturvetenskapliga aspekter på, reflektion över och diskussion kring normer, rörande människans sexualitet, lust, relationer och sexuella hälsa.",
+"Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.",
+"Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att undersöka naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.",
+"Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritiskt pröva ovetenskapligt grundade påståenden."]}

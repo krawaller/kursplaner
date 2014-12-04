@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"vatten- och miljöteknik",
 "instructiontext":"som bygger på kursen vatten- och miljöteknik.",
-"code":"VATVAR0"}
+"code":"VATVAR0",
+"goaltext":"Kursen vattenreningens mikrobiologi omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Korrosionslära avseende vatten- och miljöanläggningar.",
+"Mikrobiologiska processer som har betydelse för produktion av dricksvatten samt distribution genom ledningsnät och lagring i reservoarer.",
+"Mikrobiologiska processer för nedbrytning av organiskt material i förorenat vatten, rening av kväve och fosfor i förorenat vatten samt i samband med stabilisering av slam.",
+"Olika typer av virus, bakterier och svampars uppbyggnad och livscykler samt olika sätt att bestämma mikroorganismer.",
+"Kvalitetssystem och standarder inom området.",
+"Inblandning, dosering och olika kemikalier för behandling av dricksvatten samt regler för dessa kemikaliers hantering.",
+"Metoder för optimering av vattenkvalitet, till exempel grundläggande kemiska beräkningar, i samband med dosering av kemikalier och utvärdering av resultat.",
+"Handhavande av verktyg, laboratorieutrustning och maskinell utrustning för behandling och distribution av vatten.",
+"Vattenprovtagningar och analyser av olika typer av vatten samt mikrobiologisk provning, mikroskopi och analys vid olika stadier i dricksvattenreningsprocessen.",
+"Höjning av hårdhet, alkalinitet och desinfektion av dricksvatten samt alkalisering av vatten i samband med beredningsprocesser och distribution."]}

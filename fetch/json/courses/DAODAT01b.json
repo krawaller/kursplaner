@@ -1,4 +1,16 @@
 {"subject":"DAO",
 "name":"Datorteknik 1b",
 "points":100,
-"code":"DAODAT01b"}
+"code":"DAODAT01b",
+"goaltext":"Kursen datorteknik 1b omfattar punkterna 1&mdash;4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,1,1,1,0],
+"level":"basic",
+"content":["Datorsystems uppbyggnad och arbetssätt.",
+"Grunderna i OSI-modellen (open systems interconnection) och gällande standarder för datorkommunikation.",
+"Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+"Begreppen filer, filformat, komprimering och kryptering.",
+"Rutiner för säkerhetskopiering och installation av virusskydd.",
+"Installation, konfigurering och driftsättning av datorsystem för till exempel administration, kommunikation, dokumentation och enklare affärssystem.",
+"Installation och konfigurering av applikationsprogram samt administration av behörigheter och lösenord.",
+"Installation och konfigurering av datorer i ett befintligt nätverk.",
+"Installation av skrivare och andra enheter i nätverk. "]}

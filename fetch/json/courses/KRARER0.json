@@ -1,4 +1,17 @@
 {"subject":"KRA",
 "name":"Reservkraft",
 "points":100,
-"code":"KRARER0"}
+"code":"KRARER0",
+"goaltext":"Kursen reservkraft omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Uppbyggnad och funktion hos dieselmotor-, gasturbin- och batterianläggningar.",
+"Drift och underhåll av dieselmotoranläggningar.",
+"Drift och underhåll av gasturbinanläggningar.",
+"Drift och underhåll av batterianläggningar.",
+"Drift och underhåll av mindre och mobila reservkraftanläggningar.",
+"Planering, övervakning och provkörning.",
+"Beräkningsmetoder för optimering av driften.",
+"Olika typer av konsekvenser vid avbrott i produktionen.",
+"Verktyg, instrument och manualer.",
+"Infasning av olika system samt krav och säkerhet."]}

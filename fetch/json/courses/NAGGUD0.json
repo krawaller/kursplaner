@@ -1,4 +1,13 @@
 {"subject":"NAG",
 "name":"Guidning i naturbruksmiljöer",
 "points":100,
-"code":"NAGGUD0"}
+"code":"NAGGUD0",
+"goaltext":"Kursen guidning i naturbruksmiljöer omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Planering, genomförande och utvärdering av guidningar och aktiviteter i naturbruksmiljöer.",
+"Val av lämpliga aktiviteter i naturbruksmiljöer för olika målgrupper, till exempel förskolebarn, ungdomar och vuxna.",
+"Planering av säkerhet vid aktiviteter för att minimera olycksrisker samt första hjälpen och livräddning.",
+"Lagar och andra bestämmelser som rör säkerhet samt natur- och kulturmiljöer.",
+"Växter, djur och ekologiska samband i olika naturbruksmiljöer.",
+"Handledning av aktuella målgrupper till rikare natur- och kulturupplevelser."]}

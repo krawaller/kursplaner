@@ -3,4 +3,15 @@
 "points":200,
 "requirements":"fordonsteknik – introduktion",
 "instructiontext":"som bygger på kursen fordonsteknik – introduktion.",
-"code":"SNOSNO0"}
+"code":"SNOSNO0",
+"goaltext":"Kursen snöfordon &mdash; introduktion omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,1,0],
+"level":"normal",
+"content":["Konstruktionsprinciper för snöfordon.",
+"Funktionsprinciper för fordons system och deras huvudkomponenter samt hur komponenter och system samverkar med varandra.",
+"Konsekvenser av eftersatt underhåll, beträffande ekonomi, miljö och driftstörningar.",
+"Faktorer som påverkar kostnader för drift och underhåll.",
+"Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.",
+"Funktions- och säkerhetskontroll.",
+"Regler för handhavande, vård och tillsyn av snöfordon och tillbehör.",
+"Begrepp i samband med teknisk information om handhavande, kontroll och vård av snöfordon och tillbehör."]}

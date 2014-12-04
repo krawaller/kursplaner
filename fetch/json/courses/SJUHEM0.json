@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"vård- och omsorgsarbete 2 och kursen medicin 1",
 "instructiontext":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
-"code":"SJUHEM0"}
+"code":"SJUHEM0",
+"goaltext":" Kursen hemsjukvård omfattar punkterna 1 och 3&mdash;9 under rubriken Ämnets syfte. ",
+"goals":[1,0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Vård- och omsorgsåtgärder samt medicinska åtgärder som kan utföras i hemmet.",
+"Vård i livets slutskede.",
+"Människors reaktioner i kris och hur de kan hanteras inom vården.",
+"Etiska frågeställningar i samband med vård i hemmet, till exempel rätten till integritet när hemmet blir en vårdplats.",
+"Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, till exempel blodprovtagning och sårvård. ",
+"Vårdplanering, dess syfte, innehåll och hur en sådan görs. ",
+"Medicinteknisk och annan utrustning. ",
+"Betydelsen av bemötande, kommunikation och samarbete.",
+"Rehabilitering, habilitering och egenvård som kan utföras i hemmet.",
+"System och rutiner för rapportering och dokumentation av gjorda åtgärder."]}

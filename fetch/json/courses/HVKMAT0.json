@@ -3,4 +3,15 @@
 "points":50,
 "requirements":"material och miljö",
 "instructiontext":"som bygger på kursen material och miljö.",
-"code":"HVKMAT0"}
+"code":"HVKMAT0",
+"goaltext":"Kursen material omfattar punkterna 4 och 5 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas fördjupade kunskaper om material.",
+"goals":[0,0,0,2,1,0,0],
+"level":"normal",
+"content":["Materials och produkters ursprung, uppbyggnad och egenskaper.",
+"Materials och produkters hantering, funktion och användningsområden.",
+"Utnyttjade materials och produkters olika egenskaper.",
+"Skötsel av material och produkter.",
+"Metoder för att analysera material.",
+"Material och produkter som utvecklas i samband med nya trender.",
+"Processer och metoder för utveckling och framställning av material.",
+"Materials och produkters traditionella och nya användningsområden."]}

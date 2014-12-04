@@ -4,4 +4,16 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"matlagning 4",
 "instructiontext":"som bygger på kursen matlagning 4. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"MALMAL00S"}
+"code":"MALMAL00S",
+"goaltext":"Kursen matlagning &mdash; specialisering omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Yrkesmässig och experimentell matlagning inom valt specialiseringsområde. Exempel på specialiseringsområden kan vara kreativ matlagning, molekylär gastronomi, internationell matlagning, tematisk matlagning och snabbmat eller street food.",
+"Tillverkning av avancerade och experimentella maträtter och anrättningar.",
+"Matlagningens trender, traditioner och utveckling inom valt specialiseringsområde.",
+"Matkulturer i dag och i ett historiskt perspektiv inom valt specialiseringsområde. Hur matkulturer påverkas av andra kulturer.",
+"Ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.",
+"Framtagande av recept, matsedlar och menyer inom valt specialiseringsområde.",
+"Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+"Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området.",
+"Kommunikation med andra samt fackterminologi."]}

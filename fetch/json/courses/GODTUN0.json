@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"maskinell godshantering",
 "instructiontext":"som bygger på kursen maskinell godshantering.",
-"code":"GODTUN0"}
+"code":"GODTUN0",
+"goaltext":"Kursen tunga arbetsmaskiner omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Fraktdokument och godshandlingar.",
+"Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp och slingas här.",
+"Särskilda risker fårknippade med tunga arbetsmaskiner.",
+"Metoder och regler för signalmans tecken och radiodirigering vid till exempel samlyft och lyft där föraren själv inte ser hela arbetsområdet.",
+"Körning och manövrering av truckar och maskiner som väger mer än tio ton.",
+"Hantering och byte av redskap för olika användningsområden.",
+"Lyftmetoder, staplingsmetoder och förankringsmetoder för containrar, trailrar och flak.",
+"Tyngdpunktsberäkning för lastning, stapling och hantering av gods.",
+"Stabilitet och marktrycksbegränsningar vid hantering av tungt gods.",
+"Säkerhetsföreskrifter."]}

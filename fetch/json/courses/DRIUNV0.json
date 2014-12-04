@@ -1,4 +1,16 @@
 {"subject":"DRI",
 "name":"Underhåll &mdash; vibrationsteknik",
 "points":100,
-"code":"DRIUNV0"}
+"code":"DRIUNV0",
+"goaltext":"Kursen underhåll &mdash; vibrationsteknik omfattar punkterna 1&mdash;2 och 4&mdash;6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,0,1,2,1,0,0],
+"level":"basic",
+"content":["Planering, genomförande och dokumentation av förebyggande och avhjälpande underhåll av maskinutrustningar.",
+"Grundläggande principer och tekniker för vibrationsmätning.",
+"Vibrationsmätning på utrustningar.",
+"Inspektion och tillståndskontroll.",
+"Ronderade tillståndskontroller.",
+"Analys av mätvärden och utvärdering av tänkbara felkällor.",
+"Balansering av utrustningar.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Relevanta fysikaliska begrepp och relevant terminologi."]}

@@ -1,4 +1,16 @@
 {"subject":"DAK",
 "name":"Dansträning för yrkesdansare",
 "points":100,
-"code":"DAKDAS0"}
+"code":"DAKDAS0",
+"goaltext":"Kursen dansträning omfattar punkterna 6&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[0,0,0,0,0,1,1,1],
+"level":"basic",
+"content":["Övningar för uppvärmning, nedvarvning, stretchning och vila samt hur dessa moment kan sättas samman för att förstärka den danstekniska träningen.",
+"Skadeförebyggande träning. Övningar för att träna kondition, smidighet, rörlighet och styrka. Hur övningar och träningsprogram sätts samman för att stärka och optimera den egna kroppen.",
+"Övningar för att träna balans, smidighet, styrka, djärvhet och samarbete.",
+"Fysiologiska och psykologiska effekter av träning och fysisk aktivitet. Riskfaktorer i samband med fysiska aktiviteter, till exempel överträning och skador i samband med träning och scenisk verksamhet. Olika kroppsideals påverkan på människor, till exempel ätstörningar och dopning.",
+"Grundläggande anatomi.",
+"Kost, näring, vila och sömn för hälsa och välbefinnande och för att optimera kroppens prestation. Droger och dopningspreparats konsekvenser för hälsa och prestation.",
+"Mental träning. Psykologiska faktorer i relation till prestation. Olika stressorsaker i vardagen. Spänningsreglering, stresshantering, motivation och målfokusering.",
+"Arbets- och studiemiljöer: samspel mellan situationens krav och människan utifrån ergonomiska aspekter, till exempel kroppslig balans och lyftteknik. Betydelsen av kommunikation och samarbete.",
+"Begrepp, till exempel uppvärmning, nedvarvning, stretchning, ergonomi och fysiologi."]}

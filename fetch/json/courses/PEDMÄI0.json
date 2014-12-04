@@ -1,4 +1,14 @@
 {"subject":"PED",
 "name":"Människors miljöer",
 "points":100,
-"code":"PEDMÄI0"}
+"code":"PEDMÄI0",
+"goaltext":"Kursen människors miljöer omfattar punkterna 1&mdash;3 och 6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,0,0,1],
+"level":"basic",
+"content":["Människors olika levnadsmiljöer och levnadsvillkor.",
+"Hur människor påverkas av, samt själva medverkar till, skapandet av de kulturer och samhällen de lever i.",
+"Hur identiteter skapas och formas i sociala sammanhang.",
+"Hur till exempel genus, klass, etnicitet, familj, generation, funktionsnedsättningar, arbete och fritid påverkar människors levnadsvillkor.",
+"Demokratisk värdegrund och internationella överenskommelser om mänskliga rättigheter.",
+"Innebörden av integration, segregation, likabehandling och diskriminering.",
+"Kritisk bearbetning av information från olika källor."]}

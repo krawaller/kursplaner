@@ -4,4 +4,15 @@
 "requirements":"finsnickeri 5",
 "notwith":"finsnickeri 6a",
 "instructiontext":"som bygger på kursen finsnickeri 5. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen finsnickeri 6a.",
-"code":"HAVFIN06b"}
+"code":"HAVFIN06b",
+"goaltext":"Kursen finsnickeri 6b omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6. I kursen behandlas fördjupad färdighetsträning.",
+"goals":[2,1,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Varierade tekniker i komplexa konstruktioner. Effektivitet och kreativitet i produktionsarbetet, med lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas miljöhänsyn i produktionsarbete och vid materialhantering.",
+"Skissteknik för att presentera idéer för kunder samt teknisk beskrivning för att kommunicera inom branschen.",
+"Analys av färg, form och proportioner för kvalitetshöjning av resultatet.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Systematiskt arbetsmiljöarbete vid arbetsplatsen enligt säkerhetsföreskrifter samt hur man använder skyddsutrustning.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och användande av skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad produktion, försäljning och service."]}

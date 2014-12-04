@@ -6,4 +6,15 @@
 "arr":["ellära 2",
 "praktisk ellära"]}]},
 "instructiontext":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
-"code":"INSELS0"}
+"code":"INSELS0",
+"goaltext":"Kursen elmotorstyrning omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Installation av elmotorer med tillhörande skyddsanordningar.",
+"Installation av styrutrustning för styrning av elmotorer.",
+"Installation av varvtalsreglering och mjukstartare.",
+"Lagar och andra bestämmelser om säkerhet inom området. Standarder.",
+"Val av ledningar med hänsyn till störningar och olika miljöer.",
+"Driftsättning och underhåll av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar.",
+"Dokumentation gällande elmotorer, styrutrustningar och automatikutrustningar.",
+"Felsökning och felavhjälpning av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar."]}

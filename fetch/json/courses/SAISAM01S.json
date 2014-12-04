@@ -1,4 +1,17 @@
 {"subject":"SAI",
 "name":"Samiskt hantverk 1",
 "points":100,
-"code":"SAISAM01S"}
+"code":"SAISAM01S",
+"goaltext":"Kursen samiskt hantverk 1 omfattar punkterna 2&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 3, 5 och 10. I kursen behandlas grundläggande kunskaper i valt hantverksområde. ",
+"goals":[0,2,2,1,2,1,1,1,1,2],
+"level":"normal",
+"content":["Traditionella material, redskap, arbetsmetoder, maskiner och tekniker. I samband med det behandlas materialberäkning och planering av tidsåtgång.",
+"Produkt- och materialkunskap i samband med planering och genomförande.",
+"Färg och form.",
+"Skisser och mönster till olika samiska hantverksprodukter inom valt hantverksområde.",
+"Fackspråk och samisk terminologi.",
+"Utvärdering av arbetsprocess och resultat.",
+"Hantering, underhåll och skötsel av maskiner och verktyg.",
+"Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning.",
+"Miljöhänsyn i arbetet, till exempel återvinning och källsortering.",
+"Ansvarsfullt uppträdande i yrkesutövandet. "]}

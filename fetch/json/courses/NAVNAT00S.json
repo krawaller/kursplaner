@@ -7,4 +7,13 @@
 "fysik 2",
 "kemi 2"]},
 "instructiontext":"som beroende på valt kunskapsområde bygger på kursen biologi 2, kursen fysik 2 eller kursen kemi 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"NAVNAT00S"}
+"code":"NAVNAT00S",
+"goaltext":"Kursen naturvetenskaplig specialisering omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Fördjupning inom valt kunskapsområde. Exempel på kunskapsområden kan vara astronomi, ekotoxikologi, etologi, fysiologi, geofysik, genetik, kvartärgeologi, kvantkemi, limnologi, miljökemi, näringslära och strålningsfysik.",
+"Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",
+"Experiment, fältstudier eller observationer. ",
+"Tillämpningar inom kunskapsområdet, till exempel i samarbete med institutioner och organisationer i det omgivande samhället.",
+"Källkritisk granskning, tolkning och värdering av information från olika medier och källor.",
+"Naturvetenskapliga uttrycks- och presentationsformer, till exempel planschutställningar, rapporter, reportage och seminarier."]}

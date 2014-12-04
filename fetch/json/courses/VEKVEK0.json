@@ -1,4 +1,15 @@
 {"subject":"VEK",
 "name":"Verktygs- och materialhantering",
 "points":100,
-"code":"VEKVEK0"}
+"code":"VEKVEK0",
+"goaltext":"Kursen verktygs- och materialhantering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Faktorer som påverkar val av verktyg, maskiner, material och fästdon.",
+"Användning och vård av verktyg och maskiner för den aktuella arbetsuppgiften, ur hållbarhets-, säkerhets- och miljöaspekter.",
+"Säkerhetsaspekter på och begränsningar av vad som får göras utifrån olika behörighetskrav.",
+"Montering i enlighet med lagar och andra bestämmelser, anvisningar och standarder för olika material och fästdon.",
+"Tolkning och tillämpning av montageritningar och materialbeteckningar för den aktuella arbetsuppgiften.",
+"Manualer och anvisningar från verktygstillverkare.",
+"Ergonomi och arbetsmiljö för den aktuella arbetsuppgiften och hur verktygen kan underlätta arbetet.",
+"Kvalitetskontroll i form av belastningsprövning, egenkontroll och dokumentation av arbetet."]}

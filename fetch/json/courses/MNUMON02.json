@@ -3,4 +3,13 @@
 "points":100,
 "requirements":"mönsterkonstruktion 1",
 "instructiontext":"som bygger på kursen mönsterkonstruktion 1.",
-"code":"MNUMON02"}
+"code":"MNUMON02",
+"goaltext":"Kursen mönsterkonstruktion 2 omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1],
+"level":"high",
+"content":["Gradering. I samband med det behandlas internationella mönster- och storlekssystem.",
+"Mönsterförändringar utifrån figuravvikelser.",
+"Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.",
+"Mönsterkonstruktion utifrån den färdiga produktens användningsområde samt estetiska och tekniska produktkrav.",
+"Fackspråk för att kommunicera inom branschen och med kunder.",
+"Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."]}

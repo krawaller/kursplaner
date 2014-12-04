@@ -1,4 +1,15 @@
 {"subject":"DAG",
 "name":"Scenisk verksamhet för yrkesdansare",
 "points":100,
-"code":"DAGSCE0"}
+"code":"DAGSCE0",
+"goaltext":"Kursen scenisk verksamhet för yrkesdansare omfattar punkterna 1&mdash;4 och 7&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;4.",
+"goals":[2,2,2,2,0,0,1,1],
+"level":"normal",
+"content":["Koder och konventioner för sceniskt arbete.",
+"Konstnärliga processer. Reflektion över konstnärliga arbetsprocesser och konstnärligt resultat.",
+"Samarbete och interaktion med andra samt ansvarstagande för både eget och gemensamt arbete.",
+"Sceniska framföranden. Scenisk uppmärksamhet på uppgifter på och utanför scenen. Scenisk närvaro och kommunikation med publik.",
+"Olika typer av repertoar. Analys, tolkning och gestaltning av koreografiskt material med betoning på resultat och framförande. Dansteknisk och konstnärlig problemlösning. Musikalisk interpretation av koreografi. Spatial uppfattning i förhållande till den egna kroppen, andra medverkande och rummet.",
+"Koreografins estetiska utgångspunkter och förhållningssätt till formspråk, musik, rum och publiken samt det sammanhang dansen presenteras i. Koreografins syn på kropp, genus och etnicitet samt det historiska och kulturella sammanhang där dessa aspekter ingår.",
+"Etiska förhållningssätt, arbetsmiljöfrågor och upphovsrätt i förhållande till scenkonstnärligt arbete.",
+"Begrepp som till exempel uttryck och närvaro samt metoder för att analysera, diskutera och reflektera över arbetsprocessen, den egna arbetsinsatsen och resultatet."]}

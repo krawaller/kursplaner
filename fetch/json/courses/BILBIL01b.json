@@ -1,4 +1,17 @@
 {"subject":"BIL",
 "name":"Bild och form 1b",
 "points":100,
-"code":"BILBIL01b"}
+"code":"BILBIL01b",
+"goaltext":"Kursen bild och form 1b omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;4. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,2,2,2,1,1,1],
+"level":"basic",
+"content":["Betraktande, analys och tolkning av, och även samtal om, olika typer av visuella framställningar i anslutning till eget bildarbete. Sammanhangets betydelse för tolkningen.",
+"Grundläggande kompositionstraditioner för två- och tredimensionella bilder samt färglära.",
+"Bildspråkliga grundbegrepp och deras användbarhet i praktiskt bildarbete.",
+"Diskussioner och värderingsövningar omkring eget och andras arbete med bilder.",
+"Arbete med konstnärliga processer, enskilt och i grupp. Metoder för idéproduktion, till exempel brainstorming, skissarbete, inspirerande förebilder. Metoder för att driva och ta ansvar för egna arbetsprocesser och dokumentation, till exempel portföljmetoden.",
+"Problematisering av ett stoff och problemlösning i bild. ",
+"Bildproduktion i två- och tredimensionella tekniker i nya och traditionella material, metoder och medier. Bildens uttrycksmedel, till exempel linje, form, färg, ljus, skugga och ytstruktur, och hur de hänger samman med det färdiga bilduttrycket.",
+"Metoder och principer för redovisningar och presentationer av färdiga arbeten.",
+"Bilders funktioner och användningsområden, skillnader mellan olika genrer.",
+"Etiska förhållningssätt, arbetsmiljö samt lagar och andra bestämmelser om upphovsrätt."]}

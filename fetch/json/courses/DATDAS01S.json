@@ -1,4 +1,17 @@
 {"subject":"DAT",
 "name":"Dansteknik 1",
 "points":100,
-"code":"DATDAS01S"}
+"code":"DATDAS01S",
+"goaltext":"Kursen dansteknik 1 omfattar punkterna 1&mdash;6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter inom valda genrer.",
+"goals":[1,1,1,1,1,1,0,1,0],
+"level":"normal",
+"content":["Teknikträningens koder och konventioner.",
+"Träningsprocessens olika delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Metoder för att memorera rörelser och övningar. Hur man kan följa sin egen kunskapsutveckling i dansteknik.",
+"Grundläggande dansteknik i två eller flera genrer.",
+"Rörelsevokabulär och olika genrers konventioner, stildrag och kännetecken. Grundläggande kunskaper i placering.",
+"Grundläggande träning av kroppsminnet. Rörelsevokabulär i relation till tid och rum samt kvaliteter som tyngd och flöde. Dansteknikens formspråk. ",
+"Grundläggande träning av den spatiala förmågan i relation till den egna kroppen och andra medverkande.",
+"Dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man följer musikens puls och taktarter.",
+"Grundläggande fysiska kunskaper om hur den egna kroppen fungerar. Hur skelett och muskler samverkar.",
+"Grundläggande träning i koordination, styrka och koncentration.",
+"Grundläggande begrepp, till exempel placering, rörelsekvaliteter som tyngd och flöde, musikalisk puls och taktarter samt dansgenrernas vokabulär."]}

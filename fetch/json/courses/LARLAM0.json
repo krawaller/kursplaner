@@ -1,4 +1,16 @@
 {"subject":"LAR",
 "name":"Larm-, övervaknings- och säkerhetssystem",
 "points":100,
-"code":"LARLAM0"}
+"code":"LARLAM0",
+"goaltext":"Kursen larm-, övervaknings- och säkerhetssystem omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Uppbyggnad och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.",
+"Risker vid installation av larm och säkerhetssystem. Försäkringsbolagens krav på installationer och installatörer.",
+"Planering och genomgång av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.",
+"Krav på registrering och dokumentation av utfört arbete.",
+"Installation, driftsättning och provning av mindre anläggningar för inbrottslarm, brandlarm och passerkontroll.",
+"Installation, integrering, driftsättning och provning av mindre trådlösa system och enheter för larm och övervakning.",
+"Olika typer av verktyg, instrument och övrig utrustning.",
+"Vanliga mätinstrument och hjälpmedel för felsökning. ",
+"Metoder för felsökning och reparationer i larm-, övervaknings- och säkerhetssystem."]}

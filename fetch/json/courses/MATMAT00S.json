@@ -4,4 +4,11 @@
 "repeat":"Kan läsas flera gånger med olika innehåll",
 "requirements":"matematik 4",
 "instructiontext":"som bygger på kursen matematik 4 och kan läsas flera gånger med olika innehåll.",
-"code":"MATMAT00S"}
+"code":"MATMAT00S",
+"goaltext":"Kursen matematik &mdash; specialisering omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1],
+"level":"high",
+"content":{"Matematikområden":["Behandling av ett eller flera övergripande matematikområden, till exempel linjär optimering, spelteori, logik, differentialekvationer, sannolikhetslära, linjär algebra, finans-, populations- eller beräkningsmatematik."],
+"Problemlösning":["Strategier för matematisk problemlösning inklusive användning av digitala medier och verktyg.",
+"Hur matematiken kan användas som verktyg i behandlingen av omfångsrika problemsituationer i karaktärsämnena. Matematikens möjligheter och begränsningar i dessa situationer.",
+"Matematiska problem med anknytning till matematikens kulturhistoria."]}}

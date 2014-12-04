@@ -1,4 +1,12 @@
 {"subject":"SAH",
 "name":"Byggprocessens organisation",
 "points":100,
-"code":"SAHBYP0"}
+"code":"SAHBYP0",
+"goaltext":"Kursen byggprocessens organisation omfattar punkterna 7&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,0,0,0,0,0,1,1,1,1],
+"level":"normal",
+"content":["Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämnande och förvaltning.",
+"Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.",
+"Projektplanering i projekterings- och utförandeskedet, till exempel vad gäller tid- och resursplanering samt uppföljning och avstämning. Grundläggande samordningsplanering av olika aktörer i byggprojekt.",
+"Tillämpliga regler i byggprocessen, till exempel plan- och bygglagen (PBL) samt Boverkets och Arbetsmiljöverkets regler. Avtals- och kontraktsskrivning i utförandeskedet. Förfrågningsunderlag och deras ingående delar.",
+"Kvalitets-, miljö- och arbetsmiljöledningssystem på grundläggande nivå, till exempel enligt ISO9000 och ISO14000 samt branschspecifika system. Kontrollansvar enligt PBL och byggarbetsmiljösamordning enligt BAS-P och BAS-U."]}

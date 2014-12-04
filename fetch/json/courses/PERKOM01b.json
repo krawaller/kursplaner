@@ -5,4 +5,14 @@
 "arr":["bromsar, kaross och chassi",
 "motor och kraftöverföring"]},
 "instructiontext":"som bygger på kursen bromsar, kaross och chassi samt kursen motor och kraftöverföring.",
-"code":"PERKOM01b"}
+"code":"PERKOM01b",
+"goaltext":"Kursen komfort- och säkerhetssystem 1b omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Funktion hos och konstruktion av givare och komponenter i elektroniska fordonssystem för komfort och säkerhet, manövrering och övervakning samt motsvarande fordonsfunktioner.",
+"Funktion hos och konstruktion av elektroniska fordonstekniska styr- och reglersystem, till exempel canbussystem (controller area network), fiberoptik och trådlös teknik samt motsvarande fordonsfunktioner.",
+"Funktion hos och konstruktion av radio- och stereosystems komponenter, kompletta ljudsystem i fordon och motsvarande fordonsfunktioner.",
+"Funktion hos och konstruktion av kommunikationssystems komponenter, till exempel radio, telefon, sändare och mottagare i fordon samt motsvarande fordonsfunktioner.",
+"Funktion hos och konstruktion av komponenter i navigationsutrustning, till exempel GPS-sändare och GPS-mottagare i fordon samt motsvarande fordonsfunktioner.",
+"Funktion hos och konstruktion av trådlösa system, till exempel mellan yttre sändare eller mottagare och fordon samt motsvarande fordonsfunktioner.",
+"Lagar och andra bestämmelser som reglerar förändringar som påverkar bilars och lätta lastbilars kör- och säkerhetsegenskaper."]}

@@ -1,4 +1,14 @@
 {"subject":"FAR",
 "name":"Skeppsteknik",
 "points":50,
-"code":"FARSKE0"}
+"code":"FARSKE0",
+"goaltext":"Kursen skeppsteknik omfattar punkterna 1&mdash;3 och 6&mdash;7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,1,1,0,0,1,1],
+"level":"basic",
+"content":["Olika fartygstypers konstruktion.",
+"Fartygs huvuddimensioner och form.",
+"Skeppsmätning.",
+"Lastlinjekonventionen.",
+"Fartygs påkänningar.",
+"Faktorer som påverkar fartygs stabilitet.",
+"Hydrostatiska data. "]}

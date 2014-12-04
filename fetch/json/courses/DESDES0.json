@@ -1,4 +1,15 @@
 {"subject":"DES",
 "name":"Designmodeller",
 "points":100,
-"code":"DESDES0"}
+"code":"DESDES0",
+"goaltext":"Kursen designmodeller omfattar punkterna 1 och 4&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,0,0,1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Hur modellarbeten planeras, struktureras och genomförs.",
+"Modellarbete med fokus på estetik, material, skalteknik och hantverksmässigt utförande.",
+"Modellarbete med hänsyn till ekonomi, miljö och återanvändning.",
+"Analog eller virtuell användning av olika material och tekniker för två- och tredimensionell visualisering.",
+"Verktyg och material för skisser och modellbyggande samt hur de väljs, används och vårdas.",
+"Modeller för analys och värdering av arbetsprocessen och bedömning av det färdiga resultatet.",
+"Presentation av idéer med skiss, ritning, modell, skrift och tal.",
+"Projektarbetsmetodik, till exempel projektplan, loggbok, val av metod, material och teknik."]}

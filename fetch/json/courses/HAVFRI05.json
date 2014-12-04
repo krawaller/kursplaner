@@ -3,4 +3,16 @@
 "points":200,
 "requirements":"frisör 4",
 "instructiontext":"som bygger på kursen frisör 4.",
-"code":"HAVFRI05"}
+"code":"HAVFRI05",
+"goaltext":"Kursen frisör 5 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2 och 6. I kursen befästs fördjupade kunskaper i ämnet.",
+"goals":[2,2,1,1,1,2,1,1,1,1],
+"level":"normal",
+"content":["Avancerade klipp- och designtekniker samt färg- och strukturförändrande tekniker vid kundbehandling. Effektivisering och kreativitet med resultatets kvalitet i fokus.",
+"Planering av inköp och prissättning av varor.",
+"Skiss- och ritteknik för detaljerade tekniska beskrivningar och vidareutveckling av idéer.",
+"Användning av färg, form och proportioner för kvalitetshöjning av resultat.",
+"Kommunikation kring arbetsprocessen och utvärdering av det färdiga resultatet.",
+"Digitala tekniker för presentation av det färdiga arbetet.",
+"Hygieniskt, ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt hur man använder skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.",
+"Kundorienterat och ansvarsfullt yrkesutövande vid kundbehandling, försäljning och service."]}

@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"biologi i vattenmiljöer 1",
 "instructiontext":"som bygger på biologi i vattenmiljöer 1.",
-"code":"FISFIS01"}
+"code":"FISFIS01",
+"goaltext":"Kursen fiske 1 omfattar punkterna 1 och 3&mdash;7 under rubriken Ämnets syfte, med särskild betoning på förmåga att utföra arbetsuppgifter.",
+"goals":[1,0,1,1,1,1,1,0],
+"level":"normal",
+"content":{"Arbetsuppgifter":["Arbete med fiske samt fångstmetoder och metoder för att hitta fångstplatser.",
+"Användning av fiskeredskap och teknisk utrustning för arbetsuppgifter inom fiske.",
+"Loggbok för att redovisa fångst."],
+"Arbetsmiljö, säkerhetsfrågor och bestämmelser":["Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiske.",
+"Säkerhetsföreskrifter, till exempel för säkerhet på sjön.",
+"Lagar och andra bestämmelser som rör fiske, till exempel miljölagstiftning och bestämmelser som reglerar rätt till fiske, tidpunkt för fångst, minimimått och redskapens utformning och antal."],
+"Biologisk grund":["Förekomst av fisk i olika vattenmiljöer samt hur fisket påverkar miljön och den ekologiska balansen.",
+"Vattenmiljöer och klimatets inverkan på artsammansättning och tillgång på fisk.",
+"Fiskarter som används för konsumtion.",
+"Vanliga skador och sjukdomar på fisk."]}}

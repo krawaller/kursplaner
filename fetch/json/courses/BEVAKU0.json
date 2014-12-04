@@ -1,4 +1,15 @@
 {"subject":"BEV",
 "name":"Akut omhändertagande",
 "points":100,
-"code":"BEVAKU0"}
+"code":"BEVAKU0",
+"goaltext":"Kursen akut omhändertagande omfattar punkterna 1 och 3&mdash;7 under rubriken Ämnets syfte. ",
+"goals":[1,0,1,1,1,1,1],
+"level":"normal",
+"content":["Lagar och andra bestämmelser som styr räddningstjänsten.",
+"Prehospitalt omhändertagande av drabbade enligt L-ABCDE-principen.",
+"Hjärt-lungräddning (HLR) för vuxna.",
+"Grunderna för hjärt-lungräddning och akut omhändertagande av barn.",
+"Sjukdomsfall viktiga att känna till, till exempel epilepsi, diabetes, allergier.",
+"Akut omhändertagande avseende anatomi, fysiologi, kinematik och skadelära.",
+"Fysiska, psykiska och sociala krav som kan påverka hälsa och arbetsinsats.",
+"Bemötande av människor i olika olyckssituationer. "]}

@@ -6,4 +6,16 @@
 "träningslära 1"]},
 "notwith":"träningslära 2",
 "instructiontext":"som bygger på kursen tränings- och tävlingslära 1 eller kursen träningslära 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 2.",
-"code":"SPETRÄ02"}
+"code":"SPETRÄ02",
+"goaltext":"Kursen tränings- och tävlingslära 2 omfattar punkterna 2 och 4&mdash;6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,1,0,1,1,1,0],
+"level":"high",
+"content":["Fördjupning i kroppens anatomi och fysiologi, till exempel hur styrketräning påverkar kroppen ur anatomiskt och fysiologiskt perspektiv och ur prestationsperspektiv. ",
+"Kroppens energiomsättning samt näringsfysiologi. Energibehov och energibalans utifrån tränings- och tävlingsperspektiv.",
+"Individers upplevelse av fysisk aktivitet, tävlings- och elitidrott samt hur tillstånd och karaktärsdrag spelar in och påverkar upplevelsen.",
+"Fördjupning i träningsmetoder, till exempel uthållighet, styrka, rörlighet, snabbhet och koordination.",
+"Planering, genomförande och utvärdering av egna och andras tränings- och tävlingsprogram.",
+"Kostregistrering och kostdataprogram.",
+"Tester för att mäta fysiska och psykiska kvaliteter, till exempel konditions- och rörlighetstester.",
+"Idrottsmiljöers betydelse för tränings- och tävlingsprestation.",
+"Metoder för skadeförebyggande träning och för behandling av skador. Alternativa behandlingsformer."]}

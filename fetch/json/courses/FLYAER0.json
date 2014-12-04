@@ -1,4 +1,15 @@
 {"subject":"FLY",
 "name":"Aerodynamik",
 "points":100,
-"code":"FLYAER0"}
+"code":"FLYAER0",
+"goaltext":"Kursen aerodynamik omfattar punkterna 1 och 5&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,0,0,0,1,1,1,1,0],
+"level":"normal",
+"content":["Luftflöden runt olika profiler.",
+"Generering av lyftkraft och motstånd.",
+"Laminärt och turbulent flöde.",
+"Vingprofiler, till exempel korda och camber.",
+"Olika faktorer som kan inverka på lyftkraften.",
+"Atmosfäriska begrepp relaterade till flygning.",
+"Aerodynamiska beräkningar.",
+"Grundläggande samband inom aerodynamiken, till exempel mellan atmosfärens tillstånd och fysikaliska lagar beträffande lyftkraft och motstånd."]}

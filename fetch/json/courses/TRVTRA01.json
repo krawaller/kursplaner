@@ -4,4 +4,17 @@
 "requirements":"ridning och körning",
 "notwith":"körning 1",
 "instructiontext":"som bygger på kursen ridning och körning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen körning 1.",
-"code":"TRVTRA01"}
+"code":"TRVTRA01",
+"goaltext":"Kursen trav 1 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på kunskaper om hästars olika gångarter samt punkterna 2 och 6.",
+"goals":[1,2,1,1,1,2,1,1,1],
+"level":"normal",
+"content":["Hästars gångarter och rörelsemekanik.",
+"Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.",
+"Motionsträning och grundläggande intervallträning.",
+"Körning av skolade travhästar efter hästarnas individuella förutsättningar.",
+"Selning och anpassning av utrustning för travhästar för olika typer av arbete.",
+"Skötsel och vård av utrustning, vagnar och redskap.",
+"Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
+"Lagar och andra bestämmelser som rör arbete med hästar.",
+"Bestämmelser om körning på väg samt i skog och mark.",
+"Travsportens organisation och regler."]}

@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"materialkunskap 1",
 "instructiontext":"som bygger på kursen materialkunskap 1.",
-"code":"MAEMAT02"}
+"code":"MAEMAT02",
+"goaltext":"Kursen materialkunskap 2 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Avancerad hand- och maskindriven utrustning vid materialbearbetning samt vid formning, sammanfogning och delning.",
+"Etablerade, alternativa metoder för materialbearbetning.",
+"Materialbearbetning i modern tekniskt avancerad produktionsutrustning.",
+"Eventuella alternativa material i produktproduktionen.",
+"Berednings- och ritningsunderlag samt etablerade, alternativa metoder för materialoptimering.",
+"Metoder för att lösa avancerade materialrelaterade problem.",
+"För materialet relevant färg- och formlära.",
+"Materialets tekniska, fysiska och kemiska yttre och inre egenskaper.",
+"Introduktion till aktuell forskning och utveckling inom materialområdet.",
+"Laborativa materialförsök. Idéutveckling."]}

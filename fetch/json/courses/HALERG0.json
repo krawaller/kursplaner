@@ -1,4 +1,13 @@
 {"subject":"HAL",
 "name":"Ergonomi",
 "points":100,
-"code":"HALERG0"}
+"code":"HALERG0",
+"goaltext":"Kursen ergonomi omfattar punkterna 1, 3&mdash;7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkt 3. ",
+"goals":[1,0,2,1,1,1,1,0,1],
+"level":"normal",
+"content":["Begreppet ergonomi samt ergonomi som kunskapsområde.",
+"Arbetets och arbetsmiljöns påverkan på hälsa och välbefinnande. Hur miljöer ergonomiskt kan anpassas till människan.",
+"Yrkesetik i arbetet samt lagar och andra bestämmelser som reglerar arbetet.",
+"Tekniker för ergonomiskt och säkert utfört arbete i olika situationer, såväl i vardags- som i arbetslivet. Riskanalys och konsekvenser vid rätt respektive felaktig teknik.",
+"Ergonomiska verktyg och annan teknisk utrustning, deras funktion och underhåll.",
+"Kommunikation, samarbete och samverkan i mötet med människor."]}

@@ -5,4 +5,14 @@
 "arr":["svenska 1",
 "svenska som andraspråk 1"]},
 "instructiontext":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
-"code":"SVERET0"}
+"code":"SVERET0",
+"goaltext":"Kursen retorik omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,0,0,0,0,0],
+"level":"normal",
+"content":["Muntlig framställning av olika slag och med olika syften: såväl monologisk framställning inför en grupp som dialogisk, i form av diskussions- och debattinlägg, och med olika tänkta arenor, vilket även inkluderar det offentliga rummet. Användning av presentationstekniska hjälpmedel som stöd i muntlig framställning.",
+"Aktivt lyssnande samt konsten att ge respons på ett konstruktivt sätt.",
+"Retorikens praktiska och teoretiska användningsområden, framför allt dess roll som redskap för förberedelser inför muntlig framställning, som stöd för genomförande av muntlig framställning och som redskap för analys.",
+"Den retoriska arbetsprocessens sex delar:<br/><i>Intellectio</i>: att ta reda på hur en aktuell kommunikationssituation ser ut och utifrån den formulera ett syfte med sin muntliga framställning.<br/><i>Inventio</i>: att finna lämpligt stoff och goda argument.<br/><i>Dispositio</i>: att organisera stoff och argument på lämpligt sätt.<br/><i>Elocutio</i>: att välja språk och stil.<br/><i>Memoria</i>: att på ett ändamålsenligt sätt använda manus och presentationstekniska hjälpmedel.<br/><i>Actio</i>: att välja lämpligaste framförande med hjälp av kropp och röst.",
+"Analys av muntlig framställning i olika medier och nedtecknade tal.",
+"Grundläggande retoriska begrepp som behövs för att på ett metodiskt och strukturerat sätt tala om och analysera muntlig framställning.",
+"Frågan om yttrandefriheten i relation till etik, upphovsrätt och censur."]}

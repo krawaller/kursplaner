@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"tillverkningsunderlag 1",
 "instructiontext":"som bygger på kursen tillverkningsunderlag 1.",
-"code":"TILTIL02"}
+"code":"TILTIL02",
+"goaltext":"Kursen tillverkningsunderlag 2 omfattar punkterna 3&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[0,0,1,1,1,1,1,1],
+"level":"high",
+"content":["Tolkning av mönster- och ritningsunderlag.",
+"Metoder för framställning av mönster eller ritningar med hjälp av datorteknik.",
+"Metoder för beredning av tillverkningsritningar.",
+"Specifika beteckningar för datorframställning av mönster eller ritningar.",
+"Informationssökning i relevanta källor.",
+"Material- och produktionsstyrningssystem, hur de fungerar och deras betydelse för produktionen.",
+"Termer och begrepp som är relevanta för teknikområdet."]}

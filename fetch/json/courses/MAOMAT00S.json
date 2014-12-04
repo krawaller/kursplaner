@@ -4,4 +4,15 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "requirements":"mat och butik 2",
 "instructiontext":"som bygger på kursen mat och butik 2. Kursen kan läsas flera gånger med olika innehåll.",
-"code":"MAOMAT00S"}
+"code":"MAOMAT00S",
+"goaltext":"Kursen mat och butik &mdash; specialisering omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter inom valt specialiseringsområde.",
+"goals":[1,1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Fördjupning av råvaror och produkter inom valt specialiseringsområde. Exempel på specialiseringsområden kan vara kött och charkuteri, delikatess, catering, fisk, ost och mejeri samt frukt och grönt.",
+"Trender, influenser och utveckling inom valt specialiseringsområde.",
+"Lönsamhet samt ekonomiska konsekvenser vid val av inköp och försäljning av råvaror och produkter samt vid tillverkning och förvaring.",
+"Planering, komponering och tillagning av måltider samt bakning av bröd.",
+"Paketering och märkning av varor samt kampanjplanering.",
+"Rådgivning till kunder vid val av varor samt tillagning av maträtter och hela måltider.",
+"Arbetsmiljö, ergonomi och ergonomiska riskfaktorer samt säkerhet.",
+"Livsmedelshygien."]}

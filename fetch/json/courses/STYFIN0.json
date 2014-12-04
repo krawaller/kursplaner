@@ -1,4 +1,17 @@
 {"subject":"STY",
 "name":"Finstyckning",
 "points":100,
-"code":"STYFIN0"}
+"code":"STYFIN0",
+"goaltext":" Kursen finstyckning omfattar punkterna 1, 3 och 6&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet. ",
+"goals":[1,0,1,0,0,1,1,1,1,1],
+"level":"normal",
+"content":["Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
+"Styckningsdetaljernas utseende, kvalitet, karaktär samt användningsområde vid förädling och tillagning.",
+"Pannfärdigt, dvs. förädling av styckningsdetaljer av alla djurslag.",
+"Hantering och förvaring av råvaror.",
+"Hur man för olika djurslag finstyckar grovstyckade styckningsdetaljer.",
+"Stycknings- och förädlingskalkyler.",
+"Användning av handverktyg och maskiner vid finstyckning.",
+"Förpackningsmaterial, paketering och märkning.",
+"Arbetsmiljö, ergonomi och säkerhet.",
+"Praktisk hygien och egenkontroll."]}

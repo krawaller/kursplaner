@@ -4,4 +4,12 @@
 "requirements":"naturkunskap 1a1",
 "notwith":"naturkunskap 1b",
 "instructiontext":"som bygger på naturkunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
-"code":"NAKNAK01a2"}
+"code":"NAKNAK01a2",
+"goaltext":"Kursen naturkunskap 1a2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Samband mellan individens hälsa, dagliga vanor och livsstilar i samhället, till exempel i fråga om träning, kost, droger och konsumtion samt påverkan på miljön. Hur naturvetenskap kan användas som utgångspunkt vid kritisk granskning av budskap och normer i medierna.",
+"Evolutionära aspekter och etiska perspektiv på bioteknikens möjligheter och konsekvenser för mänsklighetens utveckling och för biologisk mångfald. Cellen och livets minsta delar som utgångspunkt för diskussioner om till exempel genteknik och andra aktuella forskningsområden.",
+"Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.",
+"Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att undersöka naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.",
+"Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritisk pröva ovetenskapligt grundade påståenden."]}

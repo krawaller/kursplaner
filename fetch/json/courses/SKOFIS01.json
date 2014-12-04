@@ -1,4 +1,16 @@
 {"subject":"SKO",
 "name":"Fiske och vattenvård 1",
 "points":100,
-"code":"SKOFIS01"}
+"code":"SKOFIS01",
+"goaltext":"Kursen fiske och vattenvård 1 omfattar punkterna 2&mdash;3 och 6&mdash;9 under rubriken Ämnets syfte, med särskild betoning på förmåga att utföra arbetsuppgifter inom vattenvård.",
+"goals":[0,1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":{"Biologisk grund":["Vattenlevande organismer, till exempel fiskar, plankton och kräftdjur. Deras biologi och behov samt hur man kan påverka deras livsbetingelser.",
+"Vanliga fisksjukdomar.",
+"Vatten, vattenkvalitet och vattnets kretslopp.",
+"Vattnet som ekosystem och biologisk mångfald i sjöar och vattendrag.",
+"Skogsbruksåtgärder som påverkar vattenmiljön."],
+"Arbetsuppgifter":["Tolkning av vattenvårdsplaner och fiskevårdsplaner samt genomförande av arbetsuppgifter. ",
+"Arbete med fiske samt med redskap och annan utrustning. Tillvaratagande av fisk."],
+"Arbetsmiljö, säkerhetsfrågor och bestämmelser":["Arbetsmiljö, ergonomi och säkerhet i samband med vattenvård och fiskevård.",
+"Lagar och andra bestämmelser i samband med vattenvård och fiskevård, till exempel vattendirektivet."]}}

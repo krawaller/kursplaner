@@ -1,4 +1,15 @@
 {"subject":"KLA",
 "name":"Klassisk grekiska &mdash; språk och kultur 1",
 "points":100,
-"code":"KLAKLA01"}
+"code":"KLAKLA01",
+"goaltext":"Kursen klassisk grekiska &mdash; språk och kultur 1 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1],
+"level":"basic",
+"content":["Läsning och tolkning av mycket enkla grekiska texter, till exempel texter från läroböcker och bearbetade autentiska texter.",
+"Det grekiska alfabetet, hur de grekiska bokstäverna uttalades under grekiskans klassiska tid och hur man använder alfabetet i skrift.",
+"Den grekiska grammatikens grunder med orientering om det viktigaste i grekisk formlära och meningsbyggnad. Relevanta begrepp som behövs för att beskriva och analysera språket.",
+"Ett begränsat grekiskt basordförråd med betoning på ord, orddelar, begrepp och uttryck som lever vidare i de moderna språken och i vetenskaplig terminologi.",
+"Översikt över det antika Greklands historia, till exempel perserkrigen, krigen mellan Sparta och Aten samt Alexander den store. Orientering om det antika Greklands geografi.",
+"Några aspekter av samhällsliv, statsskick, religion och mytologi i det antika Grekland, till exempel vardagsliv i Aten och Sparta, den atenska demokratin, de olympiska spelen samt den grekiska gudavärlden och dess myter. Hur dessa aspekter har påverkat senare tiders kulturer med betoning på vår egen tid.",
+"Det antika Greklands kultur och hur den grekiska kulturen har påverkat senare tiders arkitektur, konst och litteratur med betoning på vår egen tid.",
+"Grekisk historia, kultur och samhällsliv i de grekiska texterna."]}

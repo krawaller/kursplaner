@@ -1,4 +1,13 @@
 {"subject":"MEE",
 "name":"Textkommunikation",
 "points":100,
-"code":"MEETET0"}
+"code":"MEETET0",
+"goaltext":"Kursen textproduktion omfattar punkterna 4, 5 och 7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[0,0,0,1,1,0,1,0],
+"level":"basic",
+"content":["Produktion och analys av journalistiska texter grundade på fakta och saklighet utifrån journalistikens principer.",
+"Produktion och analys av informationstexter och reklamtexter utifrån informationens och reklamens behov.",
+"Grundläggande journalistiska och reklaminriktade arbetssätt, till exempel intervjuer och research.",
+"Språk och uttryck i textproduktioner riktade mot olika målgrupper, till exempel hur semiotik, retorik och dramaturgi används när budskap formuleras.",
+"Skillnader i arbetssätt och innehåll inom extern och intern information.",
+"Informationssökning via olika kanaler, källor och digitala medietillämpningar samt grundläggande metoder för kritisk granskning av deras relevans och trovärdighet."]}

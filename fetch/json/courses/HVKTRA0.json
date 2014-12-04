@@ -1,4 +1,15 @@
 {"subject":"HVK",
 "name":"Tradition och utveckling",
 "points":100,
-"code":"HVKTRA0"}
+"code":"HVKTRA0",
+"goaltext":"Kursen tradition och utveckling omfattar punkterna 1&mdash;3 under rubriken Ämnets syfte.",
+"goals":[1,1,1,0,0,0,0],
+"level":"normal",
+"content":["Det valda hantverksområdets historia, tradition och utvecklingsmöjligheter. I samband med det behandlas samhällsförändringar som påverkat förutsättningarna samt teknikutvecklingens betydelse för yrket.",
+"Tekniker, verktyg och material i ett historiskt perspektiv.",
+"Utbildningssystemet nu och då. I samband med det behandlas hur hantverksområdets eventuella yrkesprov är utformat, till exempel regler och bedömning av gesäll- och mästarbrev.",
+"Utformningen av yrkestävlingar inom hantverksområdet, nationellt och internationellt.",
+"Utvecklings- och samverkansmöjligheter inom det egna hantverksområdet och närliggande hantverksområden.",
+"Förutsättningar för verksamhet inom den egna regionen och på en internationell marknad.",
+"Fack- och branschorganisationer och deras funktion inom det valda hantverksområdet. I samband med det behandlas arbetsgivarens och arbetstagarens rättigheter och skyldigheter.",
+"Kultur- och stilhistoria med betoning på centrala stilepoker inom hantverksområdet. I samband med det behandlas trender, trendutveckling och trendtolkning historiskt och i nutid."]}

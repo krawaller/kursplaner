@@ -5,4 +5,16 @@
 "arr":["konferens och evenemang",
 "utställningsdesign 2"]},
 "instructiontext":"som bygger på kursen konferens och evenemang eller kursen utställningsdesign 2.",
-"code":"KONKOF0"}
+"code":"KONKOF0",
+"goaltext":"Kursen konferens och evenemang omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1,1],
+"level":"basic",
+"content":["Olika anläggningar för konferens och evenemang samt deras skiftande utbud av tjänster och service.",
+"Olika typer av möten samt deras syften.",
+"Organisationer för branschintressen, marknadsföring och försäljning.",
+"Yrkesroller och arbetsuppgifter inom området. Organisation och ansvarsfördelning vid arbete i mindre projekt.",
+"Branschens utveckling från möten i enklare lokaler till konferenspaket med förväntningar på upplevelser och aktiviteter.",
+"Prissättning av enklare arrangemang beroende på antal deltagare, utrustning, tjänster och aktiviteter.",
+"Teknisk utrustning som är lämplig för olika konferenser och evenemang, till exempel datorprojektor och mikrofon.",
+"Arbetsmiljö samt säkerhetsföreskrifter och andra bestämmelser som rör grupparrangemang.",
+"Olika målgruppers skiftande krav på både anläggningar och arrangemang, till exempel säkerhet, miljöcertifiering och möjligheter till aktiviteter."]}

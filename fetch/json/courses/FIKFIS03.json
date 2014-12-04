@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"fiskevård 2",
 "instructiontext":"som bygger på fiskevård 2.",
-"code":"FIKFIS03"}
+"code":"FIKFIS03",
+"goaltext":"Kursen fiskevård 3 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Planering, organisation, genomförande och utvärdering av ett mindre fiskevårdsprojekt.",
+"Informationssökning och upprättande av en projektplan.",
+"Etiska frågeställningar i samband med fiskevård.",
+"Ekonomiska beräkningar och kalkyler.",
+"Ergonomi, arbetsmiljö och säkerhet.",
+"Lagar och andra bestämmelser som rör till exempel försöksdjur, kulturminnen, dammar och fiskerätt.",
+"Val, användning och skötsel av teknisk utrustning.",
+"Utförande av praktiska arbetsuppgifter inom ett fiskevårdsprojekt.",
+"Tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data.",
+"Dokumentation och redovisning av genomfört projekt."]}

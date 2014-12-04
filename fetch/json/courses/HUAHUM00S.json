@@ -1,4 +1,12 @@
 {"subject":"HUA",
 "name":"Humanistisk och samhällsvetenskaplig spets",
 "points":50,
-"code":"HUAHUM00S"}
+"code":"HUAHUM00S",
+"goaltext":"Kursen humanistisk och samhällsvetenskaplig spets omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas kunskaper inom spetsutbildningens område. ",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
+"Vetenskapliga begrepp, teorier, modeller och metoder som är relevanta för kunskapsområdet.",
+"Källkritisk metod inom kunskapsområdet. Granskning, tolkning och värdering av information från olika medier och källor.",
+"Någon praktisk tillämpning av kunskaper inom området, till exempel i samarbete med institutioner och organisationer i det omgivande samhället eller i form av till exempel fältstudier, rollspel och undersökningar.",
+"Uttrycks- och presentationsformer som är relevanta för kunskapsområdet och för humaniora eller samhällsvetenskap i allmänhet, till exempel debattartiklar, muntliga framställningar, utställningar och vetenskapliga rapporter. Anpassning till syfte, mottagare och situation. "]}

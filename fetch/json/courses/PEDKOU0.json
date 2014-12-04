@@ -1,4 +1,15 @@
 {"subject":"PED",
 "name":"Kommunikation",
 "points":100,
-"code":"PEDKOU0"}
+"code":"PEDKOU0",
+"goaltext":"Kursen kommunikation omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,1,1,1,1],
+"level":"basic",
+"content":["Människors interaktion och kommunikation i olika sammanhang och utifrån olika teorier.",
+"Sociala och kulturella förhållandens påverkan på människors interaktion och kommunikation.",
+"Gruppens och det sociala sammanhangets betydelse för interaktion och kommunikation.",
+"Användning av samtal som redskap i kommunikationen.",
+"Interaktion och kommunikation vid konflikter och konflikthantering.",
+"Framväxten av mediekulturer och användandet av digitala medier samt deras betydelse för människors liv och lärande.",
+"Kritisk bearbetning av information från olika källor.",
+"Användning av informationsteknik som redskap för kommunikation och information."]}

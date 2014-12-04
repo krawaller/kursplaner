@@ -4,4 +4,14 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll från vald profil.",
 "requirements":"hantverksteknik 3",
 "instructiontext":"som bygger på kursen hantverksteknik 3 med innehåll från vald profil. Kursen kan läsas flera gånger med olika innehåll från vald profil.",
-"code":"HAVHNT04S"}
+"code":"HAVHNT04S",
+"goaltext":"Kursen hantverksteknik 4 &mdash; specialisering omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper om tekniker och metoder inom valt specialiseringsområde närliggande profilen, eller mindre vanligt förekommande tekniker och metoder inom profilen.",
+"goals":[2,1,1,1,1,1,1,1,1,0],
+"level":"normal",
+"content":["Material, verktyg, maskiner, tekniker och metoder för att genomföra arbetet inom valt specialiseringsområde. I samband med det behandlas arbetsplanering, till exempel materialberäkning och planering av tidsåtgång.",
+"Produkt- och materialkunskap. Hur man väljer lämpliga material och produkter för arbetsuppgiften. I samband med det behandlas miljöaspekter.",
+"Fackspråk, skissteknik och ritteknik för arbetsbeskrivning och utveckling av idéer.",
+"Analys av färgers, formers och proportioners betydelse för resultatet.",
+"Utvärdering och analys av arbetsprocess och resultat.",
+"Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt hur man använder eventuell skyddsutrustning.",
+"Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering."]}

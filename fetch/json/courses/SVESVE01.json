@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"de kunskaper grundskolan ger eller motsvarande",
 "instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande.",
-"code":"SVESVE01"}
+"code":"SVESVE01",
+"goaltext":"Kursen svenska 1 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Muntlig framställning med fokus på mottagaranpassning. Faktorer som gör en muntlig presentation intressant och övertygande. Användning av presentationstekniska hjälpmedel som stöd för muntlig framställning. Olika sätt att lyssna och ge respons som är anpassad till kommunikationssituationen.",
+"Skriftlig framställning av texter för kommunikation, lärande och reflektion. Språkriktighet, dvs. vilka språkliga egenskaper och textegenskaper i övrigt som en text bör ha för att fungera väl i sitt sammanhang.",
+"Argumentationsteknik och skriftlig framställning av argumenterande text.",
+"Grunderna i den retoriska arbetsprocessen.",
+"Bearbetning, sammanfattning och kritisk granskning av text. Citat- och referatteknik. Grundläggande källkritik.",
+"Skönlitteratur, författad av såväl kvinnor som män, från olika tider och kulturer.",
+"Centrala motiv, berättarteknik och vanliga stildrag i fiktivt berättande, till exempel i skönlitteratur och teater samt i film och andra medier.",
+"Grundläggande språkliga begrepp som behövs för att på ett metodiskt och strukturerat sätt tala om och analysera språk och språklig variation samt diskutera språkriktighetsfrågor.",
+"Dialekter och språklig variation i talat och skrivet språk som hänger samman med till exempel ålder, kön och social bakgrund. Skillnader mellan formellt och informellt språkbruk samt attityder till olika former av språklig variation."]}

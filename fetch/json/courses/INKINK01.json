@@ -1,4 +1,17 @@
 {"subject":"INK",
 "name":"Inköp 1",
 "points":100,
-"code":"INKINK01"}
+"code":"INKINK01",
+"goaltext":" Kursen inköp 1 omfattar punkterna 1, 4&mdash;7 och 9&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+"goals":[1,0,0,1,1,1,1,0,1,1],
+"level":"basic",
+"content":["Inköpsarbete och inköpsteknik, betydelsen av en inköpsprocess.",
+"Inköpsarbete i olika typer av företag, till exempel i små och stora företag och i import- och exportföretag.",
+"Leverantörsrelationer och metoder för att finna och bedöma olika leverantörer nationellt.",
+"Import och internationell handel samt internationella handelsregler, till exempel incoterms.",
+"Sortimentsfrågor, hur ett sortiment sätts samman och bedöms.",
+"Varuhantering, lagerkontroll och inventering.",
+"Lagar och andra bestämmelser inom området.",
+"Prissättnings- och lönsamhetskalkyler inom olika led, till exempel prissättning och kalkyler i butiksledet.",
+"Arbetsmiljö och ergonomi.",
+"Socialt ansvarstagande och rättvis handel samt betydelsen av verksamhetens roll inom hållbar utveckling och global rättvisa."]}

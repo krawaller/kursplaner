@@ -1,4 +1,14 @@
 {"subject":"HAA",
 "name":"Barnhälsovård",
 "points":100,
-"code":"HAABAR0"}
+"code":"HAABAR0",
+"goaltext":"Kursen barnhälsovård omfattar punkterna 1&mdash;6 och 8&mdash;9 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1,0,1,1],
+"level":"normal",
+"content":["Barns hälsa och välbefinnande.",
+"Sambanden mellan levnadsvanor, livsvillkor samt barns hälsa och välbefinnande.",
+"Vanliga barnsjukdomar och skaderisker hos barn.",
+"Barnhälsovårdens organisation, utveckling och funktion.",
+"Förebyggande barnhälsoarbete, till exempel tandvård, kontroller och vaccinationer.",
+"FN:s konvention om barnets rättigheter.",
+"Lagar och andra bestämmelser inom verksamhetsområdet."]}

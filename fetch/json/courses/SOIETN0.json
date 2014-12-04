@@ -1,4 +1,13 @@
 {"subject":"SOI",
 "name":"Etnicitet och kulturmöten",
 "points":100,
-"code":"SOIETN0"}
+"code":"SOIETN0",
+"goaltext":"Kursen etnicitet och kulturmöten omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1],
+"level":"normal",
+"content":["Svenska kulturer och kulturmöten i ett globaliserat och mångkulturellt samhälle.",
+"Innebörden i begreppen kultur, etnicitet, nationalitet och religion.",
+"Migration, dess bakgrund och konsekvenser för människors levnadsförhållanden och delaktighet i samhället.",
+"Politiska beslut och ställningstaganden i samband med migration.",
+"Kritisk bearbetning av information från olika källor. ",
+"Aktuella företeelser i dagens mångkulturella samhälle och svensk samhällsdebatt om integrations- och segregationsfrågor."]}

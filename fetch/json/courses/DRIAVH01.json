@@ -1,4 +1,15 @@
 {"subject":"DRI",
 "name":"Avhjälpande underhåll 1",
 "points":100,
-"code":"DRIAVH01"}
+"code":"DRIAVH01",
+"goaltext":"Kursen avhjälpande underhåll 1 omfattar punkterna 1&mdash;2 och 4&mdash;5 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4&mdash;5. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,0,2,2,0,0,0],
+"level":"basic",
+"content":["Enklare avhjälpande underhåll på maskiner och utrustningar.",
+"Planering för och genomförande av avhjälpande underhåll med hjälp av ritningar, scheman och manualer.",
+"Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+"Lagar och bestämmelser om till exempel lyftdon, tryckkärl, heta arbeten, kemikalier och gaser.",
+"Grundläggande underhållstekniska begrepp och parametrar.",
+"Grundläggande metoder och tekniker för felsökning och reparation.",
+"Maskinelement och deras användningsområden samt material och verktygslära.",
+"Momentdragning."]}

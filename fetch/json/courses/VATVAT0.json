@@ -1,4 +1,15 @@
 {"subject":"VAT",
 "name":"Vatten- och miljöteknik",
 "points":200,
-"code":"VATVAT0"}
+"code":"VATVAT0",
+"goaltext":"Kursen vatten- och miljöteknik omfattar punkterna 1&mdash;2, 4 och 6&mdash;8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,1,0,1,0,1,1,1],
+"level":"basic",
+"content":["Reningsprocesser i vatten- och miljöanläggningar.",
+"Konsekvenser av processförändringar i vatten- och miljöanläggningar.",
+"Mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+"Enklare underhållsarbeten i vatten- och miljötekniska anläggningar. Hur man löser problem med driften av anläggningarna.",
+"Lagar och andra bestämmelser om kvalitet, säkerhet och miljö. Hygien i vatten- och miljöanläggningar.",
+"Driftinstruktioner, processcheman och driftrapportering.",
+"Handhavande av verktyg och utrustning.",
+"Provtagningar samt analyser och utvärdering av dem."]}

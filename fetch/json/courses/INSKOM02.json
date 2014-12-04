@@ -3,4 +3,17 @@
 "points":100,
 "requirements":"kommunikationsnät 1",
 "instructiontext":"som bygger på kursen kommunikationsnät 1.",
-"code":"INSKOM02"}
+"code":"INSKOM02",
+"goaltext":"Kursen kommunikationsnät 2 omfattar punkterna 1&mdash;6 under rubriken Ämnets syfte.",
+"goals":[1,1,1,1,1,1],
+"level":"normal",
+"content":["Registreringssystems uppbyggnad samt registrering av telenät enligt olika standarder.",
+"Uppbyggnad av och arbetssätt hos komponenter och system i fastighetsnät med fiber och koppar.",
+"Uppbyggnad av och arbetsätt hos telefonanläggningar med telefonväxlar samt Telias nät.",
+"Planering, installation, driftsättning och registrering av datanät, fastighetsnät och bredbandsnät, med till exempel kopparkabel, fiberkabel och koaxialkabelsystem, samt med hjälp av ritningar och anvisningar.",
+"Planering, installation, driftsättning och registrering av enklare teleanläggningar med gemensamt 01-nät med RWC, kallelse och tidsdistribution med hjälp av ritningar och anvisningar.",
+"Planering, installation, driftsättning och registrering av säkerhetssystem med brandlarm, inbrottslarm, CCTV och passersystem med hjälp av ritningar och anvisningar.",
+"Installation och registrering av anläggningar med korskoppling.",
+"Allmän installationsteknik samt vilka konsekvenser felaktiga installationer kan få, till exempel hur signaler påverkas om koaxialkabeln monteras med för liten böjradie.",
+"Inmätningsmetoder och mätutrustningar för till exempel fiber- och kopparnät.",
+"Anläggningar och metoder för distribution av ljud och tid."]}

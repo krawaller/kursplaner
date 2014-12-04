@@ -1,4 +1,17 @@
 {"subject":"ELK",
 "name":"Elektronikproduktionsteknik",
 "points":100,
-"code":"ELKELO0"}
+"code":"ELKELO0",
+"goaltext":"Kursen elektronikproduktionsteknik omfattar punkterna 1&mdash;2, 4 och 6&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[1,2,0,1,0,1,1,1],
+"level":"basic",
+"content":["Monteringsmaskiner för komponenter.",
+"Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.",
+"Produktionsprocessens olika steg: beredning, montering, lödning, avsyning och testning.",
+"Planering och beredning av monteringsarbetet.",
+"Arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.",
+"Mönsterkort av olika material och materialens lödegenskaper.",
+"Produktionsmetoder och monteringstekniker samt verktyg och övrig utrustning.",
+"Krav för lödcertifikat.",
+"ESD-skydd (electrostatic discharge) av komponenter och arbetsplatser.",
+"Produktionsflöde och kvalitetsbedömning."]}

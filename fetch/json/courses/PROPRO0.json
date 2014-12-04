@@ -6,4 +6,14 @@
 "arr":["processmätteknik 1",
 "processreglering"]}]},
 "instructiontext":"som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.",
-"code":"PROPRO0"}
+"code":"PROPRO0",
+"goaltext":"Kursen processdatorsystem omfattar punkterna 1, 4 och 6&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6.",
+"goals":[2,0,0,1,0,2,1,1,1,0],
+"level":"normal",
+"content":["HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.",
+"Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät. ",
+"Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.",
+"Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.",
+"Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.",
+"Systematisk dokumentation i nätverk.",
+"Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall."]}

@@ -1,4 +1,17 @@
 {"subject":"PEA",
 "name":"Socialpedagogik",
 "points":100,
-"code":"PEASOC0"}
+"code":"PEASOC0",
+"goaltext":" Kursen socialpedagogik omfattar punkterna 1&mdash;2 och 5&mdash;8 under rubriken Ämnets syfte. ",
+"goals":[1,1,0,0,1,1,1,1,0],
+"level":"normal",
+"content":["Utanförskapets problematik på grund av människors livssituationer samt hur dessa påverkas av sociala, kulturella, kognitiva, fysiska och psykiska begränsningar.",
+"Samhällsutvecklingens påverkan, och olika synsätt genom historien, på verksamheter inom vård och omsorg utifrån till exempel klass, kön och etnicitet.",
+"Livsvillkor och möjlighet till utveckling för personer som är i behov av stöd och service från samhället.",
+"Den fysiska miljön som patienter och brukare vistas i.",
+"Socialpedagogiska insatser, till exempel boendestöd.",
+"Socialpedagogiska arbetssätt och metoder där utgångspunkten bygger på mötet och relationen mellan patienter och brukare och personal.",
+"Innebörden av olika begrepp och teorier inom området socialpedagogik, till exempel livsvärld, omsorgsarena, kommunikativ handling, dialogiskt förhållningssätt, omsorgskvalitet och mellanmänskligt.",
+"Socialpedagogiska uppgifter, till exempel boendestöd i hemmiljö.",
+"Det egna förhållningssättet i mötet med andra samt bemötandets betydelse.",
+"Kommunikation och samtalsmetodik samt den mänskliga relationens betydelse för detta."]}

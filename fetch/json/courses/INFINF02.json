@@ -3,4 +3,16 @@
 "points":100,
 "requirements":"information och kommunikation 1",
 "instructiontext":"som bygger på kursen information och kommunikation 1.",
-"code":"INFINF02"}
+"code":"INFINF02",
+"goaltext":"Kursen information och kommunikation 2 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte, med särskild betoning på punkt 1 och 2. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[2,2,1,1,1,1,1,1,1],
+"level":"high",
+"content":["Sociala medier, till exempel hur forum för kommunikation med andra användare upprättas genom text, bild eller ljud.",
+"Konstruktion och utformning, med text och design, av en enkel webbplats.",
+"It-verktyg och applikationer som kan laddas ner för användning till särskilda ändamål, till exempel program för mobila enheter.",
+"Databaser, till exempel hur de upprättas, används och underhålls.",
+"Formulär, till exempel för enkäter och undersökningar.",
+"Standardprogram för kommunikation, text- och bildbehandling, registerhantering, kalkylering, layout, informationssökning och sociala medier för yrkesmässig användning.",
+"Datalagring och datasäkerhet.",
+"Muntliga och skriftliga presentationer för yrkesmässiga sammanhang.",
+"Miljö- och säkerhetsaspekter, ergonomi och etik inom verksamhetsområdet."]}

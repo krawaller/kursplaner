@@ -1,4 +1,14 @@
 {"subject":"DAN",
 "name":"Dansimprovisation",
 "points":100,
-"code":"DANDAS0"}
+"code":"DANDAS0",
+"goaltext":" Kursen dansimprovisation omfattar punkterna 2&mdash;3 och 5 under rubriken Ämnets syfte. ",
+"goals":[0,1,1,0,1,0,0,0,0],
+"level":"normal",
+"content":["Undersökande förhållningssätt till rörelser och skapande i nuet.",
+"Improvisation utifrån olika instruktioner, där impulser kan komma från den egna eller andras kroppar, rekvisita, text, rum eller musik.",
+"Improvisation med betoning på dynamiska kvaliteter, till exemepel energi, flöde och tyngd.",
+"Kontaktimprovisation.",
+"Samarbete och interaktion med andra genom att följa, leda samt ge och ta impulser.",
+"Konstnärliga processer, både individuella och kollektiva.",
+"Begrepp och metoder för reflektioner över processen."]}

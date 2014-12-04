@@ -3,4 +3,17 @@
 "points":200,
 "requirements":"vård- och omsorgsarbete 2 och kursen medicin 1",
 "instructiontext":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
-"code":"SJUAKU0"}
+"code":"SJUAKU0",
+"goaltext":" Kursen akutsjukvård omfattar punkterna 1 och 3&mdash;9 under rubriken Ämnets syfte. ",
+"goals":[1,0,1,1,1,1,1,1,1],
+"level":"normal",
+"content":["Vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+"Vård och omsorg före, under och efter operation.",
+"Smärta samt farmakologisk och annan smärtbehandling. ",
+"Människors reaktioner i kris och hur de kan hanteras inom vården.",
+"Etiska frågeställningar i samband med akuta och andra sjukdomar, till exempel prioritering av patienter.",
+"Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, till exempel blodprovtagning och sårvård.",
+"Medicinteknisk och annan utrustning.",
+"Betydelsen av bemötande av, samt kommunikation och samarbete med, människor i krissituationer. ",
+"Rehabilitering, habilitering och egenvård.",
+"System och rutiner för rapportering och dokumentation av gjorda åtgärder."]}

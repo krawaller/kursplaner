@@ -1,4 +1,17 @@
 {"subject":"TUR",
 "name":"Besöksnäringen",
 "points":100,
-"code":"TURBEÖ0"}
+"code":"TURBEÖ0",
+"goaltext":"Kursen besöksnäringen omfattar punkterna 1&mdash;6 och 9&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5. I kursen behandlas grundläggande kunskaper i ämnet.",
+"goals":[2,1,1,1,2,1,0,0,1,1],
+"level":"basic",
+"content":["Besöksnäringens centrala organisationer.",
+"Besöksnäringens olika verksamhetsområden, aktörer och yrkesroller.",
+"Betydelsen av samverkan mellan olika aktörer inom verksamhetsområdena.",
+"Turismens utveckling och trender genom tiderna.",
+"Kända resmål i Sverige och i världen.",
+"Olika målgrupper och deras skiftande krav på resor, aktiviteter och service.",
+"Lokala och regionala förutsättningar för hållbar utveckling inom besöksnäringen.",
+"Informationssökning samt kritisk granskning och bearbetning av materialet.",
+"Muntlig och skriftlig presentation med hjälp av modern teknik.",
+"Det verbala språkets och kroppsspråkets betydelse för kommunikation med andra."]}

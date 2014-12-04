@@ -3,4 +3,14 @@
 "points":100,
 "requirements":"konstruktion 2",
 "instructiontext":"som bygger på kursen konstruktion 2.",
-"code":"KOTKOS03"}
+"code":"KOTKOS03",
+"goaltext":"Kursen konstruktion 3 omfattar punkterna 1&mdash;3 och 5&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+"goals":[1,1,1,0,1,1,1,1],
+"level":"high",
+"content":["Konstruktionsmaterial eller komponenter för hållbar teknikutveckling.",
+"Konstruktionsarbete, där teknikområden integreras.",
+"Komponenter, material, verktyg, metoder och processer inom valda teknikområden samt deras egenskaper och begränsningar vid olika tillämpningar och i olika miljöer.",
+"Fördjupning i teoretiska modeller och konstruktionsberäkningar med hänsyn tagen till matematiska och teknikvetenskapliga samband.",
+"Dimensionering med och utan databaserade verktyg.",
+"Fördjupning i standarder och normer inom valda teknikområden.",
+"Dokumentation, redovisning och presentation av eget konstruktionsarbete och resultat."]}

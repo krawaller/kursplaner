@@ -3,4 +3,15 @@
 "points":100,
 "requirements":"datorstyrd produktion 2",
 "instructiontext":"som bygger på kursen datorstyrd produktion 2.",
-"code":"DARDAT03"}
+"code":"DARDAT03",
+"goaltext":"Kursen datorstyrd produktion 3 omfattar punkterna 1&mdash;2, 4&mdash;6 och 8&mdash;10 under rubriken Ämnets syfte.",
+"goals":[1,1,0,1,1,1,0,1,1,1],
+"level":"normal",
+"content":["Programmering och produktionsförberedelse med hjälp av pc-baserat programmeringsstöd.",
+"Avancerade produktionsunderlag och komplexa program.",
+"Val av utrustning, verktyg och teknik för optimalt produktionsresultat.",
+"Produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.",
+"Avancerad felsökning och systematiskt underhåll.",
+"Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.",
+"Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+"Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."]}

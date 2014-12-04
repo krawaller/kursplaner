@@ -3,4 +3,13 @@
 "points":200,
 "requirements":"riktningsteknik – introduktion",
 "instructiontext":"som bygger på kursen riktningsteknik – introduktion.",
-"code":"KARRIK0"}
+"code":"KARRIK0",
+"goaltext":"Kursen riktbänkssystem omfattar punkterna 2&mdash;4 och 7&mdash;10 under rubriken Ämnets syfte.",
+"goals":[0,1,1,1,0,0,1,1,1,1],
+"level":"normal",
+"content":["Riktbänkssystems konstruktion och funktion samt olika riktbänkssystem med tillhörande mätsystem.",
+"Reparation och byte av olika chassi- och karosserikomponenter med användning av riktbänksutrustningens olika gigg- och mätsystem.",
+"Bedömning av skador för val av reparationsmetod utifrån olika typer av chassi- och karosserikonstruktioner.",
+"Metoder för måttriktning med hjälp av riktbänksutrustning och lös hydraulik.",
+"Riktbänkstillverkarens fordonsdatabas och biltillverkarens anvisningar och krav.",
+"Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt regler som gäller för riktbänksarbetet."]}

@@ -4,4 +4,13 @@
 "repeat":"Kursen kan läsas läsas flera gånger med olika innehåll.",
 "requirements":"skogsskötsel 2",
 "instructiontext":"som bygger på kursen skogsskötsel 2. Kursen kan läsas läsas flera gånger med olika innehåll.",
-"code":"SKGSKG00S"}
+"code":"SKGSKG00S",
+"goaltext":"Kursen skogsskötsel &mdash; specialisering omfattar punkterna 1&mdash;4 och 6&mdash;8. I kursen behandlas fördjupade kunskaper inom valt specialområde.",
+"goals":[1,1,1,1,0,1,1,1],
+"level":"normal",
+"content":["Särskilda krav inom skogsbruket, till exempel hänsyn till naturvärden, kulturvärden och sociala värden.",
+"Planering och genomförande av arbetsuppgifter inom valt specialområde inom skogsbruk, till exempel ädellövskog, produktion av skogsbränsle, urskogsliknande skogar, fjällskogar, skärgårdsskogar eller tätortsnära skogar.",
+"Ekonomiska beräkningar och kalkyler för verksamheten.",
+"Ergonomi, arbetsmiljö och säkerhet i samband med det valda specialområdet.",
+"Certifieringssystem inom valt specialområde.",
+"Lagar och andra bestämmelser, till exempel skogsvårdslagen."]}
