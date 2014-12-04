@@ -1,0 +1,8 @@
+{"subject":"DAO",
+"name":"Datorsamordning och support",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["datorteknik 1a",
+"datorteknik 1b"]},
+"instructiontext":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
+"code":"DAODAT0"}

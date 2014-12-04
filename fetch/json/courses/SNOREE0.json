@@ -1,0 +1,9 @@
+{"subject":"SNO",
+"name":"Reparation av snöskoter",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["reparation av snöfordon",
+"reparation av lastbilar och mobila maskiner",
+"reparation av personbilar och lätta transportfordon"]},
+"instructiontext":"som bygger på kursen reparation av snöfordon, kursen reparation av lastbilar och mobila maskiner eller reparation av personbilar och lätta transportfordon.",
+"code":"SNOREE0"}

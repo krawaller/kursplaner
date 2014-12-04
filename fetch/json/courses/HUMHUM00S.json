@@ -1,0 +1,11 @@
+{"subject":"HUM",
+"name":"Humanistisk och samhällsvetenskaplig specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["samhällskunskap 2",
+"psykologi 2",
+"historia 2",
+"moderna språk 4"]},
+"instructiontext":"som beroende på valt kunskapsområde bygger på kursen samhällskunskap 2, kursen psykologi 2, kursen historia 2 eller kursen moderna språk 4. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"HUMHUM00S"}

@@ -1,0 +1,8 @@
+{"subject":"AUT",
+"name":"Fastighetsautomation 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["fastighetsautomation 1",
+"mät- och reglerteknik"]},
+"instructiontext":"som bygger på kursen fastighetsautomation 1 eller kursen mät- och reglerteknik.",
+"code":"AUTFAS02"}

@@ -1,0 +1,8 @@
+{"subject":"SAM",
+"name":"Internationell ekonomi",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["samhällskunskap 1a2",
+"samhällskunskap 1b"]},
+"instructiontext":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
+"code":"SAMINE0"}

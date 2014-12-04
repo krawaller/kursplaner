@@ -1,0 +1,8 @@
+{"subject":"MAS",
+"name":"Anpassning och montering av utrustning",
+"points":200,
+"requirements":{"type":"OR",
+"arr":["lastbilsmonterad hydraulik och pneumatik",
+"mobil hydraulik 1"]},
+"instructiontext":"som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1.",
+"code":"MASANP0"}

@@ -1,0 +1,12 @@
+{"subject":"VAD",
+"name":"Vård och omsorg &mdash; specialisering",
+"points":50,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["vård och omsorgsarbete 2",
+"medicin 2",
+"psykiatri 2",
+"akutsjukvård",
+"palliativ vård"]},
+"instructiontext":"som beroende av valt kunskapsområde bygger på kursen vård och omsorgsarbete 2, kursen medicin 2, kursen psykiatri 2, kursen akutsjukvård eller kursen palliativ vård. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"VADVAR00S"}

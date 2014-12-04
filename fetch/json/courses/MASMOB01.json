@@ -1,0 +1,9 @@
+{"subject":"MAS",
+"name":"Mobil hydraulik 1",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["mobila maskiner och utrustning",
+"lastbilsmonterad hydraulik och pneumatik",
+"pistmaskiner och utrustning"]},
+"instructiontext":"som bygger på kursen mobila maskiner och utrustning, kursen lastbilsmonterad hydraulik och pneumatik eller kursen pistmaskiner och utrustning.",
+"code":"MASMOB01"}

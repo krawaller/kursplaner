@@ -1,0 +1,8 @@
+{"subject":"LAU",
+"name":"Lantbruksmaskiner 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["lantbruksmaskiner 1",
+"trädgårdsmaskiner"]},
+"instructiontext":"som bygger på kursen lantbruksmaskiner 1 eller kursen trädgårdsmaskiner.",
+"code":"LAULAT02"}

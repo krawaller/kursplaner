@@ -1,0 +1,9 @@
+{"subject":"FYS",
+"name":"Fysik 1a",
+"points":150,
+"requirements":"grundskolans kunskaper eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["fysik 1b1",
+"fysik 1b2"]},
+"instructiontext":"som bygger på grundskolans kunskaper eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fysik 1b1 eller kursen fysik 1b2.",
+"code":"FYSFYS01a"}

@@ -1,0 +1,8 @@
+{"subject":"KON",
+"name":"Rums- och konferensbokning",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["konferens 2",
+"reception 2"]},
+"instructiontext":"som bygger på kursen konferens 2 eller kursen reception 2.",
+"code":"KONRUM0"}

@@ -1,0 +1,9 @@
+{"subject":"PES",
+"name":"Persontransporter &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["persontrafik 1a och persontrafik 1b",
+"på persontrafik – vux"]},
+"instructiontext":"som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik – vux. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"PESPER00S"}

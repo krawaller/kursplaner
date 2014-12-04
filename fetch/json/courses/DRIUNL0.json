@@ -1,0 +1,8 @@
+{"subject":"DRI",
+"name":"Underhåll &mdash; mekatronik",
+"points":100,
+"requirements":{"type":"AND",
+"arr":["underhåll – hydraulik och pneumatik",
+"underhåll – elteknik"]},
+"instructiontext":"som bygger på kursen underhåll – hydraulik och pneumatik samt kursen underhåll – elteknik.",
+"code":"DRIUNL0"}

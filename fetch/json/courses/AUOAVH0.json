@@ -1,0 +1,11 @@
+{"subject":"AUO",
+"name":"Avhjälpande och förebyggande underhåll",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["industriautomation",
+"någon av kurserna kurserna praktisk ellära",
+"industriell informationsteknik",
+"mät- och reglerteknik",
+"mät- och styrteknik samt programmerbara styrsystem"]},
+"instructiontext":"som bygger på kursen industriautomation eller på kurserna praktisk ellära, industriell informationsteknik, mät- och reglerteknik, mät- och styrteknik samt programmerbara styrsystem.",
+"code":"AUOAVH0"}

@@ -1,0 +1,10 @@
+{"subject":"TRR",
+"name":"Trädgårdsodling &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["trädgårdsodling – plantskoleväxter",
+"trädgårdsodling – grönsaker",
+"frukt och bär"]},
+"instructiontext":"som bygger på kursen trädgårdsodling – plantskoleväxter eller kursen trädgårdsodling – grönsaker, frukt och bär. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"TRRTRA00S"}

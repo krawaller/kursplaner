@@ -1,0 +1,8 @@
+{"subject":"TRR",
+"name":"Trädgårdsodling &mdash; grönsaker, frukt och bär",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["trädgårdsodling",
+"växtodling 1"]},
+"instructiontext":"som bygger på kursen trädgårdsodling eller kursen växtodling 1.",
+"code":"TRRTRD0"}

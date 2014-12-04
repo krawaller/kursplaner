@@ -1,0 +1,8 @@
+{"subject":"ELM",
+"name":"Elementmontering",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["betong 1 – lågform och platta på mark",
+"trä 1 – stommar"]},
+"instructiontext":"som bygger på kursen betong 1 – lågform och platta på mark eller kursen trä 1 – stommar.",
+"code":"ELMELM0"}

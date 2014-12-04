@@ -1,0 +1,9 @@
+{"subject":"MUS",
+"name":"Instrument eller sång 2",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["instrument",
+"sång 1"]},
+"instructiontext":"som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"MUSINS02S"}

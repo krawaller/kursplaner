@@ -1,0 +1,9 @@
+{"subject":"SPE",
+"name":"Idrottsspecialisering 3",
+"points":100,
+"requirements":{"type":"AND",
+"arr":["idrottsspecialisering 2",{"type":"OR",
+"arr":["tränings- och tävlingslära 2",
+"träningslära 2"]}]},
+"instructiontext":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
+"code":"SPEIDS03"}

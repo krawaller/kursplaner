@@ -1,0 +1,9 @@
+{"subject":"NAK",
+"name":"Naturkunskap 1b",
+"points":100,
+"requirements":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["naturkunskap 1a1",
+"naturkunskap 1a2"]},
+"instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1a1 eller kursen naturkunskap 1a2.",
+"code":"NAKNAK01b"}

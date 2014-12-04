@@ -1,0 +1,8 @@
+{"subject":"TUR",
+"name":"Resmål och resvägar",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["besöksnäringen",
+"fordons- och transportbranschens villkor och arbetsområden"]},
+"instructiontext":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
+"code":"TURREM0"}

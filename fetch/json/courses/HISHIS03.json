@@ -1,0 +1,8 @@
+{"subject":"HIS",
+"name":"Historia 3",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["historia 2a",
+"historia 2b – kultur"]},
+"instructiontext":"som bygger på kursen historia 2a eller kursen historia 2b – kultur.",
+"code":"HISHIS03"}

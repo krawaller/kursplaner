@@ -1,0 +1,8 @@
+{"subject":"MOD",
+"name":"Kinesiska 3",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["kinesiska 2",
+"kinesiska inom ramen för språkval i grundskolan"]},
+"instructiontext":"som bygger på kursen kinesiska 2 eller kinesiska inom ramen för språkval i grundskolan.",
+"code":"MODZHO03"}

@@ -1,0 +1,9 @@
+{"subject":"BIL",
+"name":"Bild och form &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["bild",
+"form"]},
+"instructiontext":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"BILBIL00S"}

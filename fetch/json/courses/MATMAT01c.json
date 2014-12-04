@@ -1,0 +1,10 @@
+{"subject":"MAT",
+"name":"Matematik 1c",
+"points":100,
+"requirements":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["matematik 1a",
+"matematik 1b"]},
+"prog":"naturvetenskapsprogrammet och teknikprogrammet",
+"instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1a eller 1b. Kursen ska ingå i naturvetenskapsprogrammet och teknikprogrammet.",
+"code":"MATMAT01c"}

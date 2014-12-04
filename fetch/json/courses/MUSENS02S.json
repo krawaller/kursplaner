@@ -1,0 +1,9 @@
+{"subject":"MUS",
+"name":"Ensemble 2",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["ensemble med körsång",
+"ensemble 1"]},
+"instructiontext":"som bygger på kursen ensemble med körsång eller kursen ensemble 1. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"MUSENS02S"}

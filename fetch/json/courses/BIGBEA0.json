@@ -1,0 +1,8 @@
+{"subject":"BIG",
+"name":"Bevarandebiologi",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["djurens biologi",
+"marken och växternas biologi"]},
+"instructiontext":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
+"code":"BIGBEA0"}

@@ -1,0 +1,9 @@
+{"subject":"LAG",
+"name":"Plocklagerhantering",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["lageradministration och terminallogistik",
+"lagerprocesser",
+"logistik 2"]},
+"instructiontext":"som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. ",
+"code":"LAGPLO0"}

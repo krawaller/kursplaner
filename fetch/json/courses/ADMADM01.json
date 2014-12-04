@@ -1,0 +1,9 @@
+{"subject":"ADM",
+"name":"Administration 1",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["information och kommunikation 1",
+"reception 2",
+"konferens 2"]},
+"instructiontext":"som bygger på kursen information och kommunikation 1, kursen reception 2 eller kursen konferens 2.",
+"code":"ADMADM01"}

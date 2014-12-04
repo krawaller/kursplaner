@@ -1,0 +1,8 @@
+{"subject":"ADM",
+"name":"Personaladministration",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["administration 2",
+"våningsservice 2"]},
+"instructiontext":"som bygger på kursen administration 2 eller kursen våningsservice 2.",
+"code":"ADMPER0"}

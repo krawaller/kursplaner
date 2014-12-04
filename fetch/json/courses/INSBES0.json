@@ -1,0 +1,9 @@
+{"subject":"INS",
+"name":"Belysningsteknik",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["elkraftteknik",
+"ellära 2",
+"praktisk ellära"]},
+"instructiontext":"som bygger på kursen elkraftteknik, kursen ellära 2 eller kursen praktisk ellära.",
+"code":"INSBES0"}

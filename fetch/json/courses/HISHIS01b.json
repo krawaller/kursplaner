@@ -1,0 +1,9 @@
+{"subject":"HIS",
+"name":"Historia 1b",
+"points":100,
+"requirements":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["historia 1a1",
+"historia 1a2"]},
+"instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1a1 eller kursen historia 1a2.",
+"code":"HISHIS01b"}

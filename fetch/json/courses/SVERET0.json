@@ -1,0 +1,8 @@
+{"subject":"SVE",
+"name":"Retorik",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["svenska 1",
+"svenska som andraspråk 1"]},
+"instructiontext":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
+"code":"SVERET0"}

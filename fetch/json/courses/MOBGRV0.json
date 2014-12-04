@@ -1,0 +1,13 @@
+{"subject":"MOB",
+"name":"Grävmaskiner",
+"points":200,
+"requirements":{"type":"OR",
+"arr":["anläggning 2",
+"marken och växternas biologi"]},
+"notwith":{"type":"OR",
+"arr":["anläggningsförare 1",
+"anläggningsförare 2",
+"anläggningsförare 3",
+"anläggningsförare 4"]},
+"instructiontext":"som bygger på kursen anläggning 2 eller kursen marken och växternas biologi. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna anläggningsförare 1, anläggningsförare 2, anläggningsförare 3 eller anläggningsförare 4.",
+"code":"MOBGRV0"}

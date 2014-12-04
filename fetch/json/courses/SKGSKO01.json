@@ -1,0 +1,8 @@
+{"subject":"SKG",
+"name":"Skogsskötsel 1",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["motor- och röjmotorsåg 1",
+"produktionsutrustning 1"]},
+"instructiontext":"som bygger på kursen motor- och röjmotorsåg 1 eller produktionsutrustning 1.",
+"code":"SKGSKO01"}

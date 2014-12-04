@@ -1,0 +1,9 @@
+{"subject":"ANA",
+"name":"Anläggningsförare 2",
+"points":200,
+"requirements":"anläggningsförare 1",
+"notwith":{"type":"OR",
+"arr":["grävmaskiner",
+"hjullastare"]},
+"instructiontext":"som bygger på kursen anläggningsförare 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen grävmaskiner eller kursen hjullastare.",
+"code":"ANAANA02"}

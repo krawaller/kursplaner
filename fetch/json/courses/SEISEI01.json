@@ -1,0 +1,8 @@
+{"subject":"SEI",
+"name":"Serviceteknik &mdash; naturbruk 1",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["fordon och redskap",
+"terrängtransporter"]},
+"instructiontext":"som bygger på kursen fordon och redskap eller kursen terrängtransporter.",
+"code":"SEISEI01"}

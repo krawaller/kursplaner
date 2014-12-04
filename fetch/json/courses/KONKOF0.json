@@ -1,0 +1,8 @@
+{"subject":"KON",
+"name":"Evenemang",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["konferens och evenemang",
+"utställningsdesign 2"]},
+"instructiontext":"som bygger på kursen konferens och evenemang eller kursen utställningsdesign 2.",
+"code":"KONKOF0"}

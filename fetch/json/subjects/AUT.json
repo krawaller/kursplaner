@@ -1,0 +1,12 @@
+{"name":"Automationsteknik",
+"code":"AUT",
+"type":"VOCATIONAL",
+"description":"<p>Ämnet automationsteknik behandlar automatiserade system, det vill säga processer med funktioner som verkar av sig själv. Dessa funktioner kan styras av såväl i förväg beskrivna program, som händelser som sker i eller i anslutning till den aktuella funktionen. Automatiserade system finns inte enbart i tillverknings- och processindustri, utan även i exempelvis fastighets- och byggbranschen samt inom samhällets infrastruktur.</p>",
+"vux":true,"purpose":"<p>Undervisningen i ämnet automationsteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på automatiserade system med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.</p><p>Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.</p><p>Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis.</p>",
+"goals":["Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med automatiska system.",
+"Kunskaper om standarder och begrepp som används vid arbete med automatiska system.",
+"Förmåga att planera och på ett säkert sätt utföra arbete i automatiska system.",
+"Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över automatiska system.",
+"Förmåga att installera, programmera och driftsätta automatiska system.",
+"Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av automatiska system.",
+"Förmåga att förebygga och avhjälpa fel i automatiska system."]}

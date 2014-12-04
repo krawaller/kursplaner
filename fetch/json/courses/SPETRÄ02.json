@@ -1,0 +1,9 @@
+{"subject":"SPE",
+"name":"Tränings- och tävlingslära 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["tränings- och tävlingslära 1",
+"träningslära 1"]},
+"notwith":"träningslära 2",
+"instructiontext":"som bygger på kursen tränings- och tävlingslära 1 eller kursen träningslära 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 2.",
+"code":"SPETRÄ02"}

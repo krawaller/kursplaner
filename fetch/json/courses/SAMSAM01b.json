@@ -1,0 +1,9 @@
+{"subject":"SAM",
+"name":"Samhällskunskap 1b",
+"points":100,
+"requirements":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["samhällskunskap 1a1",
+"samhällskunskap 1a2"]},
+"instructiontext":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1a1 eller kursen samhällskunskap 1a2.",
+"code":"SAMSAM01b"}

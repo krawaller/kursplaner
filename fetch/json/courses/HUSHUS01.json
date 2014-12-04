@@ -1,0 +1,9 @@
+{"subject":"HUS",
+"name":"Husbyggnad 1",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["bygg och anläggning 2",{"type":"AND",
+"arr":["kurserna produktionsutrustning 1",
+"produktionskunskap 1"]}]},
+"instructiontext":"som bygger på kursen bygg och anläggning 2 eller på kurserna produktionsutrustning 1 och produktionskunskap 1.",
+"code":"HUSHUS01"}

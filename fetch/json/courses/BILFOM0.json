@@ -1,0 +1,8 @@
+{"subject":"BIL",
+"name":"Form",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["bild och form 1a2",
+"bild och form 1b"]},
+"instructiontext":"som bygger på kursen bild och form 1a2 eller kursen bild och form 1b.",
+"code":"BILFOM0"}

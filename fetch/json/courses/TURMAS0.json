@@ -1,0 +1,8 @@
+{"subject":"TUR",
+"name":"Marknadsföring och försäljning",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["besöksnäringen",
+"på fritids- och friskvårdsverksamheter"]},
+"instructiontext":"som bygger på kursen besöksnäringen eller på kursen fritids- och friskvårdsverksamheter.",
+"code":"TURMAS0"}

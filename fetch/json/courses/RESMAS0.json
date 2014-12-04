@@ -1,0 +1,8 @@
+{"subject":"RES",
+"name":"Marknadsföring och försäljning",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["besöksnäringen",
+"fritids- och friskvårdsverksamheter"]},
+"instructiontext":"som bygger på kursen besöksnäringen eller kursen fritids- och friskvårdsverksamheter.",
+"code":"RESMAS0"}

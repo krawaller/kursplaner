@@ -1,0 +1,10 @@
+{"subject":"NAV",
+"name":"Naturvetenskaplig specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["biologi 2",
+"fysik 2",
+"kemi 2"]},
+"instructiontext":"som beroende på valt kunskapsområde bygger på kursen biologi 2, kursen fysik 2 eller kursen kemi 2. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"NAVNAT00S"}

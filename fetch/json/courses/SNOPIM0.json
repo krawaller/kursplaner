@@ -1,0 +1,8 @@
+{"subject":"SNO",
+"name":"Pistmaskiner och utrustning",
+"points":200,
+"requirements":{"type":"AND",
+"arr":["snöfordon – introduktion",
+"reparation av snöfordon"]},
+"instructiontext":"som bygger på kursen snöfordon – introduktion samt kursen reparation av snöfordon.",
+"code":"SNOPIM0"}

@@ -1,0 +1,9 @@
+{"subject":"BIG",
+"name":"Biologi &mdash; naturbruk &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["djurens biologi",
+"marken och växternas biologi"]},
+"instructiontext":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"BIGBIG00S"}

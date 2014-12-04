@@ -1,0 +1,9 @@
+{"subject":"ENE",
+"name":"Förnybar energi",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["energiteknik 1",
+"skogsskötsel 1",
+"växtodling 1"]},
+"instructiontext":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
+"code":"ENEFÖR0"}

@@ -1,0 +1,8 @@
+{"subject":"LAC",
+"name":"Industriell lackering",
+"points":200,
+"requirements":{"type":"OR",
+"arr":["baskurs i lackering",
+"måleri 4"]},
+"instructiontext":"som bygger på kursen baskurs i lackering eller kursen måleri 4.",
+"code":"LACINS0"}

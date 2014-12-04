@@ -1,0 +1,8 @@
+{"subject":"HOT",
+"name":"Hotelladministration",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["reception 2",
+"konferens 2"]},
+"instructiontext":"som bygger på kursen reception 2 eller kursen konferens 2.",
+"code":"HOTHOT0"}

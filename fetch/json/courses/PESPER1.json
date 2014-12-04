@@ -1,0 +1,10 @@
+{"subject":"PES",
+"name":"Persontrafik &mdash; vux",
+"points":200,
+"requirements":"yrkestrafik – vux",
+"notwith":{"type":"OR",
+"arr":["persontrafik 1a",
+"persontrafik 1b"]},
+"onlyadults":true,
+"instructiontext":"som bygger på kursen yrkestrafik – vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
+"code":"PESPER1"}

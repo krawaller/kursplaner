@@ -1,0 +1,8 @@
+{"subject":"NAB",
+"name":"Virkestransport med skotare",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["terrängtransporter",
+"fordon och redskap"]},
+"instructiontext":"som bygger på kursen terrängtransporter eller kursen fordon och redskap.",
+"code":"NABVIE0"}

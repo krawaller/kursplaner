@@ -1,0 +1,8 @@
+{"subject":"MOD",
+"name":"Moderna språk 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["moderna språk 1",
+"moderna språk inom ramen för elevens val i grundskolan"]},
+"instructiontext":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
+"code":"MODXXX02"}

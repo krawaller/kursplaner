@@ -1,0 +1,9 @@
+{"subject":"PRO",
+"name":"Processdatorsystem",
+"points":100,
+"requirements":{"type":"AND",
+"arr":["industriell informationsteknik",{"type":"OR",
+"arr":["processmätteknik 1",
+"processreglering"]}]},
+"instructiontext":"som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.",
+"code":"PROPRO0"}

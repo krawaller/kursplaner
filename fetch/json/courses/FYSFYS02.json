@@ -1,0 +1,8 @@
+{"subject":"FYS",
+"name":"Fysik 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["fysik 1a",
+"fysik 1b2"]},
+"instructiontext":"som bygger på kursen fysik 1a eller kursen fysik 1b2.",
+"code":"FYSFYS02"}

@@ -1,0 +1,8 @@
+{"subject":"NAK",
+"name":"Naturkunskap 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["naturkunskap 1a2",
+"naturkunskap 1b"]},
+"instructiontext":"som bygger på kursen naturkunskap 1a2 eller kursen naturkunskap 1b.",
+"code":"NAKNAK02"}

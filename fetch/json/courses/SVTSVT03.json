@@ -1,0 +1,8 @@
+{"subject":"SVT",
+"name":"Svenskt teckenspråk för hörande 3",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["svenskt teckenspråk för hörande 2",
+"svenskt teckenspråk för hörande inom ramen för språkval i grundskolan"]},
+"instructiontext":"som bygger på kursen svenskt teckenspråk för hörande 2 eller svenskt teckenspråk för hörande inom ramen för språkval i grundskolan.",
+"code":"SVTSVT03"}

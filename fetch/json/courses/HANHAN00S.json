@@ -1,0 +1,9 @@
+{"subject":"HAN",
+"name":"Handel &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["servicekunskap",
+"praktisk marknadsföring 1"]},
+"instructiontext":"som bygger på kursen servicekunskap eller kursen praktisk marknadsföring 1. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"HANHAN00S"}

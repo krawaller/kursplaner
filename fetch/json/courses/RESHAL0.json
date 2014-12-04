@@ -1,0 +1,9 @@
+{"subject":"RES",
+"name":"Hållbar turism",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["besöksnäringen",
+"någon av kurserna kurserna naturguidning 1",
+"renen och dess naturmiljö 1 samt samisk mat och matkultur"]},
+"instructiontext":"som bygger på kursen besöksnäringen eller på kurserna naturguidning 1, renen och dess naturmiljö 1 samt samisk mat och matkultur.",
+"code":"RESHAL0"}

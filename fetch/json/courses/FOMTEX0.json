@@ -1,0 +1,8 @@
+{"subject":"FOM",
+"name":"Textil färg och form",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["formgivning 1",
+"hantverk – introduktion"]},
+"instructiontext":"som bygger på kursen formgivning 1 eller kursen hantverk – introduktion.",
+"code":"FOMTEX0"}

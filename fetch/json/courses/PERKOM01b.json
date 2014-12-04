@@ -1,0 +1,8 @@
+{"subject":"PER",
+"name":"Komfort- och säkerhetssystem 1b",
+"points":200,
+"requirements":{"type":"AND",
+"arr":["bromsar, kaross och chassi",
+"motor och kraftöverföring"]},
+"instructiontext":"som bygger på kursen bromsar, kaross och chassi samt kursen motor och kraftöverföring.",
+"code":"PERKOM01b"}

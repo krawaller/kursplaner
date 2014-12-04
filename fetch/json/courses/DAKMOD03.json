@@ -1,0 +1,11 @@
+{"subject":"DAK",
+"name":"Modern nutida dans 3",
+"points":200,
+"requirements":"modern dans 2",
+"notwith":{"type":"OR",
+"arr":["dansteknik 1",
+"dansteknik 2",
+"dansteknik 3",
+"dansteknik 4"]},
+"instructiontext":"som bygger på kursen modern dans 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+"code":"DAKMOD03"}

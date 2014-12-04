@@ -1,0 +1,8 @@
+{"subject":"ANL",
+"name":"Anläggning &mdash; vägbyggnad",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["anläggning 2",
+"anläggningsförare 2"]},
+"instructiontext":"som bygger på kursen anläggning 2 eller kursen anläggningsförare 2.",
+"code":"ANLANN0"}

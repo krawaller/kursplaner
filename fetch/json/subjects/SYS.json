@@ -1,0 +1,12 @@
+{"name":"Systemkunskap",
+"code":"SYS",
+"type":"VOCATIONAL",
+"description":"<p>Ämnet systemkunskap behandlar hur VVS-, ventilations-, kyl- och värmepumpssystem fungerar och är uppbyggda. Det behandlar också betydelsen av underhåll av systemen. I ämnet behandlas dessutom byggnaders energieffektivitet, vilka medier som förekommer i systemen, deras fysikaliska egenskaper och hur energiomvandling sker.</p>",
+"vux":true,"purpose":"<p>Undervisningen i ämnet systemkunskap ska syfta till att eleverna utvecklar kunskaper om VVS-, ventilations-, kyl- och värmepumpssystem samt deras funktion och konstruktion. Eleverna ska ges möjlighet att utveckla kunskaper om systemen var för sig och i samverkan. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om byggnaders konstruktion samt förståelse av hur klimatskalet och verksamheten påverkar dimensioneringen av systemen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprinciper, miljöpåverkan och produktionsförutsättningar.</p><p>Undervisningen ska leda till att eleverna utvecklar färdigheter i att bedöma och beräkna effektbehov i värme- och kylprocesser samt kunskaper om hur energianvändning påverkar hälsa och miljö och hur den kan ske i en hållbar utveckling. Den ska också bidra till att eleverna utvecklar ett ergonomiskt och arbetsmiljöriktigt förhållningssätt. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om termer och begrepp som används inom installations- och fastighetsområdet.</p><p>Undervisningen ska bedrivas så att eleverna ges möjlighet att omsätta teoretiska lösningar i praktiken.</p>",
+"goals":["Kunskaper om energitekniska systems funktion och konstruktion samt energibärande mediers egenskaper.",
+"Kunskaper om termodynamik samt färdigheter i att göra beräkningar som rör värme-, sanitets-, ventilations-, kyl- och värmepumpssystem.",
+"Kunskaper om effektiv och miljövänlig energianvändning.",
+"Förståelse av ritningar, driftkort, användarmanualer och instruktioner samt färdigheter i att göra ritningar.",
+"Förmåga att utföra driftkontroller.",
+"Kunskaper om lagar och andra bestämmelser inom området.",
+"Förmåga att arbeta säkert och ergonomiskt."]}

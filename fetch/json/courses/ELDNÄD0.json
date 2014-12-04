@@ -1,0 +1,8 @@
+{"subject":"ELD",
+"name":"Nätunderhållsarbete på luftledningsnät 0,4&mdash;24kV",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["lågspänningsnät",
+"högspänningsnät"]},
+"instructiontext":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
+"code":"ELDNÄD0"}

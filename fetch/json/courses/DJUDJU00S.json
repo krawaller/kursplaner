@@ -1,0 +1,9 @@
+{"subject":"DJU",
+"name":"Djur &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["sällskapsdjur 1",
+"lantbruksdjur 2"]},
+"instructiontext":"som bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"DJUDJU00S"}

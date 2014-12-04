@@ -1,0 +1,10 @@
+{"subject":"EST",
+"name":"Estetisk kommunikation 2",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["estetisk kommunikation 1",
+"musikproduktion 1",
+"medieproduktion 1",
+"digitalt skapande 1"]},
+"instructiontext":"som bygger på kursen estetisk kommunikation 1, kursen musikproduktion 1, kursen medieproduktion 1 eller kursen digitalt skapande 1.",
+"code":"ESTEST02"}

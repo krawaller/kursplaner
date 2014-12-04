@@ -1,0 +1,11 @@
+{"subject":"ODL",
+"name":"Odling &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":{"type":"OR",
+"arr":["trädgårdsodling – plantskoleväxter",
+"trädgårdsodling – grönsaker",
+"frukt och bär",
+"växtodling 2"]},
+"instructiontext":"som bygger på kursen trädgårdsodling – plantskoleväxter, kursen trädgårdsodling – grönsaker, frukt och bär eller kursen växtodling 2. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"ODLODL00S"}

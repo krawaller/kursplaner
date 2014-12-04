@@ -1,0 +1,8 @@
+{"subject":"MAT",
+"name":"Matematik 4",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["matematik 3b",
+"matematik 3c"]},
+"instructiontext":"som bygger på kursen matematik 3b eller 3c.",
+"code":"MATMAT04"}

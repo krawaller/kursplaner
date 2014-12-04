@@ -1,0 +1,10 @@
+{"subject":"DJR",
+"name":"Djurvård inom djurens hälso- och sjukvård 1",
+"points":100,
+"requirements":{"type":"AND",
+"arr":["djurens biologi",{"type":"OR",
+"arr":["sällskapsdjur 1",
+"hästkunskap 1",
+"lantbruksdjur 1"]}]},
+"instructiontext":"som bygger på kursen djurens biologi. Dessutom bygger den på kursen sällskapsdjur 1, kursen hästkunskap 1 eller kursen lantbruksdjur 1.",
+"code":"DJRDJU01"}

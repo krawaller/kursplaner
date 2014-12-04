@@ -1,0 +1,8 @@
+{"subject":"ELD",
+"name":"Nätunderhållsarbete i stadsnät",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["lågspänningsnät",
+"högspänningsnät"]},
+"instructiontext":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
+"code":"ELDNÄU0"}

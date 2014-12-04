@@ -1,0 +1,8 @@
+{"subject":"PER",
+"name":"Personbilsteknik &mdash; introduktion",
+"points":200,
+"requirements":{"type":"AND",
+"arr":["fordons- och transportbranschens villkor och arbetsområden",
+"fordonsteknik – introduktion"]},
+"instructiontext":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik – introduktion.",
+"code":"PERPES0"}

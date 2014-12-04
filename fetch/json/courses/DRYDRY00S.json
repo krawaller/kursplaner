@@ -1,0 +1,7 @@
+{"subject":"DRY",
+"name":"Drycker &mdash; specialisering",
+"points":100,
+"repeat":"Kursen kan läsas flera gånger med olika innehåll.",
+"requirements":"drycker",
+"instructiontext":"som bygger på kursen drycker. Kursen kan läsas flera gånger med olika innehåll.",
+"code":"DRYDRY00S"}

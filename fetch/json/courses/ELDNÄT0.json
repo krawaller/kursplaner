@@ -1,0 +1,8 @@
+{"subject":"ELD",
+"name":"Nät- och transformatorstationer",
+"points":100,
+"requirements":{"type":"OR",
+"arr":["lågspänningsnät",
+"högspänningsnät"]},
+"instructiontext":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
+"code":"ELDNÄT0"}
