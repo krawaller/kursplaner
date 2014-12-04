@@ -16,6 +16,17 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 			}
 			var code = path.split("_")[0], name = path.split("_")[1].replace(".html","").replace(/ä/g,"ä").replace(/å/g,"å").replace(/ö/g,"ö");
 			var sub = {name:name,code:code,type:type};
+			// COMMENTS
+			var comm, commentblock = (data.match(/<div id="commentDivContainer">(.*?)<\/div><div id="printUp">/)||[])[1]||"";
+			if (commentblock){
+				sub.comments={};
+				while ((comm=commentblock.match(/<div id="([A-Z0-9\-a-z_]*)" class="commentContainer".*?<\/a>(<h2>.*?)<\/div><\/div>/))){
+					var cname = comm[1], ccont = comm[2];
+					sub.comments[cname] = ccont;
+					console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
+					commentblock=commentblock.replace(comm[0],"");
+				}
+			}
 			// AUTHORITY
 			if (type==="OTHER"){
 				var regex = new RegExp('<h3><b>Ämnet '+name.toLowerCase()+' ?</b></h3>(.*?)<h3>'),
@@ -194,6 +205,14 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							throw "MOO"
 						}
 					}
+					// STEAL COMMENTS
+					_.each([["CC-","","comment"],["KR-","E","judgehelp"]],function(a){
+						var pre=a[0],suf=a[1],call=a[2], cid=pre+course.code+suf;
+						if (sub.comments && sub.comments[cid]){
+							course[call] = sub.comments[cid];
+							delete sub.comments[cid];
+						}
+					});
 					// PARSE COURSEDESCRIPTION
 					function which(str){
 						var parts = str.split(/, | ?och | ?samt /);

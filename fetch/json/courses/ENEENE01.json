@@ -2,6 +2,7 @@
 "name":"Energiteknik 1",
 "points":100,
 "code":"ENEENE01",
+"comment":"<h2>Begrepp i kursen energiteknik 1</h2><h3>Systemförståelse och energihantering</h3><p>Exempel på olika arbetsmoment och utrustning som kan bidra till att utveckla elevens förmåga att hantera och förstå energitekniska system kan vara drift och underhåll av kompressorer, luftbehandlingsanläggningar, värmeväxlare och pumpar. Hantering av lyftanordningar och olika typer av filter eller byte av packningar är andra exempel. För att arbeta med energitekniska system behöver eleven även färdigheter i att använda mätinstrument och förstå resultat av mätningar. Exempel på storheter som kan mätas inom området är tryck, temperatur och flöde.</p>",
 "goaltext":"Kursen energiteknik 1 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
 "goals":[1,1,1,1,1,1,1,1,1,1],
 "level":"basic",

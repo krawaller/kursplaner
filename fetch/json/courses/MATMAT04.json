@@ -6,6 +6,7 @@
 "matematik 3c"]},
 "instructiontext":"som bygger på kursen matematik 3b eller 3c.",
 "code":"MATMAT04",
+"comment":"<h2>Begrepp i kursen matematik 4</h2><h3>Olika bevismetoder</h3><p>Olika bevismetoder kan till exempel vara direkta bevis, indirekta bevis och motsägelsebevis. I kursen matematik 5 utvidgas detta med induktionsbevis.</p>",
 "goaltext":"Kursen matematik 4 omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
 "goals":[1,1,1,1,1,1,1],
 "level":"high",

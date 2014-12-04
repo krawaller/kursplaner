@@ -2,6 +2,7 @@
 "name":"Sociologi",
 "points":100,
 "code":"SOISOO0",
+"comment":"<h2>Begrepp i kursen sociologi</h2><h3>Socialisation</h3><p>Socialisation kan förstås som den process av socialt lärande då människor internaliserar samhälleliga normer och värderingar. På detta sätt skapar människor sitt liv, sina identiteter och de samhällen och kulturer som de deltar i. Genom människors interaktion i sociala sammanhang konstrueras kunskap och värderingar som sedan lever kvar och förändras inom olika kulturer.</p><h3>Kategoriseringar av människor</h3><p>Kategoriseringar är ett sätt att strukturera och göra omvärlden begriplig. Kategoriseringar av människor, dvs. tillskrivande av egenskaper, innebär ofta en värdering av vad som betraktas som normalt respektive avvikande, samt vad som är önskvärt respektive icke-önskvärt. Kategoriseringar kan på så sätt påverka människors handlingsmöjligheter, sociala värde och identitet.</p>",
 "goaltext":"Kursen sociologi omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
 "goals":[1,1,1,1,1],
 "level":"basic",

@@ -4,6 +4,7 @@
 "requirements":"hantverksteknik 2",
 "instructiontext":"som bygger på kursen hantverksteknik 2 med innehåll från vald profil.",
 "code":"HAVHNT03",
+"comment":"<h2>Begrepp i kursen hantverksteknik 3</h2><h3>Tids- och kostnadskalkyler</h3><p>För att yrket ska vara lönsamt för yrkesutövaren är tids- och kostnadsberäkningar av stor vikt, och därför betonas målet förmåga att beräkna kostnad, material och tidsåtgång i kursen.</p><p></p><h3>Försäljning och service</h3><p>Att ha kunskap om olika typer av kunder kan vara en avgörande faktor för yrkesutövaren, därför betonas målet att utföra service och försäljning i kursen. Eleverna kan träna detta till exempel genom att diskutera eller dramatisera olika kommunikationssituationer i en fiktiv yrkesmiljö.</p>",
 "goaltext":"Kursen hantverksteknik 3 omfattar punkterna 1&mdash;10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1&mdash;2, 5 och 10. I kursen behandlas fördjupade kunskaper i ämnet, inom den valda profilen.",
 "goals":[2,2,1,1,2,1,1,1,1,2],
 "level":"high",

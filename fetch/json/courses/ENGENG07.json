@@ -4,6 +4,8 @@
 "requirements":"engelska 6",
 "instructiontext":"som bygger på kursen engelska 6.",
 "code":"ENGENG07",
+"comment":"<h2>Kommentar till centralt innehåll – kurs 7</h2><p>Se kommentar till centralt innehåll i kurs 5. Kommentaren gäller kurs 5–7.</p>",
+"judgehelp":"<h2> </h2><h2>Kommentar till kunskapskraven – kurs 7</h2><p>Se kommentar till progressionsuttrycken i kunskapskraven i kurs 5. Kommentaren gäller kurs 5–7. </p><p><br /></p>",
 "goaltext":"Kursen engelska 7 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
 "goals":[1,1,1,1,1],
 "level":"normal",

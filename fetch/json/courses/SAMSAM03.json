@@ -4,6 +4,7 @@
 "requirements":"samhällskunskap 2",
 "instructiontext":"som bygger på kursen samhällskunskap 2.",
 "code":"SAMSAM03",
+"comment":"<h2>Begrepp i kursen samhällskunskap 3</h2><h3>Introduktion av vetenskapsteori</h3><p>Här introduceras kunskaper om vetenskapsteori som en brygga till högre studier. I första hand handlar det om vetenskapsteoretiska begrepp med praktisk tillämpning till exempel induktion, deduktion, hypotes och abduktion. I andra hand handlar det om vetenskapsfilosofiska traditioner som hermeneutik och positivism.</p><h3>Hur vetenskapliga begrepp används</h3><p>Många vetenskapliga begrepp överförs till vardagsspråket och påverkar därmed individen och samhällsdebatten. Exempel på sådana begrepp är ras, kultur, feminism, evolution och big bang.</p>",
 "goaltext":"Kursen samhällskunskap 3 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.",
 "goals":[1,1,2,1,1],
 "level":"high",

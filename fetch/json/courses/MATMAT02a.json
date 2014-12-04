@@ -10,6 +10,7 @@
 "matematik 2c"]},
 "instructiontext":"som bygger på kursen matematik 1a, 1b eller 1c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 2b eller 2c.",
 "code":"MATMAT02a",
+"comment":"<h2>Begrepp i kursen matematik 2a</h2><h3>Metoder för beräkningar vid budgetering.</h3><p>Budgetering avser till exempel kostnadsanalyser. Inom många områden, både privat och yrkesmässigt, behöver man kunna göra en enkel budget för att ha kontroll över kostnader, intäkter och utgifter. Budgetering kan inkludera uppskattningar, procenträkning och beräkningar med funktioner.</p>",
 "goaltext":"Kursen matematik 2a omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
 "goals":[1,1,1,1,1,1,1],
 "level":"normal",

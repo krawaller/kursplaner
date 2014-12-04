@@ -2,6 +2,7 @@
 "name":"Fordonsteknik &mdash; introduktion",
 "points":200,
 "code":"FODFOO0",
+"comment":"<h2>Begrepp i kunskapskraven i kursen fordonsteknik – introduktion</h2><h3>Samarbetar</h3><p>I kunskapskraven uttrycks en progression som rör elevens samarbetsförmåga. För betyget E krävs att eleven samarbetar utan andra krav än att hon eller han deltar för att nå planerade resultat. För betyget C krävs att eleven <strong>medverkar till att upprätthålla samarbetet</strong>.Detta innebär att eleven aktivt bidrar till gruppens samarbete för att nå planerade resultat. Ett aktivt bidrag kan till exempel vara att medverka till att samarbetet fortskrider trots meningsskiljaktigheter inom gruppen. För betyget A krävs att eleven <strong>medverkar till att upprätthålla och utveckla samarbetet</strong>. Detta innebär att eleven aktivt bidrar till gruppens samarbete för att nå planerade resultat, men också att eleven kan hitta sätt att göra samarbetet effektivare, till exempel genom konstruktiva förslag som förbättrar samarbetet.</p>",
 "goaltext":"Kursen fordonsteknik &mdash; introduktion omfattar punkterna 1&mdash;7 under rubriken Ämnets syfte.",
 "goals":[1,1,1,1,1,1,1],
 "level":"normal",

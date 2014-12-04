@@ -2,6 +2,7 @@
 "name":"Vatten- och processkemi",
 "points":100,
 "code":"ENEVAE0",
+"comment":"<h2>Begrepp i kursen vatten- och processkemi</h2><h3>Kemiska processer</h3><p><em>Kemiska processer</em>i samband med tillverkningsprocesser kan vara kemiska processer i samband med pappers- eller pappersmassatillverkning, korrosion, beläggningar i ånganläggningar eller kemikalietillsatser vid rening av vatten.</p><h3>Korrosionslära</h3><p>Exempel på vad som kan behandlas är galvaniska spänningsseriens betydelse för korrosion. Material i sammanhanget kan till exempel vara kolstål, gjutjärn, galvaniserat stål, rostfritt stål, koppar, mässing och rödmetall.</p><h3>Olika typer av vatten</h3><p>Exempel på olika typer av vatten är grundvatten, ytvatten och konstgjort infiltrerat vatten.</p><h3>Avhärdning och totalavsaltning</h3><p><em>Avhärdning</em>avser jonbyte av kalcium- och magnesiumjoner mot natriumjoner. <em>Totalavsaltning</em> avser jonbyte med hjälp av katjon- och anjonfilter.</p>",
 "goaltext":"Kursen vatten och processkemi omfattar punkterna 2, 4 och 6&mdash;10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
 "goals":[0,1,0,1,0,1,1,1,1,1],
 "level":"basic",

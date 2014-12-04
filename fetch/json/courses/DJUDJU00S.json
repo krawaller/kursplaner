@@ -7,6 +7,7 @@
 "lantbruksdjur 2"]},
 "instructiontext":"som bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2. Kursen kan läsas flera gånger med olika innehåll.",
 "code":"DJUDJU00S",
+"comment":"<h2>Kursen djur – specialisering </h2><h3>Djur – specialisering</h3><p>Kursen djur – specialisering bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2 och omfattar ämnets alla åtta mål. Kursen möjliggör en fördjupning inom ett specialiseringsområde utifrån ämnets mål och kursens centrala innehåll. Kursen kan läsas flera gånger med olika specialiseringar.</p>",
 "goaltext":"Kursen djur &mdash; specialisering omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.",
 "goals":[1,1,1,1,1,1,1,1],
 "level":"normal",

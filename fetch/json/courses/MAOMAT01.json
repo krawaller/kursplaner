@@ -2,6 +2,7 @@
 "name":"Mat och butik 1",
 "points":100,
 "code":"MAOMAT01",
+"comment":"<h2>Begrepp i kursen mat och butik 1</h2><h3>Skapa kombinationer och anrättningar</h3><p>Estetiska aspekter på skapandet av kombinationer och anrättningar kan behandlas i undervisningen.</p><h3>Butiksekonomiska begrepp</h3><p>Detta kan till exempel vara kalkyler, merförsäljning, exponeringens betydelse och kassarapporter.</p>",
 "goaltext":"Kursen mat och butik 1 omfattar punkterna 1&mdash;8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3. I kursen behandlas grundläggande färdigheter i ämnet.",
 "goals":[2,1,2,1,1,1,1,1],
 "level":"normal",

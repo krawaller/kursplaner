@@ -4,6 +4,8 @@
 "requirements":"djurvård inom djurens hälso- och sjukvård 1",
 "instructiontext":"som bygger på kursen djurvård inom djurens hälso- och sjukvård 1.",
 "code":"DJRDJU02",
+"comment":"<h2>Begrepp i kursen djurvård inom djurens hälso- och djurvård 2</h2><p>I det centrala innehållet finns punkterna: ”Vård av skadade och sjuka djur, till exempel bandagering, sårvård och pälsvård.” samt ”Provtagning, till exempel urinprov och träckprov.” I lagen (2009:302) om verksamhet inom djurens hälso- och sjukvård 4 kap. 1 §, även kallat behandlingsförbudet, finns bestämmelser som innebär begränsningar för den som arbetar med djur inom djurens hälso- och sjukvård. Se kommentar ”Om ämnet djurvård inom djurens hälso- och sjukvård” ovan. Provtagning får inte orsaka ett lidande som inte är obetydligt.</p>",
+"judgehelp":"<h2>Begrepp i kunskapskrav till kursen djurvård inom djurens hälso- och djurvård 2</h2><p>I kunskapskraven står: ”Eleven […] vårdar i samråd med handledare skadade och sjuka djur.” samt ”Dessutom utför eleven i samråd med handledare djurvårdande arbetsuppgifter inom djurens hälso- och sjukvård.” I lagen (2009:302) om verksamhet inom djurens hälso- och sjukvård 4 kap. 1 §, även kallat behandlingsförbudet, finns bestämmelser som innebär begränsningar för den som arbetar med djur inom djurens hälso- och sjukvård. Se kommentar ”Om ämnet djurvård inom djurens hälso- och sjukvård” ovan.</p>",
 "goaltext":"Kursen djurvård inom djurens hälso- och sjukvård 2 omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.",
 "goals":[1,1,1,1,1,1,1,1,1],
 "level":"normal",

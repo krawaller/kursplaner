@@ -6,6 +6,8 @@
 "moderna språk inom ramen för elevens val i grundskolan"]},
 "instructiontext":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
 "code":"MODXXX02",
+"comment":"<h2>Kommentar till centralt innehåll – moderna språk 2</h2><p>Se kommentar till centralt innehåll för moderna språk 1. Kommentaren gäller kurs 1-4.</p>",
+"judgehelp":"<h2>Kommentar till kunskapskraven – moderna språk 2</h2><p>Se kommentar till progressionsuttrycken i kunskapskraven för moderna språk 1. Kommentaren gäller kurs 1–7. </p>",
 "goaltext":"Kursen moderna språk 2 omfattar punkterna 1&mdash;5 under rubriken Ämnets syfte.",
 "goals":[1,1,1,1,1],
 "level":"normal",

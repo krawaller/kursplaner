@@ -2,6 +2,7 @@
 "name":"Aktivitetsledarskap",
 "points":100,
 "code":"PEDAKI00S",
+"comment":"<h2>Kursen aktivitetsledarskap</h2><p>Kursen <em>aktivitetsledarskap </em>är generellt skriven för att ge möjlighet till att utöva pedagogiskt ledarskap i olika aktiviteter. Kursen kan läsas flera gånger med utgångspunkt i det centrala innehållet kopplat till en specifik aktivitet. Kursen ska utveckla kompetens för att kunna leda en specifik aktivitet inom en verksamhet. Det kan exempelvis vara aktiviteter inom frilufts-, bad- och idrottsverksamhet eller gym- och friskvårdsanläggningar. Kursen kan genomföras i samverkan med den lokala verksamheten.</p><h2>Begrepp i kursen pedagogiskt ledarskap</h2><h3>Ledarskap och organisationer utifrån olika teorier</h3><p><em>Ledarskap</em> kan förstås utifrån fem dimensioner:</p><p>- Målinriktad</p><p>- Relationsinriktad</p><p>- Förnyelse- och utvecklingsinriktad</p><p>- Situationsinriktad</p><p>- Etikinriktad</p><p>Dessa dimensioner är integrerade och utgör en helhet i ledarskapet.</p><p>Med <em>organisationer</em> avses frivilliga organisationer såsom idrottsföreningar, intresseorganisationer, politiska partier samt företag. Dit räknas också organisationer som inte är frivilliga, exempelvis kommuner.</p>",
 "goaltext":"Kursen aktivitetsledarskap omfattar punkterna 1 och 4&mdash;6 under rubriken Ämnets syfte, med särskild betoning på pedagogiska sammanhang och ledarskap inom dessa.",
 "goals":[1,0,0,1,1,1],
 "level":"normal",
