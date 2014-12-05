@@ -1,0 +1,2034 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<html lang="sv-SE" dir="ltr" data-cid="2.7499">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="dcterms.title" content="Ämne - Flygplatsteknik (Gymnasieskolan)">
+    
+    
+    
+    
+
+
+
+
+    <meta name="ICBM" content="59.336, 18.031">
+    <meta name="geo.position" content="59.336, 18.031">
+    <meta name="geo.placename" content="Alströmergatan, Kungsholmen, Stockholm">
+    <meta name="geo.region" content="SE">
+
+    <title>Ämne - Flygplatsteknik (Gymnasieskolan)</title>
+    <link rel="shortcut icon" href="/favicon.ico;jsessionid=41E3E85FE93BB6600C2ECCEE4BA5AFAE">
+
+
+    
+      
+
+
+
+
+
+
+  
+
+
+    
+
+    
+
+
+
+
+<link type="text/css" href="/css/smoothness/jquery-ui-1.8.17.custom.css" rel="stylesheet">
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.17.custom.min.js"></script>
+
+            
+    
+
+
+
+
+
+
+
+
+
+
+  <link href="/css/screen.css" rel="stylesheet" type="text/css" media="screen">
+  <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+
+
+  
+    <link href="/polopoly_fs/1.218164!/Menu/article/stylesheet/pubDB.css" rel="stylesheet" type="text/css" media="screen">
+  
+    <link href="/polopoly_fs/1.212752!/Menu/article/stylesheet/justeringar-2014-10-15.css" rel="stylesheet" type="text/css" media="screen">
+  
+
+
+    
+    
+
+    
+    
+<link rel="canonical" href="http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?lang=sv&amp;subjectCode=flg&amp;tos=gy" />
+    
+      <link href="/polopoly_fs/1.187997!/Menu/article/stylesheet/comment.css" rel="stylesheet" type="text/css" media="all">
+    
+      <link href="/polopoly_fs/1.144370!/Menu/article/stylesheet/programs-2014-03-07.css" rel="stylesheet" type="text/css" media="all">
+    
+  
+    
+
+
+
+
+
+  <script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2735688-2']);
+			_gaq.push(['_gat._anonymizeIp']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+						: 'http://www')
+						+ '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+			
+			jQuery(document).ready(function() {
+				jQuery('a.attachment').click(function(event) {
+					_gaq.push(['_trackEvent', 'Attachment',
+					'Download ' + event.target.getAttribute('type'), 
+					event.target.getAttribute('href')]);
+				});
+
+        jQuery('a[target="_blank"]').click(function(event) {
+            _gaq.push(['_trackEvent', 'External link',
+            'Click', event.target.getAttribute('href')]);
+          });
+      });
+
+	</script>
+
+
+  </head>
+
+  
+
+
+
+
+
+
+  <body class="defaultTheme">
+    <div id="bodyWrapper">
+      <div id="bodyWrapperInner">
+      
+        <div id="header">
+          <div id="headerWrapper">
+            
+
+
+
+
+
+
+
+
+  <div id="primaryHeader">
+    
+      
+
+
+
+
+
+
+  
+  <div class="tlc cid-1_144619 block columnSplitter defaultTheme using2columns" lang="sv-SE">
+    
+    
+      <div class="column1">
+        <div class="column1Inner">
+          
+            
+
+
+
+
+
+
+
+<!--   -->
+<script type="text/javascript" src="https://pixel.mathtag.com/event/js?mt_id=457716&amp;mt_adid=123349&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3=">
+</script>
+
+
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+
+
+<!--   -->
+<script type="text/javascript">//<![CDATA[
+<!-- The code below is positioned after the standard Google Analytics script -->
+<!-- Collect contents from __UTMA -->
+
+    var nhutmaid;
+    var nhutmafirst;
+    var nhutmaprevious;
+    var nhutmalatest;
+    var nhutmanumber;
+    {
+    if (document.cookie != '')
+      var nhcookie = document.cookie.split('; ');
+    var x;
+    for (x in nhcookie)
+      {
+      if (nhcookie[x].substring(0, 6) == "__utma")
+        {
+        nhutmaparts = nhcookie[x].split('.');
+        nhutmaid = nhutmaparts[1];
+        nhutmafirst = nhutmaparts[2];
+        nhutmaprevious = nhutmaparts[3];
+        nhutmalatest = nhutmaparts[4];
+        nhutmanumber = nhutmaparts[5];
+      }
+    }
+    }
+
+
+<!-- Submit GA Visitor ID to CustomVar5 -->
+ 
+  _gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+  _gaq.push(['_trackEvent','nethouse','id','',0,true]);
+//]]></script>
+
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+  
+  <span class="tlc cid-1_144623 block figure top defaultTheme" lang="sv-SE">
+    
+      
+        <a href="/"><img src="/polopoly_fs/1.201213!/image/logoSkolverket-2.png" alt="Skolverkets logotyp" height="86" width="440" title="Skolverkets logotyp"></a>
+      
+      
+    
+    
+  </span>
+
+
+            
+          
+        </div>
+      </div>
+    
+      <div class="column2">
+        <div class="column2Inner">
+          
+            
+
+
+
+
+
+
+
+    
+  <div class="tlc cid-1_144620 block list links defaultTheme extraMenu" lang="sv-SE">
+    
+
+    <ul>
+      
+        <li 
+
+
+class="odd"><a href="/1.144625">Webbkarta</a></li>
+      
+        <li 
+
+
+class="even"><a href="/om-skolverket/om-oss/vara-webbplatser/lyssna-pa-webbplatsen-1.121870" class="defaultTheme">Lyssna</a></li>
+      
+        <li 
+
+
+class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/2.1237" class="defaultTheme">Lättläst</a></li>
+      
+        <li 
+
+
+class="even"><a href="/om-skolverket/andra-sprak-och-lattlast/skolverket-pa-teckensprak-1.174531" class="defaultTheme">Teckenspråk</a></li>
+      
+        <li 
+
+
+class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="defaultTheme lang">In English</a></li>
+      
+    </ul>
+  </div> <!-- end block list links -->
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+  
+  <div class="tlc cid-1_176168 block list group defaultTheme searchGroup" lang="sv-SE">
+    
+    <div class="listGroupInner">
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144627 block link defaultTheme searchByLetter" lang="sv-SE">
+  <a href="/om-skolverket/om-oss/vara-webbplatser/2.4823" class="defaultTheme searchByLetter">A-Ö</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+<div class="tlc cid-1_149602 blockItem search">
+  <form action="/2.5248" method="get">
+    <input type="hidden" value="search" name="page">
+    <input type="hidden" value="" name="website">    
+    <div class="block searchFieldWrapper">
+      <div class="block searchFieldWrapperInner">
+        
+        <label for="search-block-1-149602-729219219">Sök</label>
+        <input type="text" value="Sök på hela Skolverkets webbplats..." name="q" title="Skriv dina sökord här" id="search-block-1-149602-729219219" accesskey="4"  class="searchField" >
+        <script type="text/javascript">
+          $('#search-block-1-149602-729219219').bind({
+        	  blur: function() {
+        		  if (!$(this).val()) $(this).val('Sök på hela Skolverkets webbplats...');
+        		},
+        		focus: function() {
+        		  $(this).val('');
+        		  
+        		  return false;
+        		}
+          });
+        </script>
+      </div>
+    </div>
+    <div class="block searchBtnWrapper">
+      <input name="search" type="submit" value="Sök" title="Sök på hela Skolverkets webbplats">
+    </div>
+  </form>
+  
+  <script type="text/javascript">
+		  var url = "/2.5248/qc/complete.do?format=opensearch&q={searchTerms}";
+		  jQuery("#search-block-1-149602-729219219").autocomplete({
+			  source : function(request, response) {
+				  var sourceUrl = url.replace('{searchTerms}', request.term);
+				  jQuery.ajax(sourceUrl, {dataType: 'json',
+					  success: function(data) {
+						  response(data[1]);
+					  },
+					  error: function() {
+						  response(null);
+					  }});
+				  }
+		  });
+		  jQuery("#search-block-1-149602-729219219").on('keydown', function(event) {
+			  if (event.keyCode == 13) {
+		            $(this).parents('form').submit();
+		            return false;
+		        }
+		  });
+  </script>
+    
+</div>
+
+        </div>
+        
+      
+    </div>
+  </div> <!-- end block list group -->
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+
+
+<!--   -->
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function() {
+
+
+  
+  
+  $('a[href*="soktjansten"]').each(function() {
+    var linken = $(this).attr('href').split('soktjansten-externa-hanvisningar')[1];
+    var nyling = linken.split('-1.')[0];
+    var nylina = nyling.replace(/-1-1-/g, '--');
+    var nylink = nylina.replace(/-1-/g, '/');
+    var nye = nylink.replace(/-p-/g, '.');
+   //var nya = nye.replace(/www.skolverket.se/g, '');
+    var klicktext = $(this).html();
+    $(this).parents('li:first').attr('style', 'border:3px dotted lightgrey;');
+    $(this).replaceWith( '<a href="http:/' + nye + '" style="background: url(http://www.skolverket.se/img/icon_blank.png) no-repeat scroll 2px 0 #F9F9F8;margin-left:-30px; padding-left:30px;">' + klicktext + '</a>' );
+    
+ });
+
+  
+
+
+});
+//]]></script>
+
+
+
+            
+          
+        </div>
+      </div>
+    
+    <div class="clearer"></div>
+  </div> <!-- end columnsplitter -->
+
+
+    
+  </div>
+
+
+
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+<div id="topMenu" class="clearfix">
+  <ul>
+    
+      
+        
+          
+          
+            <li class="menuLink"><a href="/">Start</a></li>
+          
+        
+      
+        
+          
+            <li class="menuLinkSelected">Läroplaner <br>ämnen &amp; kurser</li>
+          
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/bedomning">Prov &amp; <br>bedömning</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/regelverk">Regelverk</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/fran-skola-till-arbetsliv">Från skola <br>till arbetsliv</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/skolutveckling">Skolutveckling</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/kompetens-och-fortbildning">Kompetens &amp;<br> fortbildning</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/statistik-och-utvardering">Statistik &amp;<br>  utvärdering</a></li>
+          
+        
+      
+        
+          
+          
+            <li class="menuLink"><a href="/skolformer">Skolformer</a></li>
+          
+        
+      
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+
+        
+
+
+
+
+<div id="breadcrumbs">
+  
+    <ul>
+      <li class="breadcrumbsFirst">Du är här:</li>
+      
+        
+          
+            <li><a href="/">Start</a></li>
+          
+          
+        
+      
+        
+          
+          
+              <li><span class="slash">/</span> <a href="/laroplaner-amnen-och-kurser">Läroplaner ämnen &amp; kurser</a></li>
+          
+        
+      
+        
+          
+          
+              <li><span class="slash">/</span> <a href="/laroplaner-amnen-och-kurser/vuxenutbildning">Vuxenutbildning</a></li>
+          
+        
+      
+        
+          
+          
+              <li><span class="slash">/</span> <a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux">Kommunal vuxenutbildning</a></li>
+          
+        
+      
+        
+          
+          
+              <li><span class="slash">/</span> <a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial">Gymnasial nivå</a></li>
+          
+        
+      
+        
+          
+          
+              <li><span class="slash">/</span> Sök ämnen och kurser</li>
+          
+        
+      
+    </ul>
+  
+</div>
+
+
+        <div id="mainWrapper">
+          <div id="mainWrapperInner">
+        
+            
+
+
+
+
+
+<div id="mainMenu">
+
+
+  <ul class="menuTree top">
+    
+      <li class="ancestor first "><a href="/">Start</a></li>
+    
+      <li class="ancestor  "><a href="/laroplaner-amnen-och-kurser">Läroplaner ämnen &amp; kurser</a></li>
+    
+      <li class="ancestor  "><a href="/laroplaner-amnen-och-kurser/vuxenutbildning">Vuxenutbildning</a></li>
+    
+      <li class="ancestor  "><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux">Kommunal vuxenutbildning</a></li>
+    
+      <li class="ancestor  last"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial">Gymnasial nivå</a></li>
+    
+  </ul>
+
+
+
+  <ul class="menuTree">
+    
+      
+      	
+      	  <li class="selected"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser">Sök ämnen och kurser</a></li>
+      	
+      	
+      	
+      
+    
+      
+      	
+      	
+      	  <li class="leaf"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099">Ämnen som inte ges</a></li>
+      	
+      	
+      
+    
+      
+      	
+      	
+      	  <li class="leaf"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnesplanens-struktur-1.177547">Ämnesplanens struktur</a></li>
+      	
+      	
+      
+    
+      
+      	
+      	
+      	
+      	  <li class="node"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/kurser">Kurser</a></li>
+      	
+      
+    
+      
+      	
+      	
+      	
+      	  <li class="node"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/2.7480">Diskutera och utveckla</a></li>
+      	
+      
+    
+      
+      	
+      	
+      	  <li class="leaf"><a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/tidigare-kursplaner">Tidigare kursplaner</a></li>
+      	
+      	
+      
+    
+  </ul>
+
+</div>
+
+
+        
+            <div id="mainContent">
+              
+    <div class="tlc cid-2_7499 externalContent withSidebar" lang="sv-SE" id="content">
+      <div id="article">
+        
+        <!-- begin external content -->
+        
+	
+	
+
+	
+
+
+	<!--
+	BEGIN_CATEGORIES::{
+		  "Läroplaner": [{"category1":"Gymnasieskolan","category2": "Ämnesplaner"}]
+	}END_CATEGORIES
+	-->
+
+
+
+
+<div class="eduForms gy" id="syroot">
+
+	
+
+	<a href="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.pdf?subjectCode=FLG&amp;tos=gy&amp;lang=sv" target="_blank" class="read_pdf">
+		Ämnet som pdf <img src="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?_xurl_=http%3A%2F%2Fli64-rh5-kursweb.skolverket.se%3A27025%2Fsyllabuscw%2Fimages%2Fpdf.png" alt="">
+	</a>
+	
+
+	
+
+
+
+
+
+
+<img src="/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?_xurl_=http%3A%2F%2Fli64-rh5-kursweb.skolverket.se%3A27025%2Fsyllabuscw%2Fimages%2Fbubble.png" style="display:none" id="commentImage" alt=""/>
+<script type="text/javascript" >
+<!--
+
+	document.onmousemove = getMouseCoordinates;
+	var rootElement = document.getElementById('syroot');
+	var subjectName = 'Flygplatsteknik';
+	var subjectCode = 'FLG';
+	var commentImageUrl = document.getElementById('commentImage').src;
+	
+	var cursor = {
+		x : 0,
+		y : 0
+	};
+
+
+	
+	//*****************************************************************************
+	// Functionality to allow div draging.
+	// 
+	// Do not remove this notice.
+	//
+	// Copyright 2001 by Mike Hall.
+	// See http://www.brainjar.com for terms of use.
+	//*****************************************************************************
+
+	// Determine browser and version.
+
+	function Browser() {
+
+		var ua, s, i;
+
+		this.isIE = false;
+		this.isNS = false;
+		this.version = null;
+
+		ua = navigator.userAgent;
+
+		s = "MSIE";
+		if ((i = ua.indexOf(s)) >= 0) {
+			this.isIE = true;
+			this.version = parseFloat(ua.substr(i + s.length));
+			return;
+		}
+
+		s = "Netscape6/";
+		if ((i = ua.indexOf(s)) >= 0) {
+			this.isNS = true;
+			this.version = parseFloat(ua.substr(i + s.length));
+			return;
+		}
+
+		// Treat any other "Gecko" browser as NS 6.1.
+
+		s = "Gecko";
+		if ((i = ua.indexOf(s)) >= 0) {
+			this.isNS = true;
+			this.version = 6.1;
+			return;
+		}
+	}
+
+	var browser = new Browser();
+
+	// Global object to hold drag information.
+
+	var dragObj = new Object();
+	dragObj.zIndex = 0;
+
+	function dragStart(event, id) {
+
+		var el;
+		var x, y;
+
+		// If an element id was given, find it. Otherwise use the element being
+		// clicked on.
+
+		if (id)
+			dragObj.elNode = document.getElementById(id);
+		else {
+			if (browser.isIE)
+				dragObj.elNode = window.event.srcElement;
+			if (browser.isNS)
+				dragObj.elNode = event.target;
+
+			// If this is a text node, use its parent element.
+
+			if (dragObj.elNode.nodeType == 3)
+				dragObj.elNode = dragObj.elNode.parentNode;
+		}
+
+		// Get cursor position with respect to the page.
+
+		if (browser.isIE) {
+			x = window.event.clientX + document.documentElement.scrollLeft + document.body.scrollLeft;
+			y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
+		}
+		if (browser.isNS) {
+			x = event.clientX + window.scrollX;
+			y = event.clientY + window.scrollY;
+		}
+
+		// Save starting positions of cursor and element.
+
+		dragObj.cursorStartX = x;
+		dragObj.cursorStartY = y;
+		dragObj.elStartLeft = parseInt(dragObj.elNode.style.left, 10);
+		dragObj.elStartTop = parseInt(dragObj.elNode.style.top, 10);
+
+		if (isNaN(dragObj.elStartLeft))
+			dragObj.elStartLeft = 0;
+		if (isNaN(dragObj.elStartTop))
+			dragObj.elStartTop = 0;
+
+		// Update element's z-index.
+
+		dragObj.elNode.style.zIndex = ++dragObj.zIndex;
+
+		// Capture mousemove and mouseup events on the page.
+
+		if (browser.isIE) {
+			document.attachEvent("onmousemove", dragGo);
+			document.attachEvent("onmouseup", dragStop);
+			window.event.cancelBubble = true;
+			window.event.returnValue = false;
+		}
+		if (browser.isNS) {
+			document.addEventListener("mousemove", dragGo, true);
+			document.addEventListener("mouseup", dragStop, true);
+			event.preventDefault();
+		}
+	}
+
+	function dragGo(event) {
+
+		var x, y;
+
+		// Get cursor position with respect to the page.
+
+		if (browser.isIE) {
+			x = window.event.clientX + document.documentElement.scrollLeft + document.body.scrollLeft;
+			y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
+		}
+		if (browser.isNS) {
+			x = event.clientX + window.scrollX;
+			y = event.clientY + window.scrollY;
+		}
+
+		// Move drag element by the same amount the cursor has moved.
+
+		dragObj.elNode.style.left = (dragObj.elStartLeft + x - dragObj.cursorStartX) + "px";
+		dragObj.elNode.style.top = (dragObj.elStartTop + y - dragObj.cursorStartY) + "px";
+
+		if (browser.isIE) {
+			window.event.cancelBubble = true;
+			window.event.returnValue = false;
+		}
+		if (browser.isNS)
+			event.preventDefault();
+	}
+
+	function dragStop(event) {
+
+		// Stop capturing mousemove and mouseup events.
+
+		if (browser.isIE) {
+			document.detachEvent("onmousemove", dragGo);
+			document.detachEvent("onmouseup", dragStop);
+		}
+		if (browser.isNS) {
+			document.removeEventListener("mousemove", dragGo, true);
+			document.removeEventListener("mouseup", dragStop, true);
+		}
+	}
+	
+	// Function for setting visibility and location for comment divs.
+	function setElementVisibility(id) {
+		var el = document.getElementById(id);
+		if (el.style.display == 'none') {
+			el.style.display = 'block';
+			el.style.left = (cursor.x + 15) + 'px';
+			el.style.top = (cursor.y + 15) + 'px';
+		} else {
+			el.style.display = 'none';
+			el.style.left = '0px';
+			el.style.top = '0px';
+		}
+	}
+
+	// Function for updating cursor position. Cursor variable is used to position comment divs next to the cursor.
+	function getMouseCoordinates(e) {
+		e = e || window.event;
+
+		if (e.pageX || e.pageY) {
+			cursor.x = e.pageX;
+			cursor.y = e.pageY;
+		} else {
+			var de = document.documentElement;
+			var b = document.body;
+			cursor.x = e.clientX + (de.scrollLeft || b.scrollLeft) - (de.clientLeft || 0);
+			cursor.y = e.clientY + (de.scrollTop || b.scrollTop) - (de.clientTop || 0);
+		}
+	}
+	
+//-->
+</script>
+
+	<div class="clearer" ></div>
+	<h1>Ämne - Flygplatsteknik</h1>
+
+	<!-- Central contents in the subject, means Vuxenskolan Compulsory, subject used as course -->
+    
+        
+        
+    
+
+	
+
+
+
+
+
+
+
+
+		
+
+	
+	
+
+
+
+
+
+
+
+
+		
+
+	
+	
+
+
+
+
+
+
+
+
+		
+
+	
+	<br/>
+	
+
+
+
+
+
+
+
+
+		
+
+	
+	<p></p>
+
+<!-- FW_SEARCH_INDEX_BEGIN -->
+	<div id="textInclude">
+		<p>Ämnet flygplatsteknik behandlar flygplatsen som arbetsplats och de olika verksamheter som förekommer på en flygplats. I ämnet betonas säkerhets- och miljöaspekter.</p>
+
+		<h2 class="program">
+			Ämnets syfte
+		</h2>
+
+
+<!-- FW_SEARCH_INDEX_END -->
+		
+
+
+
+
+
+
+
+
+		
+
+	
+<!-- FW_SEARCH_INDEX_BEGIN -->
+		<p></p>
+		<p>Undervisningen i ämnet flygplatsteknik ska syfta till att eleverna utvecklar kunskaper om olika arbetsområden på en flygplats. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra de olika arbetsuppgifter som förekommer på en flygplats på ett säkert och ansvarsfullt sätt. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att framföra de fordon som används på flygplatser på det sätt som arbetet kräver. Den ska dessutom bidra till att eleverna utvecklar förståelse av hur verksamheten påverkar miljön på och runt en flygplats.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de nationella och internationella regelverk som styr verksamheten, och förmåga att arbeta utifrån dessa. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa och upprätthålla goda relationer med kunder och medarbetare, samt förmåga att kommunicera på det sätt yrket kräver, på både svenska och engelska.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Ett problemlösande och laborativt arbetssätt ska prägla undervisningen.</p><h4>Undervisningen i ämnet flygplatsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><p></p><ol> <li>Kunskaper om flygplatsers uppbyggnad och funktion samt om olika arbetsområden och verksamheter inom flygplatser.</li> <li>Kunskaper om de internationella och nationella regelverk som reglerar verksamheten, de skydds- och säkerhetsföreskrifter som reglerar arbetet samt om de risker arbetet innebär.</li> <li>Förmåga att genomföra arbetsuppgifter på flygplatsen inom områdena räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.</li> <li>Förmåga att framföra transport- och servicefordon på ett säkert och ansvarsfullt sätt.</li> <li>Förmåga att hantera farligt gods och genomföra tanktransporter på flygplatser.</li> <li>Förmåga att välja och använda arbetsmetoder och utrustning.</li> <li>Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att samarbeta med andra och kommunicera med medarbetare och kunder.</li> <li>Förmåga att använda ett yrkesmässigt språk samt att använda både svenska och engelska instruktioner och manualer. </li> </ol><p></p><h3>Kurser i ämnet</h3><p></p><ul style="list-style-type: none;" class="noDots"> <li>Flygplatsen, 200 poäng.</li> <li>Fälthållning, 200 poäng.</li> </ul><p></p>
+
+		<!-- Central contents in the subject, used in Vuxenskolan Compulsory only -->
+		
+
+		<!-- Knowledge requirements in the subject, used in Vuxenskolan Compulsory and GyS -->
+		
+
+	</div>
+<!-- FW_SEARCH_INDEX_END -->
+
+	<!-- Render knowledgeReqs PDF in course tag or not -->
+	
+
+	
+		
+		
+
+
+
+
+
+
+<a id="anchor_FLGFLY0"></a>
+
+<div style="float: right;">
+	[<a onclick="document.getElementById('FLGFLY0').style.display = ('block' == document.getElementById('FLGFLY0').style.display) ? 'none' : 'block'; return false" href="#">Visa/Dölj</a>]
+</div>
+<h2 style="margin-top:12px; margin-bottom: 12px; padding-bottom:10px; border-bottom:5px solid #EEEEE9;">
+	Flygplatsen, 200  poäng
+</h2>
+<div id="FLGFLY0" style="clear: both; display:block;">
+	
+	<h2>Kurskod: <!-- FW_SEARCH_INDEX_BEGIN -->FLGFLY0<!-- FW_SEARCH_INDEX_END --></h2>
+	
+	<p>Kursen flygplatsen omfattar punkterna 1&mdash;9 under rubriken Ämnets syfte.</p>
+	
+	<h2 style="margin-top:12px; padding-bottom:5px;">
+		Centralt innehåll
+	</h2>
+	
+	
+		
+	
+	
+	<div style="padding-bottom:10px; border-bottom:5px solid #EEEEE9;"></div>
+	
+
+    <!-- FW_SEARCH_INDEX_BEGIN --><h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p></p><ul> <li>Flygplatsens uppbyggnad. Flygplatsen som arbetsplats och de olika verksamheter som förekommer.</li> <li>Nationella och internationella organisationer och intressenter inom området.</li> <li>Grunderna för trafikledning.</li> <li>Tekniska system som förekommer på flygplatser.</li> <li>Biljetthanteringssystem.</li> <li>Säkerhetstjänst på och runt en flygplats.</li> <li>Miljöpåverkan på och i anslutning till flygplatser.</li> <li>Marktrafikregler på och i anslutning till flygplatsen.</li> <li>Luftfartygs konstruktion. Uppbyggnad av olika system i ett flygplan samt flygplans strukturella begränsningar och skaderisker.</li> <li>Enklare markservice på flygplan.</li> <li>Avisning och hur luftfartygs aerodynamik påverkas av till exempel regn och is.</li> <li>Användning av el- och teleteknisk utrustning samt skötsel och tolkning av mätinstrument.</li> <li>Risker vid arbete med luftfartyg.</li> <li>Brandbekämpning. Flygplatsens brand- och räddningsfunktioner.</li> <li>Tillsyn, service och säkerhetskontroll på de fordon och utrustning som används på flygplatser.</li> <li>Färdplanering och beräkning av lastmängd och viktfördelning. Administrativa rutiner som används för transportuppdrag på flygplatser.</li> <li>Olika slags tanktransporter, hantering av bränsle, tankning av flygplan samt åtgärder vid såväl mindre spill som haveri. Myndigheters krav vid transport av bränsle och tankning av flygplan.</li> <li>De vanligaste typerna av fordon och utrustning för tanktransporter, de vanligaste produkterna som transporteras i tankfordon samt de regler som gäller för dessa transporter.</li> <li>Särskilda risker med tank- och bulktransporter.</li> <li>Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska.</li> </ul><p></p><!-- FW_SEARCH_INDEX_END -->
+ 
+ 	
+ 	
+ 	<div class="clearer"></div>
+ 	
+ 	<h2 style="margin-top:12px; margin-bottom: 12px; padding-bottom:10px; border-bottom:5px solid #EEEEE9;">
+		Kunskapskrav
+	</h2>
+ 
+	
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget E</h4><p>Eleven beskriver <b>översiktligt</b> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <b>översiktligt </b>utifrån några exempel om risker i arbetet och redogör <b>översiktligt</b> för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>i samråd </b>med handledare i bekanta situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <b>i samråd </b>med handledare farligt gods i bekanta situationer. Eleven manövrerar och framför med<b> visst </b>handlag transport- och servicefordon. I arbetet väljer eleven <b>med viss säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>i samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <b>enkla </b>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>tillfredsställande</b>.</p><p>Eleven samarbetar med andra för att nå planerade resultat. I kommunikation med andra använder eleven <b>med viss säkerhet</b> yrkesspecifika begrepp. Eleven använder <b>med viss säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>enkel</b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget D</h4><p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget C</h4><p>Eleven beskriver <b>utförligt</b> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <b>utförligt</b> utifrån några exempel om risker i arbetet och redogör <b>utförligt </b>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>efter samråd </b>med handledare i bekanta <b>och delvis nya </b>situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <b>efter samråd </b>med handledare farligt gods i bekanta <b>och delvis nya </b>situationer. Eleven manövrerar och framför med <b>gott </b>handlag transport- och servicefordon. I arbetet väljer eleven <b>med viss säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>efter samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>tillfredsställande</b>.</p><p>Eleven samarbetar med andra <b>och</b> <b>medverkar till att upprätthålla samarbetet</b> för att nå planerade resultat. I kommunikation med andra använder eleven <b>med viss säkerhet</b> yrkesspecifika begrepp. Eleven använder <b>med viss säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>noggrann</b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget B</h4><p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget A</h4><p>Eleven beskriver <b>utförligt och nyanserat</b> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <b>utförligt och nyanserat</b> utifrån några exempel om risker i arbetet och redogör <b>utförligt </b>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>efter samråd </b>med handledare i bekanta <b>och nya situationer</b> arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <b>efter samråd </b>med handledare farligt gods i bekanta<b> och nya </b>situationer. Eleven manövrerar och framför med<b> mycket gott</b> handlag transport- och servicefordon. I arbetet väljer eleven <b>med säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>efter samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <b>välgrundade </b>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>gott</b>.</p><p>Eleven samarbetar med andra <b>och</b> <b>medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat. I kommunikation med andra använder eleven <b>med säkerhet </b>yrkesspecifika begrepp. Eleven använder <b>med säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    	
+</div>
+
+
+
+	
+		
+		
+
+
+
+
+
+
+<a id="anchor_FLGFAL0"></a>
+
+<div style="float: right;">
+	[<a onclick="document.getElementById('FLGFAL0').style.display = ('block' == document.getElementById('FLGFAL0').style.display) ? 'none' : 'block'; return false" href="#">Visa/Dölj</a>]
+</div>
+<h2 style="margin-top:12px; margin-bottom: 12px; padding-bottom:10px; border-bottom:5px solid #EEEEE9;">
+	Fälthållning, 200  poäng
+</h2>
+<div id="FLGFAL0" style="clear: both; display:block;">
+	
+	<h2>Kurskod: <!-- FW_SEARCH_INDEX_BEGIN -->FLGFAL0<!-- FW_SEARCH_INDEX_END --></h2>
+	
+	<p>Kursen fälthållning omfattar punkterna 1&mdash;4 och 6&mdash;9 under rubriken Ämnets syfte.</p>
+	
+	<h2 style="margin-top:12px; padding-bottom:5px;">
+		Centralt innehåll
+	</h2>
+	
+	
+		
+	
+	
+	<div style="padding-bottom:10px; border-bottom:5px solid #EEEEE9;"></div>
+	
+
+    <!-- FW_SEARCH_INDEX_BEGIN --><h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p></p><ul> <li>Flygplatsens och bansystemets uppbyggnad.</li> <li>Säkerhetsbestämmelser i samband med fälthållning.</li> <li>Risker vid arbete på flygplats. Miljöpåverkan på och i anslutning till flygplatser.</li> <li>Risker för kollisioner mellan flygplan, flygplan och fåglar eller flygplan och vilt. Åtgärder för att minimera dessa risker.</li> <li>Manövrering och framförande av fälthållningsfordon samt fordonskombinationer för sommar- och vinterväghållning.</li> <li>Koppling av utrustning till respektive fordon.</li> <li>Service, tillsyn, underhåll och säkerhetskontroll av fordon och utrustning.</li> <li>Sommarfälthållning med olika typer av fordon och redskap.</li> <li>Vinterfälthållning med olika typer av fordon och redskap. Regler och åtgärder för vinterfälthållning.</li> <li>Mekanisk och kemisk halkbekämpning.</li> <li>Fältinspektion samt mätning och rapportering av bromsverkan.</li> <li>Mindre reparationer av asfalt- och betongbeläggning.</li> <li>Kontroll av hinderfrihet, erforderliga åtgärder samt markering av ytor och hinder.</li> <li>Mindre reparationer på fältbelysning.</li> <li>Kontroll av dagvattensystem.</li> <li>Reparation och bärgning av fordon, även vid dåliga yttre förhållanden.</li> <li>Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska.</li> </ul><p></p><!-- FW_SEARCH_INDEX_END -->
+ 
+ 	
+ 	
+ 	<div class="clearer"></div>
+ 	
+ 	<h2 style="margin-top:12px; margin-bottom: 12px; padding-bottom:10px; border-bottom:5px solid #EEEEE9;">
+		Kunskapskrav
+	</h2>
+ 
+	
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget E</h4><p>Eleven beskriver <b>översiktligt</b> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <b>översiktligt </b>utifrån några exempel om risker i arbetet och redogör <b>översiktligt</b> för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>i samråd </b>med handledare i bekanta situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med<b> visst </b>handlag fälthållningsfordon. Eleven utför <b>i samråd </b>med handledare i bekanta situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <b>med viss säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>i samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <b>enkla </b>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>tillfredsställande</b>.</p><p>Eleven samarbetar med andra för att nå planerade resultat. I kommunikation med andra använder eleven <b>med viss säkerhet</b> yrkesspecifika begrepp. Eleven använder <b>med viss säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>enkel</b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget D</h4><p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget C</h4><p>Eleven beskriver <b>utförligt</b> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <b>utförligt </b>utifrån några exempel om risker i arbetet och redogör <b>utförligt </b>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>efter samråd </b>med handledare i bekanta <b>och delvis nya </b>situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med<b> gott </b>handlag fälthållningsfordon. Eleven utför <b>efter samråd </b>med handledare i bekanta<b> och delvis nya </b>situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <b>med viss säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>efter samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>tillfredsställande</b>.</p><p>Eleven samarbetar med andra <b>och</b> <b>medverkar till att upprätthålla samarbetet</b> för att nå planerade resultat. I kommunikation med andra använder eleven <b>med viss säkerhet</b> yrkesspecifika begrepp. Eleven använder <b>med viss säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>noggrann </b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget B</h4><p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.</p><!-- FW_SEARCH_INDEX_END -->      
+    
+				
+		
+			
+		
+        <!-- FW_SEARCH_INDEX_BEGIN --><h4>Betyget A</h4><p>Eleven beskriver <b>utförligt och nyanserat</b> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven<b> utförligt och nyanserat</b> utifrån några exempel om risker i arbetet och redogör <b>utförligt </b>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <b>efter samråd</b> med handledare i bekanta<b> och nya </b>situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med <b>mycket gott </b>handlag fälthållningsfordon. Eleven utför <b>efter samråd </b>med handledare i bekanta <b>och nya</b> situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <b>med säkerhet</b> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <b>efter samråd </b>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <b>välgrundade </b>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <b>gott</b>.</p><p>Eleven samarbetar med andra <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat. I kommunikation med andra använder eleven <b>med säkerhet </b>yrkesspecifika begrepp. Eleven använder <b>med säkerhet</b> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav.</p><!-- FW_SEARCH_INDEX_END -->      
+    	
+</div>
+
+
+
+	
+</div>
+
+<script type="text/javascript">
+	var c = ['FLGFLY0','FLGFAL0',''];
+	var un = '';
+	for (var i = 0; i < c.length - 1; i++) {
+		if (c[i] != un) {
+			document.getElementById(c[i]).style.display = 'none';
+		}
+	}
+</script>
+
+
+
+
+
+<div id="commentDivContainer">
+	
+</div>
+
+<!-- enumeration value="DESCRIPTION" -->
+<!-- enumeration value="PURPOSE" -->
+<!-- enumeration value="CENTRAL_CONTENT" -->
+<!-- enumeration value="KNOWLEDGE_REQUIREMENT" -->
+<!-- enumeration value="ABOUT_THE_SUBJECT" -->
+<!-- enumeration value="COMPARISON_GY2000" -->
+<!-- enumeration value="COMPARISON_GR" -->
+
+
+
+
+
+				
+
+				
+				<div id="printUp">
+				  	<div class="contentFooterUp">
+				  		<a href="#top" title="Till sidans topp"><strong>Upp</strong></a>
+				  	</div>
+				  	<div class="contentFooterPrint">
+				  		<a href="javascript:window.print();" title="Utskriftsversion av sidan" id="print" onclick="window.print(); return false;"><strong>Skriv ut</strong></a>
+					</div>
+				</div>
+				
+	
+        <!-- end external content -->        
+      </div>
+      
+
+
+
+
+
+
+
+
+
+  <div id="sidebar">
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_202829 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+    
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+    
+      
+    
+  </div>
+
+   
+    </div> 
+  
+            </div>
+            
+          </div>
+          <div class="clearer"></div>
+        </div>
+        
+        
+
+
+
+
+
+
+
+
+  <div id="footer">
+    
+      
+
+
+
+
+
+
+  
+  <div class="tlc cid-1_144251 block columnSplitter defaultTheme using3columns" lang="sv-SE">
+    
+    
+      <div class="column1">
+        <div class="column1Inner">
+          
+            
+
+
+
+
+
+  
+  <div class="tlc cid-1_144252 block list group defaultTheme" lang="sv-SE">
+    
+    <div class="listGroupInner">
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_144508 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3"><a href="/om-skolverket">Om Skolverket</a></h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+        <div class="lead">
+            <p>Skolverket styr, stödjer, följer upp och utvärderar kommuners och skolors arbete med syftet att förbättra kvaliteten och resultaten i verksamheterna.</p>
+        </div>    
+      
+    
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+  
+  <div class="tlc cid-1_144509 block list group defaultTheme" lang="sv-SE">
+    
+    <div class="listGroupInner">
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144510 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/det-har-gor-skolverket-1.61165" class="defaultTheme">Vad gör Skolverket?</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144513 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/jobb" class="defaultTheme">Lediga jobb</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144512 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/uppdrag-och-verksamhet/regeringsuppdrag" class="defaultTheme">Regeringsuppdrag</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_146674 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/publikationer" class="defaultTheme">Våra publikationer</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144511 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/prenumerera" class="defaultTheme">Prenumerera</a>
+</span>
+
+
+        </div>
+        
+      
+    </div>
+  </div> <!-- end block list group -->
+
+
+        </div>
+        
+      
+    </div>
+  </div> <!-- end block list group -->
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_144520 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3"><a href="/om-skolverket/om-oss/vara-webbplatser/om-webbplatsen-1.144519">Om webbplatsen</a></h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+        <div class="lead">
+            <p>Webbplatsen använder både tillfälliga och permanenta cookies (kakor).</p>
+        </div>    
+      
+    
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+            
+          
+        </div>
+      </div>
+    
+      <div class="column2">
+        <div class="column2Inner">
+          
+            
+
+
+
+
+
+  
+  <div class="tlc cid-1_144514 block list group defaultTheme" lang="sv-SE">
+    
+    <div class="listGroupInner">
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_178193 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3">Våra övriga webbplatser</h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+    
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144526 block link defaultTheme" lang="sv-SE">
+  <a href="http://siris.skolverket.se" target="_blank" class="defaultTheme" title="Statistik om skolor och kommuner (Öppnas i nytt fönster)">SIRIS - statistik om skolor och kommuner</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144530 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.utbildningsinfo.se" target="_blank" class="defaultTheme" title="Sök bland 50 000 skolor, kurser och program i hela Sverige. (Öppnas i nytt fönster)">Utbildningsinfo.se</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144522 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.gymnasieinfo.se" target="_blank" class="defaultTheme" title="Gymnasieinfo (Öppnas i nytt fönster)">Gymnasieinfo</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144524 block link defaultTheme" lang="sv-SE">
+  <a href="http://valjaskola.se" target="_blank" class="defaultTheme" title="Välja skola (Öppnas i nytt fönster)">Välja skola - Sök och jämför skolor</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144528 block link defaultTheme" lang="sv-SE">
+  <a href="http://modersmal.skolverket.se" target="_blank" class="defaultTheme" title="Samlad information om modersmålsstöd, modersmålundervisning och studiehandledning på modersmål. (Öppnas i nytt fönster)">Tema Modersmål</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144532 block link defaultTheme" lang="sv-SE">
+  <a href="/om-skolverket/om-oss/vara-webbplatser" class="defaultTheme">Visa alla</a>
+</span>
+
+
+        </div>
+        
+      
+    </div>
+  </div> <!-- end block list group -->
+
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+  
+  <div class="tlc cid-1_144533 block list group defaultTheme" lang="sv-SE">
+    
+    <div class="listGroupInner">
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_144540 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3">Andra skolmyndigheter</h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+    
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144534 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.skolinspektionen.se" target="_blank" class="defaultTheme" title="Skolinspektionen har tillsynsansvar över förskoleverksamhet, skolbarnsomsorg, skola och vuxenutbildn (Öppnas i nytt fönster)">Skolinspektionen</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144536 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.spsm.se" target="_blank" class="defaultTheme" title="Specialpedagogiska skolmyndigheten (Öppnas i nytt fönster)">Specialpedagogiska skolmyndigheten</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_144538 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.yhmyndigheten.se" target="_blank" class="defaultTheme" title="Myndigheten för yrkeshögskolan ansvarar för eftergymnasial yrkesutbildning utanför högskolan. (Öppnas i nytt fönster)">Myndigheten för yrkeshögskolan</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_158087 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.sameskolstyrelsen.se" target="_blank" class="defaultTheme" title="Sameskolstyrelsen (Öppnas i nytt fönster)">Sameskolstyrelsen</a>
+</span>
+
+
+        </div>
+        
+          <div class="blockItemSeparator"></div>
+        
+      
+        <div class="blockItem">
+          
+
+
+
+
+
+
+<span class="tlc cid-1_216920 block link defaultTheme" lang="sv-SE">
+  <a href="http://www.overklagandenamnden.se" target="_blank" class="defaultTheme" title="Skolväsendets överklagandenämnd prövar överklagade beslut inom skolväsendet. (Öppnas i nytt fönster)">Överklagandenämnden</a>
+</span>
+
+
+        </div>
+        
+      
+    </div>
+  </div> <!-- end block list group -->
+
+
+            
+          
+        </div>
+      </div>
+    
+      <div class="column3">
+        <div class="column3Inner">
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_144518 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3"><a href="/om-skolverket/kontakta-oss">Kontakta oss</a></h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+        <div class="lead">
+            <p>Skolverket<br>106 20 Stockholm</p><p>Besöksadress:<br>Fleminggatan 14</p><p>Upplysningstjänst och växel: 08-527 332 00</p>
+        </div>    
+      
+    
+      
+        <ul>
+          
+            <li><a href="/om-skolverket/kontakta-oss/kontakta-oss-1.9185" class="defaultTheme">Fler kontaktuppgifter</a></li>
+          
+        </ul>
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tlc cid-1_144254 block teaser white" lang="sv-SE">
+  <div class="teaserInner">
+    <h3 class="size3"><a href="/om-skolverket/om-oss/sociala-medier">Följ oss i sociala medier</a></h3>
+    
+      
+      
+      
+      
+    
+    <div class="top">
+      
+    
+      
+        <ul>
+          
+            <li><a href="http://www.youtube.com/statensskolverk" target="_blank" class="defaultTheme youtube" title="Youtube (Öppnas i nytt fönster)">Youtube</a></li>
+          
+            <li><a href="http://www.facebook.com/pages/Skolverket/158161947576383" target="_blank" class="defaultTheme facebook" title="Facebook (Öppnas i nytt fönster)">Facebook</a></li>
+          
+            <li><a href="http://twitter.com/skolverket" target="_blank" class="defaultTheme twitter" title="Twitter (Öppnas i nytt fönster)">Twitter</a></li>
+          
+        </ul>
+      
+    </div>
+  </div> <!--<div class="teaserInner">-->
+</div>
+<div class="clearer"></div>  
+
+            
+              <div class="columnItemSeparator"></div>
+            
+          
+            
+
+
+
+
+
+
+
+<!--   -->
+<script type="text/javascript" src="/polopoly_fs/1.169070!/Menu/article/attachment/sitester_script_v9_1662.js">
+</script>
+
+
+
+
+            
+          
+        </div>
+      </div>
+    
+    <div class="clearer"></div>
+  </div> <!-- end columnsplitter -->
+
+
+    
+  </div>
+
+
+            
+        <div id="statisticslogger">
+          <img src="/l.gif?type=URL_REQUEST&amp;referrer=&amp;d=%2F2.10%2F2.6777%2F2.7075%2F2.7400%2F2.7404%2F2.7499" alt="" height="1" width="1" title="">
+        </div>
+    
+      </div>
+    </div>
+    <div id="footerFrame"></div>
+  </body>
+
+
+</html>
+

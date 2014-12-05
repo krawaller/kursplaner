@@ -4,6 +4,13 @@ var fs = require('fs'),
 
 var found = {};
 
+function cleanText(buffer){
+	var ret = buffer.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-");
+	_.each({
+		"0,4-24kV": /0\,4\-24 kV/g
+	},function(regex,replace){ ret = ret.replace(regex,replace); });
+	return ret;
+};
 
 _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 	_.each(["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","Å","Ä","Ö"],function(l){
@@ -12,29 +19,44 @@ _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 				console.log("ERROR for",type,l,err);
 				throw "BARGHS"
 			}
-			var match = data.toString().match(/subject\.htm\?subjectCode=([A-ZÅÄÖ]{3})&amp;lang=sv&amp;tos\=gy\"\>([^<]*)/g);
+			var match = data.toString().match(/subject\.htm\?subjectCode=([A-ZÅÄÖ]{3}|[A-Z%0-9]{8})&amp;lang=sv&amp;tos\=gy\"\>([^<]*)/g);
 			_.each(match||[],function(str){
-				var code = str.match(/subjectCode=([A-ZÅÄÖ]{3})/)[1],
-					name = str.match(/>(.*)$/)[1];
+				var urlcode = str.match(/subjectCode=([A-ZÅÄÖ]{3}|[A-Z%0-9]{8})/)[1],
+					name = str.match(/>(.*)$/)[1],
+					code = urlcode.replace("%C3%84","Ä").replace("%C3%85","Å").replace("%C3%B6","Ö").replace("%C3%96","Ö");
 				if (!found[code]){
 					found[code] = name;
-					var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+code+"&lang=sv&tos=gy";
+					var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+urlcode+"&lang=sv&tos=gy";
 					download(path,function(data){
-						data = data.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace("��","å");
-						if (data.length > 5){
-							//data = data.match(/--><\/script><div class="clearer" ><\/div>(<h1>Ämne.*?)<\/div><script type="text\/javascript">var c = [
+						data = cleanText(data);
+						if (data.length && !data.match("Tyvärr kan vi inte hitta sidan du söker")){
 							fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",data);
 							console.log("saved type",type,"letter",l,"subject",code,name)
 						} else {
-							var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/"+code.toLowerCase()+"?"+"tos=gy&subjectCode="+code+"&lang=sv";
+							var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/"+urlcode.toLowerCase()+"?"+"tos=gy&subjectCode="+code+"&lang=sv";
 							download(path,function(data){
-								data = data.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace("��","å");
-								if (data.length > 5){
-									//data = data.match(/--><\/script><div class="clearer" ><\/div>(<h1>Ämne.*?)<\/div><script type="text\/javascript">var c = [
+								data = cleanText(data);
+								if (data.length  && !data.match("Tyvärr kan vi inte hitta sidan du söker")){
 									fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",data);
 									console.log("second chance saved type",type,"letter",l,"subject",code,name)
 								} else {
-									console.log(".....No luck at all for",type,l,code,name);
+									var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+encodeURIComponent(code)+"&lang=sv&tos=gy";
+									download(path,function(data){
+										data = cleanText(data);
+										if (data.length && !data.match("Tyvärr kan vi inte hitta sidan du söker")){
+											fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",data);
+											console.log("third chance saved type",type,"letter",l,"subject",code,name)
+										} else {
+											var f = fs.readFileSync('./manual/'+type+'/'+code+".html"),
+												d = cleanText(f && f.toString() || "");
+											if (d.length){
+												fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",d);
+												console.log("Ok, found manual backup for",type,l,code,name);
+											} else {
+												console.log(".....No luck at all for",type,l,code,name);
+											}
+										}
+									})
 								}
 							});
 						}
