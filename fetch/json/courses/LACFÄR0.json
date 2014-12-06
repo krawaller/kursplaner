@@ -2,7 +2,6 @@
 "name":"Färg och dekorationslackering",
 "points":100,
 "instrRAW":"som bygger på kursen baskurs i lackering eller kursen måleri 4.",
-"instrRAW2":"som bygger på kursen baskurs i lackering eller kursen måleri 4.",
 "reqRAW":"kursen LACBAK0 eller kursen MARMAL04",
 "code":"LACFÄR0",
 "goals":[0,1,1,1,1,1,0,1,1,1],

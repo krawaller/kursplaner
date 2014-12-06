@@ -2,7 +2,6 @@
 "name":"Värmeteknik 2",
 "points":100,
 "instrRAW":"som bygger på kursen värmeteknik 1.",
-"instrRAW2":"som bygger på kursen värmeteknik 1.",
 "reqRAW":"kursen VVSVÄR01",
 "code":"VVIVAR02",
 "goals":[1,0,1,1,1,0,1,0,1,1],

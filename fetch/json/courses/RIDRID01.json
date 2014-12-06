@@ -2,7 +2,6 @@
 "name":"Ridning 1",
 "points":100,
 "instrRAW":"som bygger på kursen ridning och körning.",
-"instrRAW2":"som bygger på kursen ridning och körning.",
 "reqRAW":"kursen RINRID0",
 "code":"RIDRID01",
 "goals":[1,2,1,1,1,2,0,1,1,1],

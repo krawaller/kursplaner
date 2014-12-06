@@ -2,7 +2,6 @@
 "name":"Mur- och putsverk 2 - murverk",
 "points":100,
 "instrRAW":"som bygger på kursen mur- och putsverk 1 - grundmurar.",
-"instrRAW2":"som bygger på kursen mur- och putsverk 1 - grundmurar.",
 "reqRAW":"kursen MURMUR01",
 "code":"MURMUR02",
 "goals":[1,1,1,1,1,1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Kraft- och värmeteknik 2",
 "points":200,
 "instrRAW":"som bygger på kursen kraft- och värmeteknik 1.",
-"instrRAW2":"som bygger på kursen kraft- och värmeteknik 1.",
 "reqRAW":"kursen KRAKRA01",
 "code":"KRAKRA02",
 "goals":[1,1,1,1,1,1,1,1],

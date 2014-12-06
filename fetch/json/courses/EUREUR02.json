@@ -2,7 +2,6 @@
 "name":"Eurytmi 2",
 "points":100,
 "instrRAW":"som bygger på kursen eurytmi 1.",
-"instrRAW2":"som bygger på kursen eurytmi 1.",
 "reqRAW":"kursen EUREUR01",
 "code":"EUREUR02",
 "goals":[1,1,1,2,0,1,1,2,2],

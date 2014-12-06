@@ -2,7 +2,6 @@
 "name":"Virkestransport med skotare",
 "points":100,
 "instrRAW":"som bygger på kursen terrängtransporter eller kursen fordon och redskap.",
-"instrRAW2":"som bygger på kursen terrängtransporter eller kursen fordon och redskap.",
 "reqRAW":"kursen SKMTER0 eller kursen NABFOR0",
 "code":"NABVIE0",
 "goals":[1,2,1,1,1,0,2,1,1],

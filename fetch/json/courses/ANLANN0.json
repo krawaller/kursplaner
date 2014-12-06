@@ -2,7 +2,6 @@
 "name":"Anläggning - vägbyggnad",
 "points":100,
 "instrRAW":"som bygger på kursen anläggning 2 eller kursen anläggningsförare 2.",
-"instrRAW2":"som bygger på kursen anläggning 2 eller kursen anläggningsförare 2.",
 "reqRAW":"kursen ANLANL02 eller kursen ANAANA02",
 "code":"ANLANN0",
 "goals":[1,1,1,1,1,1,1,1,1,0],

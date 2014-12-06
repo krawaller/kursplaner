@@ -2,7 +2,6 @@
 "name":"Ventilationsmontering 2",
 "points":200,
 "instrRAW":"som bygger på kursen ventilationsmontering 1.",
-"instrRAW2":"som bygger på kursen ventilationsmontering 1.",
 "reqRAW":"kursen VENVEN01",
 "code":"VENVEN02",
 "goals":[1,1,1,1,1,1,1,1,1,1],

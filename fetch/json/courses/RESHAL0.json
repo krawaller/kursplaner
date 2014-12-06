@@ -2,7 +2,6 @@
 "name":"Hållbar turism",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller på kurserna naturguidning 1, renen och dess naturmiljö 1 samt samisk mat och matkultur.",
-"instrRAW2":"som bygger på kursen besöksnäringen eller på kurserna naturguidning 1, renen och dess naturmiljö 1 samt samisk mat och matkultur.",
 "reqRAW":"kursen TURBEÖ0 eller på kurserna NAGNAT01, RENREN01 samt SASSAM0",
 "code":"RESHAL0",
 "goals":[2,1,1,2,1,1,2,1,1,1],

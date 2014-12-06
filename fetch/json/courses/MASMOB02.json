@@ -2,7 +2,6 @@
 "name":"Mobil hydraulik 2",
 "points":100,
 "instrRAW":"som bygger på kursen mobil hydraulik 1.",
-"instrRAW2":"som bygger på kursen mobil hydraulik 1.",
 "reqRAW":"kursen MASMOB01",
 "code":"MASMOB02",
 "goals":[1,1,1,0,1,1,1,1],

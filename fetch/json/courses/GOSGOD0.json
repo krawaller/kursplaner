@@ -2,7 +2,6 @@
 "name":"Godstrafik",
 "points":200,
 "instrRAW":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
-"instrRAW2":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
 "reqRAW":"kursen TRAYRK01a och kursen TRAYRK01b",
 "code":"GOSGOD0",
 "goals":[1,1,1,1,1,1,1],

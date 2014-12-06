@@ -2,7 +2,6 @@
 "name":"Matematik 1b",
 "points":100,
 "instrRAW":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1a eller 1c. Kursen ska ingå i ekonomiprogrammet, estetiska programmet, humanistiska programmet och samhällsvetenskapsprogrammet.",
-"instrRAW2":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen MATMAT01a eller MATMAT01c. Kursen ska ingå i ekonomiprogrammet, estetiska programmet, humanistiska programmet och samhällsvetenskapsprogrammet.",
 "reqRAW":"de kunskaper grundskolan ger eller motsvarande",
 "notwithRAW":"kursen MATMAT01a eller MATMAT01c",
 "prog":"ekonomiprogrammet, estetiska programmet, humanistiska programmet och samhällsvetenskapsprogrammet",

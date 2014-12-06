@@ -2,7 +2,6 @@
 "name":"Avhjälpande och förebyggande underhåll",
 "points":100,
 "instrRAW":"som bygger på kursen industriautomation.",
-"instrRAW2":"som bygger på kursen industriautomation.",
 "reqRAW":"kursen INRIND0",
 "code":"AUTAVH0",
 "goals":[1,0,1,1,0,1,2],

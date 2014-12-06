@@ -2,7 +2,6 @@
 "name":"Bild- och ljudanläggningar",
 "points":100,
 "instrRAW":"som bygger på kursen elektronik och mikrodatorteknik.",
-"instrRAW2":"som bygger på kursen elektronik och mikrodatorteknik.",
 "reqRAW":"kursen ELEELR0",
 "code":"ELOBID0",
 "goals":[1,1,1,1,1,1,1,1],

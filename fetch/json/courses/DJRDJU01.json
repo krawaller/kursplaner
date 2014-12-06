@@ -2,7 +2,6 @@
 "name":"Djurvård inom djurens hälso- och sjukvård 1",
 "points":100,
 "instrRAW":"som bygger på kursen djurens biologi. Dessutom bygger den på kursen sällskapsdjur 1, kursen hästkunskap 1 eller kursen lantbruksdjur 1.",
-"instrRAW2":"som bygger på kursen djurens biologi. Dessutom bygger den på kursen sällskapsdjur 1, kursen hästkunskap 1 eller kursen lantbruksdjur 1.",
 "reqRAW":"kursen BIGDJE0",
 "alsoreqRAW":"kursen DJUSÄL01, kursen HÄTHÄS01 eller kursen LANLAN01",
 "code":"DJRDJU01",

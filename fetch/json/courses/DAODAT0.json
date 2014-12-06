@@ -2,7 +2,6 @@
 "name":"Datorsamordning och support",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
-"instrRAW2":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
 "reqRAW":"kursen DAODAT01a eller kursen DAODAT01b",
 "code":"DAODAT0",
 "goals":[0,1,1,1,2],

@@ -2,7 +2,6 @@
 "name":"Renen och dess naturmiljö 2",
 "points":100,
 "instrRAW":"som bygger på kursen renen och dess naturmiljö 1.",
-"instrRAW2":"som bygger på kursen renen och dess naturmiljö 1.",
 "reqRAW":"kursen RENREN01",
 "code":"RENREN02",
 "goals":[1,1,1,0,0,0,0,0,1,1],

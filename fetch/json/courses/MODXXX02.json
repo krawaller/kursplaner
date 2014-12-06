@@ -2,7 +2,6 @@
 "name":"Moderna språk 2",
 "points":100,
 "instrRAW":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
-"instrRAW2":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
 "reqRAW":"kursen MODXXX01 eller moderna språk inom ramen för elevens val i grundskolan",
 "code":"MODXXX02",
 "comment":"<h2>Kommentar till centralt innehåll - moderna språk 2</h2><p>Se kommentar till centralt innehåll för moderna språk 1. Kommentaren gäller kurs 1-4.</p>",

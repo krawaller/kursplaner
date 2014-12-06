@@ -2,7 +2,6 @@
 "name":"Kraft- och värmeteknik 1",
 "points":200,
 "instrRAW":"som bygger på kursen energiteknik 2 och kursen vatten- och processkemi.",
-"instrRAW2":"som bygger på kursen energiteknik 2 och kursen vatten- och processkemi.",
 "reqRAW":"kursen ENEENE02 och kursen ENEVAE0",
 "code":"KRAKRA01",
 "goals":[1,1,1,1,1,1,1,1],

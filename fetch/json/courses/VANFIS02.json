@@ -2,7 +2,6 @@
 "name":"Fiskodling 2",
 "points":200,
 "instrRAW":"som bygger på kursen fiskodling 1.",
-"instrRAW2":"som bygger på kursen fiskodling 1.",
 "reqRAW":"kursen VANFIS01",
 "code":"VANFIS02",
 "goals":[1,1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Dansgestaltning 2",
 "points":100,
 "instrRAW":"som bygger på kursen dansgestaltning 1.",
-"instrRAW2":"som bygger på kursen dansgestaltning 1.",
 "reqRAW":"kursen DANDAN01",
 "code":"DANDAN02",
 "goals":[2,2,2,2,2,1,1,0,0],

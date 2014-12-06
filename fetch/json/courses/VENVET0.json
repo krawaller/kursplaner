@@ -2,7 +2,6 @@
 "name":"Ventilationsisolering",
 "points":200,
 "instrRAW":"som bygger på kursen bygg och anläggning 2 eller kursen VVS - grund.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 2 eller kursen VVS - grund.",
 "reqRAW":"kursen BYGBYG02 eller kursen VVS - grund",
 "code":"VENVET0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

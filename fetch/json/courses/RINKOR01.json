@@ -2,7 +2,6 @@
 "name":"Körning 1",
 "points":100,
 "instrRAW":"som bygger på kursen ridning och körning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen trav 1.",
-"instrRAW2":"som bygger på kursen ridning och körning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen trav 1.",
 "reqRAW":"kursen RINRID0",
 "notwithRAW":"kursen TRVTRA01",
 "code":"RINKOR01",

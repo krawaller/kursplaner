@@ -2,7 +2,6 @@
 "name":"Idrottsspecialisering 3",
 "points":100,
 "instrRAW":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
-"instrRAW2":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
 "reqRAW":"kursen SPEIDS02",
 "alsoreqRAW":"kursen SPETRÄ02 eller kursen TRNTRN02",
 "code":"SPEIDS03",

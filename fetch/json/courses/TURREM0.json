@@ -2,7 +2,6 @@
 "name":"Resmål och resvägar",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
-"instrRAW2":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
 "reqRAW":"kursen TURBEÖ0 eller kursen FORFOD0",
 "code":"TURREM0",
 "goals":[1,2,1,1,1,1,1,1,1,1],

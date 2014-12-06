@@ -2,7 +2,6 @@
 "name":"Anläggningsförare 1",
 "points":200,
 "instrRAW":"som bygger på kursen bygg och anläggning 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen grävmaskiner eller kursen hjullastare.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen grävmaskiner eller kursen hjullastare.",
 "reqRAW":"kursen BYGBYG02",
 "notwithRAW":"kursen MOBGRV0 eller kursen MOBHJU0",
 "code":"ANAANA01",

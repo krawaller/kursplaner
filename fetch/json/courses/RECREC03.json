@@ -2,7 +2,6 @@
 "name":"Reception 3",
 "points":100,
 "instrRAW":"som bygger på kursen reception 2.",
-"instrRAW2":"som bygger på kursen reception 2.",
 "reqRAW":"kursen RECREC02",
 "code":"RECREC03",
 "goals":[1,0,2,1,2,2,2],

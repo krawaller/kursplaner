@@ -2,7 +2,6 @@
 "name":"Småskalig skogsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen motor- och röjmotorsåg 1.",
-"instrRAW2":"som bygger på kursen motor- och röjmotorsåg 1.",
 "reqRAW":"kursen MOTMOT01",
 "code":"NABSMÅ0",
 "goals":[1,2,0,2,1,2,1,1,1],

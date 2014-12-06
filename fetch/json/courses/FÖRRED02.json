@@ -2,7 +2,6 @@
 "name":"Redovisning 2",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 2 eller kursen redovisning 1.",
-"instrRAW2":"som bygger på kursen företagsekonomi 2 eller kursen redovisning 1.",
 "reqRAW":"kursen FÖRFÖR02 eller kursen FÖRRED01",
 "code":"FÖRRED02",
 "goals":[0,1,0,2,1,0,1],

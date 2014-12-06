@@ -2,7 +2,6 @@
 "name":"Komfort- och säkerhetssystem 1b",
 "points":200,
 "instrRAW":"som bygger på kursen bromsar, kaross och chassi samt kursen motor och kraftöverföring.",
-"instrRAW2":"som bygger på kursen bromsar, kaross och chassi samt kursen motor och kraftöverföring.",
 "reqRAW":"kursen PERBRO0 samt kursen PERMOT0",
 "code":"PERKOM01b",
 "goals":[1,1,1,1,1,1,1,1],

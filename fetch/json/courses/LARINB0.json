@@ -2,7 +2,6 @@
 "name":"Inbrottslarmssystem",
 "points":100,
 "instrRAW":"som bygger på kursen larm-, övervaknings- och säkerhetssystem.",
-"instrRAW2":"som bygger på kursen larm-, övervaknings- och säkerhetssystem.",
 "reqRAW":"kursen LARLAM0",
 "code":"LARINB0",
 "goals":[1,1,1,1,1,1,1,1],

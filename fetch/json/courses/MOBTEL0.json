@@ -2,7 +2,6 @@
 "name":"Teleskoplastare",
 "points":100,
 "instrRAW":"som bygger på kursen hjullastare.",
-"instrRAW2":"som bygger på kursen hjullastare.",
 "reqRAW":"kursen MOBHJU0",
 "code":"MOBTEL0",
 "goals":[1,0,1,1,1,1,1,1,1,1],

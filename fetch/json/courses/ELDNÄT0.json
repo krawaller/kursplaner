@@ -2,7 +2,6 @@
 "name":"Nät- och transformatorstationer",
 "points":100,
 "instrRAW":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
-"instrRAW2":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
 "reqRAW":"kursen ELDLÅS0 eller kursen ELDHÖG0",
 "code":"ELDNÄT0",
 "goals":[1,1,1,1,1,1,1,1],

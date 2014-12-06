@@ -2,7 +2,6 @@
 "name":"Biologi 1",
 "points":100,
 "instrRAW":"som bygger på grundskolans kunskaper eller motsvarande.",
-"instrRAW2":"som bygger på grundskolans kunskaper eller motsvarande.",
 "reqRAW":"grundskolans kunskaper eller motsvarande",
 "code":"BIOBIO01",
 "comment":"<h2>Begrepp i kursen biologi 1</h2><h3>Ekosystemtjänster</h3><p>Begreppet <em>ekosystemtjänster</em> betonar människans beroende av naturen. Genom att beskriva processer i ekosystemen i termer av tjänster kan eleverna bli medvetna om att det ligger i vårt intresse att skaffa kunskaper om och förvalta olika ekosystem. Begreppet har på så sätt tydliga kopplingar till frågor om hållbar utveckling och synliggör biologins betydelse för individ och samhälle. Till ekosystemtjänster räknas både produkter som vatten, mat och råvaror, och processer som pollinering av växter, rening av vatten och cirkulation av näringsämnen. En annan ekosystemtjänst är möjligheten till friluftsliv och naturupplevelser.</p><h3>Enkla statistiska metoder</h3><p>Enkla statistiska metoder kan till exempel vara lägesmått och spridningsmått eller chi-2-test och T-test.</p><h3>Genetiska data</h3><p>Genetiska data kan användas för att studera släktskap, till exempel genom att jämföra olika arters genom.</p>",

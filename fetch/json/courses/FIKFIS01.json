@@ -2,7 +2,6 @@
 "name":"Fiskevård 1",
 "points":100,
 "instrRAW":"som bygger på biologi i vattenmiljöer 1.",
-"instrRAW2":"som bygger på BIIVAT01.",
 "reqRAW":"BIIVAT01",
 "code":"FIKFIS01",
 "goals":[2,1,1,1,2,1,1],

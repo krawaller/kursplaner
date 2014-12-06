@@ -2,7 +2,6 @@
 "name":"Produktionsfilosofi 2",
 "points":100,
 "instrRAW":"som bygger på produktionsfilosofi 1.",
-"instrRAW2":"som bygger på PRTPRO01.",
 "reqRAW":"PRTPRO01",
 "code":"PRTPRO02",
 "goals":[1,0,1,1,1,1,1,1],

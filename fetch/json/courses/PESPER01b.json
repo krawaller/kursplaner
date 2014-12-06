@@ -2,7 +2,6 @@
 "name":"Persontrafik 1b",
 "points":200,
 "instrRAW":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
-"instrRAW2":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
 "reqRAW":"kursen TRAYRK01a och kursen TRAYRK01b",
 "code":"PESPER01b",
 "goals":[1,1,1,0,0,0,0,1,1,0],

@@ -2,7 +2,6 @@
 "name":"Hästkunskap 3",
 "points":100,
 "instrRAW":"som bygger på kursen hästkunskap 2.",
-"instrRAW2":"som bygger på kursen hästkunskap 2.",
 "reqRAW":"kursen HÄTHÄS02",
 "code":"HÄTHÄS03",
 "goals":[1,1,1,1,1,1,1,1,1,1,0],

@@ -2,7 +2,6 @@
 "name":"Hästkunskap 1",
 "points":100,
 "instrRAW":"som bygger på kursen djurhållning.",
-"instrRAW2":"som bygger på kursen djurhållning.",
 "reqRAW":"kursen DJUDJH0",
 "code":"HÄTHÄS01",
 "goals":[1,1,2,1,0,2,2,0,1,2,0],

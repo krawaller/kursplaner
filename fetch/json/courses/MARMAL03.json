@@ -2,7 +2,6 @@
 "name":"Måleri 3",
 "points":200,
 "instrRAW":"som bygger på kursen måleri 2.",
-"instrRAW2":"som bygger på kursen måleri 2.",
 "reqRAW":"kursen MARMAL02",
 "code":"MARMAL03",
 "goals":[1,1,1,1,1,1,1,1,1,0],

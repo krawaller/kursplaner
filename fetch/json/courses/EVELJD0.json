@@ -2,7 +2,6 @@
 "name":"Ljudproduktionsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen eventteknik.",
-"instrRAW2":"som bygger på kursen eventteknik.",
 "reqRAW":"kursen EVEEVN0",
 "code":"EVELJD0",
 "goals":[1,1,1,1,1,1],

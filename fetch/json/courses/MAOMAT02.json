@@ -2,7 +2,6 @@
 "name":"Mat och butik 2",
 "points":100,
 "instrRAW":"som bygger på kursen mat och butik 1.",
-"instrRAW2":"som bygger på kursen mat och butik 1.",
 "reqRAW":"kursen MAOMAT01",
 "code":"MAOMAT02",
 "goals":[1,1,1,1,1,1,1,1],

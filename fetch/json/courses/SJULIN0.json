@@ -2,7 +2,6 @@
 "name":"Palliativ vård",
 "points":100,
 "instrRAW":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1. ",
-"instrRAW2":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1. ",
 "reqRAW":"kursen VÅRVÅR02 och kursen MEDMED01",
 "code":"SJULIN0",
 "goals":[1,0,1,1,1,1,1,0,1],

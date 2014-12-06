@@ -2,7 +2,6 @@
 "name":"Husbyggnad 3 - ombyggnad",
 "points":200,
 "instrRAW":"som bygger på kursen husbyggnad 2.",
-"instrRAW2":"som bygger på kursen husbyggnad 2.",
 "reqRAW":"kursen HUSHUS02",
 "code":"HUSHUS03",
 "goals":[1,1,1,1,1,1,1,1,1,0],

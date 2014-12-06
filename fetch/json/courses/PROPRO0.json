@@ -2,7 +2,6 @@
 "name":"Processdatorsystem",
 "points":100,
 "instrRAW":"som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.",
-"instrRAW2":"som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.",
 "reqRAW":"kursen DAOINU0",
 "alsoreqRAW":"kursen PROPRC01 eller kursen PROPRE0",
 "code":"PROPRO0",

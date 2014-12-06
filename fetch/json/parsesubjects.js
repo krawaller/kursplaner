@@ -151,7 +151,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					var instr = def.split(/,?  ?\d{2,3}  ?poäng,?  ?/)[1];
 					if (instr){
 						course.instrRAW = instr;
-						instr = course.instrRAW2 = fixLinkStr(course.instrRAW);
+						instr = fixLinkStr(course.instrRAW);
 						// REPEAT
 						var rep = instr.match(/och kan läsas flera gånger med olika innehåll|Kursen kan läsas (läsas )?flera? gånger med olika .*?\.|Kursen kan läsas flera gånger med innehåll från olika .*\.|som kan läsas flera gånger med olika innehåll\.|Kursen kan läsas flera gånger i olika språk\./)
 						if (rep){
@@ -662,5 +662,6 @@ _.each(GLOBAL.courses,function(course,code){
 _.each(GLOBAL.courses,function(course,code){
 	fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"').replace("��","å"));
 });
+fs.writeFile("./master.json",JSON.stringify(GLOBAL));
 
 

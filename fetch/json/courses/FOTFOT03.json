@@ -2,7 +2,6 @@
 "name":"Fotografisk bild 3",
 "points":100,
 "instrRAW":"som bygger på kursen fotografisk bild 2.",
-"instrRAW2":"som bygger på kursen fotografisk bild 2.",
 "reqRAW":"kursen FOTFOT02",
 "code":"FOTFOT03",
 "goals":[1,2,2,2,2,1,2,0,0],

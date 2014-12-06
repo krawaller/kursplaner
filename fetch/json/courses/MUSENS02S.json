@@ -2,7 +2,6 @@
 "name":"Ensemble 2",
 "points":100,
 "instrRAW":"som bygger på kursen ensemble med körsång eller kursen ensemble 1. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen ensemble med körsång eller kursen ensemble 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen MUSENS0 eller kursen MUSENS01",
 "code":"MUSENS02S",

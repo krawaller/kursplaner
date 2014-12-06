@@ -2,7 +2,6 @@
 "name":"Träningslära 2",
 "points":100,
 "instrRAW":"som bygger på kursen träningslära 1.",
-"instrRAW2":"som bygger på kursen träningslära 1.",
 "reqRAW":"kursen TRNTRN01",
 "code":"TRNTRN02",
 "goals":[1,1,1,1,1,1],

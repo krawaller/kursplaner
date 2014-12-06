@@ -2,7 +2,6 @@
 "name":"Kyl- och värmepumpsteknik - installation",
 "points":200,
 "instrRAW":"som bygger på kursen kyl- och värmepumpsteknik - grund.",
-"instrRAW2":"som bygger på kursen kyl- och värmepumpsteknik - grund.",
 "reqRAW":"kursen KYLKYO0",
 "code":"KYLKYC0",
 "goals":[1,1,0,1,0,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Lackeringsteknik - introduktion",
 "points":200,
 "instrRAW":"som bygger på kursen fordonsteknik - introduktion och kursen fordons- och transportbranschens villkor och arbetsområden.",
-"instrRAW2":"som bygger på kursen fordonsteknik - introduktion och kursen fordons- och transportbranschens villkor och arbetsområden.",
 "reqRAW":"kursen FODFOO0 och kursen FORFOD0",
 "code":"LACLAE0",
 "goals":[1,1,1,0,1,1,0,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Säkerhet och miljö",
 "points":200,
 "instrRAW":"som bygger på kursen grundläggande säkerhet.",
-"instrRAW2":"som bygger på kursen grundläggande säkerhet.",
 "reqRAW":"kursen SJOGRN0",
 "code":"SJOSAE0",
 "goals":[1,1,1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Växtkunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen växtkunskap 1.",
-"instrRAW2":"som bygger på kursen växtkunskap 1.",
 "reqRAW":"kursen VÄXVÄX01",
 "code":"VÄXVÄX02",
 "goals":[1,1,1,1,1,1],

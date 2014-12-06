@@ -2,7 +2,6 @@
 "name":"Informationsteknisk arkitektur",
 "points":100,
 "instrRAW":"som bygger på kursen datakommunikation och informationssäkerhet.",
-"instrRAW2":"som bygger på kursen datakommunikation och informationssäkerhet.",
 "reqRAW":"kursen INODAT0",
 "code":"INOINF0",
 "goals":[1,1,1,1,1,1,1,1],

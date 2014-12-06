@@ -2,7 +2,6 @@
 "name":"Sällskapsdjur 2",
 "points":100,
 "instrRAW":"som bygger på kursen sällskapsdjur 1.",
-"instrRAW2":"som bygger på kursen sällskapsdjur 1.",
 "reqRAW":"kursen DJUSÄL01",
 "code":"DJUSÄL02",
 "goals":[1,1,1,1,1,1,1,1],

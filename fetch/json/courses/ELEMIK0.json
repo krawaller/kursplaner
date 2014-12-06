@@ -2,7 +2,6 @@
 "name":"Mikrodatortillämpningar",
 "points":100,
 "instrRAW":"som bygger på kursen elektronik och mikrodatorteknik.",
-"instrRAW2":"som bygger på kursen elektronik och mikrodatorteknik.",
 "reqRAW":"kursen ELEELR0",
 "code":"ELEMIK0",
 "goals":[1,1,1,1,1,0,1,1],

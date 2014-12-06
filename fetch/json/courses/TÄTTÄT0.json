@@ -2,7 +2,6 @@
 "name":"Tätskikt våtrum",
 "points":100,
 "instrRAW":"som bygger på kursen husbyggnad 2 eller kursen måleri 1.",
-"instrRAW2":"som bygger på kursen husbyggnad 2 eller kursen måleri 1.",
 "reqRAW":"kursen HUSHUS02 eller kursen MARMAL01",
 "code":"TÄTTÄT0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

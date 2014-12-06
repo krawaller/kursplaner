@@ -2,7 +2,6 @@
 "name":"Den unga hästens utveckling 1a",
 "points":100,
 "instrRAW":"som bygger på kursen hästkunskap 1. Kursen den unga hästens utveckling 1a får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
-"instrRAW2":"som bygger på kursen hästkunskap 1. Kursen den unga hästens utveckling 1a får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
 "reqRAW":"kursen HÄTHÄS01",
 "code":"HÄTDEN01a",
 "goals":[0,0,1,1,1,1,1,0,1,1,0],

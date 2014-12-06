@@ -2,7 +2,6 @@
 "name":"Matlagning 3",
 "points":200,
 "instrRAW":"som bygger på kursen matlagning 2.",
-"instrRAW2":"som bygger på kursen matlagning 2.",
 "reqRAW":"kursen MALMAL02",
 "code":"MALMAL03",
 "goals":[2,1,1,1,2,1,1,2,1],

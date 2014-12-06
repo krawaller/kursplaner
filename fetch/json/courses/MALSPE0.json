@@ -2,7 +2,6 @@
 "name":"Specialkoster",
 "points":100,
 "instrRAW":"som bygger på kursen matlagning 3.",
-"instrRAW2":"som bygger på kursen matlagning 3.",
 "reqRAW":"kursen MALMAL03",
 "code":"MALSPE0",
 "goals":[1,1,1,1,1,1,1,1,1],

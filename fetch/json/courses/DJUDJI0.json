@@ -2,7 +2,6 @@
 "name":"Djur i zoohandel",
 "points":200,
 "instrRAW":"som bygger på kursen sällskapsdjur 2.",
-"instrRAW2":"som bygger på kursen sällskapsdjur 2.",
 "reqRAW":"kursen DJUSÄL02",
 "code":"DJUDJI0",
 "goals":[2,2,1,2,1,1,1,1],

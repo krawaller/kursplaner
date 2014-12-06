@@ -2,7 +2,6 @@
 "name":"Luftbehandlingsanläggningar",
 "points":200,
 "instrRAW":"som bygger på kursen luftbehandlingssystem.",
-"instrRAW2":"som bygger på kursen luftbehandlingssystem.",
 "reqRAW":"kursen VETLUB0",
 "code":"VETLUT0",
 "goals":[1,1,1,1,1,1,1],

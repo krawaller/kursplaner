@@ -2,7 +2,6 @@
 "name":"Allmän järnvägsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen praktisk ellära.",
-"instrRAW2":"som bygger på kursen praktisk ellära.",
 "reqRAW":"kursen ELLPRA0",
 "code":"JÄNALM0",
 "goals":[1,0,0,1,1,2,1],

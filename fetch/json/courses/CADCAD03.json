@@ -2,7 +2,6 @@
 "name":"Cad 3",
 "points":50,
 "instrRAW":"som bygger på kursen cad 2.",
-"instrRAW2":"som bygger på kursen cad 2.",
 "reqRAW":"kursen CADCAD02",
 "code":"CADCAD03",
 "goals":[0,0,1,1,1,1,0,0],

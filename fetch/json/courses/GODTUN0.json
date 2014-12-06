@@ -2,7 +2,6 @@
 "name":"Tunga arbetsmaskiner",
 "points":200,
 "instrRAW":"som bygger på kursen maskinell godshantering.",
-"instrRAW2":"som bygger på kursen maskinell godshantering.",
 "reqRAW":"kursen GODMAL0",
 "code":"GODTUN0",
 "goals":[1,1,1,1,1,1,1],

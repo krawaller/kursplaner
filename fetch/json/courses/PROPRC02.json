@@ -2,7 +2,6 @@
 "name":"Processmätteknik 2",
 "points":100,
 "instrRAW":"som bygger på kursen processmätteknik 1.",
-"instrRAW2":"som bygger på kursen processmätteknik 1.",
 "reqRAW":"kursen PROPRC01",
 "code":"PROPRC02",
 "goals":[1,0,1,1,0,0,1,1,1,1],

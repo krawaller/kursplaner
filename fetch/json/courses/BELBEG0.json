@@ -2,7 +2,6 @@
 "name":"Beläggningsmaskiner",
 "points":100,
 "instrRAW":"som bygger på kursen anläggning 2.",
-"instrRAW2":"som bygger på kursen anläggning 2.",
 "reqRAW":"kursen ANLANL02",
 "code":"BELBEG0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

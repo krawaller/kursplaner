@@ -2,7 +2,6 @@
 "name":"Medicin 2",
 "points":100,
 "instrRAW":"som bygger på kursen medicin 1.",
-"instrRAW2":"som bygger på kursen medicin 1.",
 "reqRAW":"kursen MEDMED01",
 "code":"MEDMED02",
 "goals":[1,1,1,1,0,1],

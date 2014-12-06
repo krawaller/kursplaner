@@ -2,7 +2,6 @@
 "name":"Elementmontering",
 "points":100,
 "instrRAW":"som bygger på kursen betong 1 - lågform och platta på mark eller kursen trä 1 - stommar.",
-"instrRAW2":"som bygger på kursen betong 1 - lågform och platta på mark eller kursen trä 1 - stommar.",
 "reqRAW":"kursen BETBET01 eller kursen TRÄTRK01",
 "code":"ELMELM0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

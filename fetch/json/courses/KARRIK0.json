@@ -2,7 +2,6 @@
 "name":"Riktbänkssystem",
 "points":200,
 "instrRAW":"som bygger på kursen riktningsteknik - introduktion.",
-"instrRAW2":"som bygger på kursen riktningsteknik - introduktion.",
 "reqRAW":"kursen KARRIT0",
 "code":"KARRIK0",
 "goals":[0,1,1,1,0,0,1,1,1,1],

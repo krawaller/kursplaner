@@ -2,7 +2,6 @@
 "name":"Persontrafik - vux",
 "points":200,
 "instrRAW":"som bygger på kursen yrkestrafik - vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
-"instrRAW2":"som bygger på kursen yrkestrafik - vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
 "reqRAW":"kursen TRAYRK1",
 "notwithRAW":"kursen PESPER01a eller kursen PESPER01b",
 "onlyadults":true,

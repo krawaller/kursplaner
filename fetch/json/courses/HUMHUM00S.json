@@ -2,7 +2,6 @@
 "name":"Humanistisk och samhällsvetenskaplig specialisering",
 "points":100,
 "instrRAW":"som beroende på valt kunskapsområde bygger på kursen samhällskunskap 2, kursen psykologi 2, kursen historia 2 eller kursen moderna språk 4. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som beroende på valt kunskapsområde bygger på kursen samhällskunskap 2, kursen psykologi 2, kursen historia 2 eller kursen moderna språk 4. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SAMSAM02, kursen psykologi 2, kursen historia 2 eller kursen MODXXX04",
 "code":"HUMHUM00S",

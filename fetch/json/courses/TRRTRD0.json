@@ -2,7 +2,6 @@
 "name":"Trädgårdsodling - grönsaker, frukt och bär",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsodling eller kursen växtodling 1.",
-"instrRAW2":"som bygger på kursen trädgårdsodling eller kursen växtodling 1.",
 "reqRAW":"kursen TRRTRA0 eller kursen VAOVAT01",
 "code":"TRRTRD0",
 "goals":[1,1,1,1,1,0,1,1],

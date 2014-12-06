@@ -2,7 +2,6 @@
 "name":"Elteknik",
 "points":300,
 "instrRAW":"som bygger på kursen allmän järnvägsteknik.",
-"instrRAW2":"som bygger på kursen allmän järnvägsteknik.",
 "reqRAW":"kursen JÄNALM0",
 "code":"JÄNELN0",
 "goals":[0,1,0,1,1,1,1],

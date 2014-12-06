@@ -2,7 +2,6 @@
 "name":"Turistbyråservice",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen.",
-"instrRAW2":"som bygger på kursen besöksnäringen.",
 "reqRAW":"kursen TURBEÖ0",
 "code":"TURTUR0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

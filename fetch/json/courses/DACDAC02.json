@@ -2,7 +2,6 @@
 "name":"Däckstjänst 2",
 "points":300,
 "instrRAW":"som bygger på kursen däckstjänst 1.",
-"instrRAW2":"som bygger på kursen däckstjänst 1.",
 "reqRAW":"kursen DACDAC01",
 "code":"DACDAC02",
 "goals":[0,2,2,1,1,2,0],

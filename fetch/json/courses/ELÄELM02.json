@@ -2,7 +2,6 @@
 "name":"Elmätteknik 2",
 "points":100,
 "instrRAW":"som bygger på kursen elmätteknik 1.",
-"instrRAW2":"som bygger på kursen elmätteknik 1.",
 "reqRAW":"kursen ELÄELM01",
 "code":"ELÄELM02",
 "goals":[1,1,1,1,1,1,1],

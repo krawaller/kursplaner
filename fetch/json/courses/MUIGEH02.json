@@ -2,7 +2,6 @@
 "name":"Gehörs- och musiklära 2",
 "points":100,
 "instrRAW":"som bygger på kursen gehörs- och musiklära 1.",
-"instrRAW2":"som bygger på kursen gehörs- och musiklära 1.",
 "reqRAW":"kursen MUIGEH01",
 "code":"MUIGEH02",
 "goals":[2,2,2,1,1,0,0,0,1],

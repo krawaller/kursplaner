@@ -2,7 +2,6 @@
 "name":"Skötsel av utemiljöer",
 "points":100,
 "instrRAW":"som bygger på kursen marken och växternas biologi eller kursen växtkunskap - fastighetsskötsel.",
-"instrRAW2":"som bygger på kursen marken och växternas biologi eller kursen växtkunskap - fastighetsskötsel.",
 "reqRAW":"kursen BIGMAN0 eller kursen VÄXVÄK0",
 "code":"SKÖSKÖ0",
 "goals":[1,0,1,2,0,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Trädgårdsanläggning - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsanläggning 2. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen trädgårdsanläggning 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen TRDTRÄ02",
 "code":"TRDTRÄ00S",

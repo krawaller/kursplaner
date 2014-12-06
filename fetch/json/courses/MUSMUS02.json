@@ -2,7 +2,6 @@
 "name":"Musikproduktion 2",
 "points":100,
 "instrRAW":"som bygger på kursen musikproduktion 1.",
-"instrRAW2":"som bygger på kursen musikproduktion 1.",
 "reqRAW":"kursen MUSMUS01",
 "code":"MUSMUS02",
 "goals":[0,0,0,0,1,0,0,2,1],

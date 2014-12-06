@@ -2,7 +2,6 @@
 "name":"Administration 1",
 "points":100,
 "instrRAW":"som bygger på kursen information och kommunikation 1, kursen reception 2 eller kursen konferens 2.",
-"instrRAW2":"som bygger på kursen information och kommunikation 1, kursen reception 2 eller kursen konferens 2.",
 "reqRAW":"kursen INFINF01, kursen RECREC02 eller kursen KONKON02",
 "code":"ADMADM01",
 "goals":[1,0,1,1,1,1,1,1],

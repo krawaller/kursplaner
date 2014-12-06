@@ -2,7 +2,6 @@
 "name":"Svenskt teckenspråk för hörande 2",
 "points":100,
 "instrRAW":"som bygger på kursen svenskt teckenspråk för hörande 1 eller svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan.",
-"instrRAW2":"som bygger på kursen svenskt teckenspråk för hörande 1 eller svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan.",
 "reqRAW":"kursen SVTSVT01 eller svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan",
 "code":"SVTSVT02",
 "goals":[1,1,1,1,1],

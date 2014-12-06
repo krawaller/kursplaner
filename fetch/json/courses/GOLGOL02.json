@@ -2,7 +2,6 @@
 "name":"Golvläggning 2 - våtrum",
 "points":100,
 "instrRAW":"som bygger på kursen golvläggning 1.",
-"instrRAW2":"som bygger på kursen golvläggning 1.",
 "reqRAW":"kursen GOLGOL01",
 "code":"GOLGOL02",
 "goals":[1,1,1,1,1,1,1,1,1,1],

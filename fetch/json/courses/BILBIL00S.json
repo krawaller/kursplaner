@@ -2,7 +2,6 @@
 "name":"Bild och form - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen BILBIL0 eller kursen BILFOM0",
 "code":"BILBIL00S",

@@ -2,7 +2,6 @@
 "name":"Odling i växthus 2",
 "points":100,
 "instrRAW":"som bygger på kursen odling i växthus 1.",
-"instrRAW2":"som bygger på kursen odling i växthus 1.",
 "reqRAW":"kursen ODIODL01",
 "code":"ODIODL02",
 "goals":[2,2,1,1,1,1,2,1,1],

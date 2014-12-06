@@ -2,7 +2,6 @@
 "name":"Plocklagerhantering",
 "points":100,
 "instrRAW":"som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. ",
-"instrRAW2":"som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. ",
 "reqRAW":"kursen LAGLAG0 eller kursen LAGLAP0 eller kursen INKLOG02",
 "code":"LAGPLO0",
 "goals":[0,1,1,0,1,1,0,1],

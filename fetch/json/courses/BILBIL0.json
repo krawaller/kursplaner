@@ -2,7 +2,6 @@
 "name":"Bild",
 "points":100,
 "instrRAW":"som bygger på kursen bild och form 1b eller kursen bild och form 1a2.",
-"instrRAW2":"som bygger på kursen bild och form 1b eller kursen bild och form 1a2.",
 "reqRAW":"kursen BILBIL01b eller kursen BILBIL01a2",
 "code":"BILBIL0",
 "goals":[1,1,1,1,1,1,1],

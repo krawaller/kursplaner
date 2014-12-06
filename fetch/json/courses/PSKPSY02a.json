@@ -2,7 +2,6 @@
 "name":"Psykologi 2a",
 "points":50,
 "instrRAW":"som bygger på kursen psykologi 1.",
-"instrRAW2":"som bygger på kursen psykologi 1.",
 "reqRAW":"kursen PSKPSY01",
 "code":"PSKPSY02a",
 "goals":[1,1,1,1,1,0],

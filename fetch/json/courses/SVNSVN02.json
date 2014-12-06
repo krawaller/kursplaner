@@ -2,7 +2,6 @@
 "name":"Svenska för döva 2",
 "points":100,
 "instrRAW":"som bygger på kursen svenska för döva 1.",
-"instrRAW2":"som bygger på kursen svenska för döva 1.",
 "reqRAW":"kursen SVNSVN01",
 "code":"SVNSVN02",
 "goals":[1,1,1,1,1,1,1,1,1],

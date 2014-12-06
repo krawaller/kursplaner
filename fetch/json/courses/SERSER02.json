@@ -2,7 +2,6 @@
 "name":"Servering 2",
 "points":200,
 "instrRAW":"som bygger på kursen servering 1.",
-"instrRAW2":"som bygger på kursen servering 1.",
 "reqRAW":"kursen SERSER01",
 "code":"SERSER02",
 "goals":[2,2,2,2,2,2,1,1],

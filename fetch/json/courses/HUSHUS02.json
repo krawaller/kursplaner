@@ -2,7 +2,6 @@
 "name":"Husbyggnad 2",
 "points":200,
 "instrRAW":"som bygger på kursen husbyggnad 1.",
-"instrRAW2":"som bygger på kursen husbyggnad 1.",
 "reqRAW":"kursen HUSHUS01",
 "code":"HUSHUS02",
 "goals":[1,1,1,1,1,1,1,1,1,0],

@@ -2,7 +2,6 @@
 "name":"Byggnadsunderhåll",
 "points":100,
 "instrRAW":"som bygger på kursen naturbruk.",
-"instrRAW2":"som bygger på kursen naturbruk.",
 "reqRAW":"kursen NAUNAU0",
 "code":"NARBYA0",
 "goals":[2,2,1,1,1,1,1],

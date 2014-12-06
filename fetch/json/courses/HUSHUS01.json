@@ -2,7 +2,6 @@
 "name":"Husbyggnad 1",
 "points":100,
 "instrRAW":"som bygger på kursen bygg och anläggning 2 eller på kurserna produktionsutrustning 1 och produktionskunskap 1.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 2 eller på kurserna produktionsutrustning 1 och produktionskunskap 1.",
 "reqRAW":"kursen BYGBYG02 eller på kurserna PRUPRD01S och PRDPRO01",
 "code":"HUSHUS01",
 "goals":[1,1,1,1,1,1,1,1,1,0],

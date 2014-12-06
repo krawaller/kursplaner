@@ -2,7 +2,6 @@
 "name":"Marinelektronik 2",
 "points":100,
 "instrRAW":"som bygger på kursen marinelektronik 1.",
-"instrRAW2":"som bygger på kursen marinelektronik 1.",
 "reqRAW":"kursen MAIMAR01",
 "code":"MAIMAR02",
 "goals":[1,1,1,1,1,1,1,1,1],

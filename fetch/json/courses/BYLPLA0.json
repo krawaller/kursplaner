@@ -2,7 +2,6 @@
 "name":"Planering före byggstart",
 "points":150,
 "instrRAW":"som bygger på kursen byggprocessens organisation.",
-"instrRAW2":"som bygger på kursen byggprocessens organisation.",
 "reqRAW":"kursen SAHBYP0",
 "code":"BYLPLA0",
 "goals":[0,0,1,1,0,1,1,0,0,0],

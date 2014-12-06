@@ -2,7 +2,6 @@
 "name":"Evenemang",
 "points":100,
 "instrRAW":"som bygger på kursen konferens och evenemang eller kursen utställningsdesign 2.",
-"instrRAW2":"som bygger på kursen konferens och evenemang eller kursen utställningsdesign 2.",
 "reqRAW":"kursen KONKOF0 eller kursen UTSUTS02",
 "code":"KONEVE0",
 "goals":[1,1,1,1,1,1,1],

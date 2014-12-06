@@ -2,7 +2,6 @@
 "name":"Skadebesiktning och produktionsflöde",
 "points":100,
 "instrRAW":"som bygger på kursen riktningsteknik - introduktion. ",
-"instrRAW2":"som bygger på kursen riktningsteknik - introduktion. ",
 "reqRAW":"kursen KARRIT0",
 "code":"KARSKA0",
 "goals":[1,0,1,1,1,0,1,1,1,1],

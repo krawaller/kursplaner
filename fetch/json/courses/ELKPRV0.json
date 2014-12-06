@@ -2,7 +2,6 @@
 "name":"Provning och kontrollarbete",
 "points":100,
 "instrRAW":"som bygger på kursen elektronikproduktionsteknik.",
-"instrRAW2":"som bygger på kursen elektronikproduktionsteknik.",
 "reqRAW":"kursen ELKELO0",
 "code":"ELKPRV0",
 "goals":[0,0,2,1,2,1,1,1],

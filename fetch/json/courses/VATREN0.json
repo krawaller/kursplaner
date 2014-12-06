@@ -2,7 +2,6 @@
 "name":"Rening av förorenat vatten",
 "points":100,
 "instrRAW":"som bygger på kursen vatten- och miljöteknik.",
-"instrRAW2":"som bygger på kursen vatten- och miljöteknik.",
 "reqRAW":"kursen VATVAT0",
 "code":"VATREN0",
 "goals":[1,1,0,1,1,1,1,1],

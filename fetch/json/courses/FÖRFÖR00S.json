@@ -2,7 +2,6 @@
 "name":"Företagsekonomi - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 2. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen företagsekonomi 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen FÖRFÖR02",
 "code":"FÖRFÖR00S",

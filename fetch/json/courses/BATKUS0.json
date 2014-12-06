@@ -2,7 +2,6 @@
 "name":"Kustnavigation och säkerhet",
 "points":100,
 "instrRAW":"som bygger på kursen skärgårdsnavigation.",
-"instrRAW2":"som bygger på kursen skärgårdsnavigation.",
 "reqRAW":"kursen BATSKA0",
 "code":"BATKUS0",
 "goals":[0,1,2,1,2,1],

@@ -2,7 +2,6 @@
 "name":"Fysik 2",
 "points":100,
 "instrRAW":"som bygger på kursen fysik 1a eller kursen fysik 1b2.",
-"instrRAW2":"som bygger på kursen fysik 1a eller kursen fysik 1b2.",
 "reqRAW":"kursen FYSFYS01a eller kursen FYSFYS01b2",
 "code":"FYSFYS02",
 "goals":[1,1,1,1,1],

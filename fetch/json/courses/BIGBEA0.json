@@ -2,7 +2,6 @@
 "name":"Bevarandebiologi",
 "points":100,
 "instrRAW":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
-"instrRAW2":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
 "reqRAW":"kursen BIGDJE0 eller kursen BIGMAN0",
 "code":"BIGBEA0",
 "goals":[0,0,0,0,0,1,1,1],

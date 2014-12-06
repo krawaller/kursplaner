@@ -2,7 +2,6 @@
 "name":"Journalistik, reklam och information 2",
 "points":100,
 "instrRAW":"som bygger på kursen journalistik, reklam och information 1.",
-"instrRAW2":"som bygger på kursen journalistik, reklam och information 1.",
 "reqRAW":"kursen MEEJOU01",
 "code":"MEEJOU02",
 "goals":[0,1,1,1,1,1,0,0],

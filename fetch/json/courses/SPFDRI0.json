@@ -2,7 +2,6 @@
 "name":"Drivsystem och bromsar",
 "points":200,
 "instrRAW":"som bygger på kursen spårbundna fordon - introduktion.",
-"instrRAW2":"som bygger på kursen spårbundna fordon - introduktion.",
 "reqRAW":"kursen SPFSPA0",
 "code":"SPFDRI0",
 "goals":[0,1,1,1,1,1,1,1,1],

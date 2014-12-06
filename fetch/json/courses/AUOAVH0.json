@@ -2,7 +2,6 @@
 "name":"Avhjälpande och förebyggande underhåll",
 "points":100,
 "instrRAW":"som bygger på kursen industriautomation eller på kurserna praktisk ellära, industriell informationsteknik, mät- och reglerteknik, mät- och styrteknik samt programmerbara styrsystem.",
-"instrRAW2":"som bygger på kursen industriautomation eller på kurserna praktisk ellära, industriell informationsteknik, mät- och reglerteknik, mät- och styrteknik samt programmerbara styrsystem.",
 "reqRAW":"kursen INRIND0 eller på kurserna ELLPRA0, DAOINU0, MÄTMÄT0, MÄTMÄO0 samt MÄTPRR0",
 "code":"AUOAVH0",
 "goals":[1,0,1,1,0,1,2],

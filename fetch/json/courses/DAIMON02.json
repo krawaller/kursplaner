@@ -2,7 +2,6 @@
 "name":"Datoriserad mönsterhantering 2",
 "points":100,
 "instrRAW":"som bygger på kursen datoriserad mönsterhantering 1.",
-"instrRAW2":"som bygger på kursen datoriserad mönsterhantering 1.",
 "reqRAW":"kursen MÖNDAT01",
 "code":"DAIMON02",
 "goals":[1,1,1],

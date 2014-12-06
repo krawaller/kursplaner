@@ -2,7 +2,6 @@
 "name":"Barteknik",
 "points":100,
 "instrRAW":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
-"instrRAW2":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
 "reqRAW":"kursen DRYDRC0",
 "code":"DRYBAT0",
 "goals":[0,1,0,1,2,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Belysningsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen elkraftteknik, kursen ellära 2 eller kursen praktisk ellära.",
-"instrRAW2":"som bygger på kursen elkraftteknik, kursen ellära 2 eller kursen praktisk ellära.",
 "reqRAW":"kursen ELRELF0, kursen ELLELL02 eller kursen ELLPRA0",
 "code":"INSBES0",
 "goals":[1,1,1,1,1,1],

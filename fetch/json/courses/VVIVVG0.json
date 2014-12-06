@@ -2,7 +2,6 @@
 "name":"VVS gassvetsning rör",
 "points":100,
 "instrRAW":"som bygger på kursen VVS svets och lödning rör.",
-"instrRAW2":"som bygger på kursen VVS svets och lödning rör.",
 "reqRAW":"kursen VVSVVS0",
 "code":"VVIVVG0",
 "goals":[0,0,1,1,1,0,1,0,1,1],

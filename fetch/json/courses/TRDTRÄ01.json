@@ -2,7 +2,6 @@
 "name":"Trädgårdsanläggning 1",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsodling.",
-"instrRAW2":"som bygger på kursen trädgårdsodling.",
 "reqRAW":"kursen TRRTRA0",
 "code":"TRDTRÄ01",
 "goals":[2,1,1,1,1,1,1,2],

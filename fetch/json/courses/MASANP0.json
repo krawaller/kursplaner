@@ -2,7 +2,6 @@
 "name":"Anpassning och montering av utrustning",
 "points":200,
 "instrRAW":"som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1.",
-"instrRAW2":"som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1.",
 "reqRAW":"kursen MASLAI0 eller kursen MASMOB01",
 "code":"MASANP0",
 "goals":[0,0,1,0,1,1,1,1],

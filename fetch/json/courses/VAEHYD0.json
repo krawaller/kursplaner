@@ -2,7 +2,6 @@
 "name":"Hydraulik, kraftstationshydraulik och turbiner",
 "points":100,
 "instrRAW":"som bygger på kursen vattenkraftstationer.",
-"instrRAW2":"som bygger på kursen vattenkraftstationer.",
 "reqRAW":"kursen VAEVAN0",
 "code":"VAEHYD0",
 "goals":[1,1,0,0,0,1,0,0,null,1],

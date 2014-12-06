@@ -2,7 +2,6 @@
 "name":"Konferens 3",
 "points":100,
 "instrRAW":"som bygger på kursen konferens 2.",
-"instrRAW2":"som bygger på kursen konferens 2.",
 "reqRAW":"kursen KONKON02",
 "code":"KONKON03",
 "goals":[1,1,2,2,2,2,2],

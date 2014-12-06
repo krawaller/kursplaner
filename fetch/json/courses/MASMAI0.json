@@ -2,7 +2,6 @@
 "name":"Maskin- och lastbilsteknik - introduktion",
 "points":200,
 "instrRAW":"som bygger på kursen fordonsteknik - introduktion.",
-"instrRAW2":"som bygger på kursen fordonsteknik - introduktion.",
 "reqRAW":"kursen FODFOO0",
 "code":"MASMAI0",
 "goals":[1,1,1,1,1,1,1,1],

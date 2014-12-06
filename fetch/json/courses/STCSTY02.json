@@ -2,7 +2,6 @@
 "name":"Styckning 2",
 "points":100,
 "instrRAW":"som bygger på kursen styckning 1.",
-"instrRAW2":"som bygger på kursen styckning 1.",
 "reqRAW":"kursen STYSTY01",
 "code":"STCSTY02",
 "goals":[1,1,1,1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Charkuteri 2",
 "points":100,
 "instrRAW":"som bygger på kursen charkuteri 1.",
-"instrRAW2":"som bygger på kursen charkuteri 1.",
 "reqRAW":"kursen STYCHA01",
 "code":"STYCHA02",
 "goals":[0,1,0,1,1,1,1,1,1,1],

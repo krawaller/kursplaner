@@ -2,7 +2,6 @@
 "name":"Barns lärande och växande",
 "points":100,
 "instrRAW":"som bygger på kursen lärande och utveckling och kursen människors miljöer.",
-"instrRAW2":"som bygger på kursen lärande och utveckling och kursen människors miljöer.",
 "reqRAW":"kursen PEDLÄR0 och kursen PEDMÄI0",
 "code":"PEDBAS0",
 "goals":[1,1,1,0,0,1],

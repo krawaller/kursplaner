@@ -2,7 +2,6 @@
 "name":"Lastmaskiner och truckar",
 "points":100,
 "instrRAW":"som bygger på kursen fordon och redskap.",
-"instrRAW2":"som bygger på kursen fordon och redskap.",
 "reqRAW":"kursen NABFOR0",
 "code":"NABLAA0",
 "goals":[1,2,0,2,1,1,1,1,1],

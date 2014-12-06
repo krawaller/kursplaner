@@ -2,7 +2,6 @@
 "name":"Arrangering och komposition 2",
 "points":100,
 "instrRAW":"som bygger på kursen arrangering och komposition 1.",
-"instrRAW2":"som bygger på kursen arrangering och komposition 1.",
 "reqRAW":"kursen MUIARA01",
 "code":"MUIARA02",
 "goals":[1,0,0,1,1,2,2,2,1],

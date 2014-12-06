@@ -2,7 +2,6 @@
 "name":"Våningsservice 1",
 "points":100,
 "instrRAW":"som bygger på kursen logi.",
-"instrRAW2":"som bygger på kursen logi.",
 "reqRAW":"kursen RECLOG0",
 "code":"HOTVÅN01",
 "goals":[1,0,1,1,1,1,1],

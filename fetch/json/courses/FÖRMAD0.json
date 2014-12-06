@@ -2,7 +2,6 @@
 "name":"Marknadsföring",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap och företagande.",
-"instrRAW2":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap och företagande.",
 "reqRAW":"kursen FÖRFÖR01 eller kursen FÖRENT0",
 "code":"FÖRMAD0",
 "goals":[1,1,0,1,1,0,1],

@@ -2,7 +2,6 @@
 "name":"Processreglering",
 "points":100,
 "instrRAW":"som bygger på kursen mät- och reglerteknik.",
-"instrRAW2":"som bygger på kursen mät- och reglerteknik.",
 "reqRAW":"kursen MÄTMÄT0",
 "code":"PROPRE0",
 "goals":[1,2,0,0,2,0,0,1,1,1],

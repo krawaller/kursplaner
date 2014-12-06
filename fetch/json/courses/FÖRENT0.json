@@ -2,7 +2,6 @@
 "name":"Entreprenörskap och företagande",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap.",
-"instrRAW2":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap.",
 "reqRAW":"kursen FÖRFÖR01 eller kursen ENTENR0",
 "code":"FÖRENT0",
 "goals":[0,1,1,1,0,1,0],

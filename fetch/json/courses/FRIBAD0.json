@@ -2,7 +2,6 @@
 "name":"Bad- och friskvårdsanläggningar",
 "points":100,
 "instrRAW":"som bygger på kursen fritids- och friskvårdsverksamheter.",
-"instrRAW2":"som bygger på kursen fritids- och friskvårdsverksamheter.",
 "reqRAW":"kursen FRIFRT0",
 "code":"FRIBAD0",
 "goals":[1,1,1,1,1],

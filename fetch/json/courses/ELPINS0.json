@@ -2,7 +2,6 @@
 "name":"Installationer",
 "points":100,
 "instrRAW":"som bygger på kursen praktisk ellära.",
-"instrRAW2":"som bygger på kursen praktisk ellära.",
 "reqRAW":"kursen ELLPRA0",
 "code":"ELPINS0",
 "goals":[0,1,1,0,1,1,1,0,0],

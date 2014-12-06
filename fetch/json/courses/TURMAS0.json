@@ -2,7 +2,6 @@
 "name":"Marknadsföring och försäljning",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller på kursen fritids- och friskvårdsverksamheter.",
-"instrRAW2":"som bygger på kursen besöksnäringen eller på kursen fritids- och friskvårdsverksamheter.",
 "reqRAW":"kursen TURBEÖ0 eller på kursen FRIFRT0",
 "code":"TURMAS0",
 "goals":[2,2,2,1,1,1,1,1,1,1],

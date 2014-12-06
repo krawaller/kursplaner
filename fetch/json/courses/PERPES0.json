@@ -2,7 +2,6 @@
 "name":"Personbilsteknik - introduktion",
 "points":200,
 "instrRAW":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
-"instrRAW2":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
 "reqRAW":"kursen FORFOD0 samt kursen FODFOO0",
 "code":"PERPES0",
 "goals":[1,1,1,1,1,1,1,1],

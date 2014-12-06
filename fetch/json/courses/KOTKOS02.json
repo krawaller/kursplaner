@@ -2,7 +2,6 @@
 "name":"Konstruktion 2",
 "points":100,
 "instrRAW":"som bygger på kursen konstruktion 1.",
-"instrRAW2":"som bygger på kursen konstruktion 1.",
 "reqRAW":"kursen KOTKOS01",
 "code":"KOTKOS02",
 "goals":[1,1,1,1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Datorstyrd produktion 5",
 "points":100,
 "instrRAW":"som bygger på kursen datorstyrd produktion 4.",
-"instrRAW2":"som bygger på kursen datorstyrd produktion 4.",
 "reqRAW":"kursen DARDAT04",
 "code":"DARDAT05",
 "goals":[1,0,1,1,1,1,1,1,1,1],

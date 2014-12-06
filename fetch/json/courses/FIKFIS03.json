@@ -2,7 +2,6 @@
 "name":"Fiskevård 3",
 "points":100,
 "instrRAW":"som bygger på fiskevård 2.",
-"instrRAW2":"som bygger på FIKFIS02.",
 "reqRAW":"FIKFIS02",
 "code":"FIKFIS03",
 "goals":[1,1,1,1,1,1,1],

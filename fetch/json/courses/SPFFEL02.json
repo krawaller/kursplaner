@@ -2,7 +2,6 @@
 "name":"Felsökning och diagnos 2",
 "points":100,
 "instrRAW":"som bygger på kursen felsökning och diagnos 1.",
-"instrRAW2":"som bygger på kursen felsökning och diagnos 1.",
 "reqRAW":"kursen SPFFEL01",
 "code":"SPFFEL02",
 "goals":[0,1,1,1,1,1,1,1,1],

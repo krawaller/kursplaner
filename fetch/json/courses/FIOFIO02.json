@@ -2,7 +2,6 @@
 "name":"Filosofi 2",
 "points":50,
 "instrRAW":"som bygger på kursen filosofi 1.",
-"instrRAW2":"som bygger på kursen filosofi 1.",
 "reqRAW":"kursen FIOFIO01",
 "code":"FIOFIO02",
 "goals":[1,1,1,1,1,1],

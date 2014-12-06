@@ -2,7 +2,6 @@
 "name":"Taxitrafik",
 "points":100,
 "instrRAW":"som bygger på kursen persontransporter - specialisering.",
-"instrRAW2":"som bygger på kursen persontransporter - specialisering.",
 "reqRAW":"kursen PESPER00S",
 "code":"PESTAX0",
 "goals":[1,1,0,0,0,1,0,1,1,0],

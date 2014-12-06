@@ -2,7 +2,6 @@
 "name":"Bygg och anläggning 2",
 "points":200,
 "instrRAW":"som bygger på kursen bygg och anläggning 1.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 1.",
 "reqRAW":"kursen BYGBYG01",
 "code":"BYGBYG02",
 "goals":[1,1,1,1,1,1,1,1,1,1],

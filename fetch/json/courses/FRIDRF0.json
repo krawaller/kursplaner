@@ -2,7 +2,6 @@
 "name":"Drift och underhåll av fritidsanläggningar",
 "points":100,
 "instrRAW":"som bygger på kursen fritids- och friskvårdsverksamheter.",
-"instrRAW2":"som bygger på kursen fritids- och friskvårdsverksamheter.",
 "reqRAW":"kursen FRIFRT0",
 "code":"FRIDRF0",
 "goals":[1,1,1,0,0],

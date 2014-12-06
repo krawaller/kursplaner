@@ -2,7 +2,6 @@
 "name":"Ridning 2",
 "points":100,
 "instrRAW":"som bygger på kursen ridning 1.",
-"instrRAW2":"som bygger på kursen ridning 1.",
 "reqRAW":"kursen RINRID01",
 "code":"RINRID02",
 "goals":[1,2,2,1,1,1,0,1,1,1],

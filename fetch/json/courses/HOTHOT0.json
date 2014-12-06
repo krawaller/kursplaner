@@ -2,7 +2,6 @@
 "name":"Hotelladministration",
 "points":100,
 "instrRAW":"som bygger på kursen reception 2 eller kursen konferens 2.",
-"instrRAW2":"som bygger på kursen reception 2 eller kursen konferens 2.",
 "reqRAW":"kursen RECREC02 eller kursen KONKON02",
 "code":"HOTHOT0",
 "goals":[1,0,2,2,1,1,2],

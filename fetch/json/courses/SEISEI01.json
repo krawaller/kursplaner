@@ -2,7 +2,6 @@
 "name":"Serviceteknik - naturbruk 1",
 "points":100,
 "instrRAW":"som bygger på kursen fordon och redskap eller kursen terrängtransporter.",
-"instrRAW2":"som bygger på kursen fordon och redskap eller kursen terrängtransporter.",
 "reqRAW":"kursen NABFOR0 eller kursen SKMTER0",
 "code":"SEISEI01",
 "goals":[2,1,2,2,0,1,1],

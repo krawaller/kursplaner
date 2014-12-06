@@ -2,7 +2,6 @@
 "name":"Grävmaskiner",
 "points":200,
 "instrRAW":"som bygger på kursen anläggning 2 eller kursen marken och växternas biologi. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna anläggningsförare 1, anläggningsförare 2, anläggningsförare 3 eller anläggningsförare 4.",
-"instrRAW2":"som bygger på kursen anläggning 2 eller kursen marken och växternas biologi. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna anläggningsförare 1, anläggningsförare 2, anläggningsförare 3 eller anläggningsförare 4.",
 "reqRAW":"kursen ANLANL02 eller kursen BIGMAN0",
 "notwithRAW":"någon av kurserna ANAANA01, ANAANA02, ANAANA03 eller ANAANA04",
 "code":"MOBGRV0",

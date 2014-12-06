@@ -2,7 +2,6 @@
 "name":"Lackeringssystem",
 "points":200,
 "instrRAW":"som bygger på kursen baskurs i lackering.",
-"instrRAW2":"som bygger på kursen baskurs i lackering.",
 "reqRAW":"kursen LACBAK0",
 "code":"LACLAC0",
 "goals":[0,1,1,1,0,1,0,1,1,1],

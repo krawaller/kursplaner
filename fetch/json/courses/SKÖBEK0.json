@@ -2,7 +2,6 @@
 "name":"Beskärning och trädvård",
 "points":100,
 "instrRAW":"som bygger på kursen skötsel av utemiljöer och kursen växtkunskap 1.",
-"instrRAW2":"som bygger på kursen skötsel av utemiljöer och kursen växtkunskap 1.",
 "reqRAW":"kursen SKÖSKÖ0 och kursen VÄXVÄX01",
 "code":"SKÖBEK0",
 "goals":[1,1,1,0,1,1,1,1,1],

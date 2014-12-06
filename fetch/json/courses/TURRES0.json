@@ -2,7 +2,6 @@
 "name":"Reseproduktion och försäljning",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen.",
-"instrRAW2":"som bygger på kursen besöksnäringen.",
 "reqRAW":"kursen TURBEÖ0",
 "code":"TURRES0",
 "goals":[2,2,2,1,1,2,2,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Anläggningsförare - process",
 "points":100,
 "instrRAW":"som bygger på kursen bygg och anläggning 2.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 2.",
 "reqRAW":"kursen BYGBYG02",
 "code":"ANAANL0",
 "comment":"<h2>Begrepp i kursen anläggningsförare - process</h2><h3>Från planering till färdigt resultat</h3><p>Kunskaper om anläggningsbranschens arbetsprocesser kan till exempel innefatta bygglovsförfaranden, kvalitetskrav och miljömässigt hållbart byggande.</p>",

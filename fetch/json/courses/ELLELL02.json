@@ -2,7 +2,6 @@
 "name":"Ellära 2",
 "points":100,
 "instrRAW":"som bygger på kursen ellära 1.",
-"instrRAW2":"som bygger på kursen ellära 1.",
 "reqRAW":"kursen ELLELL01",
 "code":"ELLELL02",
 "goals":[0,0,1,1,0,1,1],

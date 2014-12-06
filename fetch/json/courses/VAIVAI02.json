@@ -2,7 +2,6 @@
 "name":"Våningsservice 2",
 "points":100,
 "instrRAW":"som bygger på kursen våningsservice 1.",
-"instrRAW2":"som bygger på kursen våningsservice 1.",
 "reqRAW":"kursen VAIVAI01",
 "code":"VAIVAI02",
 "goals":[1,2,2,1,2,2],

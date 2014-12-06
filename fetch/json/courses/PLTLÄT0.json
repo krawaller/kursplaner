@@ -2,7 +2,6 @@
 "name":"Lättbyggnadsteknik",
 "points":200,
 "instrRAW":"som bygger på kursen bygg och anläggning 2.",
-"instrRAW2":"som bygger på kursen bygg och anläggning 2.",
 "reqRAW":"kursen BYGBYG02",
 "code":"PLTLÄT0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

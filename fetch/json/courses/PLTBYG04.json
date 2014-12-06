@@ -2,7 +2,6 @@
 "name":"Byggnadsplåtslageri 4",
 "points":200,
 "instrRAW":"som bygger på kursen byggnadsplåtslageri 3.",
-"instrRAW2":"som bygger på kursen byggnadsplåtslageri 3.",
 "reqRAW":"kursen PLTBYG03",
 "code":"PLTBYG04",
 "goals":[1,1,1,1,1,1,1,1,1,1],

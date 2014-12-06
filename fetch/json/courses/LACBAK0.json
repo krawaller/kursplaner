@@ -2,7 +2,6 @@
 "name":"Baskurs i lackering",
 "points":300,
 "instrRAW":"som bygger på kursen lackeringsteknik - introduktion.",
-"instrRAW2":"som bygger på kursen lackeringsteknik - introduktion.",
 "reqRAW":"kursen LACLAE0",
 "code":"LACBAK0",
 "goals":[0,1,1,1,0,1,0,1,1,1],

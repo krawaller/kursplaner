@@ -2,7 +2,6 @@
 "name":"Matematik 2b",
 "points":100,
 "instrRAW":"som bygger på kursen matematik 1a, 1b eller 1c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 2a eller 2c.",
-"instrRAW2":"som bygger på kursen MATMAT01a, MATMAT01b eller MATMAT01c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen MATMAT02a eller MATMAT02c.",
 "reqRAW":"kursen MATMAT01a, MATMAT01b eller MATMAT01c",
 "notwithRAW":"kursen MATMAT02a eller MATMAT02c",
 "code":"MATMAT02b",

@@ -2,7 +2,6 @@
 "name":"Biologi i vattenmiljöer 1",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
-"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIIVAT01",
 "goals":[1,1,1,0,1,1,0,1],

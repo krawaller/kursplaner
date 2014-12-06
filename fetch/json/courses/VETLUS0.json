@@ -2,7 +2,6 @@
 "name":"Luftströmning",
 "points":200,
 "instrRAW":"som bygger på kursen luftbehandling.",
-"instrRAW2":"som bygger på kursen luftbehandling.",
 "reqRAW":"kursen VETLUF0",
 "code":"VETLUS0",
 "goals":[1,1,1,1,1,1,1],

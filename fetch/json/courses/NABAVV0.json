@@ -2,7 +2,6 @@
 "name":"Avverkningsmaskiner",
 "points":100,
 "instrRAW":"som bygger på kursen virkestransport med skotare, kursen virkeslära och kursen skogsskötsel 1.",
-"instrRAW2":"som bygger på kursen virkestransport med skotare, kursen virkeslära och kursen skogsskötsel 1.",
 "reqRAW":"kursen SKMVIE0, kursen SKGVIR0 och kursen SKGSKO01",
 "code":"NABAVV0",
 "goals":[1,2,0,2,1,0,1,1,1],

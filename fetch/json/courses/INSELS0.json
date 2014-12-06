@@ -2,7 +2,6 @@
 "name":"Elmotorstyrning",
 "points":100,
 "instrRAW":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
-"instrRAW2":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
 "reqRAW":"kursen ELRELF0",
 "alsoreqRAW":"kursen ELLELL02 eller kursen ELLPRA0",
 "code":"INSELS0",

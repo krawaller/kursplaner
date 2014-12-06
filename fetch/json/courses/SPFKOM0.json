@@ -2,7 +2,6 @@
 "name":"Kommunikationssystem",
 "points":100,
 "instrRAW":"som bygger på kursen spårbundna fordon - introduktion.",
-"instrRAW2":"som bygger på kursen spårbundna fordon - introduktion.",
 "reqRAW":"kursen SPFSPA0",
 "code":"SPFKOM0",
 "goals":[0,1,1,1,1,1,1,1,1],

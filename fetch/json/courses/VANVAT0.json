@@ -2,7 +2,6 @@
 "name":"Vattenbruk - grunder",
 "points":100,
 "instrRAW":"som bygger på kursen biologi i vattenmiljöer 1.",
-"instrRAW2":"som bygger på kursen BIIVAT01.",
 "reqRAW":"kursen BIIVAT01",
 "code":"VANVAT0",
 "goals":[0,1,1,1,1,1],

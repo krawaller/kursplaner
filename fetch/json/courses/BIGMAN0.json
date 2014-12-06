@@ -2,7 +2,6 @@
 "name":"Marken och växternas biologi",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
-"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIGMAN0",
 "goals":[2,2,0,0,1,1,0,1],

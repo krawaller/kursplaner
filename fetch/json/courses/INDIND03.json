@@ -2,7 +2,6 @@
 "name":"Industrirörteknik 3",
 "points":200,
 "instrRAW":"som bygger på kursen industrirörteknik 2.",
-"instrRAW2":"som bygger på kursen industrirörteknik 2.",
 "reqRAW":"kursen INDIND02",
 "code":"INDIND03",
 "goals":[1,1,1,1,1,1,1],

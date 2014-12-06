@@ -2,7 +2,6 @@
 "name":"Kälsvets 2",
 "points":100,
 "instrRAW":"som bygger på kursen kälsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-"instrRAW2":"som bygger på kursen kälsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
 "repeat":"Kursen kan läsas flera gånger med olika svetsmetoder.",
 "reqRAW":"kursen SAAKÄL01S",
 "code":"SAAKÄL02S",

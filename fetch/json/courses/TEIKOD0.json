@@ -2,7 +2,6 @@
 "name":"Kondensisolering",
 "points":100,
 "instrRAW":"som bygger på kursen VVS-isolering och kursen ytbeklädnad - grund.",
-"instrRAW2":"som bygger på kursen VVS-isolering och kursen ytbeklädnad - grund.",
 "reqRAW":"kursen TEIVVS0 och kursen TEIYTB0",
 "code":"TEIKOD0",
 "goals":[1,0,1,1,1,1,1],

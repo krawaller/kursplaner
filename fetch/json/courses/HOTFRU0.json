@@ -2,7 +2,6 @@
 "name":"Frukost och bufféservering",
 "points":100,
 "instrRAW":"som bygger på kursen logi.",
-"instrRAW2":"som bygger på kursen logi.",
 "reqRAW":"kursen RECLOG0",
 "code":"HOTFRU0",
 "goals":[1,1,2,2,2,2,2],

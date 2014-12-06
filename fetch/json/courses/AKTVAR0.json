@@ -2,7 +2,6 @@
 "name":"Värdskap på resmålet",
 "points":100,
 "instrRAW":"som bygger på kursen resmål och resvägar.",
-"instrRAW2":"som bygger på kursen resmål och resvägar.",
 "reqRAW":"kursen TURREM0",
 "code":"AKTVAR0",
 "goals":[2,2,2,1,1,2,1,1,2,1],

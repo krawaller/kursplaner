@@ -2,7 +2,6 @@
 "name":"Förnybar energi",
 "points":100,
 "instrRAW":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
-"instrRAW2":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
 "reqRAW":"kursen ENEENE01, kursen SKGSKO01 eller kursen VAOVAT01",
 "code":"ENEFÖR0",
 "goals":[1,1,1,1,1,0,1,1,1,1],

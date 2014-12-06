@@ -2,7 +2,6 @@
 "name":"Terrängtransporter",
 "points":100,
 "instrRAW":"som bygger på kursen naturbruk eller kursen renen och rennäringen. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fordon och redskap.",
-"instrRAW2":"som bygger på kursen naturbruk eller kursen RENREE01. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fordon och redskap.",
 "reqRAW":"kursen NAUNAU0 eller kursen RENREE01",
 "notwithRAW":"kursen NABFOR0",
 "code":"NABTER0",

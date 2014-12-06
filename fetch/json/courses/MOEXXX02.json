@@ -2,7 +2,6 @@
 "name":"Modersmål 2",
 "points":100,
 "instrRAW":"som bygger på kursen modersmål 1.",
-"instrRAW2":"som bygger på kursen modersmål 1.",
 "reqRAW":"kursen MOEXXX01",
 "code":"MOEXXX02",
 "goals":[2,2,2,1,1,1,1],

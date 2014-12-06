@@ -2,7 +2,6 @@
 "name":"Produktionsstyrning i byggskedet",
 "points":200,
 "instrRAW":"som bygger på kursen byggprocessens organisation och kursen planering före byggstart.",
-"instrRAW2":"som bygger på kursen byggprocessens organisation och kursen planering före byggstart.",
 "reqRAW":"kursen SAHBYP0 och kursen BYLPLA0",
 "code":"BYLPRO0",
 "goals":[0,0,0,0,1,0,0,1,1,1],

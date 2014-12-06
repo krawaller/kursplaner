@@ -2,7 +2,6 @@
 "name":"Djurens biologi",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
-"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIGDJE0",
 "goals":[0,0,1,1,1,1,0,1],

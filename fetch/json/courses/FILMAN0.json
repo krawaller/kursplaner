@@ -2,7 +2,6 @@
 "name":"Manus för film och tv",
 "points":100,
 "instrRAW":"som bygger på kursen film- och tv-produktion 1.",
-"instrRAW2":"som bygger på kursen film- och tv-produktion 1.",
 "reqRAW":"kursen FILFIL01",
 "code":"FILMAN0",
 "goals":[1,2,0,1,1],

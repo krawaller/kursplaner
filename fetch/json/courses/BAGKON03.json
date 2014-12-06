@@ -2,7 +2,6 @@
 "name":"Konditori 3",
 "points":100,
 "instrRAW":"som bygger på kursen konditori 2.",
-"instrRAW2":"som bygger på kursen konditori 2.",
 "reqRAW":"kursen BAGKON02",
 "code":"BAGKON03",
 "goals":[2,2,2,2,2,2,1,1,1,0],

@@ -2,7 +2,6 @@
 "name":"Luftbehandlingssystem",
 "points":200,
 "instrRAW":"som bygger på kursen luftströmning.",
-"instrRAW2":"som bygger på kursen luftströmning.",
 "reqRAW":"kursen VETLUS0",
 "code":"VETLUB0",
 "goals":[1,1,1,1,1,1,1],

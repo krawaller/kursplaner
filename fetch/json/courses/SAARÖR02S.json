@@ -2,7 +2,6 @@
 "name":"Rörsvets 2",
 "points":100,
 "instrRAW":"som bygger på kursen rörsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-"instrRAW2":"som bygger på kursen rörsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
 "repeat":"Kursen kan läsas flera gånger med olika svetsmetoder.",
 "reqRAW":"kursen SAARÖR01S",
 "code":"SAARÖR02S",

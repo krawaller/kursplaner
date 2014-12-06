@@ -2,7 +2,6 @@
 "name":"Språk specialisering - skrivande",
 "points":100,
 "instrRAW":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. ",
-"instrRAW2":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. ",
 "repeat":"Kursen kan läsas flera gånger i olika språk.",
 "reqRAW":"någon av kurserna ENGENG05, MODXXX05 eller MOEXXX01",
 "code":"SPAXXX0",

@@ -2,7 +2,6 @@
 "name":"Teknik 2",
 "points":100,
 "instrRAW":"som bygger på kursen teknik 1.",
-"instrRAW2":"som bygger på kursen teknik 1.",
 "reqRAW":"kursen TEKTEK01",
 "code":"TEKTEK02",
 "goals":[0,1,1,1,1,0,0,0,1],

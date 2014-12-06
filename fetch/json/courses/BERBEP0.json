@@ -2,7 +2,6 @@
 "name":"Bergsprängning",
 "points":200,
 "instrRAW":"som bygger på kursen anläggning 2.",
-"instrRAW2":"som bygger på kursen anläggning 2.",
 "reqRAW":"kursen ANLANL02",
 "code":"BERBEP0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

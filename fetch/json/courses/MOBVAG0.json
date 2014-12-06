@@ -2,7 +2,6 @@
 "name":"Väghyvel",
 "points":200,
 "instrRAW":"som bygger på kursen anläggning - vägbyggnad.",
-"instrRAW2":"som bygger på kursen anläggning - vägbyggnad.",
 "reqRAW":"kursen ANLANN0",
 "code":"MOBVAG0",
 "goals":[1,1,1,1,1,1,1,1,1,1],

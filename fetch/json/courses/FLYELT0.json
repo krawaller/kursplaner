@@ -2,7 +2,6 @@
 "name":"Elektronik - flyg",
 "points":100,
 "instrRAW":"som bygger på kursen ellära - flyg.",
-"instrRAW2":"som bygger på kursen ellära - flyg.",
 "reqRAW":"kursen FLYELL0",
 "code":"FLYELT0",
 "goals":[0,1,0,0,1,1,1,0,0],

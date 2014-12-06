@@ -2,7 +2,6 @@
 "name":"Rättspsykiatri",
 "points":100,
 "instrRAW":"som bygger på kursen psykiatri 2.",
-"instrRAW2":"som bygger på kursen psykiatri 2.",
 "reqRAW":"kursen PSYPSY02",
 "code":"PSYRÄS0",
 "goals":[1,0,1,1,1,0,0,1,1,1],

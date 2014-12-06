@@ -2,7 +2,6 @@
 "name":"Bageri 4",
 "points":100,
 "instrRAW":"som bygger på kursen bageri 3.",
-"instrRAW2":"som bygger på kursen bageri 3.",
 "reqRAW":"kursen BAGBAG03",
 "code":"BAGBAG04",
 "goals":[1,1,1,1,1,1,1,1,1,0],

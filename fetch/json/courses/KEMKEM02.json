@@ -2,7 +2,6 @@
 "name":"Kemi 2",
 "points":100,
 "instrRAW":"som bygger på kursen kemi 1.",
-"instrRAW2":"som bygger på kursen kemi 1.",
 "reqRAW":"kursen KEMKEM01",
 "code":"KEMKEM02",
 "goals":[1,1,1,1,1],

@@ -2,7 +2,6 @@
 "name":"Motor- och röjmotorsåg 2",
 "points":100,
 "instrRAW":"som bygger på kursen motor- och röjmotorsåg 1.",
-"instrRAW2":"som bygger på kursen motor- och röjmotorsåg 1.",
 "reqRAW":"kursen MOTMOT01",
 "code":"MOTMOT02",
 "goals":[0,1,0,1,1,1],

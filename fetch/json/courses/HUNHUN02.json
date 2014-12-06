@@ -2,7 +2,6 @@
 "name":"Hundkunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen hundkunskap 1.",
-"instrRAW2":"som bygger på kursen hundkunskap 1.",
 "reqRAW":"kursen HUNHUN01",
 "code":"HUNHUN02",
 "goals":[1,1,1,1,1,1,1,1,1,1],

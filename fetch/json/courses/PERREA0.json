@@ -2,7 +2,6 @@
 "name":"Reparation av personbilar och lätta transportfordon",
 "points":300,
 "instrRAW":"som bygger på kursen personbilsteknik - introduktion.",
-"instrRAW2":"som bygger på kursen personbilsteknik - introduktion.",
 "reqRAW":"kursen PERPES0",
 "code":"PERREA0",
 "goals":[1,1,1,1,1,1,1,1],

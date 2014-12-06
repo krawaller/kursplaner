@@ -2,7 +2,6 @@
 "name":"Materialkunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen materialkunskap 1.",
-"instrRAW2":"som bygger på kursen materialkunskap 1.",
 "reqRAW":"kursen MAEMAT01",
 "code":"MAEMAT02",
 "goals":[1,1,1,1,1,1,1,1],

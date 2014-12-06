@@ -2,7 +2,6 @@
 "name":"Järnvägsbyggnad 3",
 "points":200,
 "instrRAW":"som bygger på kursen järnvägsbyggnad 2.",
-"instrRAW2":"som bygger på kursen järnvägsbyggnad 2.",
 "reqRAW":"kursen JÄRJÄR02",
 "code":"JÄRJÄR03",
 "goals":[1,1,1,1,1,1,1,1,1,1],

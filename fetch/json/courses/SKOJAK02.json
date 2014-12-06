@@ -2,7 +2,6 @@
 "name":"Jakt och viltvård 2",
 "points":200,
 "instrRAW":"som bygger på kursen jakt och viltvård 1.",
-"instrRAW2":"som bygger på kursen jakt och viltvård 1.",
 "reqRAW":"kursen SKOJAK01",
 "code":"SKOJAK02",
 "goals":[0,1,1,1,1,0,0,1,1],

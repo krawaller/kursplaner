@@ -2,7 +2,6 @@
 "name":"Underhåll - pneumatik",
 "points":100,
 "instrRAW":"som bygger på kursen underhåll - hydraulik och pneumatik.",
-"instrRAW2":"som bygger på kursen underhåll - hydraulik och pneumatik.",
 "reqRAW":"kursen DRIUNH0",
 "code":"DRIUNP0",
 "goals":[1,1,1,2,2,1,0,0],

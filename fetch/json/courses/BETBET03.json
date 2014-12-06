@@ -2,7 +2,6 @@
 "name":"Betong 3 - bärlag",
 "points":100,
 "instrRAW":"som bygger på kursen betong 2 - väggar och pelare.",
-"instrRAW2":"som bygger på kursen betong 2 - väggar och pelare.",
 "reqRAW":"kursen BETBET02",
 "code":"BETBET03",
 "goals":[1,1,1,1,1,1,1,1,1,1],

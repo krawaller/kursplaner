@@ -2,7 +2,6 @@
 "name":"Idrott och hälsa 2",
 "points":100,
 "instrRAW":"som bygger på kursen idrott och hälsa 1.",
-"instrRAW2":"som bygger på kursen idrott och hälsa 1.",
 "reqRAW":"kursen IDRIDR01",
 "code":"IDRIDR02",
 "goals":[1,1,1,1,1,1,1],

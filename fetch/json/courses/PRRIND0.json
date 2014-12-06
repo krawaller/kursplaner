@@ -2,7 +2,6 @@
 "name":"Industriell programmering",
 "points":100,
 "instrRAW":"som bygger på kursen programmering 1.",
-"instrRAW2":"som bygger på kursen programmering 1.",
 "reqRAW":"kursen PRRPRR01",
 "code":"PRRIND0",
 "goals":[1,0,1,1,0,0,1,1],

@@ -2,7 +2,6 @@
 "name":"VVS-teknik",
 "points":200,
 "instrRAW":"som bygger på kursen sanitetsteknik 2 och kursen värmeteknik 2.",
-"instrRAW2":"som bygger på kursen sanitetsteknik 2 och kursen värmeteknik 2.",
 "reqRAW":"kursen VVSSAN02 och kursen VVSVÄR02",
 "code":"VVSVVT0",
 "goals":[1,0,1,1,1,1,1,0,1,1],

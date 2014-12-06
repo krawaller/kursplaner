@@ -2,7 +2,6 @@
 "name":"Laboratorieteknik",
 "points":200,
 "instrRAW":"som bygger på kursen industritekniska processer 2.",
-"instrRAW2":"som bygger på kursen industritekniska processer 2.",
 "reqRAW":"kursen INUINU02",
 "code":"INULAB0",
 "goals":[1,0,1,0,1,0,1,1],

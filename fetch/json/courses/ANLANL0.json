@@ -2,7 +2,6 @@
 "name":"Anläggning - gröna ytor",
 "points":200,
 "instrRAW":"som bygger på kursen anläggning 2.",
-"instrRAW2":"som bygger på kursen anläggning 2.",
 "reqRAW":"kursen ANLANL02",
 "code":"ANLANL0",
 "goals":[1,1,1,1,1,1,1,1,1,0],

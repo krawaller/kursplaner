@@ -2,7 +2,6 @@
 "name":"Skogsmaskiner - specialisering",
 "points":200,
 "instrRAW":"som bygger på kursen virkestransport med skotare. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen virkestransport med skotare. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SKMVIE0",
 "code":"NABSKO00S",

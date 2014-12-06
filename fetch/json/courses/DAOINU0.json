@@ -2,7 +2,6 @@
 "name":"Industriell informationsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a.",
-"instrRAW2":"som bygger på kursen datorteknik 1a.",
 "reqRAW":"kursen DAODAT01a",
 "code":"DAOINU0",
 "goals":[1,1,1,1,0],

@@ -2,7 +2,6 @@
 "name":"Fiske 1",
 "points":100,
 "instrRAW":"som bygger på biologi i vattenmiljöer 1.",
-"instrRAW2":"som bygger på BIIVAT01.",
 "reqRAW":"BIIVAT01",
 "code":"FISFIS01",
 "goals":[1,0,1,1,1,1,1,0],

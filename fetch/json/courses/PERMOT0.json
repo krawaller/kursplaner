@@ -2,7 +2,6 @@
 "name":"Motor och kraftöverföring",
 "points":300,
 "instrRAW":"som bygger på kursen reparation av personbilar och lätta transportfordon.",
-"instrRAW2":"som bygger på kursen reparation av personbilar och lätta transportfordon.",
 "reqRAW":"kursen PERREA0",
 "code":"PERMOT0",
 "goals":[1,1,1,1,1,1,1,1],

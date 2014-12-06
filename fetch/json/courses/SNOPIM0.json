@@ -2,7 +2,6 @@
 "name":"Pistmaskiner och utrustning",
 "points":200,
 "instrRAW":"som bygger på kursen snöfordon - introduktion samt kursen reparation av snöfordon.",
-"instrRAW2":"som bygger på kursen snöfordon - introduktion samt kursen reparation av snöfordon.",
 "reqRAW":"kursen SNOSNO0 samt kursen SNOREP0",
 "code":"SNOPIM0",
 "goals":[1,1,1,1,1,1,0,1,0],

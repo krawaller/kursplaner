@@ -2,7 +2,6 @@
 "name":"Internationell ekonomi",
 "points":100,
 "instrRAW":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
-"instrRAW2":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
 "reqRAW":"kursen SAMSAM01a2 eller kursen SAMSAM01b",
 "code":"SAMINE0",
 "goals":[1,1,1,1,1],

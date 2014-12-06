@@ -2,7 +2,6 @@
 "name":"Skrivande",
 "points":100,
 "instrRAW":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
-"instrRAW2":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
 "reqRAW":"kursen SVESVE01 eller kursen SVASVA01",
 "code":"SVESKR0",
 "goals":[0,1,1,1,0,1,1,1,0],

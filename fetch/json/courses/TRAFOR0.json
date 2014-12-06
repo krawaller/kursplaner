@@ -2,7 +2,6 @@
 "name":"Fordonskombinationer - godstransporter",
 "points":200,
 "instrRAW":"som bygger på kursen godstransporter - specialisering.",
-"instrRAW2":"som bygger på kursen godstransporter - specialisering.",
 "reqRAW":"kursen GOSGOD00S",
 "code":"TRAFOR0",
 "goals":[1,1,1,0,1,1,1,0],

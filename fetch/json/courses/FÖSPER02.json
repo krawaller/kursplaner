@@ -2,7 +2,6 @@
 "name":"Personlig försäljning 2",
 "points":100,
 "instrRAW":"som bygger på kursen personlig försäljning 1.",
-"instrRAW2":"som bygger på kursen personlig försäljning 1.",
 "reqRAW":"kursen FÖSPER01",
 "code":"FÖSPER02",
 "goals":[1,2,2,1,1,1,1,1,2],

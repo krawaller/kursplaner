@@ -2,7 +2,6 @@
 "name":"Mekatronik 2",
 "points":100,
 "instrRAW":"som bygger på kursen mekatronik 1.",
-"instrRAW2":"som bygger på kursen mekatronik 1.",
 "reqRAW":"kursen MEKMEK01",
 "code":"MEKMEK02",
 "goals":[1,1,1,1,1],

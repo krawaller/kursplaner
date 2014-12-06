@@ -2,7 +2,6 @@
 "name":"Fysik 3",
 "points":100,
 "instrRAW":"som bygger på kursen fysik 2.",
-"instrRAW2":"som bygger på kursen fysik 2.",
 "reqRAW":"kursen FYSFYS02",
 "code":"FYSFYS03",
 "goals":[1,1,1,1,1],

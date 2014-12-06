@@ -2,7 +2,6 @@
 "name":"Instrument eller sång 2",
 "points":100,
 "instrRAW":"som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen MUSINS01S",
 "code":"MUSINS02S",

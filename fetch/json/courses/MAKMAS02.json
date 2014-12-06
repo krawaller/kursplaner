@@ -2,7 +2,6 @@
 "name":"Maskintjänst 2",
 "points":300,
 "instrRAW":"som bygger på kursen maskintjänst 1.",
-"instrRAW2":"som bygger på kursen maskintjänst 1.",
 "reqRAW":"kursen MAKMAS01",
 "code":"MAKMAS02",
 "goals":[0,0,2,2,1,1,2,0],

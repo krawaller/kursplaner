@@ -2,7 +2,6 @@
 "name":"Miljö",
 "points":50,
 "instrRAW":"som bygger på kursen material och miljö.",
-"instrRAW2":"som bygger på kursen material och miljö.",
 "reqRAW":"kursen HVKMAE0",
 "code":"HVKMIL0",
 "goals":[0,0,0,1,1,0,0],

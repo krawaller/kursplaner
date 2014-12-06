@@ -2,7 +2,6 @@
 "name":"Generatorer och transformatorer",
 "points":100,
 "instrRAW":"som bygger på kursen vattenkraftstationer och kursen praktisk ellära.",
-"instrRAW2":"som bygger på kursen vattenkraftstationer och kursen praktisk ellära.",
 "reqRAW":"kursen VAEVAN0 och kursen ELLPRA0",
 "code":"VAEGEN0",
 "goals":[1,0,0,0,1,1,0,1],

@@ -2,7 +2,6 @@
 "name":"Inredning och komfort 2",
 "points":100,
 "instrRAW":"som bygger på kursen inredning och komfort 1.",
-"instrRAW2":"som bygger på kursen inredning och komfort 1.",
 "reqRAW":"kursen SPFINR01",
 "code":"SPFINR02",
 "goals":[0,1,1,1,1,1,1,1,1],

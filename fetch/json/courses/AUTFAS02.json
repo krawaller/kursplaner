@@ -2,7 +2,6 @@
 "name":"Fastighetsautomation 2",
 "points":100,
 "instrRAW":"som bygger på kursen fastighetsautomation 1 eller kursen mät- och reglerteknik.",
-"instrRAW2":"som bygger på kursen fastighetsautomation 1 eller kursen mät- och reglerteknik.",
 "reqRAW":"kursen FAIFAS01 eller kursen MÄTMÄT0",
 "code":"AUTFAS02",
 "goals":[1,1,1,1,1,1,1],

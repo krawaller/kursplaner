@@ -2,7 +2,6 @@
 "name":"Specialyrken 1",
 "points":100,
 "instrRAW":"som bygger på kursen husbyggnad 3. Kursen kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen HUSHUS03. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen HUSHUS03",
 "code":"HUBSPC01S",

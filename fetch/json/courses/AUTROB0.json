@@ -2,7 +2,6 @@
 "name":"Robotteknik",
 "points":100,
 "instrRAW":"som bygger på kursen programmerbara styrsystem eller på kurserna datorstyrd produktion 1 och datorstyrd produktion 2.",
-"instrRAW2":"som bygger på kursen programmerbara styrsystem eller på kurserna datorstyrd produktion 1 och datorstyrd produktion 2.",
 "reqRAW":"kursen MÄTPRR0 eller på kurserna DARDAT01S och DARDAT02",
 "code":"AUTROB0",
 "goals":[1,1,1,1,1,1,1],

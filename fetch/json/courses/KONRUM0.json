@@ -2,7 +2,6 @@
 "name":"Rums- och konferensbokning",
 "points":100,
 "instrRAW":"som bygger på kursen konferens 2 eller kursen reception 2.",
-"instrRAW2":"som bygger på kursen konferens 2 eller kursen reception 2.",
 "reqRAW":"kursen KONKON02 eller kursen RECREC02",
 "code":"KONRUM0",
 "goals":[1,0,1,1,1,1,1],

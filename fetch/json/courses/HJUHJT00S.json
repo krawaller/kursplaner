@@ -2,7 +2,6 @@
 "name":"Hjulutrustning - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen hjulutrustning och kan läsas flera gånger med olika innehåll.",
-"instrRAW2":"som bygger på kursen hjulutrustning och kan läsas flera gånger med olika innehåll.",
 "repeat":"Kan läsas flera gånger med olika innehåll",
 "reqRAW":"kursen HJUHJU0 ",
 "code":"HJUHJT00S",

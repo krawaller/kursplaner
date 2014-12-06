@@ -2,7 +2,6 @@
 "name":"Programmerbara styrsystem",
 "points":100,
 "instrRAW":"som bygger på kursen mät- och styrteknik eller kursen programmering 1.",
-"instrRAW2":"som bygger på kursen mät- och styrteknik eller kursen programmering 1.",
 "reqRAW":"kursen MÄTMÄO0 eller kursen PRRPRR01",
 "code":"MÄTPRR0",
 "goals":[1,1,1,1,1],

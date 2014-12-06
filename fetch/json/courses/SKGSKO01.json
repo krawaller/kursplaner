@@ -2,7 +2,6 @@
 "name":"Skogsskötsel 1",
 "points":100,
 "instrRAW":"som bygger på kursen motor- och röjmotorsåg 1 eller produktionsutrustning 1.",
-"instrRAW2":"som bygger på kursen motor- och röjmotorsåg 1 eller produktionsutrustning 1.",
 "reqRAW":"kursen MOTMOT01 eller PRUPRD01S",
 "code":"SKGSKO01",
 "goals":[1,1,1,1,0,1,1,1],

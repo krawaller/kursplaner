@@ -2,7 +2,6 @@
 "name":"Kinesiska 2",
 "points":100,
 "instrRAW":"som bygger på kursen kinesiska 1 eller kinesiska inom ramen för elevens val i grundskolan.",
-"instrRAW2":"som bygger på kursen kinesiska 1 eller kinesiska inom ramen för elevens val i grundskolan.",
 "reqRAW":"kursen MODZHO01 eller kinesiska inom ramen för elevens val i grundskolan",
 "code":"MODZHO02",
 "goals":[1,1,1,1,1],

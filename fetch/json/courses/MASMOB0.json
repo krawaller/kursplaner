@@ -2,7 +2,6 @@
 "name":"Mobila maskiner och utrustning",
 "points":300,
 "instrRAW":"som bygger på kursen maskin- och lastbilsteknik - introduktion samt kursen reparation av lastbilar och mobila maskiner. ",
-"instrRAW2":"som bygger på kursen maskin- och lastbilsteknik - introduktion samt kursen reparation av lastbilar och mobila maskiner. ",
 "reqRAW":"kursen MASMAI0 samt kursen MASREP0",
 "code":"MASMOB0",
 "goals":[1,1,1,0,1,1,1,1],

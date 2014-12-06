@@ -2,7 +2,6 @@
 "name":"Fiskodling 1",
 "points":200,
 "instrRAW":"som bygger på kursen vattenbruk - grunder.",
-"instrRAW2":"som bygger på kursen vattenbruk - grunder.",
 "reqRAW":"kursen VANVAT0",
 "code":"VANFIS01",
 "goals":[1,1,1,1,1,1],

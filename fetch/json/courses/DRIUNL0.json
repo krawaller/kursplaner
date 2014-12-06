@@ -2,7 +2,6 @@
 "name":"Underhåll - mekatronik",
 "points":100,
 "instrRAW":"som bygger på kursen underhåll - hydraulik och pneumatik samt kursen underhåll - elteknik.",
-"instrRAW2":"som bygger på kursen underhåll - hydraulik och pneumatik samt kursen underhåll - elteknik.",
 "reqRAW":"kursen DRIUNH0 samt kursen DRIUNE0",
 "code":"DRIUNL0",
 "goals":[1,1,1,2,1,1,1,1],
