@@ -3,6 +3,8 @@
 "points":100,
 "code":"KOSKUL0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Huvuddragen i kultur- och idéhistorien med tyngdpunkt i den västerländska utvecklingen och i de föreställningar och konstnärliga uttryck som pekar mot nutid.",
 "Kulturuttryck från olika epoker och kultursfärer.",

@@ -3,6 +3,8 @@
 "points":50,
 "code":"NAENAT00S",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
 "Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄIMÄN01",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Metoder för att arbeta i och organisera projekt.",
 "Introduktion till lagar och andra bestämmelser som reglerar produktion, företag och arbetsmarknad, till exempel bestämmelser om arbetsmiljö, anställningsskydd och arbetsrätt samt miljöbestämmelser och medbestämmandelagen.",

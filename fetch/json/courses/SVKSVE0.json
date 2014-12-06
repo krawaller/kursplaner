@@ -3,6 +3,8 @@
 "points":100,
 "code":"SVKSVE0",
 "goals":[1,1,1,1,1,0,1,1,2],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Framställningar på svenskt teckenspråk och skriven svenska, anpassade efter kommunikationssituation och mottagare.",
 "Kommunikation på svenskt teckenspråk och skriven svenska med till exempel myndigheter, högskolor och arbetsgivare. ",

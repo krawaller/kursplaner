@@ -3,6 +3,8 @@
 "points":100,
 "code":"MAKMAS0",
 "goals":[0,1,0,0,1,1,2,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Drift och underhåll. ",
 "Maskinteknik: förbränningsmotorer, förbränning, bränslen och smörjmedel, fartygets framdrivning, hydraulik och däcksmaskineri, kylvattensystem, smörjoljesystem, bränslesystem, läns- och barlastsystem, startsystem och ångsystem.",

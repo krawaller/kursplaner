@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELÄELM01",
 "goals":[1,1,0,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Grundläggande mättekniska begrepp, till exempel definitioner av måttenheter.",
 "Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning samt resistans med fokus på storlek och fasläge.",

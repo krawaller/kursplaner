@@ -1,7 +1,16 @@
 {"name":"Spårfordonsteknik",
 "code":"SPF",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet spårfordonsteknik behandlar funktion hos samt service och reparation av spårfordon. Det behandlar även spårfordons olika användningsområden och branschens olika arbetsområden. Ämnet omfattar de kunskaper som krävs för yrkesmässigt arbete inom området spårfordonsteknik.</p>",
+"courses":["SPFDIG0",
+"SPFFEL01",
+"SPFFEL02",
+"SPFSPA0",
+"SPFDRI0",
+"SPFINR01",
+"SPFINR02",
+"SPFKOM0",
+"SPFKOR0",
+"SPFSTY0"],"description":"<p>Ämnet spårfordonsteknik behandlar funktion hos samt service och reparation av spårfordon. Det behandlar även spårfordons olika användningsområden och branschens olika arbetsområden. Ämnet omfattar de kunskaper som krävs för yrkesmässigt arbete inom området spårfordonsteknik.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet spårfordonsteknik ska syfta till att eleverna utvecklar förmåga att genomföra underhåll, felsökning och reparationer av spårfordon. Den ska ge eleverna möjlighet att utveckla tekniskt kunnande inom området spårfordonsteknik samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om system och komponenter samt om hur dessa samverkar i spårfordon.</p><p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur människa och maskin samverkar.</p><p>Undervisningen ska bidra till att stimulera elevernas intresse för spårbundna fordon, deras utrustning och ny teknik. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att kommunicera på engelska på det sätt som krävs inom yrkesområdet.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p>",
 "goals":["Kunskaper om branschens verksamhet, verksamhetsområden, uppbyggnad och roll i samhället.",
 "Kunskaper om spårbundna fordon samt om deras utrustning och användningsområden.",
@@ -11,4 +20,4 @@
 "Förmåga att välja och använda arbetsmetoder och utrustning, samt förmåga att situationsanpassa arbetssätt, beräkningar och metoder.",
 "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
 "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.",
-"Förmåga att använda ett yrkesmässigt språk på såväl svenska som engelska."]}
+"Förmåga att använda ett yrkesmässigt språk på såväl svenska som engelska."],"someexcludes":true,"somefocuses":false}

@@ -3,6 +3,8 @@
 "points":100,
 "code":"FLYMAS0",
 "goals":[0,0,0,0,0,0,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Människans förutsättningar och begränsningar.",
 "Det mänskliga minnets struktur, funktion och kapacitet samt faktorer som styr människans uppmärksamhet. ",

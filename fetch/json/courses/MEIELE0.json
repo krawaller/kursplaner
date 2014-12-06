@@ -3,6 +3,8 @@
 "points":100,
 "code":"MEIELE0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Fysiologisk och neurofysiologisk utrustning för diagnostik och övervakning, datorstyrda utrustningar samt laserteknik och laserutrustningar.",
 "Medicintekniska produkters användningsområden inom elektromedicin.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SKOMÅN0",
 "goals":[1,1,1,0,0,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":{"Mångbruk":["Skogsbrukets historiska utveckling och framtida utvecklingsmöjligheter samt skogsnäringarnas betydelse för samhällsekonomin och för hållbar utveckling.",
 "Skogsfastighetens produktionsvärden, naturvärden, kulturmiljövärden och sociala värden med utgångspunkt i praktiska exempel.",

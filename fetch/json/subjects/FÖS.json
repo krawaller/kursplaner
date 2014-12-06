@@ -1,7 +1,11 @@
 {"name":"Försäljning och kundservice",
 "code":"FÖS",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet försäljning och kundservice behandlar försäljning och kundservice inom handels- och tjänstesektorn. Sälj- och servicefunktionerna är viktiga för företagens verksamhet, och säljarens uppgift är inte bara att sälja utan också att skapa goda kundrelationer<i>, </i>ta ekonomiskt ansvar och arbeta långsiktigt och målmedvetet.</p>",
+"courses":["FÖSSEV0",
+"FÖSPER01",
+"FÖSPER02",
+"FÖSPER03",
+"FÖSTEL0"],"description":"<p>Ämnet försäljning och kundservice behandlar försäljning och kundservice inom handels- och tjänstesektorn. Sälj- och servicefunktionerna är viktiga för företagens verksamhet, och säljarens uppgift är inte bara att sälja utan också att skapa goda kundrelationer<i>, </i>ta ekonomiskt ansvar och arbeta långsiktigt och målmedvetet.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet försäljning och kundservice ska syfta till att eleverna utvecklar kunskaper om och färdigheter i ett kundorienterat och målinriktat försäljningsarbete med varor och tjänster. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i service och personlig försäljning. Undervisningen ska bidra till att eleverna utvecklar de kunskaper som krävs för yrkesverksamhet inom området. Försäljning och kundservice handlar om kommunikation. Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om servicebegreppet samt om värderingar, attityder och förhållningssätt till personlig försäljning inom området handel och tjänster.</p><p>Genom samarbete med det lokala näringslivet och ett undersökande arbetssätt i undervisningen ska eleverna ges möjlighet att utveckla sina kunskaper. Eleverna ska genom praktiska övningar och problembaserade uppgifter ges möjlighet att använda olika arbetsmetoder och finna lösningar för att arbeta med försäljning och kundservice.</p>",
 "goals":["Kunskaper om ett kundrelaterat och målinriktat säljarbete inom handel med varor och tjänster samt kunskaper om kommunikationsteknik.",
 "Kunskaper om hur attityder, värderingar och förhållningssätt påverkar försäljnings- och servicesituationer.",
@@ -11,4 +15,4 @@
 "Förmåga att använda olika tekniker och metoder för kalkylering och ekonomiska beräkningar samt lösa problem.",
 "Förmåga att arbeta ergonomiskt riktigt, säkert och på ett miljömedvetet och resurssnålt sätt.",
 "Förmåga att utvärdera sitt arbete och resultat.",
-"Förmåga att samverka med andra och kommunicera genom olika medier i olika sälj- och servicesituationer."]}
+"Förmåga att samverka med andra och kommunicera genom olika medier i olika sälj- och servicesituationer."],"someexcludes":true,"somefocuses":true}

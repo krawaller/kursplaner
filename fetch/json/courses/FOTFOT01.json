@@ -3,6 +3,8 @@
 "points":100,
 "code":"FOTFOT01",
 "goals":[2,0,2,2,2,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Den fotografiska processen från motivval till publicering. ",
 "Bildupplösning, dokumentstorlek vid digital bildbehandling, samt hur och varför man lagrar data i olika format.",

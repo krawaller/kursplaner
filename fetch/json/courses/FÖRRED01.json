@@ -3,6 +3,8 @@
 "points":100,
 "code":"FÖRRED01",
 "goals":[0,1,0,2,1,0,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Olika typer av företag och företagsformer.",
 "Grundläggande lagar och andra bestämmelser som styr företagens redovisning.",

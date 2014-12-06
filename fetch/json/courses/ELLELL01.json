@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELLELL01",
 "goals":[0,1,0,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Ledare, halvledare och isolatorer.",
 "Elektriska storheter i lik- och enfasväxelströmskretsar.",

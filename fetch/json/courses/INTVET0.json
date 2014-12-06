@@ -3,6 +3,8 @@
 "points":150,
 "code":"INTVET0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Tekniska systemlösningar för ventilation av byggnader.",
 "Principer för vätske- och luftburna komfortkylsystems uppbyggnad och funktioner.",

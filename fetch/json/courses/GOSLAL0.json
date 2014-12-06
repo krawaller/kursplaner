@@ -3,6 +3,8 @@
 "points":100,
 "code":"GOSLAL0",
 "goals":[1,0,1,0,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Lastbilsmonterade kranars uppbyggnad och konstruktion för olika användningsområden.",
 "Hydraulsystemets uppbyggnad och funktion med styrsystem och säkerhetsfunktioner.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"VVSSAN01",
 "goals":[1,0,1,1,1,1,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Vattnets kretslopp i naturen och hur miljön påverkar tillgången på rent vatten.",
 "Vattentäkter för kommunala och enskilda anläggningar samt apparater och komponenter för behandling av dricksvatten.",

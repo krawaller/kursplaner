@@ -3,6 +3,8 @@
 "points":200,
 "code":"FLYUNS0",
 "goals":[0,0,1,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Allmänna och för yrkesområdet typiska verktyg och tillsynsmetoder.",
 "Handhavande av flygplan på marken samt demontering och montering av komponenter.",

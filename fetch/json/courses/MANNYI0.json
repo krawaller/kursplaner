@@ -3,6 +3,8 @@
 "points":100,
 "code":"MANNYI0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Drivlinors funktion samt dimensionering av propellrar.",
 "Elektroniska plattformar för kommunikation mellan motor, reglage, instrument och övrig utrustning, till exempel EVC.",

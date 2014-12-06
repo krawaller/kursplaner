@@ -3,6 +3,8 @@
 "points":100,
 "code":"KOTKOS01",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Introduktion i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.",
 "Teknikmetoder och konstruktionsmetoder inom något eller några områden, till exempel produktutveckling och byggnation.",

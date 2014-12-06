@@ -3,6 +3,8 @@
 "points":200,
 "code":"INVVVV0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Svetsdatablad som behandlar parametrar, till exempel val av svetsström och svetshastighet för olika materialtjocklekar och lägen.",
 "Elektricitet, ljusbågen som värmekälla och ljusbågens effekt och bildandet av smältbadet.",

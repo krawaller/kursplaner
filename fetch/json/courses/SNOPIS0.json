@@ -3,6 +3,8 @@
 "points":100,
 "code":"SNOPIS0",
 "goals":[1,1,0,1,1,0,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika typer av snöfordon, deras utrustning och användningsområden.",
 "Funktions- och säkerhetskontroll samt vård och underhåll av pistmaskin och utrustning.",

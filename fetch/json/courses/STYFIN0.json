@@ -3,6 +3,8 @@
 "points":100,
 "code":"STYFIN0",
 "goals":[1,0,1,0,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
 "Styckningsdetaljernas utseende, kvalitet, karaktär samt användningsområde vid förädling och tillagning.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"VISVIS0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Analys av hur fotografiet och den rörliga bilden har använts inom olika områden och vid olika tidpunkter för att bära olika typer av budskap. ",
 "Visuell kommunikation som bärare av budskap.",

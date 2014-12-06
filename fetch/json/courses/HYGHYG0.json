@@ -3,6 +3,8 @@
 "points":100,
 "code":"HYGHYG0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Mikroorganismers förekomst, egenskaper, livsbetingelser och betydelse.",
 "Smittvägar, livsmedelsburna infektioner och matförgiftningar.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SKOFIS01",
 "goals":[0,1,1,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":{"Biologisk grund":["Vattenlevande organismer, till exempel fiskar, plankton och kräftdjur. Deras biologi och behov samt hur man kan påverka deras livsbetingelser.",
 "Vanliga fisksjukdomar.",

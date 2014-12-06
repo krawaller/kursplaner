@@ -3,6 +3,8 @@
 "points":100,
 "code":"BIDBIT0",
 "goals":[2,1,2,2,2,2,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Kommunikationsprocesser och teorier om bildkommunikation.",
 "Konstteori och konstvetenskap.",

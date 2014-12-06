@@ -3,6 +3,8 @@
 "points":100,
 "code":"DANDAS0",
 "goals":[0,1,1,0,1,0,0,0,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Undersökande förhållningssätt till rörelser och skapande i nuet.",
 "Improvisation utifrån olika instruktioner, där impulser kan komma från den egna eller andras kroppar, rekvisita, text, rum eller musik.",

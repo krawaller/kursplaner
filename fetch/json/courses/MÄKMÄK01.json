@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄKMÄK01",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Språk och språkfamiljer i världen, majoritets- och minoritetsspråk. Var och hur språken används och deras typiska egenskaper.",
 "Språklig evolution och språkhistoria. Teorier kring språkets ursprung. Hur språk uppstår, utvecklas och förändras samt hur och varför de slutar att användas.",

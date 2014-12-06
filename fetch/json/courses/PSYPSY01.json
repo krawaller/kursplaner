@@ -3,6 +3,8 @@
 "points":100,
 "code":"PSYPSY01",
 "goals":[0,1,0,1,1,1,0,1,0,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Psykiatrins historiska utveckling vad gäller organisation, människosyn, kunskap, utveckling och användning av olika behandlingsformer samt behov av evidensbaserad kunskap.",
 "Förklaringsmodeller till att psykisk ohälsa uppstår. Hur individens fysiska, psykosociala och socioekonomiska situation samt könstillhörighet påverkar psykisk hälsa och ohälsa. ",

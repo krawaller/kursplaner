@@ -3,6 +3,8 @@
 "points":100,
 "code":"BILBIL01b",
 "goals":[2,2,2,2,1,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":["Betraktande, analys och tolkning av, och även samtal om, olika typer av visuella framställningar i anslutning till eget bildarbete. Sammanhangets betydelse för tolkningen.",
 "Grundläggande kompositionstraditioner för två- och tredimensionella bilder samt färglära.",

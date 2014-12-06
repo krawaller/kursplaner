@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELEELR0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Egenskaper och arbetssätt hos resistorer, kondensatorer, induktanser och transformatorer.",
 "Egenskaper och arbetssätt hos analoga och digitala halvledarkomponenter.",

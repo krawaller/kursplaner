@@ -3,6 +3,8 @@
 "points":100,
 "code":"DAODAT01b",
 "goals":[1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Datorsystems uppbyggnad och arbetssätt.",
 "Grunderna i OSI-modellen (open systems interconnection) och gällande standarder för datorkommunikation.",

@@ -3,6 +3,8 @@
 "points":50,
 "code":"FARSKE0",
 "goals":[1,1,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Olika fartygstypers konstruktion.",
 "Fartygs huvuddimensioner och form.",

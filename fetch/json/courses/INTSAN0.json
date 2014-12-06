@@ -3,6 +3,8 @@
 "points":50,
 "code":"INTSAN0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Uppbyggnad och funktion av tappvattensystem från förbindelsepunkt till förbrukningsenhet.",
 "Uppbyggnad och funktion av avloppssystem från avloppsenhet till förbindelsepunkt.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"TILTIL01",
 "goals":[1,1,1,1,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Tolkning av mönster- och ritningsunderlag.",
 "Metoder för manuell framställning av ritningar eller mönster.",

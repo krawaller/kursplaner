@@ -3,6 +3,8 @@
 "points":50,
 "code":"MUSMUK0",
 "goals":[1,2,2,0,1,0,0,0,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Musikalisk kommunikation med rörelse och röst från olika tider eller kulturer.",
 "Musicerande i gehörsbaserad och noterad musik med röst eller instrument.",

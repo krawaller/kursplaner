@@ -3,6 +3,8 @@
 "points":100,
 "code":"KONKOF0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Olika anläggningar för konferens och evenemang samt deras skiftande utbud av tjänster och service.",
 "Olika typer av möten samt deras syften.",

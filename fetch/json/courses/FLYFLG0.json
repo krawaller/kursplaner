@@ -3,6 +3,8 @@
 "points":200,
 "code":"FLYFLG0",
 "goals":[0,1,0,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Service- och underhållsåtgärder av flygplan och propellrar.",
 "Flygplans olika system och konstruktionsprinciper samt påfrestningar som flygplan utsätts för i olika flygsituationer.",

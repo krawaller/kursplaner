@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELDHÖG0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Nätstationer i luftledningsnät och kabelnät.",
 "Kablar och komponenter för jordkabelnät.",

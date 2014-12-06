@@ -3,6 +3,8 @@
 "points":50,
 "code":"PSKPSY01",
 "goals":[1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Psykologins historiska framväxt. I samband med det behandlas psykoanalysens och behaviorismens tidiga förklaringar av mänskliga beteenden, känslor och tankar.",
 "Kognitionspsykologi och dess tillämpningar: hur människan uppfattar och förstår sin omvärld och sig själv. I samband med det behandlas hur hjärnan tar emot och bearbetar information.",

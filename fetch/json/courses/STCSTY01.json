@@ -3,6 +3,8 @@
 "points":100,
 "code":"STCSTY01",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
 "Styckningsdetaljernas anatomi och användningsområden.",

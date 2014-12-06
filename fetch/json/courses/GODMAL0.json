@@ -3,6 +3,8 @@
 "points":200,
 "code":"GODMAL0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kapacitet hos lyftredskap.",
 "Tillsatsaggregat och bakgavellyft.",

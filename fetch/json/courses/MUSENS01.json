@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUSENS01",
 "goals":[2,2,0,1,1,0,2,0,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Grundläggande ensemblemusicerande och repertoarkännedom.",
 "Musicerande i gehörsbaserad och noterad musik.",

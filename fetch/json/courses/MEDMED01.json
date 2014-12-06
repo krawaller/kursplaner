@@ -3,6 +3,8 @@
 "points":150,
 "code":"MEDMED01",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Människokroppens uppbyggnad och utveckling samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.",
 "Vanliga sjukdomar och deras orsaker, symtom och diagnoser, undersökningar, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",

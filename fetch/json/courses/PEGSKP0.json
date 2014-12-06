@@ -3,6 +3,8 @@
 "points":100,
 "code":"PEGSKP0",
 "goals":[1,1,1,0,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Skapande verksamheters betydelse för människors lärande och växande.",
 "Användning av bild och form, drama, dans och musik som redskap i pedagogiska sammanhang.",

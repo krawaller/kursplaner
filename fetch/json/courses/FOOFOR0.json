@@ -3,6 +3,8 @@
 "points":200,
 "code":"FOOFOR0",
 "goals":[1,1,0,1,1,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Förbränningsmotorteknik.",
 "Alternativa drivlinor, till exempel el- och hybridmotorer.",

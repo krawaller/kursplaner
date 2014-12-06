@@ -3,6 +3,8 @@
 "points":100,
 "code":"FILFIL01",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Research, produktionsplanering och utvärdering. ",
 "Inspelnings- och redigeringsteknik.",

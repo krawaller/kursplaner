@@ -1,7 +1,8 @@
 {"name":"Gerontologi och geriatrik",
 "code":"GER",
 "type":"VOCATIONAL",
-"description":"<p>Gerontologi är läran om det normala fysiska, psykiska och sociala åldrandet och om de åldersrelaterade förändringar som sker hos människan från det att hon uppnått mogen ålder till dess att hon dör. Geriatrik definieras som läran om orsaker, symtom, diagnos och behandling av sjukdomar hos äldre. Ämnet gerontologi och geriatrik behandlar vård och omsorg om den äldre individen utifrån en helhetssyn.</p>",
+"courses":["GERVÅR0",
+"GERÄLD0"],"description":"<p>Gerontologi är läran om det normala fysiska, psykiska och sociala åldrandet och om de åldersrelaterade förändringar som sker hos människan från det att hon uppnått mogen ålder till dess att hon dör. Geriatrik definieras som läran om orsaker, symtom, diagnos och behandling av sjukdomar hos äldre. Ämnet gerontologi och geriatrik behandlar vård och omsorg om den äldre individen utifrån en helhetssyn.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet gerontologi och geriatrik ska syfta till att eleverna utvecklar kunskaper om det normala åldrandet samt om äldres hälsa, ohälsa och livskvalitet och om de behov som uppstår i samband med åldrandet. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att utföra vård- och omsorgshandlingar anpassade till den äldre individens behov för en ökad livskvalitet, samt i att planera och utvärdera egna arbetsinsatser. </p><p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur det är att åldras i dagens samhälle och vilka attityder som påverkar upplevelsen av åldrande. Dessutom ska undervisningen leda till att eleverna utvecklar ett etiskt, pedagogiskt och empatiskt förhållningssätt. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om åldrandet ur ett mångkulturellt perspektiv. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att reflektera över, ta ansvar för och fatta kloka beslut i det vardagliga arbetet med äldre.</p>",
 "goals":["Kunskaper om det normala åldrandet hos kvinnor och män och om den åldrande människans behov samt om samhällets attityder till åldrandet.",
 "Kunskaper om geriatriska och äldrepsykiatriska tillstånd och om läkemedelsanvändning hos äldre.",
@@ -10,4 +11,4 @@
 "Kunskaper om kostens och måltidssituationens betydelse och om vikten av fysisk aktivitet vid åldrande och sjukdom samt förmåga att omsätta kunskaperna i praktik.",
 "Förmåga att kommunicera med människor med geriatriska och äldrepsykiatriska tillstånd samt att använda språket som ett pedagogiskt redskap.",
 "Förmåga att på ett etiskt, pedagogiskt och empatiskt sätt samarbeta med vårdtagare och närstående.",
-"Kunskaper om frivilligorganisationers arbete och om lagar och andra bestämmelser inom vård och omsorg."]}
+"Kunskaper om frivilligorganisationers arbete och om lagar och andra bestämmelser inom vård och omsorg."],"someexcludes":false,"somefocuses":false}

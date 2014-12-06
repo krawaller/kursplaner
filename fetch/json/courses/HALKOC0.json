@@ -3,6 +3,8 @@
 "points":100,
 "code":"HALKOC0",
 "goals":[1,1,0,1,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kostens och måltidens betydelse för hälsa och välbefinnande.",
 "Näringslära, livsmedelskvalitet och tillagning.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEASCI0",
 "goals":[1,0,1,0,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Gestaltning med kropp och röst av en scenisk karaktär med annan utgångspunkt än text, till exempel en situation, en lös mask eller ett musikstycke. Improvisationsarbete för att utveckla en scenisk karaktär. ",
 "Sceniska berättelser som bygger på text eller improvisation.",

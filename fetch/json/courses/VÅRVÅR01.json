@@ -3,6 +3,8 @@
 "points":200,
 "code":"VÅRVÅR01",
 "goals":[1,1,1,0,1,1,1,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Centrala begrepp, till exempel vård och omsorg, omvårdnad och socialt arbete.",
 "Hygien, till exempel att förebygga smitta och smittspridning genom rena rutiner.",

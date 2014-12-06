@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUSMUS0",
 "goals":[2,2,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Musicerande i gehörsbaserad och noterad musik med röst eller instrument.",
 "Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.",

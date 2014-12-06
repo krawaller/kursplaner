@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUSRYT0",
 "goals":[2,1,2,1,1,1,2,0,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Musikalisk kommunikation med rörelse och röst. Puls, taktarter, frasering och polyrytmik.",
 "Rytmer och danser från olika kulturer.",

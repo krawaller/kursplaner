@@ -3,6 +3,8 @@
 "points":200,
 "code":"FRDKON01",
 "goals":[1,1,1,1,0,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Principer för fritidsbåtars uppbyggnad och konstruktion.",
 "Egenskaper och användningsområden för olika båtbyggnads-, installations- och reparationsmaterial.",

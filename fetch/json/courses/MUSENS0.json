@@ -3,6 +3,8 @@
 "points":200,
 "code":"MUSENS0",
 "goals":[2,1,0,2,1,2,2,2,2],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Spel eller sång i ensemble på en grundläggande nivå.",
 "Körsång på en grundläggande nivå.",

@@ -1,7 +1,10 @@
 {"name":"Däckstjänst",
 "code":"DAC",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg. </p>",
+"courses":["DACDAC01",
+"DACDAC02",
+"DACFAR0",
+"DACRAD0"],"description":"<p>Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg. </p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet däckstjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom däcksavdelningen och arbetsuppgifter som vaktgående däckspersonal. Den ska vidare leda till att eleverna utvecklar kunskaper i navigation och sjömanskap samt förmåga att sjömansmässigt handha fartyg och däcksutrustning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom däcksavdelningen. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt. </p>",
 "goals":["Förmåga att utföra arbetsuppgifter som vaktgående däckspersonal eller fartygsbefäl.",
 "Förmåga att utföra driftsarbete inom däcksavdelningen på ett fartyg.",
@@ -9,4 +12,4 @@
 "Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på ett sjömansmässigt sätt.",
 "Förmåga att samarbeta och kommunicera med ett för yrket relevant fackspråk.",
 "Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom däcksavdelningen på ett fartyg.",
-"Kunskaper om lagar och andra bestämmelser som reglerar området. "]}
+"Kunskaper om lagar och andra bestämmelser som reglerar området. "],"someexcludes":true,"somefocuses":true}

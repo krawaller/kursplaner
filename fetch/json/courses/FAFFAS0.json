@@ -3,6 +3,8 @@
 "points":100,
 "code":"FAFFAS0",
 "goals":[1,1,1,1,1,1,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Fastighetsjuridik avseende avtalsrätt, till exempel hyresrätt, besittningsrätt och hyreslagstiftning samt besiktningar och besiktningsåtgärder.",
 "Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd, inbrottsskydd, övervakning, skyddsrum och utrymningsvägar.",

@@ -3,6 +3,8 @@
 "points":200,
 "code":"INTVÄR0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Värmesystemens uppbyggnad och funktion med delsystem och hela sammansatta system.",
 "Konventionella och alternativa energikällor, deras användbarhet och påverkan på miljön samt behovet för byggnaden.",

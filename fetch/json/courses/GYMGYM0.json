@@ -3,6 +3,8 @@
 "points":200,
 "code":"GYMGYM0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Etiska, sociala och historiska aspekter på ingenjörens roll.",
 "Systemtänkande samt olika metoder och begrepp som är gemensamma och användbara för det ingenjörsmässiga arbetet.",

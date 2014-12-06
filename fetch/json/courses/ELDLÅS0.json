@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELDLÅS0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Nätstationer och stolpstationer.",
 "Konstruktioner, kablar och komponenter.",

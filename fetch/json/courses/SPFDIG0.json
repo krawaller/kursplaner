@@ -3,6 +3,8 @@
 "points":100,
 "code":"SPFDIG0",
 "goals":[0,0,1,1,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Programmering i teori och praktik.",
 "Datorers och processorers uppbyggnad och användning i moderna spårbundna fordon.",

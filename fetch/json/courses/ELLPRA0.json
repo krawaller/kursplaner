@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELLPRA0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Elsystemets uppbyggnad och funktion från transformator till belastning.",
 "Elektriskt material, till exempel ledare, halvledare och isolatorer.",

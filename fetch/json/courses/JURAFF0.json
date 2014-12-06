@@ -3,6 +3,8 @@
 "points":100,
 "code":"JURAFF0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Associationsrätt: företagsformens betydelse för verksamheten och intressenterna.",
 "Avtalsrätt: företagsavtal och deras rättsverkan.",

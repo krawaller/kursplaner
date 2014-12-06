@@ -3,6 +3,8 @@
 "points":100,
 "code":"VETVEL0",
 "goals":[1,2,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Grundläggande injustering av luftbehandlingssystem.",
 "Grundläggande temperatur- och luftflödesmätningar.",

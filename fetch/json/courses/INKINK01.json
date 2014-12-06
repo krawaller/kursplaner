@@ -3,6 +3,8 @@
 "points":100,
 "code":"INKINK01",
 "goals":[1,0,0,1,1,1,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Inköpsarbete och inköpsteknik, betydelsen av en inköpsprocess.",
 "Inköpsarbete i olika typer av företag, till exempel i små och stora företag och i import- och exportföretag.",

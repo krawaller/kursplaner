@@ -3,6 +3,8 @@
 "points":100,
 "code":"LATLAT01",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Läsning och tolkning av mycket enkla latinska texter, till exempel texter från läroböcker, mycket enkla autentiska texter, citat och sentenser samt av bearbetade autentiska texter, till exempel fabler.",
 "Grunderna i latinets uttal.",

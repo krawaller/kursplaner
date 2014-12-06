@@ -3,6 +3,8 @@
 "points":200,
 "code":"TEIINT0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Materialens konstruktion, egenskaper och användningsområden.",
 "Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av industriobjekt.",

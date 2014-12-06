@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEASCN0",
 "goals":[1,0,1,0,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Gestaltning med kropp och röst av en scenisk karaktär utifrån en dramatisk text. Metoder och teorier för att gestalta sceniska karaktärer med utgångspunkt i dramatisk text, till exempel Stanislavskijmetoden.",
 "Den dramatiska textens form och innehåll samt hur den fungerar som inspiration och stimulans i det sceniska karaktärsarbetet.",

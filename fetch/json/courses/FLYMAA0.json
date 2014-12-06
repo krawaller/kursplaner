@@ -3,6 +3,8 @@
 "points":100,
 "code":"FLYMAA0",
 "goals":[0,0,1,0,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Luftfartygsmaterial och flygmaterial samt deras karakteristik. Hur materialen påverkas av olika faktorer.",
 "Materialhantering och korrosion.",

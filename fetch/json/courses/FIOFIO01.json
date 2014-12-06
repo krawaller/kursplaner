@@ -3,6 +3,8 @@
 "points":50,
 "code":"FIOFIO01",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Existens och vetande, dels grundläggande teorier som behandlar begreppet verklighet och vad som kan tänkas existera, dels grundläggande kunskapsteori utifrån begreppet kunskap, begreppet sanning och vetandets olika former.",
 "Grundläggande vetenskapsteori och begrepp inom vetenskapen. Jämförelse mellan forskningsmetoder och traditioner inom humaniora, samhällsvetenskap och naturvetenskap.",

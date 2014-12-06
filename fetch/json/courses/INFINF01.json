@@ -3,6 +3,8 @@
 "points":100,
 "code":"INFINF01",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Verbal och icke verbal kommunikation i yrkessammanhang med koppling till olika teorier om kommunikation.",
 "Sociala medier och hur de används för att sprida och dela information samt skapa innehåll som andra kan delta i.",

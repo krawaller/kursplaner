@@ -3,6 +3,8 @@
 "points":100,
 "code":"RENREE01",
 "goals":[0,0,1,1,1,1,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Identifiering och beskrivning av renens olika underarter.",
 "Renens naturliga vandringsleder samt äldre och nyare flyttningsleder.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SAISAM01S",
 "goals":[0,2,2,1,2,1,1,1,1,2],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Traditionella material, redskap, arbetsmetoder, maskiner och tekniker. I samband med det behandlas materialberäkning och planering av tidsåtgång.",
 "Produkt- och materialkunskap i samband med planering och genomförande.",

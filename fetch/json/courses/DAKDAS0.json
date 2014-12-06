@@ -3,6 +3,8 @@
 "points":100,
 "code":"DAKDAS0",
 "goals":[0,0,0,0,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Övningar för uppvärmning, nedvarvning, stretchning och vila samt hur dessa moment kan sättas samman för att förstärka den danstekniska träningen.",
 "Skadeförebyggande träning. Övningar för att träna kondition, smidighet, rörlighet och styrka. Hur övningar och träningsprogram sätts samman för att stärka och optimera den egna kroppen.",

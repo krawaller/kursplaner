@@ -3,6 +3,8 @@
 "points":100,
 "code":"BINBIO0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":{"Biologisk och ekonomisk grund":["Bins fysiologi och utveckling från ägg till fullbildade insekter.",
 "Avel med raser och raskombinationer av bin samt drottningodling.",

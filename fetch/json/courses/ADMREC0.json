@@ -3,6 +3,8 @@
 "points":100,
 "code":"ADMREC0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Mötesindustrin, konferens- och eventanläggningar samt branschorganisationer.",
 "Olika system och program för reception och kundtjänst, till exempel växelsystem, boknings- och säkerhetsprogram.",

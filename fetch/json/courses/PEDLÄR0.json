@@ -3,6 +3,8 @@
 "points":100,
 "code":"PEDLÄR0",
 "goals":[1,1,1,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Människors lärande, utveckling och socialisation i olika sammanhang utifrån olika teorier och teoretiska perspektiv.",
 "Hur synen på kunskap, lärande, undervisning och utbildning har förändrats.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SYSVÄM0",
 "goals":[1,2,1,1,1,2,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Sambanden mellan värme och andra former av energi. Begrepp inom termodynamiken, till exempel värmeöverföring, temperatur, energiomvandling och tryck.",
 "Metoder för och tillämpning av energi- och effektberäkningar.",

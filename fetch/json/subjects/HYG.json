@@ -1,7 +1,7 @@
 {"name":"Hygienkunskap",
 "code":"HYG",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet hygienkunskap behandlar livsmedelslagstiftning och andra hygienbestämmelser. Det tar även upp hur livsmedelshygien påverkar livsmedlens hållbarhet.</p>",
+"courses":["HYGHYG0"],"description":"<p>Ämnet hygienkunskap behandlar livsmedelslagstiftning och andra hygienbestämmelser. Det tar även upp hur livsmedelshygien påverkar livsmedlens hållbarhet.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet hygienkunskap ska syfta till att eleverna utvecklar förmåga att säkert hantera råvaror och färdiga produkter. Eleverna ska ges möjlighet att utveckla kunskaper om de hygienbestämmelser som gäller för arbete i hela livsmedelskedjan där hanteringen och produktionsmetoderna påverkar livsmedlens hygieniska kvalitet. Undervisningen ska bidra till att eleverna utvecklar kunskaper om mikroorganismers förekomst, livsbetingelser och betydelse i samband med livsmedelshantering. Eleverna ska ges möjlighet att utveckla förmåga att genomföra provtagning på råvaror och färdiga produkter samt genomföra egenkontroll.</p><p>Undervisningen ska bidra till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen påverkar resultatet.</p><p>Genom undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om hygien.</p>",
 "goals":["Kunskaper om mikroorganismers betydelse i samband med livsmedelshantering.",
 "Kunskaper om livsmedelsburna smittor och förgiftningar.",
@@ -9,4 +9,4 @@
 "Förmåga att genomföra provtagningar på råvaror och färdiga livsmedelsprodukter.",
 "Förmåga att rengöra utrustning och lokaler så att livsmedelshanteringen blir säker.",
 "Kunskaper om lagar och andra bestämmelser inom området.",
-"Färdigheter i att följa system för kontroll av livsmedelshygien samt att utföra egenkontroll."]}
+"Färdigheter i att följa system för kontroll av livsmedelshygien samt att utföra egenkontroll."],"someexcludes":false,"somefocuses":false}

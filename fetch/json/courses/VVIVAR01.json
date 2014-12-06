@@ -3,6 +3,8 @@
 "points":100,
 "code":"VVIVAR01",
 "goals":[1,0,1,1,1,0,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Anläggningar, system, apparater och komponenter för värme och komfortkyla samt deras uppbyggnad, funktion och säkerhet.",
 "Planering och organisering av arbetsplatsen och arbetsuppgiften vid arbete med värmetekniska installationer.",

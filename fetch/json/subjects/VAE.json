@@ -1,7 +1,11 @@
 {"name":"Vattenkraftteknik",
 "code":"VAE",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. Ämnet behandlar hur drift och underhåll utförs med avseende på miljö, ekonomi, kvalitet och säkerhet.</p>",
+"courses":["VAEVAN0",
+"VAEDRT0",
+"VAEGEN0",
+"VAEHYD0",
+"VAEKOR0"],"description":"<p>Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. Ämnet behandlar hur drift och underhåll utförs med avseende på miljö, ekonomi, kvalitet och säkerhet.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet vattenkraftteknik ska syfta till att eleverna utvecklar kunskaper om uppbyggnad av och funktion hos vattenkraftstationer och deras huvudkomponenter samt förmåga att lösa problem som gäller drift, underhåll och service. Undervisningen ska leda till att eleverna ges möjlighet att utveckla förståelse av underhållets betydelse i en vattenkraftanläggning för att den ska kunna drivas på ett optimalt sätt. I undervisningen ska eleverna även ges möjlighet att utveckla kunskaper för att kritiskt granska den miljödebatt som pågår i samband med vattenkraftutbyggnad.</p><p>I undervisningen ska experiment, laborationer och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt förmåga att använda teknisk utrustning.</p>",
 "goals":["Kunskaper om olika vattenkraftstationers funktion och huvudkomponenter. Det innebär kunskaper om huvudprocessen och de delprocesser som krävs för att möjliggöra produktion, transformation och överföring av elektrisk energi.",
 "Kunskaper om hur en vattenkraftstation drivs.",
@@ -10,4 +14,4 @@
 "Färdigheter i att felsöka och reparera.",
 "Förmåga att arbeta på ett elsäkert och personsäkert sätt.",
 "Kunskaper om avställning av en vattenkraftstations vattenvägar.",
-"Förmåga att samverka med andra och använda fackspråk samt att dokumentera och utvärdera arbetet."]}
+"Förmåga att samverka med andra och använda fackspråk samt att dokumentera och utvärdera arbetet."],"someexcludes":true,"somefocuses":false}

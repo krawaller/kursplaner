@@ -3,6 +3,8 @@
 "points":100,
 "code":"HÅLMIJ0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Grundläggande begrepp inom området hållbar utveckling.",
 "Ekosystemens struktur, dynamik och bärkraft samt betydelsen av biologisk mångfald.",

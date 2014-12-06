@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄSMÄN0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Samhällets säkerhetsarbete, organisation på central, regional och kommunal nivå samt olika aktörers, inklusive den enskildes, ansvar och roller.",
 "Lagar och andra bestämmelser av betydelse för verksamhetsområdet och som reglerar yrken inom verksamhetsområdet. ",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"NÄVNÄR0",
 "goals":[1,2,2,2,2,1,2,2,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Nätverkskomponenter i de delar som utgör ett datornätverk, till exempel klienter, servrar, skrivare, nätverkskort, omkopplare, nätslussar och kablage.",
 "Nätverksoperativsystems uppbyggnad och funktion, mjukvarans struktur i servrar och dess sammanställning samt principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.",

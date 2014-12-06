@@ -3,6 +3,8 @@
 "points":100,
 "code":"PRTPRO01",
 "goals":[1,1,1,0,1,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Produktionsfilosofiska teorier, till exempel lean.",
 "Kvalitetsstyrningssystem, där fokus ligger på kundens behov, till exempel enligt ISO 9001.",

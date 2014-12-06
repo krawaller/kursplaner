@@ -3,6 +3,8 @@
 "points":100,
 "code":"LIVLIV01",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Identifiering och kvalitetsbedömning av råvaror och livsmedel.",
 "Näringsämnen, deras uppbyggnad och funktioner i kroppen samt deras betydelse för människors hälsa.",

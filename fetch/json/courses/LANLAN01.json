@@ -3,6 +3,8 @@
 "points":100,
 "code":"LANLAN01",
 "goals":[1,1,1,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":{"Biologisk grund":["Lantbruksdjurs foderbehov samt foderkvalitet, fodermedel och näringsinnehåll i foder.",
 "Lantbruksdjurs vattenbehov samt vattentillgång och vattenkvalitet.",

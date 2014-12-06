@@ -3,6 +3,8 @@
 "points":100,
 "code":"SAHBYP0",
 "goals":[0,0,0,0,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämnande och förvaltning.",
 "Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.",

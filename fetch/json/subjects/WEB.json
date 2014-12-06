@@ -1,7 +1,11 @@
 {"name":"Webbteknik",
 "code":"WEB",
 "type":"OTHER",
-"auth":"<p>En lärares kompetens är relevant för ämnet webbteknik om han eller hon</p><p>1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 15 högskolepoäng inom webbstandardbaserad webbutveckling på klientsidan, 7,5 högskolepoäng webbaserad interaktiv datorgrafik och 15 högskolepoäng inom webbserverprogrammering, eller</p><p>2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+"courses":["WEBWEU01",
+"WEBWEU02",
+"WEBWEU03",
+"WEBWEB01",
+"WEBWEB02"],"auth":"<p>En lärares kompetens är relevant för ämnet webbteknik om han eller hon</p><p>1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 15 högskolepoäng inom webbstandardbaserad webbutveckling på klientsidan, 7,5 högskolepoäng webbaserad interaktiv datorgrafik och 15 högskolepoäng inom webbserverprogrammering, eller</p><p>2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
 "description":"<p>Webbteknik används för att utveckla och vidareutveckla statiska och dynamiska webbsidor, webbplatser, webbapplikationer eller andra applikationer där webbtekniker används, till exempel applikationer för mobiltelefoner. Ämnet webbteknik behandlar tekniska aspekter på olika slags mediaformat och samspelet mellan beställare, användare, formgivare och utvecklare.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet webbteknik ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av webbteknik. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt samspelet mellan olika sorters applikationslogik. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder och nationella och internationella riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet. Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden. </p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och kontrollera framställning av den kod som driver webbplatser eller applikationer. Eleverna ska också ges möjlighet att utveckla färdigheter i att använda befintliga verktyg för administration av webbservrar och databaser.</p><p>Vid utveckling av webbtekniska applikationer arbetar man oftast i projektform, varför undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projektarbetets olika faser samt tillfälle att arbeta i projekt.</p>",
 "goals":["Kunskaper om internets historia, betydelse, terminologi och funktionalitet.",
@@ -12,4 +16,4 @@
 "Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet för människor med olika förutsättningar.",
 "Kunskaper om applikationsarkitektur, inklusive separation av olika slags logik.",
 "Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.",
-"Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker."]}
+"Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker."],"someexcludes":true,"somefocuses":true}

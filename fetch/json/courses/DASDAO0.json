@@ -3,6 +3,8 @@
 "points":100,
 "code":"DASDAO0",
 "goals":[1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Färdighetsträning i en eller flera dansformer. Dansformernas estetiska ideal när det gäller rörelser, rörelsekvaliteter, användning av rum och musik samt relationen till meddansare. En eller flera dansformers sociala eller kulturella sammanhang.",
 "Olika danstyper, deras kännetecken och kulturella bakgrund. Dans som levande kroppsligt uttryck. Dans och dansande i olika sammanhang med exempel från olika kulturer samt dansens olika funktioner.",

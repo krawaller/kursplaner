@@ -3,6 +3,8 @@
 "points":100,
 "code":"SJOGRN0",
 "goals":[1,1,1,1,2,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":{"Överlevnadsteknik":["Nödsituationer till sjöss.",
 "Livräddningsutrustning ombord på fartyg.",

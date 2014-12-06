@@ -3,6 +3,8 @@
 "points":100,
 "code":"INKLOG01",
 "goals":[1,1,0,1,1,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Logistikens roll i företaget.",
 "Praktiskt logistik-, lager- och inköpsarbete samt organisering av lager, struktur, utrustning, plockmetoder och arbetsorganisation.",

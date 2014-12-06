@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELKELO0",
 "goals":[1,2,0,1,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Monteringsmaskiner för komponenter.",
 "Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.",

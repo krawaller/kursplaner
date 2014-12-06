@@ -3,6 +3,8 @@
 "points":50,
 "code":"PRUIND0",
 "goals":[1,1,1,0,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Hantering av för verksamheten relevant mätutrustning samt planering och organisation i samband med användandet.",
 "Standarder, bestämmelser och utrustningar för säkerhet beträffande människor, mätutrustning och mätobjekt.",

@@ -3,6 +3,8 @@
 "points":200,
 "code":"TEIYTB0",
 "goals":[0,1,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika typer av material för ytbeklädnad samt deras konstruktion, egenskaper och användningsområden. Historik över äldre ytbeklädningsmaterial och arbetsmetoder.",
 "Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering och utbredning av ytbeklädnad.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"HUNTRN0",
 "goals":[1,0,0,0,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika användningsområden för hundar.",
 "Olika hundorganisationer och deras verksamheter.",

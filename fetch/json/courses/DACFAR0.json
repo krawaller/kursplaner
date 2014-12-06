@@ -3,6 +3,8 @@
 "points":100,
 "code":"DACFAR0",
 "goals":[2,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":{"Bryggtjänst":["Navigation.",
 "Elektroniska navigationshjälpmedel.",

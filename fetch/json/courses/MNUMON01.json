@@ -3,6 +3,8 @@
 "points":100,
 "code":"MNUMON01",
 "goals":[1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Måttagning och storlekssystem.",
 "Grundkonstruktioner.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SPEIDT0",
 "goals":[0,0,1,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Funktionärskap och ledarskap inom idrotten.",
 "Idrottsföreningars organisation och verksamhet.",

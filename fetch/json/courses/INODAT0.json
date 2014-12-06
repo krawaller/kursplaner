@@ -3,6 +3,8 @@
 "points":200,
 "code":"INODAT0",
 "goals":[1,1,0,1,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Begreppen konfidentialitet, autenticitet, integritet och tillgänglighet ur ett informationssäkerhetsperspektiv.",
 "Referensmodeller för uppbyggnad av system för datakommunikation.",

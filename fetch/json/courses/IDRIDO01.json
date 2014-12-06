@@ -3,6 +3,8 @@
 "points":100,
 "code":"IDRIDO01",
 "goals":[2,0,1,1,2,2,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Regler, tekniker och taktik inom vald idrott.",
 "Planering, genomförande och analys av träningsprogram för vald idrott.",

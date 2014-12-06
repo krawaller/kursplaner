@@ -3,6 +3,8 @@
 "points":100,
 "code":"DATDAS01S",
 "goals":[1,1,1,1,1,1,0,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Teknikträningens koder och konventioner.",
 "Träningsprocessens olika delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Metoder för att memorera rörelser och övningar. Hur man kan följa sin egen kunskapsutveckling i dansteknik.",

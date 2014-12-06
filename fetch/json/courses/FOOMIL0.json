@@ -3,6 +3,8 @@
 "points":200,
 "code":"FOOMIL0",
 "goals":[0,1,1,1,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Historiskt perspektiv på fordonstestbranschens utveckling i Sverige och internationellt.",
 "Olika testmiljöer, tekniker och utrustning för fordonstester.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"SYSINJ0",
 "goals":[1,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Grundprinciper för pumpteknik, pumpdata och driftsätt för cirkulationspumpar, fläktar och ventiler.",
 "Terminologi och begrepp samt funktioner hos komponenter inom reglerteknik. ",

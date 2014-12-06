@@ -1,7 +1,10 @@
 {"name":"Processautomation",
 "code":"PRO",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.</p>",
+"courses":["PROPRC01",
+"PROPRC02",
+"PROPRE0",
+"PROPRO0"],"description":"<p>Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet processautomation ska syfta till att eleverna utvecklar kunskaper om komponenter och automatiserade processanläggningar samt förståelse av den yrkesteori som krävs för olika automatiserade processer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att såväl identifiera och avhjälpa reglertekniska och lokala datatekniska problem på anläggningsnivå som att felsöka och kalibrera mät- och reglerteknisk utrustning. Undervisningen ska även leda till att eleverna utvecklar kunskaper om hur övergripande processdatorsystem används för datainsamling, larmhantering och övervakning av processen samt hur informationsteknik kan användas i olika nivåer av automatiserade processanläggningar.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla insikt om hur säkerheten på en processindustri är beroende av med vilken uppmärksamhet, noggrannhet och systematik som underhållspersonalen arbetar. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om lämpliga mät- och kalibreringsmetoder som medför ett säkert arbetssätt beroende av processmiljö.</p><p>Undervisningen ska bidra till att eleverna utvecklar matematiska kunskaper för arbete i automatiserade processanläggningar samt förmåga att tolka och upprätta anläggningsteknisk dokumentation och att uttrycka sig både skriftligt och muntligt.</p><p>I undervisningen ska laborativa moment och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för automatiserade arbeten.<br/></p>",
 "goals":["Kunskaper om informationstekniska system i automatiserade processer.",
 "Kunskaper om reglermetoder för svårare processer.",
@@ -12,4 +15,4 @@
 "Förmåga att mäta fysikaliska storheter och kemiska egenskaper. ",
 "Förmåga att tolka och upprätta anläggningsteknisk dokumentation.",
 "Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.",
-"Kunskaper om standarder och föreskrifter inom området."]}
+"Kunskaper om standarder och föreskrifter inom området."],"someexcludes":true,"somefocuses":true}

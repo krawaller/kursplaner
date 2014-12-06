@@ -1,7 +1,8 @@
 {"name":"Produktionskunskap",
 "code":"PRD",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet produktionskunskap behandlar hur produktionsidéer utvecklas och vad som måste beaktas i ett utvecklingsarbete. Ämnet behandlar hur produktens design och kvalitet påverkar produktionsplanering och utformning eller omarbetning av produktionsprocessen liksom olika ansvarsområden samt underhållsbehov och logistik. Ämnet behandlar även betydelsen av kommunikation, samarbete och ett kundorderstyrt tänkesätt.</p>",
+"courses":["PRDPRO01",
+"PRDPRO02"],"description":"<p>Ämnet produktionskunskap behandlar hur produktionsidéer utvecklas och vad som måste beaktas i ett utvecklingsarbete. Ämnet behandlar hur produktens design och kvalitet påverkar produktionsplanering och utformning eller omarbetning av produktionsprocessen liksom olika ansvarsområden samt underhållsbehov och logistik. Ämnet behandlar även betydelsen av kommunikation, samarbete och ett kundorderstyrt tänkesätt.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet produktionskunskap ska syfta till att eleverna utvecklar förståelse av helheten i produktionsprocessen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprocessen när en produktionsidé utvecklas till färdig produkt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om utvecklingsarbetets påverkan på produktens design och kvalitet samt hur det i sin tur påverkar valet av material och produktionsmetod. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om produktionsflöde, underhåll och alternativa produktionstekniker. Eleverna ska även ges möjlighet att utveckla kunskaper om olika arbetsuppgifter och ansvarsområden i industriteknisk produktion.</p><p>Eleverna ska ges möjlighet att utveckla kunskaper om varför logistik, effektiviseringar, produktionsekonomi, marknadsföring och arbete för hållbar utveckling är viktigt för industriteknisk produktion. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper för en kundorienterad tillverkning. I undervisningen ska eleverna även ges möjlighet att utveckla kommunikationsförmåga och samarbetsförmåga samt förståelse av varför detta är viktigt för produktionen.</p>",
 "goals":["Kunskaper om hur en produktionsidé utvecklas.",
 "Kunskaper om organisationsenheter, arbetsuppgifter och ansvarsområden i industriteknisk produktion.",
@@ -10,4 +11,4 @@
 "Kunskaper om samarbetets betydelse för produktionen och för företaget.",
 "Kunskaper om logistik, effektiviseringar, produktionsekonomi, marknadsföring och hållbar utveckling.",
 "Kunskaper om kundorderstyrd tillverkning.",
-"Förmåga att använda begrepp och uttryck som är relevanta för ämnesområdet."]}
+"Förmåga att använda begrepp och uttryck som är relevanta för ämnesområdet."],"someexcludes":true,"somefocuses":false}

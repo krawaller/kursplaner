@@ -3,6 +3,8 @@
 "points":100,
 "code":"MEIRAD0",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Röntgenutrustningar, datorstyrd skiktröntgen, nukleärmedicin och strålningsterapiutrustningar samt radiologiska utrustningars användning inom sjukvården.",
 "Röntgenrörets och röntgengeneratorns funktion och arbetssätt.",

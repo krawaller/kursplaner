@@ -3,6 +3,8 @@
 "points":100,
 "code":"KOSFIL0",
 "goals":[1,1,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Film från olika epoker, genrer och kultursfärer.",
 "Den rörliga bildens historia och dess utveckling från stumfilmen, både fiktionsfilm och det dokumentära filmberättandet, till digitalt filmberättande.",

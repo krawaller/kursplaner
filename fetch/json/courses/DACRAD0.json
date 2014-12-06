@@ -3,6 +3,8 @@
 "points":50,
 "code":"DACRAD0",
 "goals":[1,0,0,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Globalt marint nöd- och säkerhetssystem (GMDSS).",
 "Radioteknik.",

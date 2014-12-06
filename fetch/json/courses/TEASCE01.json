@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEASCE01",
 "goals":[2,1,2,0,2,1,2,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Kroppen och rösten som medel för att utrycka sig på scenen samt träning i att använda kropp och röst i sceniska sammanhang.",
 "Träning i att använda teaterns andra uttrycksområden, till exempel scenografi, kostym, mask, ljus och ljud.",

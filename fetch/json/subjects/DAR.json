@@ -1,7 +1,13 @@
 {"name":"Datorstyrd produktion",
 "code":"DAR",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från hantverksmässigt arbete med datorstyrd utrustning avsedd för prototyp och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Det behandlar också effektiv användning av datorstyrd teknik med hög automatiseringsgrad.</p>",
+"courses":["DARCAD0",
+"DARDAT01S",
+"DARDAT02",
+"DARDAT03",
+"DARDAT04",
+"DARDAT05",
+"DARDAT06"],"description":"<p>Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från hantverksmässigt arbete med datorstyrd utrustning avsedd för prototyp och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Det behandlar också effektiv användning av datorstyrd teknik med hög automatiseringsgrad.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet datorstyrd produktion ska syfta till att eleverna utvecklar kunskaper om metoder, teknik och utrustning som används inom datorstyrd industriell produktion. Undervisningen ska leda till att eleverna utvecklar förmåga att tillverka produkter med hjälp av datorstyrd utrustning. Den ska också ge eleverna möjlighet att utveckla kunskaper om operatörens roll i datorstyrd industriell produktion och förståelse av det ansvar som följer med arbetsuppgifterna inom ämnesområdet.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande redskap för programmering och produktionsstyrning. Eleverna ska också ges möjlighet att utveckla kunskaper om verktyg och system för processövervakning samt om hur kommunikation mellan utrustningar styrs och övervakas. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om metoder för strukturerad produktion, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion.</p><p>Undervisningen ska ge eleverna möjlighet att samtala om och reflektera över teknikens möjligheter samt bidra till att eleverna utvecklar förmåga att lösa produktionstekniska problem. Estetik och form har stor betydelse för hur produkter uppfattas, och eleverna ska därför ges möjlighet att utveckla förståelse av dessa aspekter av produktionen.</p>",
 "goals":["Förmåga att läsa och tolka produktionsunderlag, att planera och programmera i styrsystem samt att simulera, testa och optimera program. Förmåga att utföra produktionsarbete i datorstyrd utrustning.",
 "Förmåga att planera, programmera och utföra produktionsarbete i produktionsgrupper med flera samverkande programmerbara utrustningar.",
@@ -12,4 +18,4 @@
 "Kunskaper om verktyg och metoder för processövervakning och kommunikation mellan utrustningar samt operatörens roll vid arbete i datorstyrda produktionssystem.",
 "Kunskaper om produktionsekonomi och förståelse av det egna ansvarstagandets betydelse för produktionen.",
 "Förmåga att tolka och bearbeta information om styrtekniska villkor och status hos utrustningen samt förmåga att lösa produktionstekniska problem.",
-"Förmåga att kommunicera med olika målgrupper och använda begrepp och uttryck som är relevanta för ämnesområdet."]}
+"Förmåga att kommunicera med olika målgrupper och använda begrepp och uttryck som är relevanta för ämnesområdet."],"someexcludes":true,"somefocuses":false}

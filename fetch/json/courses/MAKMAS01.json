@@ -3,6 +3,8 @@
 "points":300,
 "code":"MAKMAS01",
 "goals":[2,0,2,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":{"Vakthållning på handelsfartyg":["Överlämning av vakten.",
 "Ordergivning och kommunikation med vakthavande befäl.",

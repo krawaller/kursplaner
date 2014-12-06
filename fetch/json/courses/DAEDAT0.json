@@ -3,6 +3,8 @@
 "points":100,
 "code":"DAEDAT0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Dans som uttryck för kulturella värderingar i olika medier.",
 "Relationen mellan synen på dans, kropp, genus och etnicitet ur historiska och samtida perspektiv.",

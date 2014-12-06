@@ -3,6 +3,8 @@
 "points":50,
 "code":"HUAHUM00S",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
 "Vetenskapliga begrepp, teorier, modeller och metoder som är relevanta för kunskapsområdet.",

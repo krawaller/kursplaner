@@ -3,6 +3,8 @@
 "points":100,
 "code":"SPEIDS01",
 "goals":[1,1,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Regler, taktik och teknik inom vald idrott.",
 "Den valda idrottens utveckling nationellt och internationellt.",

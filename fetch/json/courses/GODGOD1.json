@@ -3,6 +3,8 @@
 "points":100,
 "code":"GODGOD1",
 "goals":[1,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kapacitet hos lyftredskap.",
 "Tillsatsaggregat och bakgavellyft.",

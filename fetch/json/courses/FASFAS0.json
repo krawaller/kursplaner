@@ -3,6 +3,8 @@
 "points":100,
 "code":"FASFAS0",
 "goals":[1,1,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.",
 "Vanliga byggskador, hur de kan förebyggas och åtgärdas.",

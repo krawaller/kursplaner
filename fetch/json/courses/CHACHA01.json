@@ -3,6 +3,8 @@
 "points":100,
 "code":"CHACHA01",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika köttråvaror inom charkindustrin, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Andra råvaror och tillsatser som är vanligt förekommande vid tillverkning av charkuterivaror.",
 "Tillverkning av oblandade och blandade charkuterivaror, i huvudsak emulsionsprodukter.",

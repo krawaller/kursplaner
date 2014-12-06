@@ -3,6 +3,8 @@
 "points":100,
 "code":"FASFAE0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Övergripande bygglagstiftning för byggnaders konstruktion och material.",
 "Byggnaders tekniska konstruktion och byggmaterials egenskaper. Hur fuktskador kan förebyggas, lokaliseras och åtgärdas.",

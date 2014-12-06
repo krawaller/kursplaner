@@ -3,6 +3,8 @@
 "points":100,
 "code":"GRÄGRÄ0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Gränssnitt för en applikation.",
 "Genomförande av förstudier genom problemformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare, undersökning av tekniska förutsättningar och liknande applikationer samt formulering av målsättningar och framgångskriterier.",

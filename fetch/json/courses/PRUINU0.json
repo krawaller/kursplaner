@@ -3,6 +3,8 @@
 "points":50,
 "code":"PRUINU0",
 "goals":[1,1,1,0,1,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Installation, kalibrering och intrimning av olika typer av mätutrustning samt genomförande av mätningar.",
 "Lokalisering av felkällor samt tolkning och användning av mätresultat för lämpliga korrigerande åtgärder.",

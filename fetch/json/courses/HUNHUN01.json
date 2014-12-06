@@ -3,6 +3,8 @@
 "points":100,
 "code":"HUNHUN01",
 "goals":[1,1,1,1,2,2,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":{"Biologisk grund":["Vanliga hundraser och deras egenskaper, ursprung och användning.",
 "Olika verksamhetsområden för olika typer av hundar.",

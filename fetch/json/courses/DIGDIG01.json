@@ -3,6 +3,8 @@
 "points":100,
 "code":"DIGDIG01",
 "goals":[2,1,2,1,0,2],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Analoga och digitala skapandeprocesser, skissarbete både utan och med digitala verktyg.",
 "Gränslandet mellan konst och teknik samt hur det formar skapandeprocesser.",

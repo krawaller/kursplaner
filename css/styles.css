@@ -1,0 +1,18 @@
+.wrapper {
+	max-width: 800px;
+	margin: 0 auto;
+	margin-bottom: 6em;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+.goal-notused {
+	color: #999;
+	text-decoration: line-through;
+}
+
+.goal-focus {
+	font-weight: bold;
+}

@@ -3,6 +3,8 @@
 "points":100,
 "code":"DANREE0",
 "goals":[2,0,2,0,2,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Olika metoder för inlärning av koreografiskt material. Instudering, tolkning, gestaltning och framförande av sedan tidigare färdig och framförd koreografi i form av både soloarbeten och grupparbeten. ",
 "Koreografins estetiska utgångspunkter och förhållningssätt i förhållande till dansens formspråk, musik, rum, tyngd, flöde och publiken samt det sammanhang dansen presenteras i. Koreografins syn på kropp, genus och etnicitet samt det historiska och kulturella sammanhang där dessa aspekter ingår.",

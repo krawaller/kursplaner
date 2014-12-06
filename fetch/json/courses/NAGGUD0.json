@@ -3,6 +3,8 @@
 "points":100,
 "code":"NAGGUD0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Planering, genomförande och utvärdering av guidningar och aktiviteter i naturbruksmiljöer.",
 "Val av lämpliga aktiviteter i naturbruksmiljöer för olika målgrupper, till exempel förskolebarn, ungdomar och vuxna.",

@@ -3,6 +3,8 @@
 "points":200,
 "code":"DAKKLA01",
 "goals":[2,2,2,0,2,0,0,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Koder och konventioner som används vid träning.",
 "Träningsprocessens delar, dvs. förberedelse, uppvärmning, memorering av rörelser och feedback. Kontinuerlig träning samt sambandet mellan den dagliga träningsprocessen och den danstekniska utvecklingen.",

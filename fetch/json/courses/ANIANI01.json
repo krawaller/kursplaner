@@ -3,6 +3,8 @@
 "points":100,
 "code":"ANIANI01",
 "goals":[2,1,2,2,1,1,1,1,2,2],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning.",
 "Manus och storyboard.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"DAGPAS0",
 "goals":[1,1,2,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Koder och konventioner för repetitionsarbete. Repetitionsprocessens delar, dvs. förberedelse, uppvärmning, memorering av rörelser och feedback samt sambandet mellan repetitionsprocess och det konstnärliga resultatet.",
 "Konstnärliga processer. Problemlösande arbete.",

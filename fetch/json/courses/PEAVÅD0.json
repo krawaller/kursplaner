@@ -3,6 +3,8 @@
 "points":100,
 "code":"PEAVÅD0",
 "goals":[0,0,1,1,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Hur samtalssituationer påverkas av patienter och brukare, vårdpersonal och omgivningen.",
 "Kunskap och kompetens inom vård och omsorg.",

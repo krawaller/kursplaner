@@ -3,6 +3,8 @@
 "points":200,
 "code":"LAGLAG0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Organisation och arbetsrutiner inom lager och terminalhantering.",
 "Logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.",

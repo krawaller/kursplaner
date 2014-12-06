@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄNETI0",
 "goals":[1,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika kulturer, deras uttryckssätt och kulturmönster samt kulturens betydelse för människors värderingar.",
 "Religiösa och icke-religiösa livsåskådningars människosyn.",

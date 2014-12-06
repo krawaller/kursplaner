@@ -3,6 +3,8 @@
 "points":100,
 "code":"SYSSYT0",
 "goals":[2,0,1,2,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Helhetssyn på värme-, sanitets-, ventilations-, kyl- och värmepumpssystems funktioner och samverkan i fastigheter, byggnadsverk och anläggningar.",
 "Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts.",

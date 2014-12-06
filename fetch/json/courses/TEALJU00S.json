@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEALJU00S",
 "goals":[0,2,0,0,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Design av sceniska gestaltningar med ljud och ljus, alternativt ljud eller ljus.",
 "Val och hantering av relevant utrustning för scenisk gestaltning.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"DESDES01",
 "goals":[1,1,1,2,1,2,1,1,1,2],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":["Produktutveckling utifrån olika aspekter, till exempel målgruppers ekonomiska, ergonomiska, estetiska, funktionella och sociala behov.",
 "Design och designerns roll i samhället med fokus på människors olika behov och förutsättningar, till exempel utifrån genus eller funktionshinder.",

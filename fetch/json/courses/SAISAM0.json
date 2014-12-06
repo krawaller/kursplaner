@@ -3,6 +3,8 @@
 "points":50,
 "code":"SAISAM0",
 "goals":[1,0,0,1,1,1,1,0,0,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Det samiska hantverkets roll i samiskt näringsliv både ur ett historiskt och nutida perspektiv.",
 "Samiska slöjdare och konstnärer och deras betydelse för den samiska kulturen och dess utveckling.",

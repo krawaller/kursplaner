@@ -3,6 +3,8 @@
 "points":50,
 "code":"BILBIL01a1",
 "goals":[2,2,2,2,1,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":["Betraktande, analys och tolkning av, och även samtal om, eget och andras arbete med bilder. Sammanhangets betydelse för tolkningen. ",
 "Grundläggande kompositionstraditioner för två- och tredimensionella bilder samt färglära.",

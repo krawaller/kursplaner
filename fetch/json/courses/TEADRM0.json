@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEADRM0",
 "goals":[0,0,2,0,1,1,0,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Dramatiska texters uppbyggnad med fokus på handling, rum, tid, roller, rytm och språk. ",
 "Dramaturgiska verktyg för att strukturera en berättelse, till exempel anslag, presentation, upptrappning, vändpunkt och avslut.",

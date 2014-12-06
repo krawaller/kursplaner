@@ -7,27 +7,28 @@ fs.readFileS = function(path,callback){ callback(null,fs.readFileSync(path)); }
 
 var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
-var GLOBAL = { courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[]};
+var GLOBAL = { courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
 			}
 			var code = path.split("_")[0], name = path.split("_")[1].replace(".html","").replace(/ä/g,"ä").replace(/å/g,"å").replace(/ö/g,"ö");
-			var sub = {name:name,code:code,type:type};
+			var sub = {name:name,code:code,type:type,courses:[]};
+			GLOBAL.subjectcodes.push(code);
 			// COMMENTS
 			var comm, commentblock = (data.match(/<div id="commentDivContainer">(.*?)<\/div><div id="printUp">/)||[])[1]||"";
 			if (commentblock){
 				sub.comments={};
-				while ((comm=commentblock.match(/<div id="([A-Z0-9\-a-z_]*)" class="commentContainer".*?<\/a>(<h2>.*?)<\/div><\/div>/))){
+				while ((comm=commentblock.match(/<div id="([A-Z0-9\-a-z_]*)" class="commentContainer".*?<\/a>(<h.*?)<\/div><\/div>/))){
 					var cname = comm[1], ccont = comm[2];
-					sub.comments[cname] = ccont;
-					//console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
+					sub.comments[cname] = ccont.replace(/<h2> *<\/h2>/g,"").replace(/^ *<h2>[^<]*<\/h2>/,"").replace(/h[123]>/g,"h4>");
+					console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
 					commentblock=commentblock.replace(comm[0],"");
 				}
 			}
@@ -152,6 +153,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					if (instr){
 						course.instrRAW = instr;
 						instr = fixLinkStr(course.instrRAW);
+						course.descarr = instr;
 						// REPEAT
 						var rep = instr.match(/och kan läsas flera gånger med olika innehåll|Kursen kan läsas (läsas )?flera? gånger med olika .*?\.|Kursen kan läsas flera gånger med innehåll från olika .*\.|som kan läsas flera gånger med olika innehåll\.|Kursen kan läsas flera gånger i olika språk\./)
 						if (rep){
@@ -237,11 +239,14 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							throw e;
 						}
 					}
+					sub.courses.push(course.code);
 					// STEAL EVENTUAL COURSE COMMENTS FROM SUBJECT
 					_.each([["CC-","","comment"],["KR-","E","judgehelp"]],function(a){
 						var pre=a[0],suf=a[1],call=a[2], cid=pre+course.code+suf;
 						if (sub.comments && sub.comments[cid]){
-							course[call] = sub.comments[cid];
+							if (!course.comments) course.comments={};
+							course.comments[call] = sub.comments[cid];
+							console.log(course.code,"has comment",cid);
 							delete sub.comments[cid];
 						}
 					});
@@ -284,6 +289,10 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 								W = which(F);
 							course.goals = addToArr(course.goals,W);
 						}
+						course.excludesgoals = _.contains(course.goals,0);
+						course.focusesgoals = _.contains(course.goals,2);
+						sub.someexcludes = sub.someexcludes || course.excludesgoals;
+						sub.somefocuses = sub.somefocuses || course.focusesgoals;
 						course.level = goalstr.match("I kursen behandlas grundläggande kunskaper i ämnet") ? "basic" :
 							goalstr.match("I kursen behandlas fördjupade kunskaper i ämnet.") ? "high" : "normal";
 					} catch(e) {
@@ -351,7 +360,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						// FÖRENT0 sista två i E och C saknas i A
 						// ---- NEEDS ADJUST ----
 						// MEDMED02 andra i C och A saknar motsvarighet i E
-						var jraw = raw.match(/Kunskapskrav *<\/h2> *(.*?) *<\/div>/)[1].replace(/<br\/> *(<br\/>)? *<\/p>/g,"</p>").replace(/<p> *(<br\/?>)? *<\/p>/g,"").replace(/<b> *<br\/?> *<\/b>/g,"").replace("<br/>","</p><p>").replace(/<p> *\.? *<\/p>/g,"").replace(/[a-zåäö]<b> /g," <b>").replace(/ <\/b>/g,"</b> ");
+						var jraw = raw.match(/Kunskapskrav *<\/h2> *(.*?) *<\/div>/)[1].replace(/<br\/> *(<br\/>)? *<\/p>/g,"</p>").replace(/<p> *(<br\/?>)? *<\/p>/g,"").replace(/<b> *<br\/?> *<\/b>/g,"").replace("<br/>","</p><p>").replace(/<p> *\.? *<\/p>/g,"").replace(/[a-zåäö]<b> /g," <b>").replace(/ <\/b>/g,"</b> ").replace(/<a [^>]*>.*?<\/a>/g,"").trim();
 						course.judgeraw = jraw;
 						_.each({
 							0: /<b> *<\/b>/g,
@@ -371,7 +380,8 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							"med viss": /med<\/b> <b>viss/g,
 							"effektivt sätt": /effektivt<\/b> <b>sätt/g,
 							"ett fåtal": /ett<\/b> <b>fåtal/g,
-							"<b>Eleven utvärderar": /<b>Eleven<\/b> <b>utvärderar/g
+							"<b>Eleven utvärderar": /<b>Eleven<\/b> <b>utvärderar/g,
+							" med ": " me "
 						},function(regex,repl){jraw = jraw.replace(regex,repl||"");});
 						_.each({
 							"BAGBAG04": {
@@ -512,6 +522,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					GLOBAL.coursenames.push(course.name);
 					GLOBAL.codetocode[course.code] = course.code;
 					GLOBAL.coursetocode[course.name] = course.code;
+					GLOBAL.coursecodes.push(course.code);
 				}
 			}
 			// FINISH
@@ -638,14 +649,22 @@ function harvestFiles(o){
 var names = _.keys(GLOBAL.coursetocode).sort(function(s,t){return s.length>t.length?-1:s.length<t.length?1:s>t;});
 _.each(GLOBAL.courses,function(course,code){
 	//betterbehaved
-	_.each(["reqRAW","notwithRAW","alsoreqRAW"],function(prop){
+	_.each(["descarr","reqRAW","notwithRAW","alsoreqRAW"],function(prop){
 		if (course[prop]){
 			_.each(names,function(name){
 				course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+GLOBAL.coursetocode[name]);
 			});
-			course[prop.replace("RAW","")] = courseList(course[prop],code);
+			if (prop !== "descarr") course[prop.replace("RAW","")] = courseList(course[prop],code);
 		}
 	});
+	if (course.descarr){
+		_.each(course.descarr.split(/\W/g),function(part){
+			if (GLOBAL.courses[part]){
+				course.descarr = course.descarr.replace(part,"___"+part+"___")
+			}
+		});
+		course.descarr = course.descarr.replace(/^som /,"Den ").split("___");
+	};
 	if (course.alsoreq){
 		course.req = {type:"AND",arr:[course.req,course.alsoreq]};
 		delete course.alsoreq;
@@ -662,6 +681,7 @@ _.each(GLOBAL.courses,function(course,code){
 _.each(GLOBAL.courses,function(course,code){
 	fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"').replace("��","å"));
 });
+GLOBAL.coursenames = GLOBAL.coursenames.sort();
 fs.writeFile("./master.json",JSON.stringify(GLOBAL));
 
 

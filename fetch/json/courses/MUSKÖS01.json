@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUSKÖS01",
 "goals":[2,1,0,1,1,0,2,0,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Körmusicerande i flerstämmig körmusik på en grundläggande nivå från olika repertoarområden.",
 "Musicerande i gehörsbaserad och noterad musik.",

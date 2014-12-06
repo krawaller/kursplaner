@@ -3,6 +3,8 @@
 "points":100,
 "code":"FOMFOR01S",
 "goals":[2,2,2,2,2,1,2,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":["Grundläggande hantverksmässigt arbete i ett eller flera valda material. Exempel på material kan vara trä, tyg eller glas.",
 "Enkla bearbetningsmetoder, användningsområden och verktyg.",

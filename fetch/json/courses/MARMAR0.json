@@ -3,6 +3,8 @@
 "points":100,
 "code":"MARMAR0",
 "goals":[1,2,1,1,1,2,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Informationssökning för arbetsuppgiften med hjälp av internet och på andra sätt.",
 "Arbetsbeskrivningar, utförandekrav och ritningar för arbetsuppgiften.",

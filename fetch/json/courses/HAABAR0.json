@@ -3,6 +3,8 @@
 "points":100,
 "code":"HAABAR0",
 "goals":[1,1,1,1,1,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Barns hälsa och välbefinnande.",
 "Sambanden mellan levnadsvanor, livsvillkor samt barns hälsa och välbefinnande.",

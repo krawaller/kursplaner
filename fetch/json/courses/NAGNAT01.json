@@ -3,6 +3,8 @@
 "points":100,
 "code":"NAGNAT01",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Planering och genomförande av aktiviteter för längre och kortare vistelse i naturen. ",
 "Val av aktiviteter efter deltagarnas förutsättningar, till exempel ålder, kondition och erfarenheter.",

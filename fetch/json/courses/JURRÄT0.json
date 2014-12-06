@@ -3,6 +3,8 @@
 "points":100,
 "code":"JURRÄT0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Konstitutionell rätt: Sveriges grundlagar med särskild betoning på offentlighetsprincipen och skyddet för mänskliga fri- och rättigheter.",
 "Internationell rätt: Europarätt inklusive EU-rätt samt det internationella skyddet för mänskliga rättigheter.",

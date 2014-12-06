@@ -3,6 +3,8 @@
 "points":100,
 "code":"YTTYTR0",
 "goals":[1,0,1,1,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika maskiner, verktyg och redskap samt deras konstruktion och funktion.",
 "Planering och dimensionering av fast markutrustning inom fastighetsområden utifrån krav på estetik och funktion.",

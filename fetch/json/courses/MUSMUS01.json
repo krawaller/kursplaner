@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUSMUS01",
 "goals":[0,0,0,0,0,0,0,1,2],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Grundläggande bearbetning av ljud med analog och digital teknik.",
 "Medier för spridning av musikaliska produktioner.",

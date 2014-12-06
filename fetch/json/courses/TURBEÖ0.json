@@ -3,6 +3,8 @@
 "points":100,
 "code":"TURBEÖ0",
 "goals":[2,1,1,1,2,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Besöksnäringens centrala organisationer.",
 "Besöksnäringens olika verksamhetsområden, aktörer och yrkesroller.",

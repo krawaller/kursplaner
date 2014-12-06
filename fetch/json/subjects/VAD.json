@@ -1,10 +1,10 @@
 {"name":"Vård och omsorg specialisering",
 "code":"VAD",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet vård och omsorg specialisering möjliggör en fördjupning inom ett valt kunskapsområde. En specialisering inom vård och omsorg kan ske inom ett flertal olika kunskapsområden, till exempel inom gerontologi, geriatrik, palliativ vård, rehabilitering och habilitering, demenssjukvård, prehospital vård samt psykiatri.</p>",
+"courses":["VADVAR00S"],"description":"<p>Ämnet vård och omsorg specialisering möjliggör en fördjupning inom ett valt kunskapsområde. En specialisering inom vård och omsorg kan ske inom ett flertal olika kunskapsområden, till exempel inom gerontologi, geriatrik, palliativ vård, rehabilitering och habilitering, demenssjukvård, prehospital vård samt psykiatri.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet vård och omsorg specialisering ska syfta till att eleverna fördjupar sina kunskaper inom ett valt kunskapsområde. Den ska leda till att eleverna utvecklar förmåga att använda relevanta begrepp och teorier inom kunskapsområdet samt förståelse av hur dessa kan omsättas i arbetet inom det valda kunskapsområdet. Undervisningen ska också leda till att eleverna utvecklar förmåga att kritiskt granska och resonera kring kunskapsområdet. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att kommunicera och samarbeta med andra med ett lyhört, respektfullt och empatiskt förhållningssätt.</p>",
 "goals":["Förmåga att använda begrepp och teorier inom det valda kunskapsområdet.",
 "Förmåga att söka och värdera information från olika källor.",
 "Förmåga att planera och utföra uppgifter inom det valda kunskapsorådet samt att utvärdera den egna arbetsinsatsen.",
 "Kunskaper om lagar och andra bestämmelser relevanta för kunskapsområdet.",
-"Förmåga att kommunicera och anpassa sin kommunikation till olika sammanhang."]}
+"Förmåga att kommunicera och anpassa sin kommunikation till olika sammanhang."],"someexcludes":false,"somefocuses":false}

@@ -3,6 +3,8 @@
 "points":100,
 "code":"NÄTNÄT01",
 "goals":[1,1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Affärsidé och entreprenörskap inom näthandelsområdet.",
 "Teknikutveckling, till exempel köp via mobiltelefon.",

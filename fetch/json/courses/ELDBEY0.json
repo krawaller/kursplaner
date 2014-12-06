@@ -3,6 +3,8 @@
 "points":100,
 "code":"ELDBEY0",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"high",
 "content":["Belysningsnäts uppbyggnad, funktion och arbetssätt samt deras komponenter, till exempel stolpar, armaturer och belysningskällor. Belysningsnäts kontroll och styrsystem.",
 "Montering, skarvning och schaktning i belysningsnät. ",

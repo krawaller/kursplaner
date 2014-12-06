@@ -3,6 +3,8 @@
 "points":100,
 "code":"EVEEVN0",
 "goals":[1,2,2,2,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":["Funktion och arbetssätt hos tekniska ljud-, bild- och ljusanläggningar för event.",
 "Funktion och monteringssätt hos komponenter, enheter och system för scenuppbyggnad.",

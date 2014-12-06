@@ -3,6 +3,8 @@
 "points":100,
 "code":"PEASOC0",
 "goals":[1,1,0,0,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Utanförskapets problematik på grund av människors livssituationer samt hur dessa påverkas av sociala, kulturella, kognitiva, fysiska och psykiska begränsningar.",
 "Samhällsutvecklingens påverkan, och olika synsätt genom historien, på verksamheter inom vård och omsorg utifrån till exempel klass, kön och etnicitet.",

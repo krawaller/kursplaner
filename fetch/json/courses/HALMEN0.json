@@ -3,6 +3,8 @@
 "points":100,
 "code":"HALMEN0",
 "goals":[1,1,0,1,0,0,1,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Psykologiska faktorer i relation till prestation.",
 "Olika stressorer i vardagen.",

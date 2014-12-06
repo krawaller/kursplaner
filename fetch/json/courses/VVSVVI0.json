@@ -3,6 +3,8 @@
 "points":100,
 "code":"VVSVVI0",
 "goals":[0,0,1,1,1,0,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Svetsdatablad som behandlar parametrar, till exempel val av svetsström och svetshastighet för olika materialtjocklekar och lägen.",
 "Reglering av svetsström, likström och växelström.",

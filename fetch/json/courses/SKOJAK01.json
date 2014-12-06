@@ -3,6 +3,8 @@
 "points":100,
 "code":"SKOJAK01",
 "goals":[0,1,1,1,1,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":{"Biologisk grund":["Växtarter och djurarter i olika biotoper.",
 "Sjukdomar och skador hos vilt.",

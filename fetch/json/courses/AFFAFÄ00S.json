@@ -3,6 +3,8 @@
 "points":100,
 "code":"AFFAFÄ00S",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Metoder för omvärldsbevakning inom affärsvärlden.",
 "Sociala, ekonomiska och miljömässiga förhållanden i olika länder.",

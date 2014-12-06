@@ -3,6 +3,8 @@
 "points":300,
 "code":"TRAYRK1",
 "goals":[1,1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Tekniska egenskaper och funktioner hos bromssystem, bromshjälpsystem och utrustningar på transportfordon.",
 "Kraftöverföring: motor, vridmoment, växellåda och differential.",

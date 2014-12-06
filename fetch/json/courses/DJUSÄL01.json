@@ -3,6 +3,8 @@
 "points":100,
 "code":"DJUSÄL01",
 "goals":[2,1,1,2,2,1,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"normal",
 "content":{"Biologisk grund":["Identifiering och namngivning av ett begränsat antal djurarter med vetenskapliga och yrkesmässiga termer. ",
 "Sällskapsdjurens historik och betydelse för människan.",

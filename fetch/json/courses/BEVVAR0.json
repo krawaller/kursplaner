@@ -3,6 +3,8 @@
 "points":100,
 "code":"BEVVAR0",
 "goals":[1,1,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kommunens regler och ansvar för att förebygga olyckor.",
 "Grunderna för kommunens systematiska säkerhetsarbete.",

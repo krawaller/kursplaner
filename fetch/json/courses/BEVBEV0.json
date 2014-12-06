@@ -3,6 +3,8 @@
 "points":300,
 "code":"BEVBEV0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Innehåll, organisation och auktorisation av bevakningsverksamhet samt dess funktion i samhället.",
 "Samhällets rättsvårdande myndigheters organisation och roll i rättskedjan.",

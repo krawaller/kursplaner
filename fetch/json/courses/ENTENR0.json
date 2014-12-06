@@ -3,6 +3,8 @@
 "points":100,
 "code":"ENTENR0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Entreprenörskapets betydelse för individer, organisationer, företag och samhällen inom områden som är relevanta för elevernas utbildning.<br/>",
 "Idéutvecklingsprocesser: hur man skapar, värderar, förverkligar, vidareutvecklar eller överger idéer inom projektets verksamhetsområde. I samband med det behandlas hur produkter och idéer skyddas genom lagar och andra bestämmelser, till exempel upphovsrätt.<br/>",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"JURPRI0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Konstitutionell rätt samt straffrätt och processrätt. En översikt över de svenska grundlagarna och deras förhållande till EU-rätt och internationell rätt. En översikt över regler som rör brott och straff samt det svenska rättegångsväsendet.",
 "Familjerätt och arvsrätt: regler som rör par- och familjerelationer samt arv, testamente och bodelning.",

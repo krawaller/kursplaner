@@ -3,6 +3,8 @@
 "points":100,
 "code":"RENREN01",
 "goals":[1,0,1,0,0,0,0,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Rennäringens omfattning samt ekonomiska och sociala betydelse. Dess betydelse som kulturbärare i det samiska samhället både traditionellt och i nutid.",
 "Rennäringens historiska utveckling. Övergång från vildrensjakt till tamrenskötsel. Faktorer som påverkat och påverkar utvecklingen.",

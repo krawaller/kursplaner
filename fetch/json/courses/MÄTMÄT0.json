@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄTMÄT0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen och den integrerande förstärkningen samt den deriverande verkan i regulatorn.",
 "Enklare mättekniska laborationer med mätning av temperatur.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"DATDAR0",
 "goals":[0,1,0,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Hur man kan följa sin egen kunskapsutveckling i dansteknik.",
 "Grundläggande anatomi.",

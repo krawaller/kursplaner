@@ -3,6 +3,8 @@
 "points":100,
 "code":"ARKARK0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Arkitektur- och samhällsbyggnadshistoria, både nationellt och internationellt.",
 "Den omgivande miljön och dess arkitektur.",

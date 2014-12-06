@@ -3,6 +3,8 @@
 "points":100,
 "code":"MEETET0",
 "goals":[0,0,0,1,1,0,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Produktion och analys av journalistiska texter grundade på fakta och saklighet utifrån journalistikens principer.",
 "Produktion och analys av informationstexter och reklamtexter utifrån informationens och reklamens behov.",

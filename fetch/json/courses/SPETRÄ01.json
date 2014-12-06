@@ -3,6 +3,8 @@
 "points":100,
 "code":"SPETRÄ01",
 "goals":[0,2,0,2,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"basic",
 "content":["Kroppens grundläggande anatomi och fysiologi samt grundläggande träningslära.",
 "Grundläggande närings- och kostkunskap för tränings- och tävlingsverksamhet.",

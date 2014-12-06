@@ -3,6 +3,8 @@
 "points":100,
 "code":"SAHBYN0",
 "goals":[1,1,1,1,0,0,0,0,0,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Viktiga byggnadsmaterial, till exempel trä, betong, isolering, tätskikt, murverk, grus, markbeläggning och asfalt samt deras tillverkning, uppbyggnad, egenskaper och användningsområden.",
 "Byggnadsteknik och konstruktionselement inom husbyggnad och anläggning, till exempel bärande och icke bärande delar av en byggnad, grundkonstruktion, väggar, bjälklag, takkonstruktion, fönster och dörrar, vägar och rörgravar.",

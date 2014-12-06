@@ -3,6 +3,8 @@
 "points":100,
 "code":"MUIGEH01",
 "goals":[2,2,2,1,1,0,0,0,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.",
 "Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.",

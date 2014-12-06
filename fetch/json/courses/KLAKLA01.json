@@ -3,6 +3,8 @@
 "points":100,
 "code":"KLAKLA01",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"basic",
 "content":["Läsning och tolkning av mycket enkla grekiska texter, till exempel texter från läroböcker och bearbetade autentiska texter.",
 "Det grekiska alfabetet, hur de grekiska bokstäverna uttalades under grekiskans klassiska tid och hur man använder alfabetet i skrift.",

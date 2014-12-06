@@ -3,6 +3,8 @@
 "points":200,
 "code":"RIDRID0",
 "goals":[1,1,1,0,1,2,2,1,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Hästars gångarter, renhet och takt med variationer av tempo.",
 "Hästars gångarter på körplan och motionsslinga.",

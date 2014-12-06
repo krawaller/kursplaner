@@ -3,6 +3,8 @@
 "points":100,
 "code":"SEVSEV01",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kulturella skillnader i kommunikationsmönster.",
 "Bemötande, kroppsspråk och språklig kommunikation i olika servicesituationer samt yrkesmässigt hänsynstagande till kundens eller gästens integritet.",

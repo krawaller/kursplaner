@@ -3,6 +3,8 @@
 "points":200,
 "code":"FORFOD0",
 "goals":[1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Yrken inom branscherna, olika verksamhetsområden och branschernas förutsättningar och villkor.",
 "Branschernas historia, utveckling och framtid.",

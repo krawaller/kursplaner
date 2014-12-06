@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEIVVS0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden. Historik över äldre isoleringsmaterial och arbetsmetoder.",
 "Material för ytbeklädnad av VVS-installationer samt materialens användningsområden.",

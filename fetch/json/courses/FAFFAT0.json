@@ -3,6 +3,8 @@
 "points":100,
 "code":"FAFFAT0",
 "goals":[0,0,0,1,1,1,2,2,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Digital utrustning och programvara för att kommunicera med och informera olika målgrupper.",
 "Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet och människors rätt till integritetsskydd.",

@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÅTBRC0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Orientering om de branscher som finns inom yrkesområdet samt villkoren för deras verksamheter, till exempel restauranger, bagerier, konditorier, charkuterier och butiker.",
 "Grundläggande arbetsuppgifter inom yrkesområdet, till exempel bakning, styckning, matlagning, servering, planering och inköp, med möjlig fördjupning inom något eller några områden.",

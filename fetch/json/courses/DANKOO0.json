@@ -3,6 +3,8 @@
 "points":100,
 "code":"DANKOO0",
 "goals":[0,0,1,2,2,1,1,0,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Samarbete och interaktion med andra.",
 "Olika kompositionsmetoder och koreografiska förhållningssätt till tyngd, flöde, tid, rum, musik, variation eller stämning.",

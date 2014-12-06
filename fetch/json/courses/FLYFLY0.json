@@ -3,6 +3,8 @@
 "points":50,
 "code":"FLYFLY0",
 "goals":[0,0,0,0,0,0,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Introduktion av regelverk.",
 "Regelverk för certifierande personal.",

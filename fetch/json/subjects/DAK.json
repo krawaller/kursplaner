@@ -1,7 +1,14 @@
 {"name":"Dansteknik för yrkesdansare",
 "code":"DAK",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet dansteknik för yrkesdansare är till sin karaktär scenkonstnärligt och innefattar träning som krävs för yrkesmässigt utövande av scenkonstnärlig dans. Ämnet innefattar även livsstilsfrågor, hälsoaspekter, anatomi och ergonomi, och den delen av ämnet är till sin karaktär delvis naturvetenskaplig. Ämnet dansteknik för yrkesdansare får bara anordnas på yrkesdansarutbildningen.</p>",
+"courses":["DAKDAN0",
+"DAKDAS0",
+"DAKKLA01",
+"DAKKLA02",
+"DAKKLA03",
+"DAKMOD01",
+"DAKMOD02",
+"DAKMOD03"],"description":"<p>Ämnet dansteknik för yrkesdansare är till sin karaktär scenkonstnärligt och innefattar träning som krävs för yrkesmässigt utövande av scenkonstnärlig dans. Ämnet innefattar även livsstilsfrågor, hälsoaspekter, anatomi och ergonomi, och den delen av ämnet är till sin karaktär delvis naturvetenskaplig. Ämnet dansteknik för yrkesdansare får bara anordnas på yrkesdansarutbildningen.</p>",
 "vux":false,"purpose":"<p>Undervisningen i ämnet dansteknik för yrkesdansare ska syfta till att eleverna utvecklar färdigheter i avancerad dansteknik genom kontinuerlig träning av kroppsminnet. Genom denna träning ska eleverna ges möjlighet att utveckla förfinad motorisk skicklighet, nyanserade rörelsekvaliteter och spatial och musikalisk lyhördhet i enlighet med den klassiska balettens och den moderna nutida dansens formspråk och konventioner. Eleverna ska även ges möjlighet att utveckla färdigheter i dansteknik inom andra genrer. I undervisningen ska eleverna ges möjlighet att utveckla ett konstnärligt och yrkesmässigt förhållande till träningen. Den ska också ta fasta på att stärka elevernas motivation och självförtroende.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att ta ansvar för kroppen och det danstekniska lärandet genom metoder för att reflektera över och utveckla ett problemlösande förhållningssätt till den egna kunskapsutvecklingen. Den ska även ge eleverna möjlighet att utveckla kroppskännedom och anatomiskt funktionell placering samt förmåga att använda kompletterande träningsmetoder för att stärka kroppen.</p><p>Undervisningen ska leda till att eleverna utvecklar förmåga att relatera kunskaper om livsstilsfrågor, hälsa, anatomi och ergonomi till den danstekniska träningen. Den ska medvetandegöra och motverka stereotypa föreställningar om vad som anses vara manligt och kvinnligt samt belysa konsekvenserna av olika kroppsideal. Undervisningen ska även behandla andra frågor om etik och moral i relation till dansutövande.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera med begrepp och vokabulär som används inom yrkesområdet.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med kropp och träning på ett sätt som återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.</p>",
 "goals":["Förmåga att använda koder och konventioner som används vid dansteknisk träning.",
 "Kunskaper om träningsprocessens olika delar samt förmåga att tillämpa dem för att utveckla och förfina danstekniska färdigheter. Förmåga att reflektera över sin egen kunskapsutveckling i dansteknik.",
@@ -10,4 +17,4 @@
 "Förmåga att anpassa dansteknik till musikaliska aspekter samt till olika typer av rum och sammanhang.",
 "Kunskaper om faktorer som påverkar kropp och träning.",
 "Kunskaper om anatomi och kompletterande träningsmetoder samt förmåga att utveckla kroppskännedom genom kompletterande träning.",
-"Förmåga att kommunicera med andra inom yrkesområdet och att använda begrepp och uttryck som är relevanta."]}
+"Förmåga att kommunicera med andra inom yrkesområdet och att använda begrepp och uttryck som är relevanta."],"someexcludes":true,"somefocuses":true}

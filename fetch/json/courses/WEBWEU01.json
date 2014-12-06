@@ -3,6 +3,8 @@
 "points":100,
 "code":"WEBWEU01",
 "goals":[2,2,2,0,1,2,2,1,1],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Webben som plattform, dess historia och samhällspåverkan.",
 "Teknisk orientering om webbens protokoll, adresser, säkerhet och samspelet mellan klient och server.",

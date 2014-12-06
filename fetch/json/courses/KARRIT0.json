@@ -3,6 +3,8 @@
 "points":200,
 "code":"KARRIT0",
 "goals":[1,1,1,1,0,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Verksamhetsområden inom karosseriteknik.",
 "Grunderna i karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.",

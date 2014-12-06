@@ -3,6 +3,8 @@
 "points":100,
 "code":"VVSVVS0",
 "goals":[0,0,1,1,1,0,1,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Löd- och svetsdatablad som behandlar parametrar, till exempel val av munstycke för olika materialtjocklekar och lägen.",
 "Kvalitetsnivåer och kompetenskrav inom svetsning och lödning.",

@@ -1,7 +1,9 @@
 {"name":"Beläggning",
 "code":"BEL",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet beläggning behandlar beläggningsarbete, från tillverkning av asfalt till det att vägobjektet är färdigt att brukas. I samhället ställs allt högre krav på vägars utformning och kvalitet. Aspekter på både säkerhet och miljö måste finnas med redan i planeringsstadiet.</p>",
+"courses":["BELBEL0",
+"BELBEG0",
+"BELBEÄ0"],"description":"<p>Ämnet beläggning behandlar beläggningsarbete, från tillverkning av asfalt till det att vägobjektet är färdigt att brukas. I samhället ställs allt högre krav på vägars utformning och kvalitet. Aspekter på både säkerhet och miljö måste finnas med redan i planeringsstadiet.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet beläggning ska syfta till att eleverna utvecklar förmåga att utföra olika typer av beläggningsarbeten. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om olika beläggningsmetoder och beläggningsmaterial samt om service och underhåll av beläggningsmaskiner. Eleverna ska även ges möjlighet att utveckla kunskaper om vilka kvalitetskrav som ställs vid tillverkning av asfaltmassa samt förståelse av estetiska detaljer i beläggningsarbetet.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom yrkesområdet samt kunskaper om hur man söker information om aktuella regelverk. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med hänsyn till hälsa och säkerhet. Den ska ge eleverna möjlighet att utveckla kunskaper om branschens ansvar för hållbar utveckling.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av yrkesrollen och av ansvarstagande inom bygg- och anläggningsarbete samt förmåga att förhålla sig kritiskt till attityder och värderingar på arbetsplatsen. Vidare ska eleverna ges möjlighet att utveckla ett fackspråk och förmåga att kommunicera med såväl arbetskamrater som kunder. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p><p>Undervisningen ska genomföras så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och ergonomiskt anpassade. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p>",
 "goals":["Förmåga att söka information samt planera, organisera och utföra vanliga arbetsuppgifter.",
 "Kunskaper om olika metoder, material, verktyg och maskiner.",
@@ -12,4 +14,4 @@
 "Förmåga att arbeta säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.",
 "Förmåga att utvärdera arbetsprocessen och resultatet samt att dokumentera sitt arbete.",
 "Kunskaper om vad hållbar utveckling innebär i bygg- och anläggningsbranschen. Kunskaper om vad service av maskiner betyder för produktiviteten.",
-"Förmåga att samverka och kommunicera med andra samt använda fackspråk."]}
+"Förmåga att samverka och kommunicera med andra samt använda fackspråk."],"someexcludes":false,"somefocuses":false}

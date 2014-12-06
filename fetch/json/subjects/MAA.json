@@ -1,10 +1,11 @@
 {"name":"Massage",
 "code":"MAA",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet massage är ett tvärvetenskapligt kunskapsområde som har sin grund i naturvetenskap och humanbiologi. Ämnet handlar om hur vår kropp och rörelseapparat påverkas av olika faktorer och hur massage och beröring kan användas både som behandlingsmetod och i hälsofrämjande syfte.</p>",
+"courses":["MAAMAA01",
+"MAAMAA02"],"description":"<p>Ämnet massage är ett tvärvetenskapligt kunskapsområde som har sin grund i naturvetenskap och humanbiologi. Ämnet handlar om hur vår kropp och rörelseapparat påverkas av olika faktorer och hur massage och beröring kan användas både som behandlingsmetod och i hälsofrämjande syfte.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet massage ska syfta till att eleverna utvecklar kunskaper om kroppens anatomi och fysiologi med tonvikt på kroppens rörelseapparat. Eleverna ska ges möjlighet att utveckla kunskaper om massage som såväl skadeförebyggande som hälsofrämjande behandlingsform. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att använda olika massagetekniker. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om ergonomi, hygien och miljöfrågor kopplade till verksamheten. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om rörelse, avspänning och träning.</p><p>Eleverna ska också ges möjlighet att diskutera centrala begrepp samt att använda massage och beröring som ett pedagogiskt redskap i olika sammanhang.</p>",
 "goals":["Kunskaper om kroppens anatomi och fysiologi.",
 "Kunskaper om massage som behandlingsform.",
 "Förmåga att använda centrala begrepp och teorier inom kunskapsområdet.",
 "Förmåga att arbeta med olika behandlingsformer i såväl skadeförebyggande som hälsofrämjande syfte på ett ergonomiskt, hygieniskt och miljömässigt sätt.",
-"Förmåga att samverka i behandlingssituationer."]}
+"Förmåga att samverka i behandlingssituationer."],"someexcludes":true,"somefocuses":false}

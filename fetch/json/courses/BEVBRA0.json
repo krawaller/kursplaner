@@ -3,6 +3,8 @@
 "points":200,
 "code":"BEVBRA0",
 "goals":[1,1,1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Regler för brandskydd i byggnader och grunderna i ett systematiskt brandskyddsarbete<i>.</i>",
 "Brandbekämpningsresurser inom räddningstjänsten, till exempel kommunens räddningstjänst.",

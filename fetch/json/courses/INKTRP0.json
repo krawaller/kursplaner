@@ -3,6 +3,8 @@
 "points":100,
 "code":"INKTRP0",
 "goals":[1,0,0,0,1,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Köp och försäljning av olika transportlösningar.",
 "Transportbranschens utveckling och struktur.",

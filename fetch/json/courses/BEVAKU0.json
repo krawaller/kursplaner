@@ -3,6 +3,8 @@
 "points":100,
 "code":"BEVAKU0",
 "goals":[1,0,1,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Lagar och andra bestämmelser som styr räddningstjänsten.",
 "Prehospitalt omhändertagande av drabbade enligt L-ABCDE-principen.",

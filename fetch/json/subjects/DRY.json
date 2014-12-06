@@ -1,7 +1,10 @@
 {"name":"Dryckeskunskap",
 "code":"DRY",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.</p>",
+"courses":["DRYDRC0",
+"DRYBAT0",
+"DRYDRY0",
+"DRYDRY00S"],"description":"<p>Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet dryckeskunskap ska syfta till att eleverna utvecklar kunskaper om kalla och varma drycker, deras ursprung, egenskaper, användningsområden och karaktär. Eleverna ska även ges möjlighet att utveckla kunskaper om odlingsområden, framställningsmetoder, olika tillverkningsprocesser och råvaror samt hur detta påverkar slutproduktens kvalitet och pris.</p><p>Eleverna ska ges möjlighet att utveckla förmåga att servera drycker, utforma dryckeslistor samt att identifiera och bedöma kvaliteten på olika drycker. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om sinnenas betydelse för bedömningen. Undervisningen ska även leda till att eleverna utvecklar kunskaper om svenska och internationella dryckestraditioner ur ett nutida och historiskt perspektiv. Undervisningen ska även leda till att eleverna utvecklar förståelse av olika gästers behov och krav.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om vad som avses med ansvarsfull alkoholservering samt om alkoholens skadeverkningar. Den ska även leda till att eleverna utvecklar kunskaper om alkoholpolitiska och etiska frågor inom området samt om lagar och andra bestämmelser som rör hantering av olika drycker.</p><p>I undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om servering, blandning och beredning av drycker. Eleverna ska även ges möjlighet att praktiskt träna upp sin förmåga att bedöma och identifiera drycker.</p>",
 "goals":["Kunskaper om ansvarsfull alkoholservering, alkoholpolitik, etiska frågor och lagar och andra bestämmelser inom området samt om alkoholens skadeverkningar.",
 "Kunskaper om varma och kalla drycker.",
@@ -10,4 +13,4 @@
 "Förmåga att använda redskap och utrustning samt att välja och använda arbetsmetoder.",
 "Förmåga att arbeta hygieniskt, ergonomisk och säkert.",
 "Förmåga att utvärdera sitt arbete och resultat.",
-"Förmåga att samarbeta med andra och använda fackspråk."]}
+"Förmåga att samarbeta med andra och använda fackspråk."],"someexcludes":true,"somefocuses":true}

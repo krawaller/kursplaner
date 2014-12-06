@@ -3,6 +3,8 @@
 "points":100,
 "code":"KYLKYO0",
 "goals":[1,1,1,0,1,1,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Kylsystemets uppbyggnad och funktion.",
 "Olika uppbyggnadssätt, till exempel direkta, delvis indirekta och fullständigt indirekta system.",

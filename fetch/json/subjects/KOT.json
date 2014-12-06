@@ -1,7 +1,9 @@
 {"name":"Konstruktion",
 "code":"KOT",
 "type":"OTHER",
-"auth":"<p>En lärares kompetens är relevant för ämnet konstruktion om han eller hon</p><p>1. har behörighet i ämnet teknik i gymnasieskolan och med godkänt resultat har genomgått utbildning om 15 högskolepoäng inom konstruktion, eller</p><p>2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+"courses":["KOTKOS01",
+"KOTKOS02",
+"KOTKOS03"],"auth":"<p>En lärares kompetens är relevant för ämnet konstruktion om han eller hon</p><p>1. har behörighet i ämnet teknik i gymnasieskolan och med godkänt resultat har genomgått utbildning om 15 högskolepoäng inom konstruktion, eller</p><p>2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
 "description":"<p>Ämnet konstruktion behandlar konstruktionsprocesser från idé till färdig produkt, där syftet är att utforma och dimensionera produkter med sikte på ändamålsenlig formgivning, funktion och användning.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet konstruktion ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen från idé och skiss till presentation av fungerande lösningar som tar hänsyn till ekonomiska, produktionstekniska och miljömässiga förutsättningar. Eleverna ska också ges möjlighet att utveckla kunskaper om befintlig teknik.</p><p>Undervisningen ska förbereda eleverna för att delta i framtida teknisk utveckling och bidra till att de förstår betydelsen av ett etiskt förhållningssätt och hållbar utveckling inom konstruktion. Eleverna ska ges möjlighet att utveckla ett tekniskt språk och förmåga att använda begrepp med anknytning till konstruktionsprocessen. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om svenska och internationella standarder som reglerar konstruktionsområdet.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta med konstruktionsuppgifter i projektform. I undervisningen ska cad (computer aided design) vara ett verktyg i konstruktionsarbetet. Matematiska och teknikvetenskapliga teorier, observationer, modeller och beräkningar ska användas i undervisningen och eleverna ska ges möjlighet att utveckla förmåga att använda teknisk programvara. Denna förmåga samt problemlösningsförmåga ska tränas i konkreta konstruktionsuppgifter.</p>",
 "goals":["Kunskaper om befintlig teknik och teknisk utveckling samt om konstruktionsprocessen med hänsyn tagen till hållbar utveckling.",
@@ -11,4 +13,4 @@
 "Förmåga att lösa problem och konstruktionsuppgifter samt utföra beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller.",
 "Kunskaper om standarder och normer inom konstruktionsområdet.",
 "Förmåga att dokumentera, redovisa, presentera och utvärdera konstruktionsarbete.",
-"Förmåga att använda tekniska begrepp och modeller."]}
+"Förmåga att använda tekniska begrepp och modeller."],"someexcludes":true,"somefocuses":false}

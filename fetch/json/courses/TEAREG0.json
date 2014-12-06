@@ -3,6 +3,8 @@
 "points":100,
 "code":"TEAREG0",
 "goals":[0,0,0,2,2,2,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":true,
 "level":"normal",
 "content":["Aktörers samspel i en gemensam scenisk gestaltning.",
 "Moment i regiprocessen, till exempel faser med analys och tolkning, utforskande faser samt faser med det sceniska uttryckets form och komposition.",

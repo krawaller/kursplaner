@@ -3,6 +3,8 @@
 "points":100,
 "code":"FLYAER0",
 "goals":[1,0,0,0,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Luftflöden runt olika profiler.",
 "Generering av lyftkraft och motstånd.",

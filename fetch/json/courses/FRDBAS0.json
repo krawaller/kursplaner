@@ -3,6 +3,8 @@
 "points":200,
 "code":"FRDBAS0",
 "goals":[1,1,1,1,0,1,1,1,1,0],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Använda materials och produkters olika egenskaper.",
 "Funktion hos olika system, till exempel hydrauliska system, värme-, kyl- och VVS-system.",

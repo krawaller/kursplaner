@@ -3,6 +3,8 @@
 "points":100,
 "code":"MÄTDIS0",
 "goals":[1,1,1,1,1],
+"excludesgoals":false,
+"focusesgoals":false,
 "level":"normal",
 "content":["Planering och byggande av styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output) beroende på anläggningens karaktär.",
 "Scheman, ritningar och övrig dokumentation över komponenter för distribuerad styrning.",

@@ -3,6 +3,8 @@
 "points":200,
 "code":"LAGLAP0",
 "goals":[0,1,1,1,1,0,0,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"normal",
 "content":["Alternativa lagersystem och lagerstrukturer för gods- och varuflöden.",
 "Administrativa funktioner i fråga om ansvarsbestämmelser, anpassade till hantering av varor och gods i lagermiljöer.",

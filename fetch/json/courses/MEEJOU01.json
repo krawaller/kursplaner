@@ -3,6 +3,8 @@
 "points":100,
 "code":"MEEJOU01",
 "goals":[1,1,1,0,0,0,1,1],
+"excludesgoals":true,
+"focusesgoals":false,
 "level":"basic",
 "content":["Grundläggande kommunikationsvetenskapliga metoder och teorier, till exempel envägskommunikation, tvåvägskommunikation eller intermedialitet, med fokus på kommunikationsprocessens olika steg.",
 "Analys av olika budskapsinnehåll, avseende språk och gestaltning, som är riktade mot en tänkt målgrupp.",

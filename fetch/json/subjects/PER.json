@@ -1,7 +1,12 @@
 {"name":"Personbilsteknik",
 "code":"PER",
 "type":"VOCATIONAL",
-"description":"<p>Ämnet personbilsteknik behandlar funktion hos samt tillsyn, service, underhåll och reparation av personbilar och lätta transportfordon.</p>",
+"courses":["PERPES0",
+"PERREA0",
+"PERBRO0",
+"PERMOT0",
+"PERKOM01a",
+"PERKOM01b"],"description":"<p>Ämnet personbilsteknik behandlar funktion hos samt tillsyn, service, underhåll och reparation av personbilar och lätta transportfordon.</p>",
 "vux":true,"purpose":"<p>Undervisningen i ämnet personbilsteknik ska syfta till att eleverna utvecklar förmåga att genomföra underhåll, diagnostisering och reparationer av personbilar och lätta transportfordon. Den ska ge eleverna möjlighet att utveckla tekniskt kunnande med tillämpning inom området personbilsteknik samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om system och komponenter samt om hur de samverkar i fordon.</p><p>Undervisningen ska bidra till att stimulera elevernas intresse för personbilar och lätta transportfordon samt för utrustning och ny teknik. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p>",
 "goals":["Kunskaper om personbilar och lätta transportfordon.",
 "Kunskaper om komponenter och system samt om hur de samverkar.",
@@ -10,4 +15,4 @@
 "Förmåga att välja och använda arbetsmetoder och utrustning.",
 "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
 "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.",
-"Förmåga att använda ett yrkesmässigt språk."]}
+"Förmåga att använda ett yrkesmässigt språk."],"someexcludes":false,"somefocuses":false}

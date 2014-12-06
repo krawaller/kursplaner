@@ -3,6 +3,8 @@
 "points":100,
 "code":"MEPMEI01",
 "goals":[2,1,2,2,1,1],
+"excludesgoals":false,
+"focusesgoals":true,
 "level":"basic",
 "content":["Förarbete inför medieproduktioner och framställning av enkla förlagor i form av synopsis, skisser eller manus.",
 "Textskrivning, fotografering, filmning, ljudupptagning och redigering.",
