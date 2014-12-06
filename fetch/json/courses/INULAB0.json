@@ -2,6 +2,7 @@
 "name":"Laboratorieteknik",
 "points":200,
 "instrRAW":"som bygger på kursen industritekniska processer 2.",
+"instrRAW2":"som bygger på kursen industritekniska processer 2.",
 "reqRAW":"kursen INUINU02",
 "code":"INULAB0",
 "goals":[1,0,1,0,1,0,1,1],
@@ -32,4 +33,5 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för uppbyggnad av, egenskaper hos, hantering av och hälsorisker med kemikalier och material. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för arbetsprocessen samt för hur val av mätmetoder och analysmetoder påverkar resultat och miljö. Eleven redogör även <b>utförligt och</b> <b>nyanserat</b> för resultatet och eventuella avvikelser från specifikationen <b>samt ger förslag på hur arbetet kan förbättras</b>. ",
 "Eleven samarbetar i sitt arbete med andra samt använder <b>med säkerhet</b> terminologi och fackspråk.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"judgechangewarn":true}
+"judgechangewarn":true,
+"req":"INUINU02"}

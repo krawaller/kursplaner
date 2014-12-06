@@ -2,6 +2,7 @@
 "name":"Projektering",
 "points":200,
 "instrRAW":"som bygger på kursen praktisk ellära. ",
+"instrRAW2":"som bygger på kursen praktisk ellära. ",
 "reqRAW":"kursen ELLPRA0",
 "code":"ELPPRO0",
 "goals":[1,0,0,0,1,0,1,2,1],
@@ -35,4 +36,5 @@
 "Eleven utför med <b>mycket gott</b> handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <b>gott</b> utifrån givna kvalitetskrav. I arbetet använder eleven <b>med säkerhet</b> instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <b>med säkerhet</b> datorbaserade applikationer. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <b>efter samråd</b> med handledare. När arbetsuppgiften är utförd gör eleven en <b>noggrann och utförlig</b> dokumentation av arbetsprocessen och resultatet.",
 "Eleven samarbetar i sitt arbete med andra samt för <b>välgrundade och nyanserade</b> resonemang om andras lösningar i samband med projekteringsarbetet.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELLPRA0"}

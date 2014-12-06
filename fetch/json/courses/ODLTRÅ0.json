@@ -2,6 +2,7 @@
 "name":"Trädgårdsodling",
 "points":100,
 "instrRAW":"som bygger på kursen marken och växternas biologi. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen växtodling 1.",
+"instrRAW2":"som bygger på kursen marken och växternas biologi. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen växtodling 1.",
 "reqRAW":"kursen BIGMAN0",
 "notwithRAW":"kursen VAOVAT01",
 "code":"ODLTRÅ0",
@@ -31,4 +32,6 @@
 "a":["Eleven följer arbetsinstruktioner och utför <b>efter samråd</b> med handledar <b><strong>sammanhållna</b> </strong>arbetsuppgifter inom trädgårdsodling med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur förökning av trädgårdsväxter genomförs och hur olika jordar passar för olika växtslag samt för klimatets inverkan på odlingsresultatet. Dessutom ger eleven <b>välgrundade och nyanserade</b> exempel på jordförbättrande åtgärder. Redogörelsen innehålle <b>välgrundade och nyanserade</b> motiv till varför olika jordar passar för olika växtslag samt <b>välgrundade och nyanserade</b> förklaringar till varför olika växter har olika krav och hur jordförbättring kan påverka odlingsresultatet. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för vattnets, vattenkvalitetens och dräneringens betydelse för växternas utveckling i samband med trädgårdsodling. Redogörelsen innehålle <b>välgrundade och nyanserade</b> biologiska förklaringar till vattnets och dräneringens centrala roll för odlingsresultatet.",
 "I samband med fältstudier beskriver eleven <b>utförligt och</b> <b>nyanserat</b> växternas utveckling och kvalitet samt identifierar <b>med säkerhet</b> ett begränsat antal vanliga ogräs, växtsjukdomar och skadedjur på trädgårdsväxter. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador som ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga förebyggande åtgärder och direkta motåtgärder. Redogörelsen innehålle <b>välgrundade och nyanserade</b> biologiska förklaringar.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"BIGMAN0",
+"notwith":"VAOVAT01"}

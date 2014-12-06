@@ -2,6 +2,7 @@
 "name":"Florist 3",
 "points":200,
 "instrRAW":"som bygger på kursen florist 2.",
+"instrRAW2":"som bygger på kursen florist 2.",
 "reqRAW":"kursen HAVFLO02",
 "code":"HAVFLO03",
 "comment":"<h2>Begrepp i kursen florist 3</h2><h3>Tidsåtgång och kostnadsberäkning</h3><p>För att yrket ska vara lönsamt för yrkesutövaren är tids- och kostnadsberäkningar av stor vikt, och därför betonas målet förmåga att beräkna kostnad, material och tidsåtgång i kursen.</p><p></p><h3>Moderna dekorationsmaterial</h3><p>Vilka dekorationsmaterial som är moderna varierar beroende på var i Sverige eller världen man befinner sig.</p><p></p><h3>Försäljning och service</h3><p>Som florist möter man ibland kunder i svåra situationer, till exempel kunder som har sorg. Att ha kunskap om olika typer av kunder och hur man bemöter kunder i olika situationer kan vara en avgörande faktor för yrkesutövaren. Därför betonas målet att utföra service och försäljning i kursen. Eleverna kan träna detta till exempel genom att diskutera eller dramatisera olika kommunikationssituationer i en fiktiv butiksmiljö.</p><p></p><p>I försäljningsarbetet kan också enkel marknadsföring ingå, till exempel designa visitkort eller digital reklam. Inom branscherna finns det digitala verktyg för hantering av kassa. Här kan eleverna träna hantering av olika betalningsmedel såsom kontanter och kreditkort samt redovisning av dagskassa.</p>",
@@ -38,4 +39,7 @@
 "Eleven använder <b>med säkerhet</b> tekniker och metoder och uppnår resultat <b>som uppfyller höga krav på</b> teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med <b>mycket gott</b> handlag. Under arbetet upptäcker och löser eleven <b>efter samråd</b> med handledare eventuella problem som uppkommer, <b>efter att ha övervägt alternativa lösningar</b>. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin arbetsprocess och sitt resultat samt värderar dessa med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förslag på förbättringar av, <b>och alternativa tillvägagångssätt i</b>, arbetsprocessen. I beskrivningen använder eleven <b>med säkerhet</b> relevant <b>fackspråk</b>.",
 "Eleven använder <b>efter samråd</b> med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <b>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</b>.",
 "Eleven agerar kundorienterat i <b>nya</b> försäljnings- eller servicesituationer,<b> tar egna initiativ</b> samt motiverar <b>utförligt och</b> <b>nyanserat</b> sitt agerande <b>och ger förslag på alternativa tillvägagångssätt i agerandet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HAVFLO02",
+"reqBy":["HAVFLO04",
+"HAVFLO04S"]}

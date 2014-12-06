@@ -2,7 +2,8 @@
 "name":"Hållbar turism",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller kursen renen och dess miljö, kursen samisk mat och matkultur samt kursen naturguidning 1.",
-"reqRAW":"kursen TURBEÖ0 eller kursen renen och dess HVKMIL0, kursen SASSAM0 samt kursen NAGNAT01",
+"instrRAW2":"som bygger på kursen besöksnäringen eller på kursen RENREN01, kursen samisk mat och matkultur samt kursen naturguidning 1.",
+"reqRAW":"kursen TURBEÖ0 eller på kursen RENREN01, kursen SASSAM0 samt kursen NAGNAT01",
 "code":"TURHÅL0",
 "goals":[2,1,1,2,1,1,2,1,1,1],
 "level":"high",
@@ -34,4 +35,9 @@
 "Eleven söker, sorterar och granskar <b>med säkerhet</b> information samt värderar den med <b>nyanserade</b> omdömen. Dessutom gör eleven <b>med säkerhet</b> en <b>avancerad</b> presentation av informationen och integrerar <b>med säkerhet</b> tekniska hjälpmedel. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <b> efter samråd</b> med handledare.",
 "Eleven samverkar och kommunicerar <b>med säkerhet</b> med andra samt anpassar <b>med</b> <b>säkerhe</b>t sitt språk efter situation och mottagare.",
 "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TURBEÖ0",{"type":"AND",
+"arr":["RENREN01",
+"SASSAM0",
+"NAGNAT01"]}]}}

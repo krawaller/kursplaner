@@ -2,6 +2,7 @@
 "name":"Nätverks- och kommunikationstjänster",
 "points":100,
 "instrRAW":"som bygger på kursen datakommunikation och informationssäkerhet.",
+"instrRAW2":"som bygger på kursen datakommunikation och informationssäkerhet.",
 "reqRAW":"kursen INODAT0",
 "code":"INONAT0",
 "goals":[1,1,0,1,1,1,0,1],
@@ -32,4 +33,5 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för begrepp och teorier inom teknikområdet samt beskriver <b>utförligt och</b> <b>nyanserat</b> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system.",
 "Eleven analysera <b>efter samråd</b> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys. Resultatet av arbetet är <b>gott</b>. Dessutom installerar, konfigurerar och felsöker eleven <b>efter samråd</b> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system. Eleven utför sitt arbete med <b>mycket gott</b> handlag och automatiserar rutinuppgifter. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer och andra dokument på både svenska och engelska. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla. Resultatet av arbetet är <b>gott</b> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
 "Eleven presenterar <b>med säkerhet</b> sitt arbete med hjälp av något presentationsverktyg.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"INODAT0"}

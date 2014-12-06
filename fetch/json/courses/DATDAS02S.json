@@ -2,6 +2,7 @@
 "name":"Dansteknik 2",
 "points":100,
 "instrRAW":"som bygger på kursen dansteknik 1. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen dansteknik 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen DATDAS01S",
 "code":"DATDAS02S",
@@ -32,4 +33,6 @@
 "Eleven undersöker med <b>tillfredsställande</b> resultat och utför <b>med säkerhet</b> rörelsevokabulär som relaterar till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum med <b>gott</b> resultat enligt genrernas grundläggande formspråk. Dessutom redogör eleve <b>utförligt och</b> <b>nyanserat</b> för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven <b>med säkerhet</b> spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum. Dessutom <b>undersöker och</b> följer eleven samt anpassar <b>med säkerhet</b> dansens uttryck till musikens taktarter, fraser och dynamik.",
 "Eleve 0utforskar i färdighetsträningen med <b>gott</b> resultat hur den egna kroppen fungerar. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur den egna kroppen fungerar. Eleven tränar <b>efter samråd</b> med handledar 0koordination, rörlighet, styrka och koncentration. Dessutom sätter eleven <b>efter samråd</b> med handledare samman enklare fraser och övningar och använder <b>med viss säkerhet</b> rörelsevokabulär, tyngd, flöde och tid.",
 "Eleven använder <b>med viss säkerhet</b> grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DATDAS01S",
+"reqBy":["DATDAS03S"]}

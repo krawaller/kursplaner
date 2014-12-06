@@ -2,6 +2,7 @@
 "name":"Persontransporter - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik - vux. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik - vux. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen PESPER01a och kursen PESPER01b eller på kursen PESPER1",
 "code":"PESPER00S",
@@ -21,4 +22,11 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven kör och manövrerar vald buss på ett <b>gott</b>, trafiksäkert och miljömedvetet sätt i bekanta <b>och nya</b> trafikmiljöer. Dessutom utför eleven <b>efter samråd</b> med handledare tillsyn och säkerhetskontroll av bussen. I körningen tillämpar eleven en <b>god</b> körteknik samt hanterar <b>med säkerhet</b> bussens utrustning. Eleven genomför planering av körtider och färdvägar samt utför transporterna <b>efter samråd</b> med handledare. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten. I arbetet beskriver eleven <b>utförligt och</b> <b>nyanserat</b> grundläggande passagerarsäkerhet samt tillvägagångssätt vid olyckstillbud.",
 "Eleven bemöter <b>med säkerhet</b> kunder och ger god service till passagerare. Dessutom samarbetar eleven,<b> medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med kunder och medarbetare. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":[{"type":"AND",
+"arr":["PESPER01a",
+"PESPER01b"]},
+"PESPER1"]},
+"reqBy":["PESTAX0",
+"TRAFOD0"]}

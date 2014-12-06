@@ -2,6 +2,7 @@
 "name":"Scenisk gestaltning 3",
 "points":100,
 "instrRAW":"som bygger på kursen scenisk gestaltning 2.",
+"instrRAW2":"som bygger på kursen scenisk gestaltning 2.",
 "reqRAW":"kursen TEASCE02",
 "code":"TEASCE03",
 "goals":[1,1,1,0,1,1,1,1,1,0],
@@ -23,4 +24,5 @@
 "Eleven diskuterar <b>utförligt</b> det egna skapandet samt värderar det med <b>nyanserade</b> omdömen. Dessutom gör eleven analyser av <b>några</b> sceniska gestaltningar samt tolkar <b>dessa</b> med <b>tillfredsställande</b> resultat. I sina analyser använder eleven <b>med viss säkerhet</b> relevanta begrepp."],
 "a":["Eleven gestaltar me <b>gott</b> resultat inom valt uttrycksområde. Dessutom gestaltar eleven <b>med säkerhet och med personligt uttryck</b> en scenisk berättelse.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> på vilket sätt valt uttrycksområde bidrar till en <b>komplex</b> scenisk helhet. Eleven använder med <b>gott</b> resultat teaterns uttrycksmedel i samverkan samt kommunicerar <b>med säkerhet</b> med publik genom att använda teaterns uttrycksmedel. Dessutom samarbetar eleven <b>med säkerhet och tar initiativ i arbetet</b> i olika gestaltningsgrupper.",
-"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> det egna skapandet samt värderar det med <b>nyanserade</b> omdöme <b>och formulerar vägar för hur skapandet ska utvecklas</b>. Dessutom gör eleve <b>komplexa</b> analyser av <b>flera</b> sceniska gestaltningar samt tolkar <b>dessa</b> <b>med säkerhet</b>. I sina analyser använder eleven <b>med säkerhet</b> relevanta begrepp."]}}
+"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> det egna skapandet samt värderar det med <b>nyanserade</b> omdöme <b>och formulerar vägar för hur skapandet ska utvecklas</b>. Dessutom gör eleve <b>komplexa</b> analyser av <b>flera</b> sceniska gestaltningar samt tolkar <b>dessa</b> <b>med säkerhet</b>. I sina analyser använder eleven <b>med säkerhet</b> relevanta begrepp."]},
+"req":"TEASCE02"}

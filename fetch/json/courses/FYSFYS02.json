@@ -2,6 +2,7 @@
 "name":"Fysik 2",
 "points":100,
 "instrRAW":"som bygger på kursen fysik 1a eller kursen fysik 1b2.",
+"instrRAW2":"som bygger på kursen fysik 1a eller kursen fysik 1b2.",
 "reqRAW":"kursen FYSFYS01a eller kursen FYSFYS01b2",
 "code":"FYSFYS02",
 "goals":[1,1,1,1,1],
@@ -44,4 +45,9 @@
 "Eleven identifierar, analyserar och löser <b>komplexa</b> problem i <b>bekanta och nya situationer</b> med <b>gott</b> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet. I arbetet formulerar eleven relevanta hypoteser och formulerar <b>med säkerhet</b> <b>komplexa</b> egna frågor. Eleven planerar och genomför <b>efter samråd</b> med handledare experiment och observationer på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt. Vidare tolkar eleven sina resultat, utvärderar sina metoder med <b>nyanserade</b> omdömen och motiverar sina slutsatser med <b>välgrundade och nyanserade</b> resonemang. <b>Vid behov föreslår eleven också förändringar</b>.",
 "Eleven diskuterar <b>utförligt och nyanserat komplexa</b> frågor som rör fysikens betydelse för individ och samhälle. I diskussionerna för eleven fram <b>välgrundade och nyanserade</b> argument och redogör <b>utförligt och</b> <b>nyanserat</b> för konsekvenser av <b>flera</b> tänkbara ställningstaganden. <b>Eleven föreslår också nya frågeställningar att diskutera</b>.",
 "Eleven använder <b>med säkerhet</b> ett naturvetenskapligt språk och anpassar <b>till stor del</b> sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <b>välgrundade och nyanserade</b> bedömningar av informationens och källornas trovärdighet och relevans.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["FYSFYS01a",
+"FYSFYS01b2"]},
+"reqBy":["FYSFYS03",
+"NAVNAT00S"]}

@@ -2,6 +2,7 @@
 "name":"Räddningsmedicin",
 "points":100,
 "instrRAW":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
+"instrRAW2":"som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
 "reqRAW":"kursen VÅRVÅR02 och kursen MEDMED01",
 "code":"SJURÄD0",
 "goals":[1,0,1,1,0,1,1,0,1],
@@ -36,4 +37,7 @@
 "Eleven utför i <b>nya</b> situationer första hjälpen. Dessutom använder eleven <b>efter samråd</b> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
 "Eleven bemöter, kommunicerar och samarbetar <b>med säkerhet</b> med andra i <b>nya</b> situationer <b>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</b>.",
 "När arbetet är utfört utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom rapporterar och dokumenterar eleven <b>efter samråd</b> med handledare sitt arbete.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["VÅRVÅR02",
+"MEDMED01"]}}

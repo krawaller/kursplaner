@@ -2,6 +2,7 @@
 "name":"Språk specialisering - skrivande",
 "points":100,
 "instrRAW":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. ",
+"instrRAW2":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. ",
 "repeat":"Kursen kan läsas flera gånger i olika språk.",
 "reqRAW":"någon av kurserna ENGENG05, MODXXX05 eller MOEXXX01",
 "code":"SPAXXX0",
@@ -35,4 +36,8 @@
 "Eleven <b>skriver funktionellt för textsammanhanget</b>, följer i huvudsak skriftspråkets normer för språkriktighet samt gör <b>välgrundade och nyanserade</b> reflektioner över dessa normers tillämpbarhet i texter av olika slag.",
 "Eleven utformar <b>med säkerhet</b> olika typer av texter på ett visuellt tilltalande och lättillgängligt sätt samt motiverar utformningen <b>utförligt och</b> <b>nyanserat</b>.",
 "Eleven värderar sina egna texter med <b>nyanserade</b> omdömen, gör <b>välgrundade och nyanserade</b> förbättringar av dem med utgångspunkt i sin egen värdering och andras råd samt ger <b>välgrundad och nyanserad</b> återkoppling på andras texter.",
-"Eleven diskuterar <b>utförligt</b> hur skönlitterära och journalistiska framställningar kan spridas. Utifrån egna framställningar och framställningar i medier diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> yttrandefrihet och ansvar."]}}
+"Eleven diskuterar <b>utförligt</b> hur skönlitterära och journalistiska framställningar kan spridas. Utifrån egna framställningar och framställningar i medier diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> yttrandefrihet och ansvar."]},
+"req":{"type":"OR",
+"arr":["ENGENG05",
+"MODXXX05",
+"MOEXXX01"]}}

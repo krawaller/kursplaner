@@ -2,6 +2,7 @@
 "name":"Industriteknisk fördjupning 1",
 "points":50,
 "instrRAW":"som bygger på minst",
+"instrRAW2":"som bygger på minst",
 "reqRAW":"som bygger på minst 800 poäng av yrkesprogrammets karaktärsämnen",
 "code":"PRFPRF01",
 "goals":[1,1,1,1,1,1,1,1,1],
@@ -31,4 +32,6 @@
 "Eleven utför med noggrannhet och <b>efter samråd</b> med handledare arbetsuppgifter inom valt teknikområde i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <b>gott</b> utifrån givna kvalitetskrav. I arbetet använder eleven <b>med säkerhet</b> instruktioner och tillverkningsunderlag. Dessutom genomför eleven <b>med säkerhet</b> funktionskontroll, mätningar, beräkningar och felsökning. Vidare genomför eleven <b>med säkerhet</b> vid behov optimering av produktionsutrustningen. Eleven hanterar material, utrustning, verktyg och maskiner med <b>mycket gott</b> handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <b>efter samråd</b> med handledare. Dessutom vårdar eleven <b>med säkerhet</b> utrustning, maskiner och verktyg enligt instruktioner. När arbetsuppgiften är utförd gör eleven en <b>noggrann och utförlig</b> dokumentation av arbetsprocessen och resultatet.",
 "Eleven presenterar resultatet av sitt arbete samt redogör <b>utförligt och</b> <b>nyanserat</b> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer påverkat kvalitet och slutresultat. Eleven redogör dessutom <b>utförligt och</b> <b>nyanserat</b> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven samarbetar med andra samt använder <b>med säkerhet</b> korrekt fackspråk.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"som bygger på minst 800 poäng av yrkesprogrammets karaktärsämnen",
+"reqBy":["PRFPRF02"]}

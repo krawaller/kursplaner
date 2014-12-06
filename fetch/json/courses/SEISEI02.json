@@ -2,6 +2,7 @@
 "name":"Serviceteknik - naturbruk 2",
 "points":100,
 "instrRAW":"som bygger på kursen serviceteknik - naturbruk 1.",
+"instrRAW2":"som bygger på kursen serviceteknik - naturbruk 1.",
 "reqRAW":"kursen SEISEI01",
 "code":"SEISEI02",
 "goals":[2,2,1,1,2,1,1],
@@ -35,4 +36,6 @@
 "a":["Eleven upprättar <b>efter samråd</b> med handledare en <b>genomarbetad</b> service- och underhållsplan med utgångspunkt i funktionskontroll, felsökning och aktuella serviceanvisningar. I planeringen väljer eleven <b>efter samråd</b> med handledare arbetsmetoder, verktyg och verkstadsmaskiner som passar för arbetet. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur olika fel på den tekniska utrustningen kan upptäckas.",
 "Eleven utför <b>efter samråd</b> med handledare service, underhåll och reparationer av teknisk utrustning. Dessutom använder eleven <b>efter samråd</b> med handledare svetsutrustning för att åtgärda aktuella materialskador. I arbetet gör eleven <b>välgrundade och nyanserade</b> bedömningar av den tekniska utrustningens funktion samt löser <b>efter samråd</b> med handledare problem för att optimera utrustningens användbarhet, säkerhet och effektivitet. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av den tekniska utrustningen. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SEISEI01",
+"reqBy":["SEISER00S"]}

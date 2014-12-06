@@ -2,6 +2,7 @@
 "name":"Personlig försäljning 2",
 "points":100,
 "instrRAW":"som bygger på kursen personlig försäljning 1.",
+"instrRAW2":"som bygger på kursen personlig försäljning 1.",
 "reqRAW":"kursen FÖSPER01",
 "code":"FÖSPER02",
 "goals":[1,2,2,1,1,1,1,1,2],
@@ -30,4 +31,6 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur säljarbete och förhandlingar planeras, organiseras och genomförs på ett säljinriktat sätt i olika branscher. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur marknadskommunikation planeras och genomförs. I beskrivningen redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur attityder, värderingar och förhållningssätt påverkar försäljningssituationer.",
 "Eleven planerar, organiserar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom personlig försäljning. I arbetet använder eleven <b>med säkerhet</b> vanligt förekommande arbetsmetoder, tekniker och arbetsmaterial. Eleven genomför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser. Under arbetets gång använder eleven <b>med säkerhet</b> tekniker och metoder för kalkylering och ekonomiska beräkningar samt löser, <b>efter samråd</b> med handledare, problem som uppkommer i arbetet. Vidare arbetar eleven miljöanpassat och resurssnålt samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra. Detta gör eleven <b>efter samråd</b> med handledare.",
 "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven samverkar med andra och kommunicerar <b>med säkerhet</b> på ett kundanpassat sätt <b>och med korrekt fackspråk</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FÖSPER01",
+"reqBy":["FÖSPER03"]}

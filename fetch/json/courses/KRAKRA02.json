@@ -2,6 +2,7 @@
 "name":"Kraft- och värmeteknik 2",
 "points":200,
 "instrRAW":"som bygger på kursen kraft- och värmeteknik 1.",
+"instrRAW2":"som bygger på kursen kraft- och värmeteknik 1.",
 "reqRAW":"kursen KRAKRA01",
 "code":"KRAKRA02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -33,4 +34,5 @@
 "Eleven utför <b>efter samråd</b> med handledare vanligt förekommande praktiska arbetsuppgifter i en ånganläggning på ett säkert sätt.",
 "Eleven genomför <b>med säkerhet</b> <b>avancerade</b> energiberäkningar och ger utifrån dem <b>välgrundade och nyanserade</b> förslag för att optimera driften. Eleven genomför <b>efter samråd</b> med handledare provtagning, analys och dosering av olika medier. I sitt arbete hanterar och vårdar eleven verktyg och instrument me <b>mycket gott</b> handlag utifrån givna instruktioner och arbetsbeskrivningar. Under arbetet upptäcker eleven problem som uppkommer och löser dem <b>efter samråd</b> med handledare. I arbetet samverkar och kommunicerar eleven <b>med säkerhet</b> med andra samt använder ett <b>nyanserat</b> fackspråk som fungerar för arbetsuppgiften.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för säkerhetsföreskrifter och miljökrav.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"KRAKRA01"}

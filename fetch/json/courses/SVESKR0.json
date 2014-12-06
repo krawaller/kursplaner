@@ -2,6 +2,7 @@
 "name":"Skrivande",
 "points":100,
 "instrRAW":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
+"instrRAW2":"som bygger på kursen svenska 1 eller kursen svenska som andraspråk 1.",
 "reqRAW":"kursen SVESVE01 eller kursen SVASVA01",
 "code":"SVESKR0",
 "goals":[0,1,1,1,0,1,1,1,0],
@@ -32,4 +33,7 @@
 "Eleven kan skriva såväl texter efter mönster och förebilder som mer fritt. Eleven kan <b>utförligt och</b> <b>nyanserat</b> resonera dels om de egna texternas relation till konventionella texttyper, textmönster och eventuella förebilder, dels om olika alternativa uttryckssätt i sina texter <b>och vilken stilistisk effekt dessa skulle få för texten som helhet</b>.",
 "Eleven kan <b>skriva funktionellt för textsammanhanget</b>, i huvudsak följa skriftspråkets normer för språkriktighet samt göra <b>välgrundade och nyanserade</b> reflektioner över dessa normers tillämpbarhet i texter av olika slag.",
 "Eleven kan <b>med säkerhet</b> utforma olika typer av texter grafiskt och <b>utförligt och nyanserat motivera</b> bildval, disposition och utformning i övrigt. <b>Den grafiska utformningen är anpassad för sitt syfte</b>.",
-"Eleven kan med <b>nyanserade</b> omdömen värdera sina egna texter, göra <b>avancerade</b> förbättringar av dem med utgångspunkt i sin egen värdering och andras råd samt ge återkoppling på andras texter."]}}
+"Eleven kan med <b>nyanserade</b> omdömen värdera sina egna texter, göra <b>avancerade</b> förbättringar av dem med utgångspunkt i sin egen värdering och andras råd samt ge återkoppling på andras texter."]},
+"req":{"type":"OR",
+"arr":["SVESVE01",
+"SVASVA01"]}}

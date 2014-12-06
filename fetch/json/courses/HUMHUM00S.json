@@ -2,6 +2,7 @@
 "name":"Humanistisk och samhällsvetenskaplig specialisering",
 "points":100,
 "instrRAW":"som beroende på valt kunskapsområde bygger på kursen samhällskunskap 2, kursen psykologi 2, kursen historia 2 eller kursen moderna språk 4. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som beroende på valt kunskapsområde bygger på kursen samhällskunskap 2, kursen psykologi 2, kursen historia 2 eller kursen moderna språk 4. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SAMSAM02, kursen psykologi 2, kursen historia 2 eller kursen MODXXX04",
 "code":"HUMHUM00S",
@@ -27,4 +28,11 @@
 "Eleven bearbetar, analyserar och diskuterar <b>med säkerhet flera frågor</b> inom kunskapsområdet. I arbetet använder eleven <b>med säkerhet</b> vetenskapliga begrepp, metoder och teorier som är relevanta för kunskapsområdet. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> olika aspekter av kunskapsområdet och drar <b>välgrundade och nyanserade</b> slutsatser om resultat och valda metoder <b>med hänvisning till relevanta källor</b>. I arbetet söker, granskar och tolkar eleven <b>med säkerhet</b> information från olika källor, gör adekvata källhänvisningar samt värderar med <b>nyanserade</b> omdömen källornas relevans och trovärdighet. <b>Dessutom formulerar eleven sig självständigt i förhållande till källorna</b>.",
 "Eleven tillämpar <b>med säkerhet</b> och <b>efter samråd</b> med handledare sina kunskaper i relevanta praktiska sammanhang på ett sätt som är anpassat till kunskapsområdet.",
 "Eleven presenterar <b>med säkerhet</b> kunskaper inom området på ett sätt som är <b>väl</b> anpassat till syfte, mottagare och situation samt med hjälp av <b>flera</b> relevanta uttrycks- och presentationsformer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["SAMSAM02",{"type":"OR",
+"arr":["PSKPSY02a",
+"PSKPSY02b"]},{"type":"OR",
+"arr":["HISHIS02a",
+"HISHIS02b"]},
+"MODXXX04"]}}

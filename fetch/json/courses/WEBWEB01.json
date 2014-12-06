@@ -2,6 +2,7 @@
 "name":"Webbserverprogrammering 1",
 "points":100,
 "instrRAW":"som bygger på kursen webbutveckling 1.",
+"instrRAW2":"som bygger på kursen webbutveckling 1.",
 "reqRAW":"kursen WEBWEU01",
 "code":"WEBWEB01",
 "goals":[1,2,0,2,2,1,1,1,2],
@@ -38,4 +39,7 @@
 "När arbetet är utfört gör eleven en <b>noggrann och utförlig</b> dokumentation av de moment som har utförts <b>med koppling till generella principer och testresultat</b> samt utvärderar med <b>nyanserade</b> omdömen sitt arbete och resultat <b>och ger förslag på hur arbetet kan förbättras</b>. <b>I utvärderingen gör eleven välgrundade och nyanserade reflektioner över hur beslut har tagits i arbetet</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Dessutom identifierar eleven <b>flera</b> attackvektorer mot produkten och <b>följer grundläggande principer</b> för att förhindra dem.",
 "Eleven använder <b>med säkerhet</b> terminologi inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["DALDAT0",
+"WEBWEB02"],
+"req":"WEBWEU01"}

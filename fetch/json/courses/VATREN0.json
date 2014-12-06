@@ -2,6 +2,7 @@
 "name":"Rening av förorenat vatten",
 "points":100,
 "instrRAW":"som bygger på kursen vatten- och miljöteknik.",
+"instrRAW2":"som bygger på kursen vatten- och miljöteknik.",
 "reqRAW":"kursen VATVAT0",
 "code":"VATREN0",
 "goals":[1,1,0,1,1,1,1,1],
@@ -34,4 +35,5 @@
 "Eleven utför <b>efter samråd</b> med handledar <b>avancerade</b> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven <b>med säkerhet</b> driftinstruktioner, processcheman och driftrapportering. Eleven utför <b>avancerade</b> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. Dessutom hanterar eleven med <b>mycket gott</b> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
 "Eleven utför <b>med säkerhet</b> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <b>nyanserade</b> omdömen.",
 "Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra samt använder ett <b>nyanserat</b> fackspråk som fungerar för arbetsuppgiften.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"VATVAT0"}

@@ -2,6 +2,7 @@
 "name":"Digitalt skapande 2",
 "points":100,
 "instrRAW":"som bygger på kursen digitalt skapande 1.",
+"instrRAW2":"som bygger på kursen digitalt skapande 1.",
 "reqRAW":"kursen DIGDIG01",
 "code":"DIGDIG02",
 "goals":[1,2,1,2,2,1],
@@ -29,4 +30,5 @@
 "Eleven genomför <b>med säkerhet</b> ett större skapande eller gestaltande arbete med digitala verktyg från idé till färdig gestaltning inom ett eller flera estetiska uttryck. Eleven definierar den bakomliggande idén. Resultatet är <b>gott</b>. I arbetet väljer eleven <b>efter samråd</b> med handledare lämplig programvara, hårdvara och plattform för sina egna valda uttryck. Dessutom motiverar eleven <b>utförligt och</b> <b>nyanserat</b> sina val av programvara, hårdvara och plattform.",
 "Eleven samarbetar <b>med säkerhet</b> med andra i sin digitala produktion och kommunicerar <b>med säkerhet</b> via webb och nätverk. <b>Dessutom lägger eleven upp gemensamma skapande projekt på plattformar som en kanal för samarbete</b>. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika plattformar och kanaler för spridning av digitala produktioner.",
 "När arbetet är utfört presenterar eleven sin produktion i lämpligt format samt motiverar <b>utförligt och</b> <b>nyanserat</b> sitt val av format. Dessutom värderar eleven med <b>nyanserade</b> omdömen sitt arbete utifrån den bakomliggande idén <b>samt</b> <b>ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DIGDIG01"}

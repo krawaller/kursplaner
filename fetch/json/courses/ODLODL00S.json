@@ -2,6 +2,7 @@
 "name":"Odling - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsodling - plantskoleväxter, kursen trädgårdsodling - grönsaker, frukt och bär eller kursen växtodling 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen trädgårdsodling - plantskoleväxter, kursen trädgårdsodling - grönsaker, frukt och bär eller kursen växtodling 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen TRRTRG0, kursen TRRTRD0 eller kursen VAOVAT02",
 "code":"ODLODL00S",
@@ -26,4 +27,8 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven upprättar en <b>genomarbetad</b> odlingsplan med utgångspunkt i aktuella odlingsförutsättningar samt motiverar <b>utförligt och</b> <b>nyanserat</b> sina val i planen. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl. Eleven bedömer <b>efter samråd</b> med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat, miljöhänsyn och försäljningsmöjligheter. Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare aktuella arbetsuppgifter för ett specialiseringsområde inom odling med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör specialiseringsområdet. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för produktionsprocessen och odlingssystem för specialiseringsområdet samt beskriver <b>utförligt och</b> <b>nyanserat</b> hur de olika tillväxtfaktorerna påverkar odlingsresultatet.",
 "I samband med fältstudier gör eleven <b>välgrundade och nyanserade</b> bedömningar av växternas utveckling och kvalitet, av klimatets inverkan samt av beräknad tidpunkt för olika odlingsåtgärder inom den specialiserade odlingen. Eleven identifierar <b>med säkerhet</b> ett flertal ogräs, växtsjukdomar och skadedjur i den specialiserade odlingen. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador som dessa ogräs, växtsjukdomar och skadedjur kan förorsaka samt för förebyggande åtgärder och direkta motåtgärder.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TRRTRG0",
+"TRRTRD0",
+"VAOVAT02"]}}

@@ -2,6 +2,7 @@
 "name":"Idrottsspecialisering 2",
 "points":100,
 "instrRAW":"som bygger på kursen idrottsspecialisering 1. Dessutom bygger den på kursen tränings- och tävlingslära 1 eller kursen träningslära 1.",
+"instrRAW2":"som bygger på kursen idrottsspecialisering 1. Dessutom bygger den på kursen tränings- och tävlingslära 1 eller kursen träningslära 1.",
 "reqRAW":"kursen SPEIDS01",
 "alsoreqRAW":"kursen SPETRÄ01 eller kursen TRNTRN01",
 "code":"SPEIDS02",
@@ -27,4 +28,9 @@
 "a":["Eleven genomför, <b>efter</b> <b>samråd</b> med handledare, vald idrott tekniskt och taktiskt med <b>god</b> precision och kontroll. I tävlingssituationer väljer eleven <b>med säkerhet</b> insatsnivå efter kända förutsättningar samt agerar <b>med säkerhet</b> i möter med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
 "Eleven väljer, utifrån tränings- och tävlingssituationer, <b>med säkerhet</b> metoder som utvecklar idrottsutövandet. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> metodernas kvaliteter. I beskrivningarna använder eleven <b>med säkerhet</b> centrala begrepp. Utifrån valda metoder planerar och genomför eleven <b>efter samråd</b> med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador. Eleven utvärderar metoderna med <b>nyanserade</b> omdömen utifrån resultat och teorier. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> hur olika värderingar i tränings- och tävlingssammanhang har betydelse för prestationsförmåga och idrottsliga resultat.",
 "Eleven samarbetar och kommunicerar <b>med säkerhet</b> i tränings- och tävlingssituationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["SPEIDS01",{"type":"OR",
+"arr":["SPETRÄ01",
+"TRNTRN01"]}]},
+"reqBy":["SPEIDS03"]}

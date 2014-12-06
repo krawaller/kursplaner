@@ -2,6 +2,7 @@
 "name":"Reception 3",
 "points":100,
 "instrRAW":"som bygger på kursen reception 2.",
+"instrRAW2":"som bygger på kursen reception 2.",
 "reqRAW":"kursen RECREC02",
 "code":"RECREC03",
 "goals":[1,0,2,1,2,2,2],
@@ -30,4 +31,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> yrkesroller, arbetsuppgifter och utvecklingen av verksamhetens kvalitetsarbete.",
 "Eleven planerar, organiserar och utför <b>efter samråd</b> med handledare alla förekommande arbetsuppgifter inom området reception, med ett resultat som uppfyller fastställda kvalitetskrav. I planeringen väljer eleven <b>efter samråd</b> med handledare material, teknisk utrustning och metod som passar för uppgiften. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <b>efter samråd</b> med handledare. Eleven arbetar med hänsyn till hälsa, miljö, ekonomi och säkerhet utifrån lagar och andra bestämmelser. Dessutom redogör eleven för handlingsplaner vid brand, hot och fara.",
 "Eleven anpassar <b>med säkerhet</b> sitt arbete efter målgrupp, kulturella skillnader och gäster med särskilda behov. Eleven motiverar också med <b>nyanserade</b> omdömen sitt arbetssätt samt resonerar <b>utförligt och</b> <b>nyanserat</b> om betydelsen av service och bemötande i olika kund- och gästsituationer. I arbetet samarbetar och kommunicerar eleven <b>med säkerhet</b> samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Vidare utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"RECREC02"}

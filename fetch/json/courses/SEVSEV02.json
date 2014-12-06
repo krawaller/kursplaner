@@ -2,6 +2,7 @@
 "name":"Service och bemötande 2",
 "points":100,
 "instrRAW":"som bygger på kursen service och bemötande 1.",
+"instrRAW2":"som bygger på kursen service och bemötande 1.",
 "reqRAW":"kursen SEVSEV01",
 "code":"SEVSEV02",
 "goals":[1,1,1,1,1],
@@ -31,4 +32,5 @@
 "Eleven bemöter <b>med säkerhet</b> kunder eller gäster i <b>flera olika</b> servicesituationer utifrån deras förväntningar. Detta gör eleven med korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <b>gott</b> resultat. Eleven värderar med <b>nyanserade</b> omdömen sitt bemötande av kunden eller gästen. <b>I värderingen resonerar eleven även</b> <b>i psykologiska och etiska termer</b>. <b>Dessutom ger eleven förslag på hur bemötandet kan förbättras</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vad god produktkännedom och marknadsföring betyder för god service.",
 "Eleven utför <b>efter samråd</b> med handledare exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <b>med säkerhet</b> olika varor eller tjänster till kunden eller gästen. Eleven värderar med <b>nyanserade</b> omdömen sin exponering och sina rekommendationer <b>samt ger förslag på hur exponeringen och rekommendationerna kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SEVSEV01"}

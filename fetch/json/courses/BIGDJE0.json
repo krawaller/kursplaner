@@ -2,6 +2,7 @@
 "name":"Djurens biologi",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
+"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIGDJE0",
 "goals":[0,0,1,1,1,1,0,1],
@@ -35,4 +36,10 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för djurens näringsbehov, matsmältning och energiomsättning. I samband med olika arbetsuppgifter med djur redogör eleven <b>utförligt och</b> <b>nyanserat</b> för djurens anatomi och fysiologi.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar.",
 "I samband med fältstudier identifierar eleven <b>med säkerhet</b> vanliga vilda djur och grupperar dem <b>med säkerhet</b> efter det vetenskapliga system som används för att gruppera djur. ",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om djur. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> begrepp, teorier och modeller."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om djur. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> begrepp, teorier och modeller."]},
+"req":"BIOBIO01",
+"reqBy":["BIGBEA0",
+"BIGBIG00S",
+"DJRDJU01",
+"ODLODL0",
+"VAOODL0"]}

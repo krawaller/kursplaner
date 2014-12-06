@@ -2,6 +2,7 @@
 "name":"Konsthantverk 3",
 "points":100,
 "instrRAW":"som bygger på kursen konsthantverk 2.",
+"instrRAW2":"som bygger på kursen konsthantverk 2.",
 "reqRAW":"kursen KOHHAN02",
 "code":"KOHHAN03",
 "goals":[1,2,2,2,2,1,1,1],
@@ -38,4 +39,6 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade</b> <b>och nyanserade</b> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
 "Eleven använder och vårdar <b>efter samråd</b> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt. Dessutom hanterar eleven <b>efter samråd</b> med handledare material med tanke på deras miljöpåverkan.",
 "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"KOHHAN02",
+"reqBy":["KOHHAN04"]}

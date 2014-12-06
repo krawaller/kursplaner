@@ -2,6 +2,7 @@
 "name":"Samhällsbaserad psykiatri",
 "points":100,
 "instrRAW":"som bygger på kursen psykiatri 2.",
+"instrRAW2":"som bygger på kursen psykiatri 2.",
 "reqRAW":"kursen PSYPSY02",
 "code":"PSYSAM0",
 "goals":[0,0,0,0,0,0,1,1,1,1],
@@ -24,4 +25,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> vilket stöd brukarna kan få i form av resurspersoner, boende och sysselsättning. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> brukarens grundläggande behov i återhämtningsprocessens olika skeenden, återhämtningens betydelse och vad det kan innebära om brukaren inte får stöd <b>samt hur man som yrkesmässig hjälpare kan utgöra ett stöd</b>. <b>I beskrivningen värderar eleven med nyanserade omdömen olika stödåtgärder samt ger förslag på förbättringar</b>. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> brukares upplevelse av stigmatisering i samhället, <b>redogör utförligt och nyanserat för orsaker till stigmatiseringen</b> samt ger <b>några välgrundade och nyanserade förslag</b> på åtgärder som skulle kunna förändra denna upplevelse.",
 "Eleven möter <b>efter samråd</b> med handledareutifrån <b>egna valda strategier och i nya situationer</b> brukare på ett respektfullt, lyhört och empatiskt sätt. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de speciella krav som ställs för arbete i brukares hemmiljö. Eleven tar <b>efter samråd</b> med handledare initiativ i <b>nya</b> situationer i vård- och omsorgsarbetet samt beskriver <b>utförligt och</b> <b>nyanserat</b> handlingar som tillgodoser brukarens integritet. Dessutom värderar eleven med <b>nyanserade</b> omdömen sitt eget förhållningssätt i bemötandet av brukare <b>samt anpassar det vid behov till ändrade förutsättningar</b>. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur olika rutiner påverkar arbetet samt ger <b>välgrundade och nyanserade</b> förslag på hur rutinerna kan förbättras.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för nyttan av att olika huvudmän samverkar samt för möjligheter och hinder i denna samverkan.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"PSYPSY02"}

@@ -2,6 +2,7 @@
 "name":"Hundkunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen hundkunskap 1.",
+"instrRAW2":"som bygger på kursen hundkunskap 1.",
 "reqRAW":"kursen HUNHUN01",
 "code":"HUNHUN02",
 "goals":[1,1,1,1,1,1,1,1,1,1],
@@ -38,4 +39,6 @@
 "Eleven planerar <b>efter samråd</b> med handledare arbetsuppgifter i hundstallar. I planeringen upprättar eleven en <b>genomarbetad</b> skötselplan med utgångspunkt i hundarnas behov och anläggningens omfattning. Skötselplanen innehåller en <b>genomarbetad</b> foderplan. I foderplanen gör eleven <b>avancerade</b> beräkningar av fodermängder. Dessutom motiverar eleven <b>utförligt och</b> <b>nyanserat</b> sina val av utfodringsstrategier. Eleven gör <b>välgrundade</b> <b>och nyanserade</b> bedömningar av när och hur arbetsuppgifterna i hundstallarna ska genomföras. Eleven sköter och hanterar <b>efter samråd</b> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt. Dessutom sköter och hanterar eleven <b>efter samråd</b> med handledare anläggningar och utrustning.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare fostran och träning av hundar av olika raser för olika uppgifter. I arbetet bemöter och hanterar eleven <b>med säkerhet</b> vanliga beteendeproblem hos hundar. Dessutom instruerar eleven <b>med säkerhet</b> hundägare eller hundförare om träning av hundar.",
 "Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HUNHUN01",
+"reqBy":["HUNHUN03"]}

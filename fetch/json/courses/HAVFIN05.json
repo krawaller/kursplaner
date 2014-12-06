@@ -2,6 +2,7 @@
 "name":"Finsnickeri 5",
 "points":200,
 "instrRAW":"som bygger på kursen finsnickeri 4.",
+"instrRAW2":"som bygger på kursen finsnickeri 4.",
 "reqRAW":"kursen HAVFIN04",
 "code":"HAVFIN05",
 "comment":"<h2>Begrepp i kursen finsnickeri 5</h2><h3>Kostnadskalkyler</h3><p>I samband med att kostnadskalkyler behandlas kan prissättning av varor eller tjänster undersökas i relation till inköpskostnader och arbetad tid. <br /><br />Utvärdering</p><p>Att utvärdera och analysera en arbetsprocess och uppnått resultat ger möjlighet till reflektion och förbättringsåtgärder. I dialog lärare-elev eller elev-elev kan elevens analysförmåga och ett processinriktat arbetssätt utvecklas. Dialogen underlättar också en formativ bedömning och handledning.</p><p>Presentation av det färdiga arbetet<br />En del av en finsnickares marknadsföring kan vara att visa upp resultat av tidigare utförda arbeten. Detta kan göras till exempel med hjälp av en digital portfolio, på en webbplats eller skyltning i verkstaden.</p><p></p><h3>Ansvarsfullt yrkesutövande</h3><p>Ansvarsfullt yrkesutövande kan till exempel innefatta hur man uppträder på en arbetsplats. Det kan också innefatta förståelse av den psykosociala arbetsmiljön på arbetsplatsen och hur kolleger tillsammans påverkar denna.</p>",
@@ -34,4 +35,7 @@
 "Eleven använder <b>med säkerhet</b> tekniker och metoder och uppnår resultat <b>som uppfyller höga krav på</b> teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med <b>mycket gott</b> handlag. Under arbetet upptäcker och löser eleven <b>efter samråd</b> med handledare eventuella problem som uppkommer, <b>efter att ha övervägt alternativa lösningar</b>. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin arbetsprocess och sitt resultat samt värderar dessa med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förslag på förbättringar av, <b>och alternativa tillvägagångssätt i</b>, arbetsprocessen. I beskrivningen använder eleven <b>med säkerhet</b> relevant <b>fackspråk</b>.",
 "Eleven använder <b>efter samråd</b> med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <b>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</b>.",
 "Eleven agerar kundorienterat i <b>nya</b> försäljnings- eller servicesituationer,<b> tar egna initiativ</b> samt motiverar <b>utförligt och</b> <b>nyanserat</b> sitt agerande <b>och ger förslag på alternativa tillvägagångssätt i agerandet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HAVFIN04",
+"reqBy":["HAVFIN06a",
+"HAVFIN06b"]}

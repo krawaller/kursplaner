@@ -2,6 +2,7 @@
 "name":"Körsång 2",
 "points":100,
 "instrRAW":"som bygger på kursen ensemble med körsång eller kursen körsång 1. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen ensemble med körsång eller kursen körsång 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen MUSENS0 eller kursen MUSKÖS01",
 "code":"MUSKÖS02S",
@@ -29,4 +30,7 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för körens övriga stämmaterial. Eleven gör <b>välgrundade</b> <b>och nyanserade</b> analyser av repetitionsarbetet och presenterar <b>välgrundade</b> förslag på hur det kan förbättras. Eleven gör en <b>välgrundad och nyanserad</b> textanalys av ett givet körstycke och diskuterar <b>utförligt och</b> <b>nyanserat</b> hur det kan påverka styckets interpretation. Eleven förbereder och leder <b>efter samråd</b> med handledare instudering av enkel repertoar i sin egen körstämma.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för grundläggande röstfysiologi. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för röstvård för sin egen röst och använder me <b>gott</b> resultat <b>flera</b> relevanta metoder för uppsjungning av sin körstämm <b>och kören</b>.",
 "Eleven kommunicerar med och anpassar sin kommunikation <b>med säkerhet</b> till medsångare och publik i musikalisk gestaltning. Eleven presenterar program <b>med säkerhet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["MUSENS0",
+"MUSKÖS01"]}}

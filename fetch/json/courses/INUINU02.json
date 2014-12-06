@@ -2,6 +2,7 @@
 "name":"Industritekniska processer 2",
 "points":100,
 "instrRAW":"som bygger på kursen industritekniska processer 1.",
+"instrRAW2":"som bygger på kursen industritekniska processer 1.",
 "reqRAW":"kursen INUINU01",
 "code":"INUINU02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -33,4 +34,7 @@
 "Eleven utför med noggrannhet och <b>efter samråd</b> med handledare övervakning, styrning och reglering av industritekniska processer i enlighet med processcheman, säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Dessutom genomför eleven <b>efter samråd</b> med handledare förebyggande och avhjälpande underhåll. Resultatet av arbetet är <b>gott</b> utifrån givna kvalitetskrav. I arbetet använder eleven <b>med säkerhet</b> instruktioner, processcheman och kravspecifikationer. Dessutom genomför eleven <b>med säkerhet</b> provtagningar samt tolkar <b>med säkerhet</b> resultatet. Eleven hanterar material, utrustning, verktyg och maskiner me <b>mycket gott</b> handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet genomför eleven vid behov korrigeringar i produktionen utifrån processcheman och kravspecifikationer. Dessutom upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <b>efter samråd</b> med handledare. När arbetsuppgiften är utförd dokumenterar eleven <b>med säkerhet</b> arbetsprocessen och resultatet enligt givna instruktioner.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur råvaror eller material förädlas i den industritekniska processen och för teknik, metoder och verktyg som använts för arbetsuppgiften samt för <b>komplexa</b> samband mellan produktionsutrustning och produktionslinjer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b>, utifrån exempel, för underhållets betydelse för driftsäkerheten. Eleven redogör även <b>utförligt och</b> <b>nyanserat</b> för hur material, teknik, metoder och produktionsutrustning påverkar <b>effektiviteten i arbetet</b>, arbetsprocess, kvalitet, slutresultat och miljö <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för eventuella avvikelser från specifikationen.",
 "Eleven samarbetar i sitt arbete med andra samt redogör <b>utförligt och</b> <b>nyanserat</b> för betydelsen av samarbete. Dessutom använder eleven <b>med säkerhet</b> terminologi och fackspråk.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"INUINU01",
+"reqBy":["INUINU03",
+"INULAB0"]}

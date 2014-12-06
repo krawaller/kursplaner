@@ -2,6 +2,7 @@
 "name":"Animation - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen animation 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen animation 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen ANIANI02",
 "code":"ANIANI00S",
@@ -31,4 +32,5 @@
 "Eleven använder relevanta begrepp för animation <b>med säkerhet</b>.",
 "Eleven samverkar <b>med säkerhet</b> med andra vid planering och produktion av animationer <b>samt diskuterar utförligt och nyanserat olika arbetssätt med andra</b>. Eleven söker <b>med säkerhet</b> kunskap, tar ansvar för sitt eget arbete, <b>presenterar egna idéer</b> och ger <b>välgrundade och nyanserade</b> förslag på hur arbetet kan förbättras.",
 "Eleven diskuterar <b>utförligt och nyanserat flera</b> kvalitativa aspekter samt gör <b>välgrundade och nyanserade</b> bedömningar av <b>flera olika</b> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna."]},
+"req":"ANIANI02"}

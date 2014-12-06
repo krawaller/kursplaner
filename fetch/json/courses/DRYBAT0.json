@@ -2,6 +2,7 @@
 "name":"Barteknik",
 "points":100,
 "instrRAW":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
+"instrRAW2":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
 "reqRAW":"kursen DRYDRC0",
 "code":"DRYBAT0",
 "goals":[0,1,0,1,2,1,1,1],
@@ -30,4 +31,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> olika drinkgrupper och drinkrecept.",
 "Eleven planerar, organiserar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom dryckesbarer. I arbetet väljer och använder eleven me <b>mycket gott</b> handlag relevanta serveringsmetoder, redskap och utrustning. Dessutom väljer och använder eleven <b>efter samråd</b> med handledare lämpliga råvaror och produkter vid drinkblandning. Resultatet är <b>gott</b> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
 "Eleven använder <b>efter samråd</b> med handledare någon provningsmetod och beskriver <b>utförligt och</b> <b>nyanserat</b> olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <b>med säkerhet</b> olika drycker och bedömer deras kvalitet med <b>nyanserade</b> omdömen. Eleven utformar också <b>efter samråd</b> med handledare dryckeslistor och beskriver <b>utförligt</b> vilka produkter som behövs i dryckesbarer. Dessutom utför eleven <b>efter samråd</b> med handledare prisberäkningar av olika dryckesalternativ.",
-"När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven samarbetar med andra och använder <b>med säkerhet</b> fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven samarbetar med andra och använder <b>med säkerhet</b> fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DRYDRC0"}

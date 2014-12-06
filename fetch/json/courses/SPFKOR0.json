@@ -2,6 +2,7 @@
 "name":"Korg och boggi",
 "points":200,
 "instrRAW":"som bygger på kursen spårbundna fordon - introduktion.",
+"instrRAW2":"som bygger på kursen spårbundna fordon - introduktion.",
 "reqRAW":"kursen SPFSPA0",
 "code":"SPFKOR0",
 "goals":[0,1,1,1,1,1,1,1,1],
@@ -39,4 +40,5 @@
 "Eleven utfö <b>efter samråd</b> med handledare underhåll av och reparationer på samt <b>efter samråd</b> med handledare funktions- och säkerhetskontroll av korg och boggi. Eleven genomför i bekanta <b>och</b> <b>i nya</b> situationer demonterings- och monteringsarbeten på korg och boggi. I arbetet väljer eleven <b>med säkerhet</b> lämpliga arbetsmetoder samt använder me <b>mycket gott</b> handlag de verktyg och andra hjälpmedel som är lämpliga för att lösa arbetsuppgifterna. Eleven gör en <b>noggrann och utförlig</b> dokumentation av utfört arbete. Resultatet av elevens arbete är <b>gott</b>.",
 "Eleven använder <b>med säkerhet</b> svenska och engelska manualer samt digitala informationssystem. Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen. I arbetet redogör eleven <b>utförligt</b> för lagar och andra bestämmelser som styr arbetet. Dessutom arbetar eleven utifrån de krav på säkerhet, kvalitet och miljö som styr arbetet. Eleven för <b>välgrundade och nyanserade</b> resonemang om faktorer som påverkar samspelet mellan människa och maskin.",
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt använder i sin kommunikation <b>med säkerhet</b> begrepp och uttryck som är relevanta för ämnesområdet.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SPFSPA0"}

@@ -2,6 +2,7 @@
 "name":"Inköp 2",
 "points":100,
 "instrRAW":"som bygger på kursen inköp 1.",
+"instrRAW2":"som bygger på kursen inköp 1.",
 "reqRAW":"kursen INKINK01",
 "code":"INKINK02",
 "goals":[1,0,0,1,1,1,0,0,1,1],
@@ -25,4 +26,5 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur inköpsarbete planeras och utförs samt beskriver <b>utförligt och</b> <b>nyanserat</b> effekter av olika inköpsalternativ. Eleven redogör även <b>utförligt och</b> <b>nyanserat</b> för olika sätt att förhandla och tillämpa affärsjuridik inom inköpsområdet. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för handelsregler, internationell handel och hur man väljer leverantörer i olika länder.",
 "Eleven planerar, organiserar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom inköpsområdet enligt gällande lagar och andra bestämmelser. <b>Eleven genomför arbetet på ett välorganiserat sätt samt tar egna initiativ i arbetet.</b> När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arbetsmiljöfrågor. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> inköpsfrågor utifrån socialt ansvarstagande, rättvis handel och hållbar utveckling.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"INKINK01"}

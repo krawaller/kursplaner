@@ -2,6 +2,7 @@
 "name":"Skogsskötsel 1",
 "points":100,
 "instrRAW":"som bygger på kursen motor- och röjmotorsåg 1 eller produktionsutrustning 1.",
+"instrRAW2":"som bygger på kursen motor- och röjmotorsåg 1 eller produktionsutrustning 1.",
 "reqRAW":"kursen MOTMOT01 eller PRUPRD01S",
 "code":"SKGSKO01",
 "goals":[1,1,1,1,0,1,1,1],
@@ -36,4 +37,12 @@
 "Eleven tolkar <b>med säkerhet</b> skogsbruksplaner. Eleven följer arbetsinstruktioner och genomför <b>efter samråd</b> med handledare arbetsuppgifter inom skogsvård och avverkning. Dessutom genomför eleven <b>efter samråd</b> med handledare gallringsarbete och uppföljning av gallring. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven använder <b>efter samråd</b> med handledare teknisk utrustning. Eleven använder också <b>med säkerhet</b> skogsuppskattningsinstrument och gallringsmallar. Dessutom gör eleven <b>avancerade</b> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <b>nyanserade</b> omdömen.",
 "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["ENEFÖR0",
+"NABAVV0",
+"SKGSKO02",
+"SKGVIR0",
+"SKMAVV0"],
+"req":{"type":"OR",
+"arr":["MOTMOT01",
+"PRUPRD01S"]}}

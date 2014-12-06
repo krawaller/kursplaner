@@ -2,6 +2,7 @@
 "name":"Lackeringsteknik för tunga fordon",
 "points":200,
 "instrRAW":"som bygger på kursen baskurs i lackering.",
+"instrRAW2":"som bygger på kursen baskurs i lackering.",
 "reqRAW":"kursen LACBAK0",
 "code":"LACLAR0",
 "goals":[0,1,1,1,1,1,0,1,1,1],
@@ -41,4 +42,5 @@
 "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <b>utförligt och</b> <b>nyanserat</b> med hjälp av det olika metoder och olika materials funktion och egenskaper. Eleven använder <b>med säkerhet</b> både svenska och engelska manualer samt digitala informationssystem.",
 "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt utför i bekanta <b>och nya</b> situationer lyftning och pallning av tunga fordon på ett säkerhetsmässigt riktigt sätt. Dessutom sorterar eleven sopor och överblivet lackmaterial på ett miljömässigt riktigt sätt. I arbetet tar eleven också hänsyn till kostnader vid åtgärd och stillestånd.",
 "Eleven samarbetar,<b> medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med medarbetare och kunder. I kommunikationen använder eleven <b>med säkerhet</b> tekniska begrepp. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"LACBAK0"}

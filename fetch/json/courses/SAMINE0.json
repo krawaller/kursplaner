@@ -2,6 +2,7 @@
 "name":"Internationell ekonomi",
 "points":100,
 "instrRAW":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
+"instrRAW2":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
 "reqRAW":"kursen SAMSAM01a2 eller kursen SAMSAM01b",
 "code":"SAMINE0",
 "goals":[1,1,1,1,1],
@@ -26,4 +27,7 @@
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för handelskontakter och handelsrelationer utifrån olika perspektiv. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> redogöra för hur olika förutsättningar och förhållanden påverkar och påverkas av olika aktörer. Eleven diskuterar också <b>utförligt och</b> <b>nyanserat</b> några effekter av reglerande ingrepp i den internationella ekonomin.",
 "Eleven kan analysera orsaker till och konsekvenser av den internationella ekonomins och handelns utseende och utveckling. I analysen använder eleven <b>med säkerhet</b> några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> deras styrkor och svagheter med hänvisning till olika källor.",
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> den internationella ekonomins betydelse för miljö och resursfördelning, kan ge <b>välgrundade och nyanserade</b> argument för olika ståndpunkter och värdera dem med <b>nyanserade</b> omdömen.",
-"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]}}
+"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]},
+"req":{"type":"OR",
+"arr":["SAMSAM01a2",
+"SAMSAM01b"]}}

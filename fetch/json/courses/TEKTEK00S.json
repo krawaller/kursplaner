@@ -2,6 +2,7 @@
 "name":"Teknik - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen teknik 1. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen teknik 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen TEKTEK01",
 "code":"TEKTEK00S",
@@ -30,4 +31,5 @@
 "Eleven löser <b>avancerade</b> tekniska problem inom valt teknikområde med ett <b>gott</b> resultat. Dessutom väljer och använder eleven <b>efter samråd</b> med handledare lämpliga produktionsmetoder och design- och konstruktionslösningar samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <b>med säkerhet</b> matematiska och teknikvetenskapliga begrepp, teorier och modeller samt utför <b>avancerade</b> beräkningar och använder <b>avancerade</b> lösningsstrategier. Eleven bedömer rimligheten i sina resultat samt värderar egna och andras val av metoder och strategier med <b>nyanserade</b> omdömen <b>samt ger förslag på alternativa val av metoder och strategier</b>.",
 "Eleven använder <b>med säkerhet</b> utrustning med hänsyn tagen till arbetsmiljö och säkerhet.",
 "Eleven kommunicerar <b>med säkerhet</b> sina idéer och resultat med några av kunskapsområdets relevanta begrepp.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TEKTEK01"}

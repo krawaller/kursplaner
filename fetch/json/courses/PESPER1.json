@@ -2,6 +2,7 @@
 "name":"Persontrafik - vux",
 "points":200,
 "instrRAW":"som bygger på kursen yrkestrafik - vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
+"instrRAW2":"som bygger på kursen yrkestrafik - vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
 "reqRAW":"kursen TRAYRK1",
 "notwithRAW":"kursen PESPER01a eller kursen PESPER01b",
 "onlyadults":true,
@@ -47,4 +48,9 @@
 "Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.",
 "Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> tillvägagångssätt och rutiner vid olyckstillbud, brandrisker i fordon och gods med farliga egenskaper samt hur det ska hanteras vid persontransporter. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.",
 "Eleven bemöter <b>med säkerhet</b> kunder och ger god service till passagerare. Dessutom samarbetar eleve <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med kunder och medarbetare. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TRAYRK1",
+"notwith":{"type":"OR",
+"arr":["PESPER01a",
+"PESPER01b"]},
+"reqBy":["PESPER00S"]}

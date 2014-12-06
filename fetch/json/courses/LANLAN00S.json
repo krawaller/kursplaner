@@ -2,6 +2,7 @@
 "name":"Lantbruksdjur - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen lantbruksdjur 2. Kursen kan läsas fler gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen lantbruksdjur 2. Kursen kan läsas fler gånger med olika innehåll.",
 "repeat":"Kursen kan läsas fler gånger med olika innehåll.",
 "reqRAW":"kursen LANLAN02",
 "code":"LANLAN00S",
@@ -31,4 +32,5 @@
 "a":["Eleven observerar i samband med stallturer foderhanteringssystem och produktionssystem samt redogör <b>utförligt och</b> <b>nyanserat</b> för hur systemen används i olika produktionsgrenar. Eleven tolkar också <b>med säkerhet</b> tecken på produktionsstörningar, gör <b>välgrundade och nyanserade</b> bedömningar av hur störningarna påverkar produktionsresultatet samt redogör <b>utförligt och</b> <b>nyanserat</b> för hur störningarna kan förebyggas. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur arbetet med fortplantningsrutiner planeras och genomförs.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom ett specialområde. I planeringen upprättar eleven en <b>avancerad</b> ekonomisk kalkyl. Eleven redogör i kalkylen <b>utförligt och</b> <b>nyanserat</b> för vilka faktorer som påverkar det ekonomiska resultatet. I arbetet vårdar och behandlar eleven <b>efter samråd</b> med handledare djur. Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår.",
 "Eleven arbetar ergonomiskt med lantbruksdjur, teknisk utrustning och stall. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"LANLAN02"}

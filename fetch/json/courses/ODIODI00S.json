@@ -2,6 +2,7 @@
 "name":"Odling i växthus - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen odling i växthus 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen odling i växthus 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen ODIODL02",
 "code":"ODIODI00S",
@@ -28,4 +29,5 @@
 "a":["Eleven upprättar <b>efter samråd</b> med handledare en odlingsplan för ett specialområde inom odling i växthus och en <b>avancerad</b> ekonomisk kalkyl med utgångspunkt i aktuella odlingsförutsättningar, krav på miljöhänsyn och kretsloppstänkande samt i försäljningsmöjligheter. Eleven planerar och utför <b>efter samråd</b> med handledar <b><strong>sammanhållna</b></strong> arbetsuppgifter enligt odlingsplanen. I planeringen bedömer eleven <b>efter samråd</b> med handledare när och hur olika arbetsuppgifter ska genomföras för optimalt odlingsresultat. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt både med hantverksmässiga metoder och med den tekniska utrustning som används för att genomföra olika arbetsuppgifter. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för produktionsprocessen och odlingssystem för det aktuella specialområdet samt beskriver <b>utförligt och</b> <b>nyanserat</b> hur de olika tillväxtfaktorerna påverkar odlingsresultatet. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> utvecklings- och försäljningsmöjligheter för aktuella produkter.",
 "I samband med fältstudier gör eleven <b>välgrundade och nyanserade</b> bedömningar av växternas utveckling, kvalitet och beräknad tidpunkt för odlingsåtgärder inom den specialiserade odlingen. Eleven identifierar <b>med säkerhet</b> växtsjukdomar och skadedjur. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador dessa sjukdomar och skadedjur kan förorsaka samt för lämpliga förebyggande åtgärder och direkta motåtgärder. ",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ODIODL02"}

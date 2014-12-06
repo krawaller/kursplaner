@@ -2,6 +2,7 @@
 "name":"Yrkestrafik 1a",
 "points":200,
 "instrRAW":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
+"instrRAW2":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
 "reqRAW":"kursen FORFOD0 samt kursen FODFOO0",
 "code":"TRAYRK01a",
 "goals":[1,0,1,1,1,1,1,1],
@@ -29,4 +30,10 @@
 "Eleven utför <b>efter samråd</b> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <b>utförligt och</b> <b>nyanserat</b>. Eleven följer <b>med säkerhet</b> körtidsregler samt registrerar körtiden enligt praxis. I arbetet beskriver eleven <b>utförligt och</b> <b>nyanserat</b> några metoder för lastförankring. Dessutom gör eleven, med <b>gott</b> resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <b>nyanserade</b> omdömen. Eleven väljer <b>med säkerhet</b> relevant utrustning och arbetsmetod.",
 "Eleven identifierar <b>med säkerhet</b> och beskriver <b>utförligt och</b> <b>nyanserat</b> gods med speciella egenskaper och hur det ska hanteras. Eleven ger också <b>välgrundade och nyanserade</b> exempel på riskerna med denna hantering. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur man förebygger personskador vid godshantering och transporter samt faktorer som kan bidra till ohälsa.",
 "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning. Dessutom samarbetar eleven med andra och anpassar <b>med säkerhet</b> bemötande och språk efter situation och mottagare. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["GOSGOD0",
+"PESPER01a",
+"PESPER01b"],
+"req":{"type":"AND",
+"arr":["FORFOD0",
+"FODFOO0"]}}

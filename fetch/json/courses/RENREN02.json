@@ -2,6 +2,7 @@
 "name":"Renen och dess naturmiljö 2",
 "points":100,
 "instrRAW":"som bygger på kursen renen och dess naturmiljö 1.",
+"instrRAW2":"som bygger på kursen renen och dess naturmiljö 1.",
 "reqRAW":"kursen RENREN01",
 "code":"RENREN02",
 "goals":[1,1,1,0,0,0,0,0,1,1],
@@ -34,4 +35,5 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vanligt förekommande virus, parasiter och symptom på parasitangrepp. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för undernäring, sjukdom och skador hos ren samt för hur man förebygger dessa.",
 "Eleven utför <b>med säkerhet</b> foderberäkning samt beskriver <b>utförligt och</b> <b>nyanserat</b> foderhantering vid nödutfodring.",
 "Vid fältstudier identifierar eleven <b>med säkerhet</b> olika rovdjur samt redogör <b>utförligt och</b> <b>nyanserat</b> för deras beteenden och för skador de förorsakar.",
-"I beskrivningar och redogörelser använder eleven <b>med säkerhet</b> samisk terminologi som berör renen och rennäringen."]}}
+"I beskrivningar och redogörelser använder eleven <b>med säkerhet</b> samisk terminologi som berör renen och rennäringen."]},
+"req":"RENREN01"}

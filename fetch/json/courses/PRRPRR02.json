@@ -2,6 +2,7 @@
 "name":"Programmering 2",
 "points":100,
 "instrRAW":"som bygger på kursen programmering 1.",
+"instrRAW2":"som bygger på kursen programmering 1.",
 "reqRAW":"kursen PRRPRR01",
 "code":"PRRPRR02",
 "goals":[0,1,1,1,2,2,1,1],
@@ -27,4 +28,5 @@
 "Eleven anpassar <b>med viss säkerhet</b> sin planering av programmeringsuppgiften, uppmärksammar problem med typsäkerhet och utför <b>på ett systematiskt sätt</b> felsökning av syntaxfel, <b>körtidsfel och programmeringslogiska fel</b>. Innan programmeringsuppgiften avslutas utvärderar eleven me <b>nyanserade</b> omdömen programmets prestanda och ändamålsenlighet i <b>några</b> situationer <b>och</b> sammanhang. Eleven kommunicerar <b>med viss säkerhet</b> med datalogiska begrepp om programmeringsuppgiften och dess utvärdering."],
 "a":["Eleven formulerar och planerar programmeringsuppgifter med enkla klassdiagram. I planeringen väljer eleven <b>med säkerhet</b> standardbibliotek, egna och andras klasser, konstruktorer, objekt och gränssnitt som är adekvata för uppgiften <b>samt motiverar utförligt sina val</b>. I sin programmering skriver eleven en korrekt, strukturerad och <b>utförligt</b> kommenterad källkod, med konsekvent kodningsstil och tydlig namngivning. Dessutom väljer eleven <b>med säkerhet</b> ett uttryckssätt och ett grafiskt gränssnitt som är anpassat för att på ett <b>gott</b> sätt interagera med den avsedda användaren.",
 "Elevens färdiga program är utfört med <b>gott</b> resultat i ett eller flera programmeringsspråk och innehåller objektorienterad programmering som är stabil och robust <b>i program av komplex karaktär</b>.",
-"Eleven anpassar <b>med säkerhet</b> sin planering av programmeringsuppgiften, <b>anpassar polymorfi</b>, uppmärksammar problem med typsäkerhet och utför <b>på ett systematiskt och effektivt sätt</b> felsökning av syntaxfel, <b>körtidsfel och programmeringslogiska fel</b>. Innan programmeringsuppgiften avslutas utvärderar eleven me <b>nyanserade</b> omdömen <b>och med förslag på förbättringar</b> programmets prestanda och ändamålsenlighet i <b>flera</b> situationer <b>och</b> sammanhang. Eleven kommunicerar <b>med säkerhet</b> med datalogiska begrepp om programmeringsuppgiften och dess utvärdering."]}}
+"Eleven anpassar <b>med säkerhet</b> sin planering av programmeringsuppgiften, <b>anpassar polymorfi</b>, uppmärksammar problem med typsäkerhet och utför <b>på ett systematiskt och effektivt sätt</b> felsökning av syntaxfel, <b>körtidsfel och programmeringslogiska fel</b>. Innan programmeringsuppgiften avslutas utvärderar eleven me <b>nyanserade</b> omdömen <b>och med förslag på förbättringar</b> programmets prestanda och ändamålsenlighet i <b>flera</b> situationer <b>och</b> sammanhang. Eleven kommunicerar <b>med säkerhet</b> med datalogiska begrepp om programmeringsuppgiften och dess utvärdering."]},
+"req":"PRRPRR01"}

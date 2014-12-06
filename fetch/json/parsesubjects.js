@@ -13,7 +13,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -114,6 +114,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					// FURTHER INSTRUCTION
 					function fixLinkStr(str){
 						_.each({
+							"kurserna": "kurserna kurserna",
 							"MATMAT01b eller MATMAT01c": /matematik 1b eller 1c/gi,
 							"MATMAT01a eller MATMAT01c": /matematik 1a eller 1c/gi,
 							"MATMAT01a eller MATMAT01b": /matematik 1a eller 1b/gi,
@@ -125,6 +126,18 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							"MATMAT03b eller MATMAT03c": /matematik 3b eller 3c/gi,
 							"DAKMOD01": /modern dans 1/gi,
 							"DAKMOD02": /modern dans 2/gi,
+							"VÅRVÅR01": /vård och omsorgsarbete 1/,
+							"VÅRVÅR02": /vård och omsorgsarbete 2/,
+							"RENREE01.": /renen och rennäringen\./,
+							"PRTPRO01": /produktionsfilosofi 1/g,
+							"DATDAS01S, DATDAS02S, DATDAS03S eller DATDAS04S": /dansteknik 1, 2, 3 eller 4/,
+							" ": /Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3./,
+							"HUSHUS03.": /husbyggnad 3\./,
+							"BIIVAT01": "biologi i vattenmiljöer 1",
+							"NAKNAK01a1": "naturkunskap 1a1",
+							"FIKFIS01": "fiskevård 1",
+							"FIKFIS02": "fiskevård 2",
+							"som bygger på kursen besöksnäringen eller på kursen RENREN01": "som bygger på kursen besöksnäringen eller kursen renen och dess miljö",
 							/*"PERBRO0": /Bromsar, kaross och chassi/gi,
 							"SAHBYN0": /Byggnads-\, installations- och anläggningsteknik/gi,
 							"VAEDRT0": /Drift, underhåll, säkerhet och miljö/gi,
@@ -137,7 +150,8 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					}
 					var instr = def.split(/,?  ?\d{2,3}  ?poäng,?  ?/)[1];
 					if (instr){
-						course.instrRAW = instr = fixLinkStr(instr);
+						course.instrRAW = instr;
+						instr = course.instrRAW2 = fixLinkStr(course.instrRAW);
 						// REPEAT
 						var rep = instr.match(/och kan läsas flera gånger med olika innehåll|Kursen kan läsas (läsas )?flera? gånger med olika .*?\.|Kursen kan läsas flera gånger med innehåll från olika .*\.|som kan läsas flera gånger med olika innehåll\.|Kursen kan läsas flera gånger i olika språk\./)
 						if (rep){
@@ -178,6 +192,10 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						if (instr.match(/^ *Kursen får endast anordnas inom kommunal vuxenutbildning\. *$/)){
 							course.onlyadults = true;
 							instr="";
+						}
+						if (instr.match(/^ *I ett och samma språk kan endast betyg i en av kurserna språk specialisering - retorik 1[ab] eller språk specialisering - retorik 1[ab] ingå i elevens examen\. *$/)){
+							course.notwithRAW = instr;
+							instr = "";
 						}
 						// ALL?
 						if (instr.replace(/ |<b> <\/b>/g,"").length){
@@ -538,53 +556,110 @@ function compileLinks(l,from){
 
 fs.writeFile("./namelist.txt",_.keys(GLOBAL.coursetocode).sort().join("\n"));
 
+// to check: TURHÅL0, AUOAVH0, PESPER00S
+
 function courseList(str,code){
 	var ret, t;
-	str = str.replace(/^ */,"");
+	str = str.trim();
 	//if (t=str.match(/kursen (.*?) eller p?å? ?kurserna (.*?)/)){
 	//	ret = {type:"OR",arr:[t[1],{type:"AND",arr:_.difference(t[2].replace("kursen ","").split(/, | (och|samt) /),[undefined,"kursen "])}]};
 	//} else
-	if (t=str.match(/någon av kurserna [^\.]*? eller/)){
+	if (str.match("I ett och samma språk kan endast")){
+		ret = {type:"LINK",target:{SPAXXX01a:"SPAXXX01b",SPAXXX01b:"SPAXXX01a"}[code],comment:"i samma språk"};
+	} else if ((t=str.split(/eller på/)).length===2){
+		ret = {type:"OR",arr:[courseList(t[0],code),courseList("på "+t[1].trim(),code)]}
+	} else if (t=str.match(/någon av kurserna [^\.]*? eller/)){
 		ret = {type:"OR",arr:str.replace(/^ *någon av kurserna /,"").split(/, | eller /)};
-	} else if (str.match(/någon av kurserna [^\.]*? och/)){
-		ret = {type:"AND",arr:str.replace(/^ *någon av kurserna /,"").split(/, | och /)};
+	} else if (!str.match(/eller/) && str.match(/^p?å? ?(någon av )?(kurser?na? )?[^\.]*? (och|samt)/)){
+		ret = {type:"AND",arr:str.replace(/^p?å? ?(någon av )?(kurser?na? )?/,"").split(/, | och | samt /)};
+	} else if (str.match(/^kursen [^]* eller på .*? (samt|och)/)){
+		ret = {type:"OR",arr: [str.split(" eller på ")[0],{type:"AND",arr:str.split(" eller på ")[1].split(/, | samt | och /)}]}
 	} else if (str.match(/^ *kursen/)&&str.match(/eller/)){
-		ret = {type:"OR",arr:_.difference(str.replace(/^ *kursen */,"").split(/, *(kursen *)?| *eller *(kursen *)?/g),[undefined,"kursen "])};
+		ret = {type:"OR",arr:_.difference(str.replace(/^ *kursen */,"").split(/, *(kursen *)?| *eller *(kursen *)?/g),[undefined,"kursen ",""," ",null])};
+		ret.arr[ret.arr.length-1] = courseList(ret.arr[ret.arr.length-1],code);
 	} else if (str.match(" samt ")){
-		ret = {type:"AND",arr:str.split(" samt ")};
+		ret = {type:"AND",arr:str.split(/, | samt /)};
 	} else if (str.match(" och ")){
-		ret = {type:"AND",arr: _.difference(str.replace(/^ *kursen */,"").split(/, *(kursen *)?| *och *(kursen *)?/g),[undefined,"kursen "])};
+		ret = {type:"AND",arr: _.difference(str.replace(/^ *kursen */,"").split(/, *(kursen *)?| *och *(kursen *)?/g),[undefined,"kursen ",""," ",null])};
 	} else {
-		ret = str.trim().replace(/^kursen /,"").replace(/ med innehåll från vald profil$/,"");
+		ret = str.trim().replace(/^p?å? ?kursen /,"");//.replace(/ med innehåll från vald profil$/,"");
+		var potcode = ret.split(" ")[0];
+		if (GLOBAL.codetocode[potcode] && ret.match(/ med (innehåll|inriktning)/)){
+			ret = {type:"LINK",target:potcode,comment:ret.replace(potcode+" ","")};
+		} else {
+			ret = fixStr(str,code);
+		}
 	}
 	if (ret.arr){
-		ret.arr = _.map(ret.arr,function(c,n,list){
-			if (c.match(/^ *på kurserna /)){
-				return courseList(c.replace(/^ *på */,"någon av kurserna "),code)
-			}
-			return (n && c[0].match(/^\d/) ? list[0].split(/ \d/)[0]+" "+c : c).trim().replace("kursen ","");
-		});
-	}
-	if (code==="Samernas kultur och historia"){
-		console.log("tried my best with",str,"for",code,", got",ret);
+		ret.arr = _.map(ret.arr,function(s){return fixStr(s,code)});
 	}
 	return ret;
 }
 
+var okTexts = {
+	"grundskolans kunskaper eller motsvarande":1,
+	"de kunskaper grundskolan ger eller motsvarande":1,
+	"moderna språk inom ramen för elevens val i grundskolan":1,
+	"moderna språk inom ramen för språkval i grundskolan":1,
+	"kinesiska inom ramen för elevens val i grundskolan":1,
+	"kinesiska inom ramen för språkval i grundskolan":1,
+	"som bygger på minst 800 poäng av yrkesprogrammets karaktärsämnen":1,
+	"specialskolans kunskaper eller motsvarande":1,
+	"de kunskaper specialskolan ger eller motsvarande":1,
+	"svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan":1,
+	"svenskt teckenspråk för hörande inom ramen för språkval i grundskolan":1
+};
+
+function fixStr(s,code){
+	if (typeof s !== "string"){return s;}
+	if (s.match(/^ *på kurserna /)){ return courseList(s.replace(/^ *på */,"någon av kurserna "),code) }
+	if (s==="psykologi 2"){ return {type:"OR",arr:["PSKPSY02a","PSKPSY02b"]} }
+	if (s==="historia 2"){ return {type:"OR",arr:["HISHIS02a","HISHIS02b"]} }
+	s = s.trim().replace(/^p?å? ?kursen */,"");
+	//return (n && c[0].match(/^\d/) ? list[0].split(/ \d/)[0]+" "+c : c).trim().replace("kursen ","");
+	if (!GLOBAL.codetocode[s] && !okTexts[s]){
+		console.log(code,"Waaat?",s);
+	}
+	return s;
+}
+
+function harvestFiles(o){
+	if (typeof o === "string" && GLOBAL.codetocode[o]){
+		return [o];
+	} else if (o.target){
+		return [o.target];
+	} else if (o.arr){
+		return _.flatten(_.compact((_.map(o.arr,harvestFiles))));
+	} else {
+		return [];
+	}
+}
+
 var names = _.keys(GLOBAL.coursetocode).sort(function(s,t){return s.length>t.length?-1:s.length<t.length?1:s>t;});
 _.each(GLOBAL.courses,function(course,code){
+	//betterbehaved
 	_.each(["reqRAW","notwithRAW","alsoreqRAW"],function(prop){
 		if (course[prop]){
 			_.each(names,function(name){
 				course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+GLOBAL.coursetocode[name]);
 			});
+			course[prop.replace("RAW","")] = courseList(course[prop],code);
 		}
 	});
-	/*_.each(["requirements","notwith"],function(prop){
-		if (course[prop]){
-			course[prop+"COMP"] = compileLinks(course[prop],code);
-		}
-	});*/
+	if (course.alsoreq){
+		course.req = {type:"AND",arr:[course.req,course.alsoreq]};
+		delete course.alsoreq;
+	}
+	if (course.req){
+		var mine = harvestFiles(course.req);
+		if (code==="MATMAT02c") console.log("MINE",mine)
+		_.each(_.uniq(mine),function(cid){
+			if (!GLOBAL.courses[cid].reqBy){GLOBAL.courses[cid].reqBy = [];}
+			GLOBAL.courses[cid].reqBy = (GLOBAL.courses[cid].reqBy||[]).concat([code]);
+		});
+	}
+});
+_.each(GLOBAL.courses,function(course,code){
 	fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"').replace("��","å"));
 });
 

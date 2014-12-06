@@ -2,6 +2,7 @@
 "name":"Kinesiska 2",
 "points":100,
 "instrRAW":"som bygger på kursen kinesiska 1 eller kinesiska inom ramen för elevens val i grundskolan.",
+"instrRAW2":"som bygger på kursen kinesiska 1 eller kinesiska inom ramen för elevens val i grundskolan.",
 "reqRAW":"kursen MODZHO01 eller kinesiska inom ramen för elevens val i grundskolan",
 "code":"MODZHO02",
 "goals":[1,1,1,1,1],
@@ -62,4 +63,8 @@
 "Eleven använder skriftlig information från olika medier <b>på ett relevant och effektivt sätt</b> i sin egen produktion och interaktion. ",
 "Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, <b>relativt tydligt</b> <b>och till viss del sammanhängande</b>.",
 "I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt <b>och</b> <b>relativt tydligt</b> med ord, fraser och meningar.",
-"Eleven kommenterar i <b>enkel</b> form några företeelser i olika sammanhang och områden där kinesiska används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven kommenterar i <b>enkel</b> form några företeelser i olika sammanhang och områden där kinesiska används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]},
+"req":{"type":"OR",
+"arr":["MODZHO01",
+"kinesiska inom ramen för elevens val i grundskolan"]},
+"reqBy":["MODZHO03"]}

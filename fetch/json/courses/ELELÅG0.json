@@ -2,6 +2,7 @@
 "name":"Låg- och högfrekvenskretsar",
 "points":100,
 "instrRAW":"som bygger på kursen elektronik och mikrodatorteknik.",
+"instrRAW2":"som bygger på kursen elektronik och mikrodatorteknik.",
 "reqRAW":"kursen ELEELR0",
 "code":"ELELÅG0",
 "goals":[1,0,1,0,1,0,1,1],
@@ -31,4 +32,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven <b>med säkerhet</b> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
 "Eleven utför <b>avancerade</b> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar. Arbetet utförs med <b>gott</b> resultat.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELEELR0"}

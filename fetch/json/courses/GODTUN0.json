@@ -2,6 +2,7 @@
 "name":"Tunga arbetsmaskiner",
 "points":200,
 "instrRAW":"som bygger på kursen maskinell godshantering.",
+"instrRAW2":"som bygger på kursen maskinell godshantering.",
 "reqRAW":"kursen GODMAL0",
 "code":"GODTUN0",
 "goals":[1,1,1,1,1,1,1],
@@ -31,4 +32,5 @@
 "Eleven manövrerar i bekanta <b>och nya</b> situationer lastmaskiner som väger mer än tio ton med redskap samt utför <b>efter samråd</b> med handledare säkerhetskontroller på fordon och lyftutrustning. Dessutom hanterar eleven i bekanta <b>och nya</b> situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport. I arbetet utför eleven <b>efter samråd</b> med handledare <b>avancerade</b> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet. Dessutom hanterar eleven <b>med säkerhet</b> emballage och lastbärare. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet. Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"GODMAL0"}

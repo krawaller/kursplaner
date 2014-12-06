@@ -2,6 +2,7 @@
 "name":"Kraft- och värmeteknik 1",
 "points":200,
 "instrRAW":"som bygger på kursen energiteknik 2 och kursen vatten- och processkemi.",
+"instrRAW2":"som bygger på kursen energiteknik 2 och kursen vatten- och processkemi.",
 "reqRAW":"kursen ENEENE02 och kursen ENEVAE0",
 "code":"KRAKRA01",
 "goals":[1,1,1,1,1,1,1,1],
@@ -31,4 +32,8 @@
 "Eleven utför, <b>efter samråd</b> med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning.",
 "Eleven genomför <b>med säkerhet</b> <b>avancerade</b> energiberäkningar och ger utifrån dem <b>välgrundade och nyanserade</b> förslag för att optimera driften. Eleven genomför <b>efter samråd</b> med handledare provtagning, analys och dosering av olika medier. I sitt arbete hanterar och vårdar eleven verktyg och instrument med <b>mycket gott</b> handlag utifrån givna instruktioner och arbetsbeskrivningar. Under arbetet upptäcker eleven problem som uppkommer och löser dem <b>efter samråd</b> med handledare. I arbetet samverkar och kommunicerar eleven <b>med säkerhet</b> med andra samt använder ett <b>nyanserat</b> fackspråk som fungerar för arbetsuppgiften.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för säkerhetsföreskrifter och miljökrav.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["ENEENE02",
+"ENEVAE0"]},
+"reqBy":["KRAKRA02"]}

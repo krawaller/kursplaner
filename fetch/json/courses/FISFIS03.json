@@ -2,6 +2,7 @@
 "name":"Fiske 3",
 "points":100,
 "instrRAW":"som bygger på kursen fiske 2.",
+"instrRAW2":"som bygger på kursen fiske 2.",
 "reqRAW":"kursen FISFIS02",
 "code":"FISFIS03",
 "goals":[1,0,1,1,1,1,0,1],
@@ -29,4 +30,5 @@
 "Eleven upprättar <b>efter samråd</b> med handledare en plan för ett specialområde inom fiske med utgångspunkt i aktuella förutsättningar samt motiverar <b>utförligt och</b> <b>nyanserat</b> sina val i planen. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl utifrån krav på produktkvalitet och försäljningsmöjligheter. Eleven bedömer <b>efter samråd</b> med handledare när och hur de planerade arbetsuppgifterna ska genomföras för ett optimalt fiske. Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare arbetsuppgifter enligt planen och använder yrkesmässiga metoder, redskap och annan teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår.",
 "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört vårdar eleven <b>efter samråd</b> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <b>efter samråd</b> med handledare en loggbok.",
 "I samband med fiske beskriver eleven <b>utförligt och</b> <b>nyanserat</b> vilka försäljningsmöjligheter som finns för olika fiskprodukter. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> olika fångstplatser, fångade produkter och utvecklingsmöjligheter inom specialområdet.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FISFIS02"}

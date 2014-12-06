@@ -2,6 +2,7 @@
 "name":"Växtodling 2",
 "points":100,
 "instrRAW":"som bygger på kursen växtodling 1.",
+"instrRAW2":"som bygger på kursen växtodling 1.",
 "reqRAW":"kursen VAOVAT01",
 "code":"ODLVÄT02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -30,4 +31,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven upprättar en <b>genomarbetad</b> odlingsplan med utgångspunkt i aktuella odlingsförutsättningar samt motiverar <b>utförligt och</b> <b>nyanserat</b> sina val i planen. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl. Eleven bedömer <b>efter samråd</b> med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat och miljöhänsyn. Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare aktuella arbetsuppgifter inom växtodling och lagring med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleve <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör växtodling. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för lagring av olika produkter. Redogörelsen innehåller <b>välgrundade och nyanserade</b> förklaringar till de biologiska processer som sker i samband med lagring.",
 "I samband med fältstudier beskriver eleven <b>utförligt och</b> <b>nyanserat</b> resultatet av genomförda odlingsåtgärder. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förklaringar kring grödornas utveckling och kondition, <b>välgrundade och nyanserade</b> biologiska och ekonomiska samband, <b>välgrundade och nyanserade</b> bedömningar av klimatets inverkan samt <b>välgrundade och nyanserade</b> förslag till fortsatta åtgärder. Eleven identifierar <b>med säkerhet</b> ett flertal vanliga ogräs, växtsjukdomar och skadedjur på lantbruksgrödor. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador som dessa ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga motåtgärder. Redogörelsen innehålle <b>välgrundade och nyanserade</b> biologiska förklaringar oc <b>välgrundade och nyanserade</b> ekonomiska samband.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"VAOVAT01"}

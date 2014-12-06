@@ -2,6 +2,7 @@
 "name":"Fiske 2",
 "points":200,
 "instrRAW":"som bygger på kursen fiske 1.",
+"instrRAW2":"som bygger på kursen fiske 1.",
 "reqRAW":"kursen FISFIS01",
 "code":"FISFIS02",
 "goals":[1,1,2,1,1,1,1,1],
@@ -34,4 +35,6 @@
 "Eleven upprättar en <b>genomarbetad</b> plan för fiske med utgångspunkt i aktuella förutsättningar samt motiverar <b>utförligt och</b> <b>nyanserat</b> sina val i planen. I planen beskriver eleven <b>utförligt och</b> <b>nyanserat</b> lämpliga fångstmetoder. Eleven bedömer <b>efter samråd</b> med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på aktuella förutsättningar. Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare aktuella arbetsuppgifter och använder redskap och annan teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår.",
 "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske. När arbetet är utfört vårdar eleven <b>efter samråd</b> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <b>efter samråd</b> med handledare en loggbok för redovisning av aktuell fångst.",
 "I samband med fiske beskriver eleven <b>utförligt och</b> <b>nyanserat</b> resultatet av genomförda fångstmetoder. Beskrivningen innehåller <b>välgrundade</b> <b>och nyanserade</b> bedömningar av fiskarnas storlek och utseende sam <b>välgrundade</b> <b>och nyanserade</b> förklaringar av biologiska och ekonomiska samband. Eleven identifierar <b>med säkerhet</b> de organismer som förekommer i aktuell fångst. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de parasitangrepp och skador som kan förekomma i en fångst samt för lämpliga åtgärder mot angreppen och skadorna. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vilka fiskarter som kan användas för konsumtion samt för olika sätt att marknadsföra och sälja fiskprodukter. Eleven redogör också <b>utförligt</b> för hur den aktuella fångsten ska hanteras och förvaras.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FISFIS01",
+"reqBy":["FISFIS03"]}

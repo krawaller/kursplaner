@@ -2,6 +2,7 @@
 "name":"Elmotorstyrning",
 "points":100,
 "instrRAW":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
+"instrRAW2":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
 "reqRAW":"kursen ELRELF0",
 "alsoreqRAW":"kursen ELLELL02 eller kursen ELLPRA0",
 "code":"INSELS0",
@@ -27,4 +28,8 @@
 "a":["Eleven planerar <b>efter samråd</b> med handledare vanligt förekommande motorinstallationer utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur installationen är tänkt att fungera.",
 "Eleven utför i olika miljöer och med <b>mycket gott</b> handlag vanligt förekommande motorinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <b>efter samråd</b> med handledare material avsedda för uppgiften. Under arbetet väljer eleven <b>med säkerhet</b> verktyg, instrument och övrig utrustning samt använder dem med <b>mycket gott</b> handlag.<b> Eleven motiverar utförligt och nyanserat sina val</b>. Under arbetet upptäcker eleven problem som uppstår och löser dem <b>efter samråd</b> med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <b>noggrann och utförlig</b> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven söker och reparerar <b>efter samråd</b> med handledare fel som uppkommer på såväl nya som befintliga installationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["ELRELF0",{"type":"OR",
+"arr":["ELLELL02",
+"ELLPRA0"]}]}}

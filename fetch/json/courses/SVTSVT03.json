@@ -2,6 +2,7 @@
 "name":"Svenskt teckenspråk för hörande 3",
 "points":100,
 "instrRAW":"som bygger på kursen svenskt teckenspråk för hörande 2 eller svenskt teckenspråk för hörande inom ramen för språkval i grundskolan.",
+"instrRAW2":"som bygger på kursen svenskt teckenspråk för hörande 2 eller svenskt teckenspråk för hörande inom ramen för språkval i grundskolan.",
 "reqRAW":"kursen SVTSVT02 eller svenskt teckenspråk för hörande inom ramen för språkval i grundskolan",
 "code":"SVTSVT03",
 "goals":[1,1,1,1,1],
@@ -38,4 +39,8 @@
 "Eleven väljer teckenspråkiga texter från olika medier, samt använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "I framställningar av olika slag formulerar sig eleve <b>relativt varierat, tydligt och relativt</b> sammanhängande. <b>Eleven formulerar sig även med visst flyt och i någon mån anpassat till syfte, mottagare och situation</b>. För att förtydliga och variera sin kommunikation bearbetar eleven, och gör <b>välgrundade</b> förbättringar av, egna framställningar. ",
 "I interaktion uttrycker sig eleven <b>tydligt och med visst flyt</b> <b>samt med viss anpassning till syfte, mottagare och situation</b>. Dessutom väljer och använder eleven <b>väl</b> fungerande strategier som löser problem i och förbättrar interaktionen <b>och för den framåt</b> <b>på ett konstruktivt sätt</b>.",
-"Eleven diskuterar <b>utförligt</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade</b> jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven diskuterar <b>utförligt</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade</b> jämförelser med egna erfarenheter och kunskaper."]},
+"req":{"type":"OR",
+"arr":["SVTSVT02",
+"svenskt teckenspråk för hörande inom ramen för språkval i grundskolan"]},
+"reqBy":["SVTSVT04"]}

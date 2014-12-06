@@ -2,6 +2,7 @@
 "name":"Medicin 2",
 "points":100,
 "instrRAW":"som bygger på kursen medicin 1.",
+"instrRAW2":"som bygger på kursen medicin 1.",
 "reqRAW":"kursen MEDMED01",
 "code":"MEDMED02",
 "goals":[1,1,1,1,0,1],
@@ -26,4 +27,6 @@
 "Eleven förklarar <b>utförligt och nyanserat</b> några samband mellan människa, miljö, livsstil och specifika sjukdomar. <b>Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar</b>.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> specifika läkemedel, deras verkningssätt, användningsområden och biverkningar. Eleven ger också exempel på mikroorganismer och beskriver <b>utförligt och</b> <b>nyanserat</b> hur de kan spridas samt beskriver <b>utförligt och</b> <b>nyanserat</b> kroppens försvarssystem. ",
 "I beskrivningarna använder eleven <b>med säkerhet</b> medicinsk terminologi."]},
-"judgechangewarn":true}
+"judgechangewarn":true,
+"req":"MEDMED01",
+"reqBy":["VADVAR00S"]}

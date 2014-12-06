@@ -2,6 +2,7 @@
 "name":"Naturkunskap 1a1",
 "points":50,
 "instrRAW":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
+"instrRAW2":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
 "reqRAW":"de kunskaper grundskolan ger eller motsvarande",
 "notwithRAW":"kursen NAKNAK01b",
 "code":"NAKNAK01a1",
@@ -26,4 +27,7 @@
 "a":[" Eleven kan <b>utförligt och</b> <b>nyanserat</b> diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa <b>utforskande</b> frågor samt för att ge <b>komplexa</b> förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger <b>välgrundade och nyanserade</b> argument för dessa.",
 "Eleven kan redogöra <b>utförligt och</b> <b>nyanserat</b>, utifrån relevanta kunskaper om sexualitet och relationer, för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen. I samband med redogörelsen kan eleven <b>utförligt och</b> <b>nyanserat</b> diskutera konsekvenser såväl för individens sexuella hälsa som för folkhälsan <b>och underbygga diskussionen med välgrundade och nyanserade argument</b>.",
 "Eleven kan några ge utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven <b>välgrundade och nyanserade</b> slutsatser och föreslår några handlingsalternativ samt ger <b>välgrundade och nyanserade</b> argument för dessa.",
-"Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör <b>utförligt och</b> <b>nyanserat</b> för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar <b>utförligt och</b> <b>nyanserat</b> utifrån <b>några</b> exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt."]}}
+"Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör <b>utförligt och</b> <b>nyanserat</b> för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar <b>utförligt och</b> <b>nyanserat</b> utifrån <b>några</b> exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt."]},
+"req":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":"NAKNAK01b",
+"reqBy":["NAKNAK01a2"]}

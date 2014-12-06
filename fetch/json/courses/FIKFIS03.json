@@ -2,7 +2,8 @@
 "name":"Fiskevård 3",
 "points":100,
 "instrRAW":"som bygger på fiskevård 2.",
-"reqRAW":"fiskevård 2",
+"instrRAW2":"som bygger på FIKFIS02.",
+"reqRAW":"FIKFIS02",
 "code":"FIKFIS03",
 "goals":[1,1,1,1,1,1,1],
 "level":"normal",
@@ -28,4 +29,5 @@
 "a":["Eleven upprättar <b>efter samråd</b> med handledare en plan för ett mindre fiskevårdsprojekt. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar. Eleven bedömer <b>efter samråd</b> med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn. Eleven organiserar, planerar och genomför <b>efter samråd</b> med handledare sitt fiskevårdsprojekt. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår.",
 "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Eleven redogör också <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.",
 "I samband med fältstudier tolkar eleven <b>med säkerhet</b> och värderar med <b>nyanserade</b> omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FIKFIS02"}

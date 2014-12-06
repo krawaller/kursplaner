@@ -2,6 +2,7 @@
 "name":"Mur- och putsverk 2 - murverk",
 "points":100,
 "instrRAW":"som bygger på kursen mur- och putsverk 1 - grundmurar.",
+"instrRAW2":"som bygger på kursen mur- och putsverk 1 - grundmurar.",
 "reqRAW":"kursen MURMUR01",
 "code":"MURMUR02",
 "goals":[1,1,1,1,1,1,1,1,1,1],
@@ -43,4 +44,6 @@
 "Under arbetets gång och när arbetsuppgiften är utförd gör eleven en <b>noggrann och utförlig</b> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <b>nyanserade</b> omdömen, arbetsprocessen och resultatet <b>samt ger förslag på hur dessa kan förbättras</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vilken betydelse arbetsprocessen och resultatet har för en hållbar utveckling.",
 "I arbetet samverkar och kommunicerar eleven med andra samt använder facksprå <b>med säkerhet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"MURMUR01",
+"reqBy":["MURMUR03"]}

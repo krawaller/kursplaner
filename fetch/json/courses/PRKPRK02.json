@@ -2,6 +2,7 @@
 "name":"Produktutveckling 2",
 "points":100,
 "instrRAW":"som bygger på kursen produktutveckling 1.",
+"instrRAW2":"som bygger på kursen produktutveckling 1.",
 "reqRAW":"kursen PRKPRK01",
 "code":"PRKPRK02",
 "goals":[1,1,1,1,1,1,1,1,1,1],
@@ -31,4 +32,5 @@
 "Eleven utför med noggrannhet och <b>efter samråd</b> med handledare konstruktions- och designarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <b>gott</b> utifrån givna kvalitetskrav. I arbetet använder eleven <b>med säkerhet</b> instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner me <b>mycket gott</b> handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <b>efter samråd</b> med handledare. När arbetsuppgiften är utförd gör eleven en <b>noggrann och utförlig</b> dokumentation av arbetsprocessen och resultatet.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt förklarar <b>utförligt och</b> <b>nyanserat</b> hur dessa faktorer i arbetsprocessen påverkar kvalitet och slutresultat. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för produktens användningsområden, interagerande med människor och miljö samt de ingående materialens egenskaper och råvaruförbrukning. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven redogör även <b>utförligt och</b> <b>nyanserat</b> för materialens och produktens historia samt för <b>välgrundade och nyanserade</b> resonemang om deras utvecklingspotential.",
 "Eleven samarbetar i sitt arbete med andra samt för <b>välgrundade och nyanserade</b> resonemang om andras lösningar i samband med produktutveckling. Dessutom använder eleven <b>med säkerhet</b> korrekt fackspråk.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"PRKPRK01"}

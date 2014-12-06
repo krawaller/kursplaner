@@ -2,6 +2,7 @@
 "name":"Datorsamordning och support",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
+"instrRAW2":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
 "reqRAW":"kursen DAODAT01a eller kursen DAODAT01b",
 "code":"DAODAT0",
 "goals":[0,1,1,1,2],
@@ -24,4 +25,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare och med <b>mycket gott</b> handlag felsökning samt åtgärdar <b>avancerade</b> fel i datorer och datorsystem. Dessutom planerar och utför eleven <b>efter samråd</b> med handledare och <b>med säkerhet</b> pedagogisk handledning och support till kund. Resultatet är <b>gott</b> i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <b>mycket gott</b> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete. ",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["DAODAT01a",
+"DAODAT01b"]}}

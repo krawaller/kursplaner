@@ -2,6 +2,7 @@
 "name":"Plåtslageriprocessen",
 "points":200,
 "instrRAW":"som bygger på kursen bygg och anläggning 2.",
+"instrRAW2":"som bygger på kursen bygg och anläggning 2.",
 "reqRAW":"kursen BYGBYG02",
 "code":"PLÅPLS0",
 "goals":[1,1,1,1,1,0,1,1,1,1],
@@ -38,4 +39,5 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> vanliga arbetsprocesser inom yrkesområdet, från planering till färdigt resultat. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> olika material och deras egenskaper samt vanliga arbetsmetoder, verktyg och maskiner. Eleven redogör <b>utförligt</b> för på vilket sätt lagar och andra bestämmelser påverkar planeringen och genomförandet av arbetet. Vidare redogör eleven <b>utförligt och</b> <b>nyanserat</b> för vad som är väsentligt att ta hänsyn till vid riskbedömningar.",
 "Eleven tolkar <b>med säkerhet</b> arbetsbeskrivningar och <b>avancerade</b> ritningar. Dessutom redogör <b>utförligt och</b> <b>nyanserat</b> för vad som krävs av dokumentation och kvalitetssäkring för att säkerställa ett kvalitativt gott arbete och möjliggöra en god utvärdering.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> på vilket sätt olika typer av drift, underhåll, renovering, rivning och återvinning av byggnader och anläggningar påverkar en hållbar utveckling. Dessutom ger eleven exempel på, samt redogör <b>utförligt och</b> <b>nyanserat</b> utifrån exemplen, för hur val av metoder, material och maskiner får konsekvenser för estetiska eller kulturhistoriska värden samt för kunder, företag, samhälle och hållbar utveckling.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för faktorer som främjar samverkan mellan yrkeskategorier och mellan kund och utförare. Dessutom ger eleven <b>välgrundade och nyanserade</b> exempel på hur hon eller han själv kan främja samverkan. Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> villkoren för företagande och entreprenörskap inom branschen."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för faktorer som främjar samverkan mellan yrkeskategorier och mellan kund och utförare. Dessutom ger eleven <b>välgrundade och nyanserade</b> exempel på hur hon eller han själv kan främja samverkan. Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> villkoren för företagande och entreprenörskap inom branschen."]},
+"req":"BYGBYG02"}

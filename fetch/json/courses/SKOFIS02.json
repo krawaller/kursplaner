@@ -2,6 +2,7 @@
 "name":"Fiske och vattenvård 2",
 "points":200,
 "instrRAW":"som bygger på kursen fiske och vattenvård 1.",
+"instrRAW2":"som bygger på kursen fiske och vattenvård 1.",
 "reqRAW":"kursen SKOFIS01",
 "code":"SKOFIS02",
 "goals":[0,1,1,0,0,1,1,1,1],
@@ -26,4 +27,5 @@
 "a":["Eleven identifierar i samband med fältstudier, <b>med säkerhet</b>, <b>flera</b> olika fiskarter och andra vattenlevande organismer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för dessa fiskarters och organismers miljökrav samt för hur man kan påverka deras livsbetingelser.",
 "Eleven tolkar och upprättar <b>efter samråd</b> med handledare vattenvårdsplaner. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar. I planeringen gör eleven en <b>välgrundad och nyanserad</b> bedömning av när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn. Eleven organiserar, planerar och genomfö <b>efter samråd</b> med handledare arbetsuppgifter inom fiske och vattenvård. Resultatet av arbetet är <b>gott</b>. I arbetet använder eleven redskap och annan utrustning. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. När arbetet är utfört vårdar eleven <b>efter samråd</b> med handledare redskapen och utrustningen.",
 "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske, vattenvård och fiskevård.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SKOFIS01"}

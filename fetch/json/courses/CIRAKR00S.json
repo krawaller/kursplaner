@@ -2,6 +2,7 @@
 "name":"Akrobatik",
 "points":100,
 "instrRAW":"som kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som kan läsas flera gånger med olika innehåll.",
 "repeat":"som kan läsas flera gånger med olika innehåll.",
 "code":"CIRAKR00S",
 "goals":[1,2,2,1,1,1,1,2],

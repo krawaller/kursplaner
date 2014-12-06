@@ -2,6 +2,7 @@
 "name":"Svenskt teckenspråk för hörande 4",
 "points":100,
 "instrRAW":"som bygger på kursen svenskt teckenspråk för hörande 3.",
+"instrRAW2":"som bygger på kursen svenskt teckenspråk för hörande 3.",
 "reqRAW":"kursen SVTSVT03",
 "code":"SVTSVT04",
 "goals":[1,1,1,1,1],
@@ -40,4 +41,6 @@
 "Eleven väljer teckenspråkiga texter från olika medier, samt använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "I framställningar i olika genrer formulerar sig eleven <b>relativt varierat, tydligt</b> och sammanhängande. <b>Eleven formulerar sig även med flyt och viss anpassning till syfte, mottagare och situation</b>. För att förtydliga och variera sin kommunikation bearbetar eleven, och gör <b>välgrundade</b> förbättringar av, egna framställningar.",
 "I interaktion i olika sammanhang uttrycker sig eleven <b>tydligt och</b> <b>med flyt</b> sam <b>med viss anpassning</b> till syfte, mottagare och situation. Dessutom väljer och använder eleve <b>väl</b> fungerande strategier som löser problem i och förbättrar interaktionen <b>och för den framåt på ett konstruktivt sätt</b>. ",
-"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade och nyans</b><b>erade</b> jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade och nyans</b><b>erade</b> jämförelser med egna erfarenheter och kunskaper."]},
+"req":"SVTSVT03",
+"reqBy":["SVTSVT05"]}

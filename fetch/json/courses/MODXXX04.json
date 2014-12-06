@@ -2,6 +2,7 @@
 "name":"Moderna språk 4",
 "points":100,
 "instrRAW":"som bygger på kursen moderna språk 3.",
+"instrRAW2":"som bygger på kursen moderna språk 3.",
 "reqRAW":"kursen MODXXX03",
 "code":"MODXXX04",
 "comment":"<h2>Kommentar till centralt innehåll - moderna språk 4</h2><p>Se kommentar till centralt innehåll för moderna språk 1. Kommentaren gäller kurs 1-4.</p>",
@@ -42,4 +43,7 @@
 "Eleven väljer texter och talat språk från olika medier, samt använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "I muntliga och skriftliga framställningar i olika genrer formulerar sig eleven <b>relativt varierat, tydligt</b> och sammanhängande. <b>Eleven formulerar sig även med flyt och viss anpassning till syfte, mottagare och situation.</b> För att förtydliga och variera sin kommunikation bearbetar eleven, och gör <b>välgrundade</b> förbättringar av, egna framställningar.",
 "I muntlig och skriftlig interaktion i olika sammanhang uttrycker sig eleven <b>tydligt och</b> <b>med flyt</b> sam <b>med viss anpassning</b> till syfte, mottagare och situation. Dessutom väljer och använder eleve <b>väl</b> fungerande strategier som löser problem i och förbättrar interaktionen <b>och för den framåt på ett konstruktivt sätt</b>. ",
-"Eleven diskutera <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang och områden där språket används, och gör då också <b>välutvecklade och nyanserade</b> jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven diskutera <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang och områden där språket används, och gör då också <b>välutvecklade och nyanserade</b> jämförelser med egna erfarenheter och kunskaper."]},
+"req":"MODXXX03",
+"reqBy":["MODXXX05",
+"HUMHUM00S"]}

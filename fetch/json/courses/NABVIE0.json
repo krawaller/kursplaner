@@ -2,6 +2,7 @@
 "name":"Virkestransport med skotare",
 "points":100,
 "instrRAW":"som bygger på kursen terrängtransporter eller kursen fordon och redskap.",
+"instrRAW2":"som bygger på kursen terrängtransporter eller kursen fordon och redskap.",
 "reqRAW":"kursen SKMTER0 eller kursen NABFOR0",
 "code":"NABVIE0",
 "goals":[1,2,1,1,1,0,2,1,1],
@@ -41,4 +42,7 @@
 "Eleven kör och manövrerar <b>efter samråd</b> med handledare skotare och följer då trafikföreskrifterna.",
 "Eleven använder me <b>mycket gott</b> handlag teknisk utrustning och lämpliga verktyg samt utför <b>efter samråd</b> med handledare daglig service av skotaren enligt instruktioner. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["SKMTER0",
+"NABFOR0"]}}

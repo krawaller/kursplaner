@@ -2,6 +2,7 @@
 "name":"Skogsmaskiner - specialisering",
 "points":200,
 "instrRAW":"som bygger på kursen virkestransport med skotare. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen virkestransport med skotare. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SKMVIE0",
 "code":"SKMSKO00S",
@@ -32,4 +33,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data. Beskrivningen innehåller <b>välgrundade och nyanserade</b> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.",
 "Eleven följer arbetsinstruktioner samt kör och manövrerar <b>efter samråd</b> med handledare skogsmaskiner för att utföra arbetsuppgifter. I arbetet gör eleven <b>efter samråd</b> med handledare <b>välgrundade och nyanserade</b> bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn. Eleven använder me <b>mycket gott</b> handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <b>efter samråd</b> med handledare daglig service av skogsmaskinerna enligt instruktioner. Dessutom ställer eleven <b>efter samråd</b> med handledare in maskinerna och den tekniska utrustningen samt utför <b>efter samråd</b> med handledare funktionskontroller. Eleven löser <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt med skogsmaskinerna. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SKMVIE0"}

@@ -2,6 +2,7 @@
 "name":"Fordon och redskap",
 "points":100,
 "instrRAW":"som bygger på kursen naturbruk. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen terrängtransporter.",
+"instrRAW2":"som bygger på kursen naturbruk. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen terrängtransporter.",
 "reqRAW":"kursen NAUNAU0",
 "notwithRAW":"kursen SKMTER0",
 "code":"FOHFOR0",
@@ -36,4 +37,6 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning. Beskrivningen innehåller <b>välgrundade och nyanserade</b> samband mellan service, funktion och ekonomi. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för fordonets olika reglage och instrument och hur de används. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur olika funktioner styrs och kontrolleras med hjälp av digital och annan teknisk utrustning.",
 "Eleven följer arbetsinstruktioner och kör och manövrerar <b>efter samråd</b> med handledare fordon med tillkopplade redskap. Eleven kör och manövrerar också <b>efter samråd</b> med handledare fordon och fordonskombinationer på väg och följer då trafikföreskrifterna. Eleven använder me <b>mycket gott</b> handlag teknisk utrustning samt utför <b>efter samråd</b> med handledare service, underhåll och enklare reparationer av fordonen och utrustningen. Dessutom ställer eleven <b>efter samråd</b> med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <b>efter samråd</b> med handledare kontroller av sina inställningar. I arbetet använder eleven <b>efter samråd</b> med handledare instruktions- och handböcker. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"NAUNAU0",
+"notwith":"SKMTER0"}

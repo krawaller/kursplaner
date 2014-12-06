@@ -2,6 +2,7 @@
 "name":"Film- och tv-produktion 2",
 "points":100,
 "instrRAW":"som bygger på kursen film- och tv-produktion 1.",
+"instrRAW2":"som bygger på kursen film- och tv-produktion 1.",
 "reqRAW":"kursen FILFIL01",
 "code":"FILFIL02",
 "goals":[1,1,1,1,1],
@@ -39,4 +40,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för den berättarteknik, de berättarkomponenter och de dramaturgiska grepp som hon eller han använt i sin produktion samt drar <b>välgrundade och nyanserade</b> slutsatser om på vilket sätt de bidragit till önskvärt resultat. <b>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</b>. Eleven gör även en <b>komplex</b> analys och utvärdering av film- och tv-produktioner som inbegriper <b>välgrundade och nyanserade</b> resonemang om målgruppsanpassning, estetiska uttryck och etiska aspekter.",
 "Eleven använder <b>med säkerhet</b> fackspråksuttryck i sitt arbete och i sina bedömningar, redogörelser och analyser.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för grundläggande lagar, andra bestämmelser och överenskommelser inom området <b>och för</b> <b>deras konsekvenser för den egna film- och tv-produktionen</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FILFIL01",
+"reqBy":["FILFIL0",
+"FILTVP0"]}

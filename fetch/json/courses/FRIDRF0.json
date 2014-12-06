@@ -2,6 +2,7 @@
 "name":"Drift och underhåll av fritidsanläggningar",
 "points":100,
 "instrRAW":"som bygger på kursen fritids- och friskvårdsverksamheter.",
+"instrRAW2":"som bygger på kursen fritids- och friskvårdsverksamheter.",
 "reqRAW":"kursen FRIFRT0",
 "code":"FRIDRF0",
 "goals":[1,1,1,0,0],
@@ -29,4 +30,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> drift och underhåll av fritidsanläggningar.",
 "Eleven redogör <b>utförligt</b> för lagar och andra bestämmelser som styr verksamheter och tar utgångspunkt i dem i sitt arbete.",
 "Eleven planerar, organiserar och utför vanligt förekommande, <b>även avancerade</b>, arbetsuppgifter <b>i samråd</b> med handledare på ett yrkesmässigt sätt <b>samt anpassar vid behov genomförandet till ändrade förutsättningar</b>. I arbetet <b>väljer och</b> använder eleven redskap och metoder som <b>passar</b> för uppgiften, <b>motiverar sina val samt</b> diskuterar <b>utförligt och</b> <b>nyanserat</b> möjliga alternativa lösningar och föreslår vid behov förbättringar. När arbetet är utfört gör eleven en noggrann dokumentation av utförda uppgifter.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FRIFRT0"}

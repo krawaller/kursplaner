@@ -2,6 +2,7 @@
 "name":"Renen och rennäringen 2",
 "points":100,
 "instrRAW":"som bygger på kursen renen och rennäringen 1.",
+"instrRAW2":"som bygger på kursen renen och rennäringen 1.",
 "reqRAW":"kursen RENREE01",
 "code":"RENREE02",
 "goals":[0,0,1,1,1,1,1,1,0,1],
@@ -35,4 +36,5 @@
 "Eleven utför <b>efter</b> <b>samråd</b> med handledare <b>komplexa</b> arbetsuppgifter som ingår i rennäringens verksamhet. Eleven kör även fordon på ett säkert sätt samt utför <b>efter samråd</b> med handledare funktions- och säkerhetskontroller vid användning av maskiner och redskap. Dessutom hanterar eleven <b>med säkerhet</b> produkter från ren med hänsyn till produktkvalitet, smittspridning och hygien. Eleven gör <b>välgrundade och nyanserade</b> reflektioner över hur hanteringen påverkar produktkvaliteten. I arbetet följer eleven <b>med säkerhet</b> arbetsinstruktioner samt sköter och hanterar med <b>mycket gott</b> handlag djur, utrustning, anläggningar och andra hjälpmedel. I arbetet löser eleven <b>efter</b> <b>samråd</b> med handledare de problem som uppstår och resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar ergonomiskt, säkert och etiskt samt tar hänsyn till miljön. Eleven arbetar i enlighet med lagar och andra bestämmelser som rör rennäringen.",
 "I sina beskrivningar, redogörelser och reflektioner använder eleven <b>med säkerhet</b> samisk terminologi.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"RENREE01"}

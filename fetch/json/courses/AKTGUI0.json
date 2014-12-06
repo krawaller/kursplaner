@@ -2,6 +2,7 @@
 "name":"Guide och reseledare",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
+"instrRAW2":"som bygger på kursen besöksnäringen eller kursen fordons- och transportbranschens villkor och arbetsområden.",
 "reqRAW":"kursen TURBEÖ0 eller kursen FORFOD0",
 "code":"AKTGUI0",
 "goals":[1,1,2,1,2,2,1,1,2,1],
@@ -36,4 +37,7 @@
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare transfer, välkomstmöte och någon utflykt för olika målgrupper. I planeringen tar eleven <b>med säkerhet</b> hänsyn till gruppens samt platsens och situationens förutsättningar. Dessutom gör eleven, <b>efter samråd</b> med handledare, en bedömning av säkerheten och väljer utrustning och tillvägagångssätt.",
 "Eleven utför <b>efter samråd</b> med handledare aktiviteterna på ett serviceinriktat och ansvarsfullt sätt och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar utifrån lagar och andra bestämmelser samt arbetsmiljömässigt och säkert. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> olika sätt att ingripa vid akuta nödsituationer samt utför <b>efter samråd</b> med handledare första hjälpen och hjärt-lungräddning. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <b>efter samråd</b> med handledare.",
 "Eleven samverkar med andra och kommunicerar <b>med säkerhet</b> samt anpassar sitt språk efter situation och mottagare. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet och kommunikationen kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TURBEÖ0",
+"FORFOD0"]}}

@@ -2,6 +2,7 @@
 "name":"Trädgårdsmaskiner",
 "points":100,
 "instrRAW":"som bygger på kursen fordon och redskap. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen lantbruksmaskiner 1. ",
+"instrRAW2":"som bygger på kursen fordon och redskap. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen lantbruksmaskiner 1. ",
 "reqRAW":"kursen NABFOR0",
 "notwithRAW":"kursen NABLAT01",
 "code":"NABTRG0",
@@ -34,4 +35,6 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> konstruktion och funktion av samt användningsområden för trädgårdsmaskiner och teknisk utrustning. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förklaringar till hur tekniska och biologiska faktorer samverkar.",
 "Eleven följer arbetsinstruktioner och kör och manövrerar <b>efter samråd</b> med handledare trädgårdsmaskiner för att utföra olika arbetsuppgifter. Eleven använder me <b>mycket gott</b> handlag teknisk utrustning samt utför <b>efter samråd</b> med handledare service, underhåll och enklare reparationer av maskinerna och utrustningen. Dessutom ställer eleven <b>efter samråd</b> med handledare in maskinerna och den tekniska utrustningen samt utför <b>efter samråd</b> med handledare funktionskontroller. I arbetet använder eleven <b>efter samråd</b> med handledare instruktions- och handböcker. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för de faktorer som påverkar det ekonomiska resultatet. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"NABFOR0",
+"notwith":"NABLAT01"}

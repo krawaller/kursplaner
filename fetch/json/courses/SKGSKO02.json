@@ -2,6 +2,7 @@
 "name":"Skogsskötsel 2",
 "points":100,
 "instrRAW":"som bygger på kursen skogsskötsel 1.",
+"instrRAW2":"som bygger på kursen skogsskötsel 1.",
 "reqRAW":"kursen SKGSKO01",
 "code":"SKGSKO02",
 "goals":[1,1,1,2,0,1,1,1],
@@ -32,4 +33,6 @@
 "Eleven upprättar <b>efter samråd</b> med handledare en enkel plan för skogsskötsel i vilken eleven tar hänsyn till natur- och kulturvärden. Eleven planerar och genomför <b>efter samråd</b> med handledare arbetsuppgifter inom skogsskötsel. I planeringen gör eleven <b>välgrundade och nyanserade</b> bedömningar av när och hur olika arbetsuppgifter ska genomföras. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>. Dessutom gör eleven <b>avancerade</b> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <b>nyanserade</b> omdömen.",
 "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
 "När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SKGSKO01",
+"reqBy":["SKGSKG00S"]}

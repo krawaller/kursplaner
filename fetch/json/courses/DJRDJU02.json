@@ -2,6 +2,7 @@
 "name":"Djurvård inom djurens hälso- och sjukvård 2",
 "points":200,
 "instrRAW":"som bygger på kursen djurvård inom djurens hälso- och sjukvård 1.",
+"instrRAW2":"som bygger på kursen djurvård inom djurens hälso- och sjukvård 1.",
 "reqRAW":"kursen DJRDJU01",
 "code":"DJRDJU02",
 "comment":"<h2>Begrepp i kursen djurvård inom djurens hälso- och djurvård 2</h2><p>I det centrala innehållet finns punkterna: ”Vård av skadade och sjuka djur, till exempel bandagering, sårvård och pälsvård.” samt ”Provtagning, till exempel urinprov och träckprov.” I lagen (2009:302) om verksamhet inom djurens hälso- och sjukvård 4 kap. 1 §, även kallat behandlingsförbudet, finns bestämmelser som innebär begränsningar för den som arbetar med djur inom djurens hälso- och sjukvård. Se kommentar ”Om ämnet djurvård inom djurens hälso- och sjukvård” ovan. Provtagning får inte orsaka ett lidande som inte är obetydligt.</p>",
@@ -48,4 +49,5 @@
 "Eleven planerar <b>efter samråd</b> med handledare sitt arbete och vårdar <b>efter samråd</b> med handledare skadade och sjuka djur. Dessutom utför eleven <b>efter samråd</b> med handledare djurvårdande arbetsuppgifter inom djurens hälso- och sjukvård. Arbetet utförs på ett etiskt och säkert sätt. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår.",
 "Eleven arbetar ergonomiskt och tar hänsyn till miljön. Eleven följer också aktuella hygienrutiner samt redogör <b>utförligt och</b> <b>nyanserat</b> för hygien, smittspridning och smittskydd i samband med vård av skadade och sjuka djur. Dessutom rengör och steriliserar eleven <b>efter samråd</b> med handledare instrument och annan utrustning. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser inom området.",
 "När arbetet är genomfört gör eleven en <b>noggrann och utförlig</b> rapportering och dokumentation av sitt arbete och resultat.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DJRDJU01"}

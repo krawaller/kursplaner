@@ -2,6 +2,7 @@
 "name":"Signalteknik",
 "points":300,
 "instrRAW":"som bygger på kursen allmän järnvägsteknik.",
+"instrRAW2":"som bygger på kursen allmän järnvägsteknik.",
 "reqRAW":"kursen JÄNALM0",
 "code":"JÄNSIG0",
 "goals":[0,0,1,1,1,1,1],
@@ -31,4 +32,5 @@
 "Eleven planerar <b>efter samråd</b> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <b>efter samråd</b> med handledar <b>avancerad</b> montering, felsökning och reparation av signalanläggningar. I arbetet väljer eleven <b>med säkerhet</b> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem me <b>mycket gott</b> handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <b>efter samråd</b> med handledare.",
 "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
 "När arbetet är utfört gör eleven en <b>noggrann och utförlig</b> dokumentation av sitt arbete.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"JÄNALM0"}

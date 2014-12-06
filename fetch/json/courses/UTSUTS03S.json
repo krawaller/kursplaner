@@ -2,6 +2,7 @@
 "name":"Utställningsdesign 3",
 "points":100,
 "instrRAW":"som bygger på kursen utställningsdesign 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen utställningsdesign 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen UTSUTS02",
 "code":"UTSUTS03S",
@@ -33,4 +34,5 @@
 "Eleven tar <b>med säkerhet</b> fram idéer med hänsyn till den tänkta målgruppen, det budskap som ska förmedlas och rumsbildningens möjligheter till suggestion, omväxling och pedagogisk tydlighet. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur man kan marknadsföra produkter samt analysera och dokumentera målgruppers behov. I redogörelsen använder eleven <b>med säkerhet</b> marknadsföringsbegrepp. Eleven presenterar sina idéer med hjälp av både manuella och digitala presentationstekniker i form av texter, ljud, bilder och modeller.",
 "Eleven realiserar <b>efter samråd</b> med handledare sina idéer i en exponering eller utställning som är av <b>god</b> teknisk och estetisk kvalitet. I arbetet matchar och koordinerar eleven <b>med säkerhet</b> produkter och miljöer utifrån egna och givna kriterier. Dessutom arbetar eleven <b>efter samråd</b> med handledare med färgsättning, belysning och ljudteknik i olika miljöer. I arbetet använder eleven <b>med säkerhet</b> avancerad digital teknik och teknisk utrustning. Eleven utför också beräkningar av produktionskostnader samt arbetar <b>efter samråd</b> med handledare med logistik i sin exponering. <b>Vid behov gör eleven anpassningar under arbetets gång.</b>",
 "När arbetsuppgiften är utförd diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> på vilket sätt exponeringen eller utställningen är anpassad till målgruppen och hur väl den förstärker budskap och upplevelser. Dessutom motiverar eleven med <b>nyanserade</b> omdömen de val som har gjorts under arbetet <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"UTSUTS02"}

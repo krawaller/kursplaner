@@ -2,6 +2,7 @@
 "name":"Webbutveckling 2",
 "points":100,
 "instrRAW":"som bygger på kursen webbutveckling 1.",
+"instrRAW2":"som bygger på kursen webbutveckling 1.",
 "reqRAW":"kursen WEBWEU01",
 "code":"WEBWEU02",
 "goals":[1,1,1,0,1,1,1,1,1],
@@ -39,4 +40,6 @@
 "När arbetet är utfört gör eleven en <b>noggrann och utförlig</b> dokumentation av de moment som har utförts <b>med koppling till generella principer och testresultat</b> samt utvärderar med <b>nyanserade</b> omdömen sitt arbete och resultat <b>och ger förslag på hur arbetet kan förbättras</b>. <b>I utvärderingen resonerar eleven kring eventuella avvikelser samt motiverar utförligt de val som har gjorts</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. <b>Dessutom för eleven välgrundade och nyanserade resonemang om webbrelaterade frågor om etik och integritet</b>. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten <b>samt</b> <b>kontrollerar produktens säkerhet med några tester</b>.",
 "Eleven använder <b>med säkerhet</b> terminologi inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"WEBWEU01",
+"reqBy":["WEBWEU03"]}

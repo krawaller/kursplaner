@@ -2,6 +2,7 @@
 "name":"Godstrafik",
 "points":200,
 "instrRAW":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
+"instrRAW2":"som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
 "reqRAW":"kursen TRAYRK01a och kursen TRAYRK01b",
 "code":"GOSGOD0",
 "goals":[1,1,1,1,1,1,1],
@@ -32,4 +33,8 @@
 "Eleven genomför <b>efter samråd</b> med handledare godstransporter i bekanta <b>och nya komplexa</b> trafikmiljöer. I arbetet följer eleven de regler som styr yrkesmässiga godstransporter. Dessutom planerar eleven <b>efter samråd</b> med handledare färdväg utifrån lastbilens lastvikt.",
 "Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta <b>och nya</b> trafikmiljöer. I körningen använder eleven i bekanta <b>och nya</b> situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag. Dessutom hanterar eleven <b>med säkerhet</b> i bekanta <b>och nya</b> situationer utrustning i samband med lossning och leverans av gods. Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med viss säkerhet</b> med medarbetare och kunder. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["TRAYRK01a",
+"TRAYRK01b"]},
+"reqBy":["GOSGOD00S"]}

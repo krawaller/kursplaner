@@ -2,6 +2,7 @@
 "name":"Taxitrafik",
 "points":100,
 "instrRAW":"som bygger på kursen persontransporter - specialisering.",
+"instrRAW2":"som bygger på kursen persontransporter - specialisering.",
 "reqRAW":"kursen PESPER00S",
 "code":"PESTAX0",
 "goals":[1,1,0,0,0,1,0,1,1,0],
@@ -21,4 +22,5 @@
 "Eleven beskriver <b>utförligt</b> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <b>utförligt</b> sätt att bemöta passagerare med särskilda behov."],
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> branschetiska regler och krav på prisinformation till kunder.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> arbetsställningar och ergonomi samt hälsa och miljö i arbetet.",
-"Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> sätt att bemöta passagerare med särskilda behov."]}}
+"Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> sätt att bemöta passagerare med särskilda behov."]},
+"req":"PESPER00S"}

@@ -2,6 +2,7 @@
 "name":"Beskärning och trädvård",
 "points":100,
 "instrRAW":"som bygger på kursen skötsel av utemiljöer och kursen växtkunskap 1.",
+"instrRAW2":"som bygger på kursen skötsel av utemiljöer och kursen växtkunskap 1.",
 "reqRAW":"kursen SKÖSKÖ0 och kursen VÄXVÄX01",
 "code":"SKÖBEK0",
 "goals":[1,1,1,0,1,1,1,1,1],
@@ -27,4 +28,7 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika beskärningstekniker och för träds, buskars och häckars reaktioner på beskärning. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för spridning av växtsjukdomar och skadedjur i samband med beskärning. ",
 "Eleven tolkar <b>efter samråd</b> med handledare enkla trädvårdsplaner och planerar <b>efter samråd</b> med handledare sitt arbete. I planeringen beskriver eleven <b>utförligt och</b> <b>nyanserat</b> trädens kondition, identifierar <b>med säkerhet</b> symtom på växtskador och skadegörare samt ger <b>välgrundade</b> <b>och nyanserade</b> förslag på beskärnings- och trädvårdsåtgärder. Eleven följer arbetsinstruktioner och genomför <b>efter samråd</b> med handledare beskärning och trädvård. I arbetet använder eleven <b>med säkerhet</b> teknisk utrustning och verktyg. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppkommer. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de verktyg som används vid beskärning och trädvård samt beskriver <b>utförligt och</b> <b>nyanserat</b> säkerhetsrisker i arbetet. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <b>välgrundad</b> <b>och nyanserad</b> bedömning av arbetsresultatet.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["SKÖSKÖ0",
+"VÄXVÄX01"]}}

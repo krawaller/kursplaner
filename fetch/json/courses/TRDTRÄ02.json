@@ -2,6 +2,7 @@
 "name":"Trädgårdsanläggning 2",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsanläggning 1.",
+"instrRAW2":"som bygger på kursen trädgårdsanläggning 1.",
 "reqRAW":"kursen TRDTRÄ01",
 "code":"TRDTRÄ02",
 "goals":[1,1,1,1,1,1,0,1],
@@ -23,4 +24,6 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom trädgårdsanläggning. I arbetet använder eleven med <b>mycket gott</b> handlag aktuell teknisk utrustning och handredskap. Resultatet av arbetet är <b>gott</b>. Eleven löser <b>efter samråd</b> med handledare de problem som uppstår. Eleven tar ansvar för, och arbetar säkert och ergonomiskt med, den tekniska utrustning och de handredskap som används. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "Eleven utarbetar <b>efter samråd</b> med handledare förslag till en trädgårdsanläggning för en vald brukargrupp. I arbetet redogör eleven <b>utförligt och</b> <b>nyanserat</b> för på vilket sätt trädgårdsanläggningens funktion är anpassad till den valda brukargruppen. I förslaget ingår en <b>avancerad</b> ekonomisk kalkyl samt materialval och växtval för trädgårdsanläggningen. Eleven motiverar <b>utförligt och</b> <b>nyanserat</b> dessa val samt gör <b>välgrundade och nyanserade</b> bedömningar av trädgårdsanläggningens estetiska uttryck.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TRDTRÄ01",
+"reqBy":["TRDTRÄ00S"]}

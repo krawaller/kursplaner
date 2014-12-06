@@ -2,6 +2,7 @@
 "name":"Livsmedels- och näringskunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen livsmedels- och näringskunskap 1.",
+"instrRAW2":"som bygger på kursen livsmedels- och näringskunskap 1.",
 "reqRAW":"kursen LIVLIV01",
 "code":"LIVLIV02",
 "goals":[1,2,1,1,1,2,1,2],
@@ -25,4 +26,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> och gör <b>med säkerhet</b> bedömningar av kvaliteten hos olika råvaror och livsmedel samt redogör <b>utförligt och</b> <b>nyanserat</b> för deras egenskaper. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> råvarors, livsmedels och näringsämnens kemiska uppbyggnad. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur råvarors och livsmedels kvalitet och näringsinnehåll påverkas vid förädling och förvaring samt de kemiska och fysikaliska processer som pågår.",
 "Eleven gör näringsberäkningar och skapar med utgångspunkt i detta och <b>efter samråd</b> med handledare menyer och recept för normalkost. Vid behov anpassas menyerna och recepten <b>med säkerhet</b> utifrån särskilda behov.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika näringsrekommendationer och deras koppling till hälsa och livsstil. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för kostsituationen i Sverige och i övriga världen.",
-"Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> några etiska och miljömässiga dilemman när det gäller råvarors kvalitet och ursprung samt livsmedelskvalitet i relation till hållbar utveckling. Eleven diskuterar dessa <b>utförligt och</b> <b>nyanserat</b> och motiverar sina ställningstaganden med <b>nyanserade</b> omdömen. I diskussionen hänvisar eleven även till relevanta lagar och andra bestämmelser. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> några etiska och miljömässiga dilemman när det gäller råvarors kvalitet och ursprung samt livsmedelskvalitet i relation till hållbar utveckling. Eleven diskuterar dessa <b>utförligt och</b> <b>nyanserat</b> och motiverar sina ställningstaganden med <b>nyanserade</b> omdömen. I diskussionen hänvisar eleven även till relevanta lagar och andra bestämmelser. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"LIVLIV01"}

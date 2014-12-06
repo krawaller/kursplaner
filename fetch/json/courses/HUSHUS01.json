@@ -2,6 +2,7 @@
 "name":"Husbyggnad 1",
 "points":100,
 "instrRAW":"som bygger på kursen bygg och anläggning 2 eller på kurserna produktionsutrustning 1 och produktionskunskap 1.",
+"instrRAW2":"som bygger på kursen bygg och anläggning 2 eller på kurserna produktionsutrustning 1 och produktionskunskap 1.",
 "reqRAW":"kursen BYGBYG02 eller på kurserna PRUPRD01S och PRDPRO01",
 "code":"HUSHUS01",
 "goals":[1,1,1,1,1,1,1,1,1,0],
@@ -40,4 +41,9 @@
 "Under arbetets gång och när arbetsuppgiften är utförd gör eleven en <b>noggrann och utförlig</b> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <b>nyanserade</b> omdömen, arbetsprocessen och resultatet <b>samt ger förslag på hur dessa kan förbättras</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vilken betydelse arbetsprocessen och resultatet har för en hållbar utveckling.",
 "I arbetet samverkar och kommunicerar eleven med andra samt använder facksprå <b>med säkerhet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["BYGBYG02",{"type":"AND",
+"arr":["PRUPRD01S",
+"PRDPRO01"]}]},
+"reqBy":["HUSHUS02"]}

@@ -2,6 +2,7 @@
 "name":"Marken och växternas biologi",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
+"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIGMAN0",
 "goals":[2,2,0,0,1,1,0,1],
@@ -40,4 +41,14 @@
 "a":["Eleven beskriver, i samband med fältstudier, <b>utförligt och</b> <b>nyanserat</b> mark-, vatten- och klimatförhållanden på en växtplats. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för kretslopp i mark, vatten och luft samt för betydelsen av fotosyntes och nedbrytning för växtliv och djurliv. I redogörelsen förklarar eleven <b>utförligt och</b> <b>nyanserat</b> biologiska samband samt kretsloppens betydelse på lokal och global nivå.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för växternas byggnad och livsprocesser samt för mikrolivet i marken. I redogörelsen förklarar eleven <b>utförligt och</b> <b>nyanserat</b> växternas energiomsättning, deras vatten- och näringsförsörjning samt deras utvecklingsfaser och tillväxt och hur man kan påverka tillväxten genom olika åtgärder.",
 "I samband med fältstudier identifierar eleven <b>med säkerhet</b> och namnger, med svenska namn, <b>flera</b> vanliga vilda växter, nyttodjur, skadedjur, växtsjukdomar och skadesymtom. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> ekologiska samband mellan klimat, växter, skadeorganismer och nyttiga organismer.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om växter."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om växter."]},
+"req":"BIOBIO01",
+"reqBy":["BIGBEA0",
+"BIGBIG00S",
+"MOBGRV0",
+"MOBHJU0",
+"ODLTRÅ0",
+"ODLVÄT01",
+"SKÖSKÖ0",
+"TRRTRA0",
+"VAOVAT01"]}

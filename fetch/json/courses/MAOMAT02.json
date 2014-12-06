@@ -2,6 +2,7 @@
 "name":"Mat och butik 2",
 "points":100,
 "instrRAW":"som bygger på kursen mat och butik 1.",
+"instrRAW2":"som bygger på kursen mat och butik 1.",
 "reqRAW":"kursen MAOMAT01",
 "code":"MAOMAT02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -26,4 +27,6 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för dagligvaruhandels lönsamhet samt för olika varor och produkter och hanterar dem <b>efter samråd</b> med handledare på lämpligt sätt. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika arbetsuppgifter och rutiner inom olika avdelningar i dagligvaruhandeln. Dessutom beställer eleven <b>med säkerhet</b> varor inom något område <b>och exponerar dem efter samråd med handledare</b>.",
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare enklare maträtter och bakning av bröd i butik. Dessutom tillagar och bakar eleven dessa metodiskt, hantverksmässigt och <b>efter samråd</b> med handledare. I arbetet använder eleven me <b>mycket gott</b> handlag vanliga tillagningsmetoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Maträtterna och brödet är av <b>god</b> kvalitet. Eleven väljer <b>med säkerhet</b> lämpligt förpackningsmaterial samt förpackar och märker varor.",
 "Eleven diskuterar <b>med säkerhet</b> med kunden och kombinerar därefter <b>med säkerhet</b> olika råvaror och produkter till maträtter <b>eller hela måltider</b> samt ger exempel på hur de kan tillredas.",
-"Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"MAOMAT01",
+"reqBy":["MAOMAT00S"]}

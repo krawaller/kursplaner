@@ -2,6 +2,7 @@
 "name":"Religionskunskap - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen religionskunskap 1.",
+"instrRAW2":"som bygger på kursen religionskunskap 1.",
 "reqRAW":"kursen RELREL01",
 "code":"RELREL0",
 "goals":[1,0,1,1,1],
@@ -19,4 +20,5 @@
 "Eleven diskuterar <b>utförligt</b> etiska frågor i relation till det valda kunskapsområdet. I diskussionen använder eleven etiska begrepp och ger, utifrån olika etiska modeller, <b>välgrundade</b> argument i frågorna."],
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för och analysera ett eller flera valda kunskapsområden. I redogörelsen använder eleven <b>med säkerhet</b> begrepp, teorier och metoder som är relevanta för det eller de valda kunskapsområdena. Eleven kan göra en <b>komplex</b> analys av kunskapsområdet ur historiska och samtida perspektiv. I analysen redogör eleven <b>utförligt och</b> <b>nyanserat</b> för kännetecken, påverkansfaktorer och utvecklingstendenser samt drar <b>välgrundade och nyanserade</b> slutsatser om hur kunskapsområdet har tagit och tar sig samhälleliga uttryck.",
 "Eleven kan värdera och kritiskt granska information om kunskapsområdet från olika medier och källor och dra <b>välgrundade och nyanserade</b> slutsatser om informationens relevans, trovärdighet och användbarhet.",
-"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> etiska frågor i relation till det valda kunskapsområdet. I diskussionen använder eleven etiska begrepp och ger, utifrån olika etiska modeller, <b>välgrundade och nyanserade</b> argument i frågorna."]}}
+"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> etiska frågor i relation till det valda kunskapsområdet. I diskussionen använder eleven etiska begrepp och ger, utifrån olika etiska modeller, <b>välgrundade och nyanserade</b> argument i frågorna."]},
+"req":"RELREL01"}

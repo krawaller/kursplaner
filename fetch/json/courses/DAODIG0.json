@@ -2,6 +2,7 @@
 "name":"Digital kommunikationsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a.",
+"instrRAW2":"som bygger på kursen datorteknik 1a.",
 "reqRAW":"kursen DAODAT01a",
 "code":"DAODIG0",
 "goals":[1,1,1,1,0],
@@ -30,4 +31,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås. <b>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i digitala kommunikationssystem</b>.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare och med <b>mycket gott</b> handlag <b>avancerad</b> installation, konfigurering, diagnostisering, spårning och felsökning samt åtgärdar <b>avancerade</b> fel i digitala kommunikationssystem. Resultatet är <b>gott</b> i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <b>mycket gott</b> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DAODAT01a"}

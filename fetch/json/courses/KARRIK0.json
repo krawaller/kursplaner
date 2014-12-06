@@ -2,6 +2,7 @@
 "name":"Riktbänkssystem",
 "points":200,
 "instrRAW":"som bygger på kursen riktningsteknik - introduktion.",
+"instrRAW2":"som bygger på kursen riktningsteknik - introduktion.",
 "reqRAW":"kursen KARRIT0",
 "code":"KARRIK0",
 "goals":[0,1,1,1,0,0,1,1,1,1],
@@ -30,4 +31,5 @@
 "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <b>utförligt och</b> <b>nyanserat</b> med hjälp av det olika reparationsmetoder, olika materials funktion och egenskaper och fordonstillverkarens anvisningar och krav. Eleven använder <b>med säkerhet</b> både svenska och engelska manualer samt digitala informationssystem.",
 "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.",
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med medarbetare och kunder. I kommunikationen använder eleven <b>med säkerhet</b> tekniska begrepp. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"KARRIT0"}

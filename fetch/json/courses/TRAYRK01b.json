@@ -2,6 +2,7 @@
 "name":"Yrkestrafik 1b",
 "points":300,
 "instrRAW":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
+"instrRAW2":"som bygger på kursen fordons- och transportbranschens villkor och arbetsområden samt kursen fordonsteknik - introduktion.",
 "reqRAW":"kursen FORFOD0 samt kursen FODFOO0",
 "code":"TRAYRK01b",
 "goals":[1,1,0,0,0,1,1,1],
@@ -33,4 +34,10 @@
 "Eleven gör, med <b>gott</b> resultat, beräkningar av fordonets lastkapacitet i förhållande till vägars bärighet. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur last ska säkras samt ger <b>välgrundade och nyanserade</b> exempel på konsekvenser av felaktig lastsäkring. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> gods med farliga egenskaper, hur det ska hanteras, riskerna med farligt gods och kravet på utbildning för att hantera det.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> risker i arbetsmiljön och ger <b>efter samråd</b> med handledare hjälp till skadade. Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
 "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundrelationer. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["GOSGOD0",
+"PESPER01a",
+"PESPER01b"],
+"req":{"type":"AND",
+"arr":["FORFOD0",
+"FODFOO0"]}}

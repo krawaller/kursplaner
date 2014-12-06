@@ -2,6 +2,7 @@
 "name":"Kinesiska 5",
 "points":100,
 "instrRAW":"som bygger på kursen kinesiska 4.",
+"instrRAW2":"som bygger på kursen kinesiska 4.",
 "reqRAW":"kursen MODZHO04",
 "code":"MODZHO05",
 "goals":[1,1,1,1,1],
@@ -66,4 +67,6 @@
 "Eleven väljer texter av enkel karaktär från olika medier och använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, <b>relativt tydligt och relativt sammanhängande</b>. För att förtydliga och variera sin kommunikation, bearbetar eleven egna framställningar och gör <b>enkla</b> förbättringar.",
 "I skriftlig interaktion med förenklade tecken uttrycker sig eleven <b>tydligt</b> och enkelt med ord, fraser och meningar <b>samt i någon mån anpassat till syfte, mottagare och situation</b>. Dessutom väljer och använder eleven <b>flera olika</b> strategier som löser problem i och förbättrar interaktionen.",
-"Eleven kommenterar <b>översiktligt</b> några företeelser i olika sammanhang och områden där kinesiska används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven kommenterar <b>översiktligt</b> några företeelser i olika sammanhang och områden där kinesiska används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]},
+"req":"MODZHO04",
+"reqBy":["MODZHO06"]}

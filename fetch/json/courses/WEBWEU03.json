@@ -2,6 +2,7 @@
 "name":"Webbutveckling 3",
 "points":100,
 "instrRAW":"som bygger på kursen webbutveckling 2.",
+"instrRAW2":"som bygger på kursen webbutveckling 2.",
 "reqRAW":"kursen WEBWEU02",
 "code":"WEBWEU03",
 "goals":[0,1,1,1,1,1,1,1,1],
@@ -40,4 +41,5 @@
 "När arbetet är utfört gör eleven en <b>noggrann och utförlig</b> dokumentation i enlighet med vald projektmetod samt utvärderar med <b>nyanserade</b> omdömen sitt arbete och resultat <b>och ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven följer i sitt arbete lagar och andra bestämmelser som röublicering på webben och mjukvaruutveckling. Eleven tar hänsyn tiläkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <b>omfattande</b> tester.",
 "Eleven använder <b>med säkerhet</b> terminologi inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"WEBWEU02"}

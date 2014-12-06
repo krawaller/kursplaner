@@ -2,6 +2,7 @@
 "name":"Trädgårdsanläggning 1",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsodling.",
+"instrRAW2":"som bygger på kursen trädgårdsodling.",
 "reqRAW":"kursen TRRTRA0",
 "code":"TRDTRÄ01",
 "goals":[2,1,1,1,1,1,1,2],
@@ -31,4 +32,6 @@
 "a":["Eleven följer arbetsinstruktioner och utför <b>efter samråd</b> med handledare arbetsuppgifter inom mätteknik och trädgårdsanläggning med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med de verktyg och den tekniska utrustning som används inom trädgårdsanläggning. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för byggprocessen från gestaltning och projektering till färdig trädgårdsanläggning. Dessutom läser och tolkar eleven <b>med säkerhet</b> ritningar och andra bygghandlingar. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för parker och trädgårdar ur ett brukarperspektiv, speciellt för hur den gröna miljön gestaltas för olika brukargrupper.",
 "I samband med fältstudier redogör eleven <b>utförligt och</b> <b>nyanserat</b> för parkers, kyrkogårdars och trädgårdsanläggningars historia. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för parkernas, kyrkogårdarnas och trädgårdsanläggningarnas funktion, uppbyggnad och läge samt för deras materialval och växtval. Dessutom gör eleven <b>välgrundade och nyanserade</b> bedömningar av trädgårdsanläggningars estetiska uttryck.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TRRTRA0",
+"reqBy":["TRDTRÄ02"]}

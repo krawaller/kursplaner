@@ -2,6 +2,7 @@
 "name":"Odling av djurfoder",
 "points":100,
 "instrRAW":"som bygger på kursen djurens biologi.",
+"instrRAW2":"som bygger på kursen djurens biologi.",
 "reqRAW":"kursen BIGDJE0",
 "code":"ODLODL0",
 "goals":[0,2,1,1,1,1,1,1],
@@ -38,4 +39,5 @@
 "a":["Eleven följer arbetsinstruktioner och utför <b>efter samråd</b> med handledar <b><strong>sammanhållna</b> </strong>arbetsuppgifter inom odling av foderväxter med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör odling av foderväxter.",
 "Eleven beskrive <b>utförligt och</b> <b>nyanserat</b> foderväxternas egenskaper och näringsinnehåll. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur olika odlingsjordar passar för olika grödor och vilken teknisk utrustning som är lämplig att använda samt för klimatets inverkan på odlingsresultatet. Redogörelsen innehålle <b>välgrundade</b> <b>och nyanserade</b> motiv till varför olika jordar passar för olika grödor och varför olika teknisk utrustning används för olika jordar. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för vattnets och vattenkvalitetens betydelse i samband med odling av foderväxter samt hur man på bästa sätt påverkar växternas tillgång på vatten. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för dräneringens betydelse för optimal produktion. Redogörelsen innehåller <b>välgrundade och nyanserade</b> biologiska förklaringar till vattnets och dräneringens centrala roll för olika grödor och jordar.",
 "I samband med fältstudier beskriver eleven <b>utförligt och</b> <b>nyanserat</b> fodergrödornas utveckling och identifierar <b>med säkerhet</b> ett begränsat antal vanliga ogräs, växtsjukdomar och skadedjur på fodergrödor. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador som ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga motåtgärder. Redogörelsen innehåller <b>välgrundade och nyanserade</b> biologiska förklaringar.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"BIGDJE0"}

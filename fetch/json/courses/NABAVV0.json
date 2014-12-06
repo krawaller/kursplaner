@@ -2,6 +2,7 @@
 "name":"Avverkningsmaskiner",
 "points":100,
 "instrRAW":"som bygger på kursen virkestransport med skotare, kursen virkeslära och kursen skogsskötsel 1.",
+"instrRAW2":"som bygger på kursen virkestransport med skotare, kursen virkeslära och kursen skogsskötsel 1.",
 "reqRAW":"kursen SKMVIE0, kursen SKGVIR0 och kursen SKGSKO01",
 "code":"NABAVV0",
 "goals":[1,2,0,2,1,0,1,1,1],
@@ -34,4 +35,8 @@
 "Eleven följer arbetsinstruktioner samt kör och manövrerar <b>efter samråd</b> med handledare avverkningsmaskiner för att utföra arbetsuppgifter. Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet särskiljer eleven <b>med säkerhet</b> virkessortimenten för vidaretransport med skotare. Eleven gör också en <b>avancerad</b> ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> kalkylens olika delar.",
 "Eleven använder me <b>mycket gott</b> handlag teknisk utrustning och lämpliga verktyg samt utför <b>efter samråd</b> med handledare daglig service av avverkningsmaskinerna enligt instruktioner. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["SKMVIE0",
+"SKGVIR0",
+"SKGSKO01"]}}

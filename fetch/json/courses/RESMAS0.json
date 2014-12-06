@@ -2,6 +2,7 @@
 "name":"Marknadsföring och försäljning",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller kursen fritids- och friskvårdsverksamheter.",
+"instrRAW2":"som bygger på kursen besöksnäringen eller kursen fritids- och friskvårdsverksamheter.",
 "reqRAW":"kursen TURBEÖ0 eller kursen FRIFRT0",
 "code":"RESMAS0",
 "goals":[2,2,2,1,2,1,1,1,1,1],
@@ -32,4 +33,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vanliga begrepp och definitioner samt ger <b>flera</b> exempel på lagar och etiska regler som är relevanta för området.",
 "Eleven planerar, organiserar och presenterar <b>efter samråd</b> med handledare en marknadsaktivitet, med ett resultat som uppfyller fastställda kvalitetskrav. I planeringen och inför presentationen väljer eleven <b>efter samråd</b> med handledare material, teknisk utrustning och metod som passar för uppgiften. Dessutom gör eleven <b>med säkerhet</b> en säljande presentation av informationen och integrerar <b>med säkerhet</b> tekniska hjälpmedel. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <b>efter samråd</b> med handledare.",
 "I arbetet samarbetar och kommunicerar eleven <b>med säkerhet</b> med andra samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Vidare utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TURBEÖ0",
+"FRIFRT0"]}}

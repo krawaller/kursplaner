@@ -2,6 +2,7 @@
 "name":"Biologi i vattenmiljöer 1",
 "points":100,
 "instrRAW":"som bygger på kursen biologi 1.",
+"instrRAW2":"som bygger på kursen biologi 1.",
 "reqRAW":"kursen BIOBIO01",
 "code":"BIIVAT01",
 "goals":[1,1,1,0,1,1,0,1],
@@ -25,4 +26,9 @@
 "c":["Eleven identifierar <b>med viss säkerhet</b>, i samband med fältstudier, några vanliga vattenlevande organismer samt grupperar dem <b>med viss säkerhet</b> efter det vetenskapliga system som används. Eleven beskriver också <b>utförligt</b> vattenlevande organismers byggnad, livsprocesser och anpassning till olika vattenmiljöer. Dessutom redogör eleven <b>utförligt</b> för de vattenlevande organismernas naturliga miljöer och naturliga beteende. I samband med fältstudier beskriver eleven <b>utförligt</b> några ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet.",
 "Eleven redogör <b>utförligt</b> för biologins betydelse inom naturbruket. Dessutom söker eleven <b>med viss säkerhet</b> information om vattenlevande organismer. I sina beskrivningar och redogörelser använder eleven <b>med viss säkerhet</b> vetenskapliga begrepp, teorier och modeller."],
 "a":["Eleven identifierar <b>med säkerhet</b>, i samband med fältstudier, några vanliga vattenlevande organismer samt grupperar dem <b>med säkerhet</b> efter det vetenskapliga system som används. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> vattenlevande organismers byggnad, livsprocesser och anpassning till olika vattenmiljöer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de vattenlevande organismernas naturliga miljöer och naturliga beteende. I samband med fältstudier beskriver eleven <b>utförligt och</b> <b>nyanserat</b> några ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket. Dessutom söker eleven <b>med säkerhet</b> information om vattenlevande organismer. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> vetenskapliga begrepp, teorier och modeller."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket. Dessutom söker eleven <b>med säkerhet</b> information om vattenlevande organismer. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> vetenskapliga begrepp, teorier och modeller."]},
+"req":"BIOBIO01",
+"reqBy":["BIIVAT02",
+"FIKFIS01",
+"FISFIS01",
+"VANVAT0"]}

@@ -2,6 +2,7 @@
 "name":"Matlagning 4",
 "points":200,
 "instrRAW":"som bygger på kursen matlagning 3.",
+"instrRAW2":"som bygger på kursen matlagning 3.",
 "reqRAW":"kursen MALMAL03",
 "code":"MALMAL04",
 "goals":[1,1,1,1,1,1,1,1,1],
@@ -23,4 +24,6 @@
 "När arbetet är utfört utvärderar eleven <b>efter samråd</b> med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven <b>efter samråd</b> med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar <b>med viss säkerhet</b> med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven planerar och organiserar <b>efter samråd</b> med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <b>efter samråd</b> med handledare avancerade maträtter och anrättningar med <b>god</b> kvalitet när det gäller smak och utseende. I arbetet använder eleven me <b>mycket gott</b> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet utför eleven <b>med säkerhet</b> ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter. Eleven utformar <b>med säkerhet</b> recept, matsedlar och menyer samt planerar <b>med säkerhet</b> inköp utifrån ekonomiska konsekvenser.",
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
-"När arbetet är utfört utvärderar eleven <b>efter samråd</b> med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven <b>efter samråd</b> med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När arbetet är utfört utvärderar eleven <b>efter samråd</b> med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven <b>efter samråd</b> med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"MALMAL03",
+"reqBy":["MALMAL00S"]}

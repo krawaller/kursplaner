@@ -2,6 +2,7 @@
 "name":"Virkeslära",
 "points":100,
 "instrRAW":"som bygger på kursen skogsskötsel 1.",
+"instrRAW2":"som bygger på kursen skogsskötsel 1.",
 "reqRAW":"kursen SKGSKO01",
 "code":"SKGVIR0",
 "goals":[1,1,0,0,1,1,1,1],
@@ -28,4 +29,8 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för egenskaper hos och användningsområden för olika trädslag. Dessutom identifierar eleven <b>med säkerhet</b> vanliga skadegörare på virke samt ger <b>välgrundade och nyanserade</b> förslag på motåtgärder för att skydda virket.",
 "Eleven utför <b>efter samråd</b> med handledare klassning och aptering av virke enligt apteringsinstruktioner. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>. Eleven gör <b>avancerade</b> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <b>nyanserade</b> omdömen. Dessutom föreslår eleven <b>efter samråd</b> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <b>utförligt och</b> <b>nyanserat</b> för virkesförsäljning och kontraktering.",
 "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["NABAVV0",
+"SKGVIK0",
+"SKMAVV0"],
+"req":"SKGSKO01"}

@@ -2,6 +2,7 @@
 "name":"Samhällskunskap 3",
 "points":100,
 "instrRAW":"som bygger på kursen samhällskunskap 2.",
+"instrRAW2":"som bygger på kursen samhällskunskap 2.",
 "reqRAW":"kursen SAMSAM02",
 "code":"SAMSAM03",
 "comment":"<h2>Begrepp i kursen samhällskunskap 3</h2><h3>Introduktion av vetenskapsteori</h3><p>Här introduceras kunskaper om vetenskapsteori som en brygga till högre studier. I första hand handlar det om vetenskapsteoretiska begrepp med praktisk tillämpning till exempel induktion, deduktion, hypotes och abduktion. I andra hand handlar det om vetenskapsfilosofiska traditioner som hermeneutik och positivism.</p><h3>Hur vetenskapliga begrepp används</h3><p>Många vetenskapliga begrepp överförs till vardagsspråket och påverkar därmed individen och samhällsdebatten. Exempel på sådana begrepp är ras, kultur, feminism, evolution och big bang.</p>",
@@ -25,4 +26,5 @@
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för centrala teorier utifrån olika perspektiv. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> redogöra för hur olika faktorer och förhållanden skapar olika förutsättningar för individer, grupper och nationer.",
 "Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <b>med säkerhet</b> samhällsvetenskapliga begrepp, teorier, modeller och metoder samt diskuterar <b>utförligt och</b> <b>nyanserat</b> deras styrkor och svagheter med hänvisning till såväl empiriska källor som någon vetenskapsteoretisk källa. Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven ger <b>välgrundade och nyanserade</b> argument för sina ståndpunkter och värderar med <b>nyanserade</b> omdömen andras ståndpunkter.",
 "Eleven kan ge <b>några</b> exempel på hur vetenskapliga begrepp används i samhällsdebatten och <b>utförligt och</b> <b>nyanserat</b> beskriva hur detta påverkar synen på samhällsfrågor.",
-"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]}}
+"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]},
+"req":"SAMSAM02"}

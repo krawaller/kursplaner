@@ -2,6 +2,7 @@
 "name":"Trädgårdsanläggning - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsanläggning 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen trädgårdsanläggning 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen TRDTRÄ02",
 "code":"TRDTRÄ00S",
@@ -21,4 +22,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom ett specialområde inom trädgårdsanläggning. I arbetet använder eleven med <b>mycket gott</b> handlag aktuell teknisk utrustning och handredskap. Resultatet av arbetet är <b>gott</b>. Eleven löser <b>efter samråd</b> med handledare de problem som uppstår. Eleven tar ansvar för, och arbetar säkert och ergonomiskt med, den tekniska utrustning och de handredskap som används. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "Eleven utarbetar <b>efter samråd</b> med handledare förslag till en anläggning inom sitt specialområde samt gör <b>välgrundade och nyanserade</b> bedömningar av resultatet och kvaliteten.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TRDTRÄ02"}

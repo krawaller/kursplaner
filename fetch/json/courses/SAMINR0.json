@@ -2,6 +2,7 @@
 "name":"Internationella relationer",
 "points":100,
 "instrRAW":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
+"instrRAW2":"som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.",
 "reqRAW":"kursen SAMSAM01a2 eller kursen SAMSAM01b",
 "code":"SAMINR0",
 "comment":"<h2>Begrepp i kursen internationella relationer</h2><h3>Den moderna nationalstatens utmaningar som en internationell aktör</h3><p>Detta centrala innehåll åsyftar nationalstatens möjlighet att vara suverän och självständig i en tid då alltfler områden som ekonomi, affärer och kultur påverkas av globala skeenden. Transnationella organ, till exempel EU, IMF, och NATO, tycks få ökade befogenheter på nationalstatens bekostnad. Områden och frågor som kan vara intressanta att ta upp är till exempel vilka utmaningar nationalstaten står inför, som dess möjlighet att ha makt över sina politiska och ekonomiska beslut i framtiden.</p>",
@@ -28,4 +29,7 @@
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för hur olika nationella och internationella förutsättningar och förhållanden påverkar och påverkas av internationella aktörer. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> några teoretiska perspektiv på internationella relationer.",
 "Eleven kan analysera orsaker till och konsekvenser av samarbeten och konflikter. I analysen använder eleven <b>med säkerhet</b> några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> deras styrkor och svagheter med hänvisning till olika källor.",
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> lösningar på internationella konflikter och problem, kan ge <b>välgrundade och nyanserade</b> argument för olika ståndpunkter om globaliseringens konsekvenser och betydelsen av internationella samarbeten samt värderar ståndpunkterna med <b>nyanserade</b> omdömen.",
-"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]}}
+"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]},
+"req":{"type":"OR",
+"arr":["SAMSAM01a2",
+"SAMSAM01b"]}}

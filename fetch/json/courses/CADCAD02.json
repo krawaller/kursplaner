@@ -2,6 +2,7 @@
 "name":"Cad 2",
 "points":50,
 "instrRAW":"som bygger på kursen cad 1.",
+"instrRAW2":"som bygger på kursen cad 1.",
 "reqRAW":"kursen CADCAD01",
 "code":"CADCAD02",
 "goals":[1,1,0,1,1,1,1,0],
@@ -18,4 +19,6 @@
 "c":["Eleven <b>väljer och</b> gör inställningar av cad-programvaror för sammanställningar och applikatione <b>samt diskuterar översiktligt alternativa inställningar</b>. Dessutom gör eleven skisser och ritningar för produktionsändamål me <b>tillfredsställande</b> resultat enligt gällande standarder.",
 "Eleven utför <b>komplexa</b> sammanställningar me <b>tillfredsställande</b> resultat. I arbetet använder eleven <b>med viss säkerhet</b> applikationer i olika situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen."],
 "a":["Eleven <b>väljer och</b> gör <b>avancerade</b> inställningar av cad-programvaror för sammanställningar och applikationer <b>samt diskuterar utförligt alternativa inställningar</b>. Dessutom gör eleven skisser och ritningar för produktionsändamål me <b>gott</b> resultat enligt gällande standarder.",
-"Eleven utför <b>komplexa</b> sammanställningar me <b>gott</b> resultat. I arbetet använder eleven <b>med säkerhet</b> applikationer i olika <b>komplexa</b> situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetat kan förbättras</b>."]}}
+"Eleven utför <b>komplexa</b> sammanställningar me <b>gott</b> resultat. I arbetet använder eleven <b>med säkerhet</b> applikationer i olika <b>komplexa</b> situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetat kan förbättras</b>."]},
+"req":"CADCAD01",
+"reqBy":["CADCAD03"]}

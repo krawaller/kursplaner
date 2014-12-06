@@ -2,6 +2,7 @@
 "name":"Bevarandebiologi",
 "points":100,
 "instrRAW":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
+"instrRAW2":"som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
 "reqRAW":"kursen BIGDJE0 eller kursen BIGMAN0",
 "code":"BIGBEA0",
 "goals":[0,0,0,0,0,1,1,1],
@@ -30,4 +31,7 @@
 "a":["Eleven identifierar <b>med säkerhet</b>, i samband med fältstudier, samt namnger, med svenska och vetenskapliga namn, <b>flera</b> utrotningshotade växt- och djurarter. Dessutom utför eleven <b>efter samråd</b> med handledare inventeringar enligt anvisningar. Vid inventeringen använder eleven <b>med säkerhet</b> bestämningsnycklar för att identifiera vanligt förekommande arter. ",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika biotopers sammansättning och karaktär. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> olika metoder för att bevara och restaurera biotoper samt bevara genetiskt material. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> etiska frågor inom området. I diskussionerna redogör eleven <b>utförligt och</b> <b>nyanserat</b> för lagar och andra bestämmelser, för olika bevarandeprojekt samt för myndigheter och organisationer av betydelse för bevarandearbetet.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Dessutom söker eleven <b>med säkerhet</b> information om utrotningshotade växt- och djurarter.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["BIGDJE0",
+"BIGMAN0"]}}

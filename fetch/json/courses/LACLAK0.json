@@ -2,6 +2,7 @@
 "name":"Lackeringsteknik - applicering",
 "points":100,
 "instrRAW":"som bygger på kursen baskurs i lackering eller kursen måleri 4.",
+"instrRAW2":"som bygger på kursen baskurs i lackering eller kursen måleri 4.",
 "reqRAW":"kursen LACBAK0 eller kursen MARMAL04",
 "code":"LACLAK0",
 "goals":[0,1,1,0,1,1,0,1,1,1],
@@ -35,4 +36,7 @@
 "Eleven hittar och använder <b>med säkerhet</b> det informationsmaterial som arbetet kräver. Eleven använder <b>med säkerhet</b> både svenska och engelska manualer samt digitala informationssystem.",
 "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning. Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
 "Eleven samarbetar,<b> medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med medarbetare och kunder. I kommunikationen använder eleven <b>med säkerhet</b> tekniska begrepp. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["LACBAK0",
+"MARMAL04"]}}

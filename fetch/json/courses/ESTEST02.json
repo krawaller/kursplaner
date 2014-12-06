@@ -2,6 +2,7 @@
 "name":"Estetisk kommunikation 2",
 "points":100,
 "instrRAW":"som bygger på kursen estetisk kommunikation 1, kursen musikproduktion 1, kursen medieproduktion 1 eller kursen digitalt skapande 1.",
+"instrRAW2":"som bygger på kursen estetisk kommunikation 1, kursen musikproduktion 1, kursen medieproduktion 1 eller kursen digitalt skapande 1.",
 "reqRAW":"kursen ESTEST01, kursen MUSMUS01, kursen MEPMEI01 eller kursen DIGDIG01",
 "code":"ESTEST02",
 "goals":[2,1,3,1,3,3,3,0,1],
@@ -26,4 +27,10 @@
 "a":["Eleven använder <b>med säkerhet</b> estetiska uttrycksmedel och estetiska metoder för att kommunicera om idéer, stämningar och betydelser. Elevens estetiska uttryck är en del i en konstnärlig gestaltning. <b>I förberedelserna redogör eleven utförligt och nyanserat för avsikten med kommunikationen</b>. <b>I arbetet omsätter eleven med säkerhet den avsedda avsikten till ett kommunicerande resultat</b>. <b>När arbetet är utfört utvärderar eleven med nyanserade omdömen på vilket sätt kommunikationen fungerat utifrån den avsedda avsikten</b>.",
 "Eleven samverkar i skapande arbete i grupp <b>och med olika kompetenser och uttryck i estetiska produktioner</b> samt diskuterar <b>utförligt och</b> <b>nyanserat</b> hur det egna arbetet relaterar till ett kollektivt resultat <b>och bidrar till resultatet</b>. <b>Eleven drar välgrundade och nyanserade slutsatser om hur helheten påverkas vid interaktion mellan, och experimenterande med, olika estetiska uttrycksformer</b>. <b>Dessutom anpassar eleven sina insatser efter omständigheter som framkommer i samarbetet med medskapare och under olika skeden av arbetsprocessen</b>. Eleven deltar i, <b>och tar initiativ i och ansvar för</b>, en konstnärlig produktionsprocess och presentation av en större färdig gestaltning.",
 "Eleven använder <b>flera olika</b> redskap för att producera och kommunicera med estetiska uttryck <b>på ett kreativt sätt</b> samt diskuterar <b>utförligt och</b> <b>nyanserat</b> hur konstnärlig gestaltning kan förmedlas på olika sätt. <b>I arbetet vidareutvecklar eleven idéer inom någon estetisk uttrycksform</b>. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> hur estetiska uttryck kan samverka och användas i olika sammanhang <b>samt gör välgrundade och nyanserade jämförelser mellan olika uttryck och deras lämplighet i olika sammanhang</b>.",
-"Eleven gör en <b>välgrundad och nyanserad</b> reflektion över lagar och andra bestämmelser med utgångspunkt i sin egen konstnärliga produktion."]}}
+"Eleven gör en <b>välgrundad och nyanserad</b> reflektion över lagar och andra bestämmelser med utgångspunkt i sin egen konstnärliga produktion."]},
+"req":{"type":"OR",
+"arr":["ESTEST01",
+"MUSMUS01",
+"MEPMEI01",
+"DIGDIG01"]},
+"reqBy":["ESTEST03"]}

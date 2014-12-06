@@ -2,6 +2,7 @@
 "name":"Förnybar energi",
 "points":100,
 "instrRAW":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
+"instrRAW2":"som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.",
 "reqRAW":"kursen ENEENE01, kursen SKGSKO01 eller kursen VAOVAT01",
 "code":"ENEFÖR0",
 "goals":[1,1,1,1,1,0,1,1,1,1],
@@ -30,4 +31,8 @@
 "Eleven utför med <b>mycket gott</b> handlag och <b>efter samråd</b> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. Eleven utför <b>på ett ansvarsfullt sätt och</b> <b>efter samråd</b> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <b>nyanserade</b> omdömen och föreslår energibesparande åtgärder samt optimerar <b>efter samråd</b> med handledare energianläggningen. Eleven använder och vårdar <b>efter samråd</b> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. ",
 "Eleven dokumenterar <b>med säkerhet</b> sitt arbete och utvärderar det med <b>nyanserade</b> omdömen.",
 "I arbetet samverkar eleven med andra och använder ett <b>nyanserat</b> fackspråk som <b>är anpassat till mottagaren</b> och fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["ENEENE01",
+"SKGSKO01",
+"VAOVAT01"]}}

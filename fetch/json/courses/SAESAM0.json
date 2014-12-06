@@ -2,6 +2,7 @@
 "name":"Samernas kultur och historia",
 "points":100,
 "instrRAW":"som bygger på kursen historia 1a1 och kursen samhällskunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 2a eller kursen historia 2b - kultur.",
+"instrRAW2":"som bygger på kursen historia 1a1 och kursen samhällskunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 2a eller kursen historia 2b - kultur.",
 "reqRAW":"kursen HISHIS01a1 och kursen SAMSAM01a1",
 "notwithRAW":"kursen HISHIS02a eller kursen HISHIS02b",
 "code":"SAESAM0",
@@ -35,4 +36,10 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> samiska organisationssträvanden och utvecklingen av dagens samiska institutioner, samt redogör <b>utförligt och</b> <b>nyanserat</b> för aktuella samepolitiska program.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för samiska förhållningssätt och traditioner samt beskriver <b>utförligt och</b> <b>nyanserat</b> hur dessa varierar mellan olika delar av Sápmi och hur de förändrats över tid. Eleven ger <b>flera</b> exempel på förgrundsgestalter inom det samiska samhälls-, kultur- och näringslivet samt redogör <b>utförligt och</b> <b>nyanserat</b> för deras betydelse för utvecklingen.",
 "Eleven för <b>välgrundade och nyanserade</b> resonemang kring samband mellan samhällsförhållanden och kulturella och konstnärliga uttryck. Dessutom gör eleven <b>välgrundade och nyanserade</b> tolkningar och analyser av aktuella samiska kultur- och konstföreteelser och ger <b>välgrundade och nyanserade</b> förklaringar till sina tolkningar och analyser. Vidare formulerar eleven <b>välgrundade och nyanserade</b> reflektioner över egna kulturupplevelser.",
-"I beskrivningar, redogörelser, tolkningar och analyser använder eleven <b>med säkerhet</b> relevanta begrepp."]}}
+"I beskrivningar, redogörelser, tolkningar och analyser använder eleven <b>med säkerhet</b> relevanta begrepp."]},
+"req":{"type":"AND",
+"arr":["HISHIS01a1",
+"SAMSAM01a1"]},
+"notwith":{"type":"OR",
+"arr":["HISHIS02a",
+"HISHIS02b"]}}

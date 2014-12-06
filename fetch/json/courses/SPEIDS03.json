@@ -2,6 +2,7 @@
 "name":"Idrottsspecialisering 3",
 "points":100,
 "instrRAW":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
+"instrRAW2":"som bygger på kursen idrottsspecialisering 2. Den bygger också på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.",
 "reqRAW":"kursen SPEIDS02",
 "alsoreqRAW":"kursen SPETRÄ02 eller kursen TRNTRN02",
 "code":"SPEIDS03",
@@ -24,4 +25,8 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven genomför, <b>efter samråd</b> med handledare, vald idrott tekniskt och taktiskt skickligt med <b>god</b> precision och kontroll. I tävlingssituationer väljer eleven med säkerhet insatsnivå efter kända förutsättningar samt visar improvisationsförmåga genom att <b>med säkerhet</b> anpassa insatsnivå i oförutsedda situationer. I tävlingssituationer agerar eleven också <b>med säkerhet</b> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
 "Eleven använder tidigare tränings- och tävlingserfarenheter för att <b>efter samråd</b> med handledare långsiktigt planera tränings- och tävlingsaktiviteter. Eleven väljer <b>med säkerhet</b> metoder som utvecklar idrottsutövandet samt motiverar <b>utförligt</b> sina val med hänvisning till tidigare erfarenheter och relevanta teorier. Utifrån valda metoder planerar och genomför eleven <b>efter samråd</b> med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador. Eleven utvärderar metoderna med <b>nyanserade</b> omdömen utifrån resultat och teorier. I utvärderingen använder eleven <b>med säkerhet</b> centrala begrepp, hänvisar till teorier, förklarar <b>komplexa</b> samband och drar <b>välgrundade och nyanserade</b> slutsatser. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> centrala faktorer i livsstilen som är betydelsefulla för att prestera optimalt i tränings- och tävlingsverksamhet. Eleven samarbetar och kommunicerar <b>med säkerhet</b> i tränings- och tävlingssituationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["SPEIDS02",{"type":"OR",
+"arr":["SPETRÄ02",
+"TRNTRN02"]}]}}

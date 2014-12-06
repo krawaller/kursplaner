@@ -2,6 +2,7 @@
 "name":"Nätunderhållsarbete i vindkraftnät",
 "points":100,
 "instrRAW":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
+"instrRAW2":"som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
 "reqRAW":"kursen ELDLÅS0 eller kursen ELDHÖG0",
 "code":"ELDNÄN0",
 "goals":[1,1,1,1,1,1,1,1],
@@ -32,4 +33,7 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur vindkraftnäts komponenter, utrustningar och stationer fungerar och arbetar.",
 "Eleven planera <b>efter samråd</b> med handledare vanligt förekommande nätunderhållsarbete i vindkraftnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven <b>med säkerhet</b> elscheman och andra dokument. Dessutom väljer eleven <b>med säkerhet</b> lämpliga metoder och lämplig utrustning för arbetet <b>samt motiverar sina val</b>. Inför arbetet gör eleven en <b>välgrundad</b> riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför <b>efter samråd</b> med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven <b>med säkerhet</b> metoderna och utrustningen. Under arbetets gång upptäcker eleven <b>avancerade</b> problem som uppkommer och löser dem <b>efter samråd</b> med handledare. I arbetet kommunicerar eleven <b>med säkerhet</b> med andra.",
 "Eleven kontrollerar <b>efter samråd</b> med handledare säkerheten i anläggningar samt söker och reparerar <b>efter samråd</b> med handledare <b>avancerade</b> fel som uppkommer i såväl nya som befintliga anläggningar.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["ELDLÅS0",
+"ELDHÖG0"]}}

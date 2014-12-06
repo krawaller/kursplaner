@@ -2,6 +2,7 @@
 "name":"Konditori 4",
 "points":100,
 "instrRAW":"som bygger på kursen konditori 3.",
+"instrRAW2":"som bygger på kursen konditori 3.",
 "reqRAW":"kursen BAGKON03",
 "code":"BAGKON04",
 "goals":[1,1,1,1,1,1,1,1,1,0],
@@ -24,4 +25,5 @@
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven arbetet och resultatet me <b>nyanserade</b> omdömen. När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven planerar och organiserar <b>efter samråd</b> med handledare produktion av konditoriprodukter samt genomför arbetet metodiskt, hantverksmässigt och med tempo. I sitt arbete använder eleven med <b>mycket gott</b> handlag tillverkningsmetoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften. Produkten är av <b>god</b> kvalitet i fråga om utseende och smak.",
 "Eleven följer recept och arbetsbeskrivningar. I arbetet utför eleven ekonomiska kalkyler, redogör för samband mellan råvaror, kvalitet och pris samt fastställer produktens pris. Dessutom hanterar eleven <b>efter samråd</b> med handledare råvarorna på lämpligt sätt. När arbetet är utfört väljer eleven <b>med säkerhet</b> lämpligt förpackningsmaterial samt förpackar och märker den färdiga produkten.",
-"Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven arbetet och resultatet me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven arbetet och resultatet me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"BAGKON03"}

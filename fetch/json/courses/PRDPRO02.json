@@ -2,6 +2,7 @@
 "name":"Produktionskunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen produktionskunskap 1.",
+"instrRAW2":"som bygger på kursen produktionskunskap 1.",
 "reqRAW":"kursen PRDPRO01",
 "code":"PRDPRO02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -28,4 +29,5 @@
 "Eleven använder <b>med viss säkerhet</b> korrekt fackspråk i sina redogörelser, beskrivningar och resonemang."],
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur en produktionsidé påverkar befintlig produktion samt utveckling av en ny produktionslinje. I redogörelsen beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur en produktionsidé tas fram samt processen för utveckling till färdig produkt och ett fungerande produktionsflöde. Dessutom förklarar eleven <b>utförligt och</b> <b>nyanserat</b> hur olika organisationsenheter i företaget hänger ihop samt redogör <b><strong>utförligt och</b> <b>nyanserat</b> </strong>för deras olika arbetsuppgifter och ansvarsområden. Eleven redogör vidare <b><strong>utförligt och</b> <b>nyanserat</b> </strong>för hur arbetsorganisationen kan utformas för att bli ett stöd i företagets utveckling och produktion. Eleven resonerar även <b>utförligt</b><b> och nyanserat</b> om sambandet mellan designarbete, produktutveckling och systematiskt kvalitetsarbete. Dessutom redogör eleven <b>utförligt</b><b> och nyanserat</b> för hur produktutveckling och förebyggande underhåll påverkar produktionsflöde och hållbar utveckling. Eleven resonerar även <b>utförligt</b><b> och nyanserat</b> om alternativa produktionstekniker för effektivisering av produktionen. Dessutom utför eleven <b>med säkerhet</b> enkla produktionsekonomiska beräkningar. ",
 "Eleven redogör <b>utförligt</b><b> och nyanserat</b> för hur arbetsorganisationer kan utformas för en fungerande och lönsam tillverkning samt <b>utförligt</b><b> och nyanserat</b>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> logistiken för industriteknisk produktion samt redogör <b>utförligt</b><b> och nyanserat</b> för produktionsstyrd och kundorderstyrd tillverkning.",
-"Eleven använder <b>med säkerhet</b> korrekt fackspråk i sina redogörelser, beskrivningar och resonemang."]}}
+"Eleven använder <b>med säkerhet</b> korrekt fackspråk i sina redogörelser, beskrivningar och resonemang."]},
+"req":"PRDPRO01"}

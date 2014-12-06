@@ -2,6 +2,7 @@
 "name":"Den unga hästens utveckling 1a",
 "points":100,
 "instrRAW":"som bygger på kursen hästkunskap 1. Kursen den unga hästens utveckling 1a får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
+"instrRAW2":"som bygger på kursen hästkunskap 1. Kursen den unga hästens utveckling 1a får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
 "reqRAW":"kursen HÄTHÄS01",
 "code":"HÄTDEN01a",
 "goals":[0,0,1,1,1,1,1,0,1,1,0],
@@ -39,4 +40,6 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hästars reproduktionsbiologi samt för hur avelsarbete går till. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur arbetet på seminstation går till.",
 "Eleven planerar <b>efter samråd</b> med handledare arbetsuppgifter med hästar. I planeringen upprättar eleven en <b>genomarbetad</b> skötselplan med utgångspunkt i dräktiga ston och unghästars behov och verksamhetens omfattning. Vidare gör eleven <b>välgrundade och nyanserade</b> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras. Eleven sköter och hanterar <b>efter samråd</b> med handledare dräktiga ston och unghästar på ett ansvarsfullt, etiskt och säkert sätt. Dessutom sköter och hanterar eleven <b>efter samråd</b> med handledare stall och utrustning på ett ansvarsfullt och säkert sätt. I arbetet hanterar eleven med <b>mycket gott</b> handlag ston och unghästar.",
 "Resultatet av arbetet är <b>gott</b>. I arbetet utför eleven <b>efter samråd</b> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion. Eleven löser också <b>efter samråd</b> med handledare de problem som uppstår. Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HÄTHÄS01",
+"reqBy":["HÄTDEN02"]}

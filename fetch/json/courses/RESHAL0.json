@@ -2,6 +2,7 @@
 "name":"Hållbar turism",
 "points":100,
 "instrRAW":"som bygger på kursen besöksnäringen eller på kurserna naturguidning 1, renen och dess naturmiljö 1 samt samisk mat och matkultur.",
+"instrRAW2":"som bygger på kursen besöksnäringen eller på kurserna naturguidning 1, renen och dess naturmiljö 1 samt samisk mat och matkultur.",
 "reqRAW":"kursen TURBEÖ0 eller på kurserna NAGNAT01, RENREN01 samt SASSAM0",
 "code":"RESHAL0",
 "goals":[2,1,1,2,1,1,2,1,1,1],
@@ -34,4 +35,9 @@
 "Eleven söker, sorterar och granskar <b>med säkerhet</b> information samt värderar den med <b>nyanserade</b> omdömen. Dessutom gör eleven <b>med säkerhet</b> en presentation av informationen och integrerar <b>med säkerhet</b> tekniska hjälpmedel. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <b>efter samråd</b> med handledare.",
 "Eleven samverkar och kommunicerar <b>med säkerhet</b> med andra samt anpassar <b>med</b> <b>säkerhe</b>t sitt språk efter situation och mottagare.",
 "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TURBEÖ0",{"type":"AND",
+"arr":["NAGNAT01",
+"RENREN01",
+"SASSAM0"]}]}}

@@ -2,6 +2,7 @@
 "name":"Styckning 2",
 "points":100,
 "instrRAW":"som bygger på kursen styckning 1.",
+"instrRAW2":"som bygger på kursen styckning 1.",
 "reqRAW":"kursen STYSTY01",
 "code":"STCSTY02",
 "goals":[1,1,1,1,1,1,1,1],
@@ -30,4 +31,5 @@
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare styckningsarbete. Vid planeringen gör eleven <b>med säkerhet</b> en styckningskalkyl samt motiverar <b>utförligt och</b> <b>nyanserat</b> sin kalkyl utifrån ekonomiska aspekter. Eleven genomför <b>efter samråd</b> med handledare styckning samt värderar med <b>nyanserade</b> omdömen råvarornas kvalitet. I arbetet använder eleven <b>med säkerhet</b> utrustning, maskiner och verktyg. Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <b>med säkerhet</b> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
 "Eleven arbetar på ett sätt som är hygieniskt, ergonomiskt och säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom arbetar eleven <b>med säkerhet</b> på ett ekonomiskt och miljömässigt sätt.",
 "När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"STYSTY01"}

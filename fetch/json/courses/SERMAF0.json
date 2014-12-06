@@ -2,6 +2,7 @@
 "name":"Matsalshantverk",
 "points":100,
 "instrRAW":"som bygger på kursen servering 2.",
+"instrRAW2":"som bygger på kursen servering 2.",
 "reqRAW":"kursen SERSER02",
 "code":"SERMAF0",
 "goals":[2,2,0,1,1,0,1,1],
@@ -23,4 +24,5 @@
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen. När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven planerar och organiserar <b>efter samråd</b> med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <b>efter samråd</b> med handledare metoder, material, redskap och annan utrustning som passar för uppgiften. Eleven utför <b>med säkerhet</b> festuppdukningar och servettbrytningar.",
 "Eleven presenterar och rekommenderar <b>med säkerhet</b> mat och dryck utifrån meny och dryckeslista. Dessutom utför eleven me <b>mycket gott</b> handlag tillagning, uppläggning och servering av maträtter vid gästens bord samt servering av dryck. Eleven dekanterar <b>med säkerhet</b> viner. Dessutom bemöter eleven gästen och utför <b>efter samråd</b> med handledare arbetet på ett serviceinriktat sätt.",
-"Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SERSER02"}

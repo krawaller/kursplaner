@@ -2,6 +2,7 @@
 "name":"Datalagring",
 "points":100,
 "instrRAW":"som bygger på kursen webbserverprogrammering 1.",
+"instrRAW2":"som bygger på kursen webbserverprogrammering 1.",
 "reqRAW":"kursen WEBWEB01",
 "code":"DALDAT0",
 "goals":[1,1,1,1,1,1,1,1],
@@ -39,4 +40,5 @@
 "Eleven implementerar med <b>gott</b> resultat avseende teknisk <b>och optimal</b> funktion datalagring utifrån sin modell. Dessutom identifierar eleven <b>flera</b> möjliga problem avseende prestanda, <b>skalbarhet</b>, dataintegritet, <b>feltolerans</b> och säkerhet samt åtgärdar dem med <b>gott</b> resultat.",
 "Eleven demonstrerar med <b>mycket gott</b> handlag läs-, skriv-, uppdaterings- och raderingsoperationer gentemot lagrad data från någon egenutvecklad applikation eller ett egenutvecklat kodbibliotek. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.",
 "Eleven utvecklar med <b>gott</b> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.",
-"Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <b>utförligt och</b> <b>nyanserat</b> om personlig integritet och andra etiska frågor i relation till datalagring."]}}
+"Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <b>utförligt och</b> <b>nyanserat</b> om personlig integritet och andra etiska frågor i relation till datalagring."]},
+"req":"WEBWEB01"}

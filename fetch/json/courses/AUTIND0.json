@@ -2,6 +2,7 @@
 "name":"Industriautomation",
 "points":100,
 "instrRAW":"som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem.",
+"instrRAW2":"som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem.",
 "reqRAW":"kursen MÄTMÄO0, kursen MÄTMÄT0 och kursen MÄTPRR0",
 "code":"AUTIND0",
 "goals":[1,1,1,1,1,1,1],
@@ -25,4 +26,8 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för uppbyggnad av samt funktion och principer för olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för begrepp och standarder som styr arbetet med automatiska system inom valt område.",
 "Eleven planerar och utfö <b>efter samråd</b> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <b>gott</b> sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <b>med säkerhet</b> manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <b>efter samråd</b> med handledare anläggningen, upptäcker och åtgärdar <b>efter samråd</b> med handledare de fel som uppstår samt genomför en <b>noggrann och utförlig</b> dokumentation av sitt arbete. Eleven strukturerar uppgiften <b>med säkerhet</b> och programmerar eller konfigurerar me <b>mycket gott</b> handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleve <b>efter samråd</b> med handledare fel och optimerar me <b>mycket gott</b> handlag anläggningen. I arbetet beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur de olika delarna fungerar och samverkar <b>samt föreslår välgrundade förbättringar i anläggningen</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["MÄTMÄO0",
+"MÄTMÄT0",
+"MÄTPRR0"]}}

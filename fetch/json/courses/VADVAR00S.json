@@ -2,8 +2,9 @@
 "name":"Vård och omsorg - specialisering",
 "points":50,
 "instrRAW":"som beroende av valt kunskapsområde bygger på kursen vård och omsorgsarbete 2, kursen medicin 2, kursen psykiatri 2, kursen akutsjukvård eller kursen palliativ vård. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som beroende av valt kunskapsområde bygger på kursen VÅRVÅR02, kursen medicin 2, kursen psykiatri 2, kursen akutsjukvård eller kursen palliativ vård. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
-"reqRAW":"kursen vård och omsorgsarbete 2, kursen MEDMED02, kursen PSYPSY02, kursen SJUAKU0 eller kursen SJULIN0",
+"reqRAW":"kursen VÅRVÅR02, kursen MEDMED02, kursen PSYPSY02, kursen SJUAKU0 eller kursen SJULIN0",
 "code":"VADVAR00S",
 "goals":[1,1,1,1,1],
 "level":"normal",
@@ -29,4 +30,10 @@
 "Eleven planerar och utför, <b>efter samråd</b> med handledare uppgifter inom kunskapsområdet. Efter utfört arbete utvärderar eleven med <b>nyanserade</b> omdömen sina arbetsinsatser <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven redogör <b>utförligt</b> för relevanta lagar och andra bestämmelser.",
 "Eleven anpassar <b>med säkerhet</b> sin kommunikation till syfte, mottagare och situation.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["VÅRVÅR02",
+"MEDMED02",
+"PSYPSY02",
+"SJUAKU0",
+"SJULIN0"]}}

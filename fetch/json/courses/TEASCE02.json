@@ -2,6 +2,7 @@
 "name":"Scenisk gestaltning 2",
 "points":100,
 "instrRAW":"som bygger på kursen scenisk gestaltning 1.",
+"instrRAW2":"som bygger på kursen scenisk gestaltning 1.",
 "reqRAW":"kursen TEASCE01",
 "code":"TEASCE02",
 "goals":[1,2,1,0,1,1,1,1,1,0],
@@ -24,4 +25,6 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven gestaltar med <b>gott</b> resultat <b>flera komplexa</b> uttryck med kroppen och rösten. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur teaterns scenografi, mask, kostym, ljud och ljus ingår i sceniska gestaltningar samt gestaltar inom <b>flera</b> av dessa områden. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för uppbyggnaden av <b>komplexa</b> sceniska berättelser samt bygger <b>efter samråd</b> med handledare <b>flera</b> sceniska berättelser.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur teaterns uttrycksområden samverkar. Dessutom kommunicerar eleven <b>med säkerhet</b> med publik genom att använda teaterns uttrycksmedel. Eleven samarbetar även <b>med säkerhet</b> <b>och tar initiativ i arbetet</b> i olika gestaltningsgrupper. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> det egna skapandet samt värderar det med <b>nyanserade</b> omdöme <b>och formulerar vägar för hur skapandet kan utvecklas</b>. Eleven gör <b>komplexa</b> analyser av sceniska gestaltningar samt tolkar dessa med <b>gott</b> resultat. I sina analyser använder eleven <b>med säkerhet</b> relevanta begrepp.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TEASCE01",
+"reqBy":["TEASCE03"]}

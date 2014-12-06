@@ -2,6 +2,7 @@
 "name":"Hjulutrustning - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen hjulutrustning och kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen hjulutrustning och kan läsas flera gånger med olika innehåll.",
 "repeat":"Kan läsas flera gånger med olika innehåll",
 "reqRAW":"kursen HJUHJU0 ",
 "code":"HJUHJT00S",
@@ -50,4 +51,5 @@
 "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.",
 "Eleven vägleder <b>efter samråd</b> med handledare kunder vid val av hjulutrustning.",
 "Eleven samarbetar <b>och</b> <b>medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt kommunicerar <b>med säkerhet</b> med medarbetare och kunder. I kommunikationen använder eleven <b>med säkerhet</b> tekniska begrepp. Eleven utvärderar arbetet me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HJUHJU0"}

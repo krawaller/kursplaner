@@ -2,6 +2,7 @@
 "name":"Moderna språk 2",
 "points":100,
 "instrRAW":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
+"instrRAW2":"som bygger på kursen moderna språk 1 eller moderna språk inom ramen för elevens val i grundskolan.",
 "reqRAW":"kursen MODXXX01 eller moderna språk inom ramen för elevens val i grundskolan",
 "code":"MODXXX02",
 "comment":"<h2>Kommentar till centralt innehåll - moderna språk 2</h2><p>Se kommentar till centralt innehåll för moderna språk 1. Kommentaren gäller kurs 1-4.</p>",
@@ -39,4 +40,8 @@
 "Eleven väljer texter och talat språk av enkel karaktär och från olika medier, samt använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "I muntliga och skriftliga framställningar av olika slag formulerar sig eleven enkelt,<b> relativt tydligt och relativt sammanhängande</b>. För att förtydliga och variera sin kommunikation bearbetar eleven, och gör enkla förbättringar av, egna framställningar.",
 "I muntlig och skriftlig interaktion uttrycker sig eleven <b>tydligt</b> och enkelt med ord, fraser och meningar <b>samt i någon mån anpassat till syfte, mottagare och situation</b>. Dessutom väljer och använder eleven <b>flera olika</b> strategier som löser problem i och förbättrar interaktionen. ",
-"Eleven kommenterar <b>översiktligt</b> några företeelser i olika sammanhang och områden där språket används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven kommenterar <b>översiktligt</b> några företeelser i olika sammanhang och områden där språket används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]},
+"req":{"type":"OR",
+"arr":["MODXXX01",
+"moderna språk inom ramen för elevens val i grundskolan"]},
+"reqBy":["MODXXX03"]}

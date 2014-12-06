@@ -2,6 +2,7 @@
 "name":"Företagsekonomi 2",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen redovisning 1.",
+"instrRAW2":"som bygger på kursen företagsekonomi 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen redovisning 1.",
 "reqRAW":"kursen FÖRFÖR01",
 "notwithRAW":"kursen FÖRRED01",
 "code":"FÖRFÖR02",
@@ -29,4 +30,8 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för innebörden av företagsekonomiska begrepp. Vidare <b>väljer och</b> använder eleven <b>med säkerhet</b> företagsekonomiska metoder. Med hjälp av <b>komplexa</b> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <b>Eleven värderar med nyanserade omdömen teoriernas och modellernas användbarhet</b>.",
 "Eleven formulerar <b>med säkerhet</b> <b>komplexa</b> företagsekonomiska frågeställningar, samlar <b>efter samråd</b> med handledare in information från olika, <b>även mer avancerade</b>, källor och gör en <b>välgrundad och nyanserad</b> bedömning av informationens trovärdighet. Eleven sammanställer informationen <b>på ett strukturerat sätt</b>, för <b>välgrundade och nyanserade</b> resonemang och drar <b>välgrundade och nyanserade</b> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar, <b>diskuterar dem ur olika perspektiv</b> och ger <b>välgrundade och nyanserade</b> argument för sina ståndpunkter.",
 "Eleven använder <b>efter samråd</b> med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FÖRFÖR01",
+"notwith":"FÖRRED01",
+"reqBy":["FÖRFÖR00S",
+"FÖRRED02"]}

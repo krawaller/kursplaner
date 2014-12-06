@@ -2,6 +2,7 @@
 "name":"Växtkunskap 2",
 "points":100,
 "instrRAW":"som bygger på kursen växtkunskap 1.",
+"instrRAW2":"som bygger på kursen växtkunskap 1.",
 "reqRAW":"kursen VÄXVÄX01",
 "code":"VÄXVÄX02",
 "goals":[1,1,1,1,1,1],
@@ -24,4 +25,5 @@
 "a":["Eleven identifierar och namnger <b>med säkerhet</b> växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med växtinventering redogör eleven <b>utförligt och</b> <b>nyanserat</b> för växternas egenskaper, funktion och lämplighet i olika miljöer samt gör en <b>välgrundad och nyanserad</b> bedömning av växternas kondition. ",
 "Eleven utarbetar <b>efter samråd</b> med handledare ett <b>sammansatt</b> förslag till växtkomposition med hänsyn till miljö, funktion, hållbarhet och estetiskt uttryck <b>samt motiverar sina val</b>. Eleven gör också <b>med säkerhet</b> en <b>avancerad</b> ekonomisk beräkning för sitt förslag. I förslaget redogör eleven <b>utförligt och</b> <b>nyanserat</b> för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> växternas kvalitet.",
 "Eleven redogör <b>utförligt</b> för lagar och andra bestämmelser som rör trädgårdsväxter och handel med växter samt beskriver <b>utförligt och</b> <b>nyanserat</b> varför dessa bestämmelser finns.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"VÄXVÄX01"}

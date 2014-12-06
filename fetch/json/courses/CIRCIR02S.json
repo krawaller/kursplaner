@@ -2,6 +2,7 @@
 "name":"Cirkus 2",
 "points":100,
 "instrRAW":"som bygger på kursen cirkus 1. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen cirkus 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen CIRCIR01S",
 "code":"CIRCIR02S",
@@ -32,4 +33,5 @@
 "a":["Eleven skapar och framför <b>efter samråd</b> med handledar <b>flera</b> större cirkusakter. Vid utförandet samarbetar eleven på ett säkert sätt med andra. <b>I samarbetet agerar eleven både ledande och följande</b>. Vid utförandet och skapandet av cirkusakte <b>har</b> eleven även <b>ett personligt uttryck,</b> <b>improviserar</b>, prövar alternativa lösningar och idéer samt prövar att använda <b>några</b> traditionellta uttryck på ett nytt sätt inom <b>flera</b> särskilda cirkusdiscipliner.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> användningsmöjligheter för rekvisita, mask och kostym. Eleven diskuterar nummer inom <b>flera</b> cirkusdiscipliner, ger <b>välgrundade och nyanserade</b> förslag till olika uttryckssätt och visar <b>med säkerhet</b> möjliga gestaltningar av karaktärer.",
 "Eleven utför fysiska övningar för att <b>utveckla styrka och smidighet samt</b> förebygga skador. Eleven skapar och anpassar också <b>efter samråd</b> med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för anatomi och fysiologi avseende koordination, balans och rörelse.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"CIRCIR01S"}

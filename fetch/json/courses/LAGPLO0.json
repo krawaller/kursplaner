@@ -2,6 +2,7 @@
 "name":"Plocklagerhantering",
 "points":100,
 "instrRAW":"som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. ",
+"instrRAW2":"som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. ",
 "reqRAW":"kursen LAGLAG0 eller kursen LAGLAP0 eller kursen INKLOG02",
 "code":"LAGPLO0",
 "goals":[0,1,1,0,1,1,0,1],
@@ -32,4 +33,8 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> olika lagers struktur och funktion samt ger exempel på materialflöden. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> plocklagers struktur, styrning och betydelse. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> lagrets roll i kedjan från producent till kund.",
 "Eleven planerar och genomför <b>efter samråd</b> med handledare och i bekanta <b>och nya</b> situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager. I arbetet använder eleven <b>med säkerhet</b> rutiner för materialstyrning. Eleven emballerar och använder <b>med säkerhet</b> förpackningar enligt praxis. Dessutom utför eleven <b>efter samråd</b> med handledare <b>avancerade</b> prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.",
 "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat. Resultatet av elevens arbete är <b>gott</b>. ",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["LAGLAG0",
+"LAGLAP0",
+"INKLOG02"]}}

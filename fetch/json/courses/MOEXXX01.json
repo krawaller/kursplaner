@@ -2,6 +2,7 @@
 "name":"Modersmål 1",
 "points":100,
 "instrRAW":"som bygger på grundskolans kunskaper eller motsvarande.",
+"instrRAW2":"som bygger på grundskolans kunskaper eller motsvarande.",
 "reqRAW":"grundskolans kunskaper eller motsvarande",
 "code":"MOEXXX01",
 "comment":"<h2>Begrepp i kursen modersmål 1</h2><h3>Strategier</h3><p>Inom språkdidaktik används begreppet strategi i samband med lärande av språk, kommunikation och att kompensera brister i språkförmågan. Elevernas olika strategier kan vara medvetna eller omedvetna. De kan även vara mer eller mindre effektiva och ändamålsenliga. När eleverna utvecklar förmågan att använda strategier vidgar de sin repertoar av ändamålsenliga strategier.</p><p>Med strategier för att göra sig förstådd och få fram sitt budskap avses att det finns många olika vägar att gå när det gäller att uttrycka sig i olika situationer. Om inte ett sätt fungerar kan man finna andra sätt att göra sig förstådd på. Exempel på strategier är omformuleringar, nybildningar, bilder, mimik och gester.</p><h3>Hur språket används</h3><p>Med hur språket används avses vilka olika funktioner modersmålet har, till exempel vardagsspråk, skolspråk och officiellt språk. Utgångspunkten för diskussionerna är de språkområden som är aktuella inom elevgruppen.</p>",
@@ -28,4 +29,10 @@
 "a":["Eleven förstår <b>såväl helhet som detaljer</b> i sitt modersmål såväl muntligt som skriftligt. Detta visar eleven genom att redovisa, diskutera och kommentera innehållet på ett <b>välgrundat och nyanserat</b> sätt.",
 "Eleven uttrycker muntligt <b>sammanhängande, strukturerat, tydligt, ledigt samt med variation och flyt</b> sina tankar, känslor och åsikter på modersmålet så att innehållet blir begripligt och korrekt. I samtal växlar eleven <b>med säkerhet</b> mellan vardagsspråk och skolspråk. I skrift formulerar eleven sig <b>varierat och nyanserat</b> på modersmålet med anpassning till syfte, mottagare, situation och <b>innehåll</b> samt följer skriftspråkets konventioner. Eleven uttrycker och formulerar sig med ett ordförråd som är relevant för sammanhanget och som endast i undantagsfall hindrar eleven från att uttrycka sig nyanserat.",
 "Eleven läser relativt obehindrat texter av <b>olika</b> karaktär på modersmålet och redogör <b>utförligt och</b> <b>nyanserat</b> för innehållet i texten <b>samt</b> <b>formulerar välgrundade och nyanserade egna tankar och iakttagelser med utgångspunkt i det lästa</b>.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för modersmålets spridning och hur språket används. <b>Dessutom redogör eleven utförligt för hur modersmålet är uppbyggt och gör välgrundade jämförelser med svenska språket</b>. I både tal och skrift presenterar eleven fakta om natur och geografiska förhållanden i språkområdet. Eleven ger exempel på och diskuterar <b>utförligt och</b> <b>nyanserat</b> några typiska kulturella förhållanden förknippade med språkområdet samt gör <b>välgrundade och nyanserade</b> jämförelser med svenska förhållanden."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för modersmålets spridning och hur språket används. <b>Dessutom redogör eleven utförligt för hur modersmålet är uppbyggt och gör välgrundade jämförelser med svenska språket</b>. I både tal och skrift presenterar eleven fakta om natur och geografiska förhållanden i språkområdet. Eleven ger exempel på och diskuterar <b>utförligt och</b> <b>nyanserat</b> några typiska kulturella förhållanden förknippade med språkområdet samt gör <b>välgrundade och nyanserade</b> jämförelser med svenska förhållanden."]},
+"req":"grundskolans kunskaper eller motsvarande",
+"reqBy":["MOEXXX02",
+"MOEMOD0",
+"SPAXXX01a",
+"SPAXXX01b",
+"SPAXXX0"]}

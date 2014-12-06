@@ -2,6 +2,7 @@
 "name":"Frisör 5",
 "points":200,
 "instrRAW":"som bygger på kursen frisör 4.",
+"instrRAW2":"som bygger på kursen frisör 4.",
 "reqRAW":"kursen HAVFRI04",
 "code":"HAVFRI05",
 "comment":"<h2>Begrepp i kursen frisör 6a</h2><h3>Arbete i projektsammanhang</h3><p>I kursen betonas arbete i projektsammanhang. Här kan eleven till exempel driva ett företag i enlighet med Ung Företagsamhet (UF), ett fiktivt företag eller genomföra ett större projekt.</p><h3><br />Kundorienterat yrkesutövande</h3><p>För en frisör är kunden och hennes eller hans önskemål centrala. Därför betonas ett kundorienterat yrkesutövande med fokus på service och bemötande. I kommunikation med kunden och god säljetik ingår bland annat exponering av produkter, rimlig prissättning och kvalitetsgranskning.</p>",
@@ -34,4 +35,7 @@
 "Eleven använder <b>med säkerhet</b> tekniker och metoder och uppnår resultat <b>som uppfyller höga krav på</b> teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med <b>mycket gott</b> handlag. Under arbetet upptäcker och löser eleven <b>efter samråd</b> med handledare eventuella problem som uppkommer, <b>efter att ha övervägt alternativa lösningar</b>. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin arbetsprocess och sitt resultat samt värderar dessa med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förslag på förbättringar av, <b>och alternativa tillvägagångssätt i</b>, arbetsprocessen. I beskrivningen använder eleven <b>med säkerhet</b> relevant <b>fackspråk</b>.",
 "Eleven använder <b>efter samråd</b> med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <b>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</b>.",
 "Eleven agerar kundorienterat i <b>nya</b> försäljnings- eller servicesituationer,<b> tar egna initiativ</b> samt motiverar <b>utförligt och</b> <b>nyanserat</b> sitt agerande <b>och ger förslag på alternativa tillvägagångssätt i agerandet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HAVFRI04",
+"reqBy":["HAVFRI06a",
+"HAVFRI06b"]}

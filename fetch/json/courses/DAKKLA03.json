@@ -2,8 +2,9 @@
 "name":"Klassisk balett 3",
 "points":200,
 "instrRAW":"som bygger på kursen klassisk balett 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+"instrRAW2":"som bygger på kursen klassisk balett 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna DATDAS01S, DATDAS02S, DATDAS03S eller DATDAS04S.",
 "reqRAW":"kursen DAKKLA02",
-"notwithRAW":"någon av kurserna DATDAS01S, 2, 3 eller 4",
+"notwithRAW":"någon av kurserna DATDAS01S, DATDAS02S, DATDAS03S eller DATDAS04S",
 "code":"DAKKLA03",
 "goals":[1,2,2,0,2,0,0,1],
 "level":"normal",
@@ -41,4 +42,10 @@
 "Eleven förhåller sig <b>med god säkerhet</b> konstnärligt till rörelsevokabulären samt varierar, <b>undersöker i situationen</b> och utveckla <b>konsekvent en förfining av</b> rörelseuttryck efter olika krav.",
 "Eleve <b>följer,</b> <b>undersöker</b> och utvecklar me <b>gott</b> resultat dansens frasering och uttryck till musiken. Dessutom förhåller eleven spatialt med <b>gott</b> resultat den egna kroppen till rummet, riktningar och andra medverkande samt <b>läser av situationen</b> <b>och</b> anpassar <b>intuitivt och konsekvent</b> rörelserna till olika rumsliga krav.",
 "Eleven använder <b>med god säkerhet</b> grundläggande begrepp och vokabulär i kommunikationen med andra.",
-"När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"DAKKLA02",
+"notwith":{"type":"OR",
+"arr":["DATDAS01S",
+"DATDAS02S",
+"DATDAS03S",
+"DATDAS04S"]}}

@@ -2,6 +2,7 @@
 "name":"Cad 3",
 "points":50,
 "instrRAW":"som bygger på kursen cad 2.",
+"instrRAW2":"som bygger på kursen cad 2.",
 "reqRAW":"kursen CADCAD02",
 "code":"CADCAD03",
 "goals":[0,0,1,1,1,1,0,0],
@@ -20,4 +21,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven utför <b>avancerad</b> dokumenthantering med <b>gott</b> resultat. Dessutom utför eleven <b>efter samråd</b> med handledare avancerad solidmodellering med <b>gott</b> resultat.",
 "Eleven gör komplexa sammanställningar med <b>gott</b> resultat. I arbetet använder eleven <b>med säkerhet</b> applikationer i komplexa situationer. Dessutom analyserar eleven sitt resultat med utgångspunkt i rörelsesimulering.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"CADCAD02"}

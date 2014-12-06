@@ -2,6 +2,7 @@
 "name":"Servering 2",
 "points":200,
 "instrRAW":"som bygger på kursen servering 1.",
+"instrRAW2":"som bygger på kursen servering 1.",
 "reqRAW":"kursen SERSER01",
 "code":"SERSER02",
 "goals":[2,2,2,2,2,2,1,1],
@@ -31,4 +32,7 @@
 "a":["Eleven planerar och organiserar <b>efter samråd</b> med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <b>efter samråd</b> med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.",
 "Eleven presenterar och rekommenderar <b>med säkerhet</b> mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför me <b>mycket gott</b> handlag servering av mat och dryck i gästmatsal. Eleven arbetar <b>med säkerhet</b> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <b>efter samråd</b> med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete och kassaredovisnin <b>efter samråd</b> med handledare.",
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SERSER01",
+"reqBy":["SERMAF0",
+"SERSER00S"]}

@@ -2,6 +2,7 @@
 "name":"Industriell informationsteknik",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a.",
+"instrRAW2":"som bygger på kursen datorteknik 1a.",
 "reqRAW":"kursen DAODAT01a",
 "code":"DAOINU0",
 "goals":[1,1,1,1,0],
@@ -25,4 +26,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.",
 "Eleven planerar och utför <b>efter samråd</b> med handledare och med <b>mycket gott</b> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data. Dessutom planerar och utför eleven <b>efter samråd</b> med handledare och med <b>mycket gott</b> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data. Resultatet är <b>gott</b> i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <b>mycket gott</b> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete. Dessutom gör eleven en <b>välgrundad och nyanserad</b> bedömning av kvaliteten på insamlad data.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["AUOAVH0",
+"PROPRO0"],
+"req":"DAODAT01a"}

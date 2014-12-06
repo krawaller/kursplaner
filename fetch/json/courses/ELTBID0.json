@@ -2,6 +2,7 @@
 "name":"Bild- och ljudanläggningar",
 "points":100,
 "instrRAW":"som bygger på kursen elektronik och mikrodatorteknik.",
+"instrRAW2":"som bygger på kursen elektronik och mikrodatorteknik.",
 "reqRAW":"kursen ELEELR0",
 "code":"ELTBID0",
 "goals":[1,1,1,1,1,1,1,1],
@@ -39,4 +40,5 @@
 "Eleven planerar, organiserar och utför systematiskt och <b>efter samråd</b> med handledare support och service av bild- och ljudanläggningar med ett resultat som på ett <b>gott</b> sätt uppfyller kvalitetskraven. Under arbetet väljer eleven <b>med säkerhet</b> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg me <b>mycket gott</b> handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar <b>utförligt och</b> <b>nyanserat</b> sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem <b>efter samråd</b> med handledare. I arbetet använder eleven <b>med säkerhet</b> apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven <b>med säkerhet</b> med andra samt använder ett <b>nyanserat</b> fackspråk som är anpassat till situationen.",
 "Efter utfört arbete gör eleven en <b>noggrann och utförlig</b> dokumentation av utfört arbete. Eleven utvärderar sitt arbete med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven ger <b>med säkerhet</b> tydliga instruktioner till användare av apparater och system.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELEELR0"}

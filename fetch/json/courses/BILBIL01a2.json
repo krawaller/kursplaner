@@ -2,6 +2,7 @@
 "name":"Bild och form 1a2",
 "points":50,
 "instrRAW":"som bygger på kursen bild och form 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen bild och form 1b.",
+"instrRAW2":"som bygger på kursen bild och form 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen bild och form 1b.",
 "reqRAW":"kursen BILBIL01a1",
 "notwithRAW":"kursen BILBIL01b",
 "code":"BILBIL01a2",
@@ -35,4 +36,8 @@
 "Eleven hanterar <b>flexibelt och</b> med <b>mycket gott</b> handla 0material och tekniker för att åstadkomma önskade visuella effekter.",
 "Eleven presenterar och visar sitt arbete för andra samt redovisar <b>utförligt och</b> <b>nyanserat</b> sina intentioner med bilden.",
 "Eleven identifierar skillnader mellan bilder ur olika genrer och beskriver <b>utförligt och</b> <b>nyanserat</b> vad som kännetecknar de olika genrerna.",
-"Eleven redogör <b>utförligt</b> för etiska förhållningssätt samt för lagar och andra bestämmelser om upphovsrätt och arbetsmiljö."]}}
+"Eleven redogör <b>utförligt</b> för etiska förhållningssätt samt för lagar och andra bestämmelser om upphovsrätt och arbetsmiljö."]},
+"req":"BILBIL01a1",
+"notwith":"BILBIL01b",
+"reqBy":["BILBIL0",
+"BILFOM0"]}

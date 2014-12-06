@@ -2,6 +2,7 @@
 "name":"Serviceteknik - naturbruk 1",
 "points":100,
 "instrRAW":"som bygger på kursen fordon och redskap eller kursen terrängtransporter.",
+"instrRAW2":"som bygger på kursen fordon och redskap eller kursen terrängtransporter.",
 "reqRAW":"kursen NABFOR0 eller kursen SKMTER0",
 "code":"SEISEI01",
 "goals":[2,1,2,2,0,1,1],
@@ -32,4 +33,8 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för den tekniska utrustningens uppbyggnad och funktion samt för dess komponenter och material. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för hur styrsystem och kontrollsystem samverkar. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för vilka drivmedel och smörjmedel som används i den tekniska utrustningen.",
 "Eleven följer arbetsinstruktioner och utför <b>efter samråd</b> med handledare service, underhåll och reparationer av teknisk utrustning. Dessutom utför eleven <b>efter samråd</b> med handledare svetsning med grundläggande svetsmetoder samt redogör <b>utförligt och</b> <b>nyanserat</b> för olika svetslägen, för hur de används och för olika klassningar av tillsatsmaterial. I arbetet använder eleven <b>efter samråd</b> med handledare serviceböcker och reservdelsböcker samt digital utrustning. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>.",
 "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av den tekniska utrustningen. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["NABFOR0",
+"SKMTER0"]},
+"reqBy":["SEISEI02"]}

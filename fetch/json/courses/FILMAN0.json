@@ -2,6 +2,7 @@
 "name":"Manus för film och tv",
 "points":100,
 "instrRAW":"som bygger på kursen film- och tv-produktion 1.",
+"instrRAW2":"som bygger på kursen film- och tv-produktion 1.",
 "reqRAW":"kursen FILFIL01",
 "code":"FILMAN0",
 "goals":[1,2,0,1,1],
@@ -36,4 +37,5 @@
 "Eleven skriver <b>avancerade</b> loglines och förmedlar <b>med säkerhet</b> i form av pitch egna idéer i förberedda samtal och diskussioner samt i text.",
 "Eleven använder <b>med säkerhet</b> fackspråksuttryck i sitt arbete och i sina bedömningar, redogörelser och analyser.",
 "Eleven redogör <b>utförligt</b> för grundläggande lagar, andra bestämmelser och överenskommelser inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FILFIL01"}

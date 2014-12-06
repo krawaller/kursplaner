@@ -1,8 +1,9 @@
 {"subject":"HÄT",
 "name":"Den unga hästens utveckling 2",
 "points":100,
-"instrRAW":"som bygger på kursen på kursen den unga hästens utveckling 1a och kursen den unga hästens utveckling 1b. Kursen den unga hästens utveckling 2 får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
-"reqRAW":"kursen på kursen HÄTDEN01a och kursen HÄTDEN01b",
+"instrRAW":"som bygger på kursen den unga hästens utveckling 1a och kursen den unga hästens utveckling 1b. Kursen den unga hästens utveckling 2 får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
+"instrRAW2":"som bygger på kursen den unga hästens utveckling 1a och kursen den unga hästens utveckling 1b. Kursen den unga hästens utveckling 2 får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur.",
+"reqRAW":"kursen HÄTDEN01a och kursen HÄTDEN01b",
 "code":"HÄTDEN02",
 "goals":[0,0,1,0,0,1,1,0,1,1,1],
 "level":"normal",
@@ -30,4 +31,7 @@
 "Eleven planerar <b>efter samråd</b> med handledare arbetsuppgifter med hästar. I planeringen upprättar eleven en <b>genomarbetad</b> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning. Vidare gör eleven <b>välgrundade och nyanserade</b> bedömningar av när och hur arbetsuppgifterna ska genomföras. Eleven sköter och hanterar <b>efter samråd</b> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt. Dessutom sköter och hanterar eleven <b>efter samråd</b> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt. I arbetet hanterar eleven med <b>mycket gott</b> handlag unghästar.",
 "Resultatet av arbetet är <b>gott</b>. Eleven löser också <b>efter samråd</b> med handledare de problem som uppstår vid arbete med unghästar. Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall. Eleven för <b>noggranna och utförliga</b> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <b>med säkerhet</b> förändringar hos hästarna eller i deras miljö.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för marknadsföring och försäljning av unghästar. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"AND",
+"arr":["HÄTDEN01a",
+"HÄTDEN01b"]}}

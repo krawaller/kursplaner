@@ -2,6 +2,7 @@
 "name":"Tillverkningsunderlag 2",
 "points":100,
 "instrRAW":"som bygger på kursen tillverkningsunderlag 1.",
+"instrRAW2":"som bygger på kursen tillverkningsunderlag 1.",
 "reqRAW":"kursen TILTIL01",
 "code":"TILTIL02",
 "goals":[0,0,1,1,1,1,1,1],
@@ -25,4 +26,5 @@
 "a":["Eleven tolkar i sitt arbete <b>med säkerhet</b> mönster- eller ritningsunderlag samt bereder och organiserar <b>efter samråd</b> med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och <b>efter samråd</b> med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av <b>god</b> kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven <b>efter samråd</b> med handledare metoder, utrustning och datorprogram som passar för uppgiften. Dessutom söker eleven <b>med säkerhet</b> information från relevanta källor. Eleven hanterar verktyg, utrustning, och datorprogram <b>med säkerhet</b> och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <b>efter samråd</b> med handledare.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även <b>utförligt och</b> <b>nyanserat</b> för använda beteckningar. Vidare redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen. Eleven utvärderar sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven använder <b>med säkerhet</b> korrekt fackspråk.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"TILTIL01"}

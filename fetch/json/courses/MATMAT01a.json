@@ -1,7 +1,8 @@
 {"subject":"MAT",
 "name":"Matematik 1a",
 "points":100,
-"instrRAW":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen MATMAT01b eller MATMAT01c. Kursen ska ingå i samtliga yrkesprogram.",
+"instrRAW":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1b eller 1c. Kursen ska ingå i samtliga yrkesprogram.",
+"instrRAW2":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen MATMAT01b eller MATMAT01c. Kursen ska ingå i samtliga yrkesprogram.",
 "reqRAW":"de kunskaper grundskolan ger eller motsvarande",
 "notwithRAW":"kursen MATMAT01b eller MATMAT01c",
 "prog":"samtliga yrkesprogram",
@@ -38,4 +39,11 @@
 "a":["Eleven kan <b>med säkerhet</b> visa innebörden av centrala begrepp i handling samt <b>utförligt</b> beskriva innebörden av dem med <b>flera</b> andra representationer. Dessutom växlar eleven <b>med säkerhet</b> mellan dessa olika representationer. Eleven kan <b>med säkerhet</b> använda begrepp för att lösa <b>komplexa</b> matematiska problem och problemsituationer i karaktärsämnena. I arbetet hanterar eleven <b>flera</b> procedurer, upptäcker <b>och korrigerar</b> misstag samt löser uppgifter av standardkaraktär <b>med säkerhet och på ett effektivt sätt</b>, både utan och med digitala och andra praxisnära verktyg.",
 "Eleven kan formulera, analysera och lösa praxisnära matematiska problem <b>av komplex karaktär</b>. Dessa problem inkluderar <b>flera</b> begrepp och kräver <b>avancerade</b> tolkningar. <b>I problemlösning upptäcker eleven generella samband som presenteras med retorisk algebra</b>. I arbetet gör eleven om lämpliga delar av problemsituationer i karaktärsämnena till matematiska formuleringar genom att <b>välja</b>, tillämpa <b>och anpassa</b> matematiska modeller. Eleven kan med <b>nyanserade</b> omdömen utvärdera resultatets rimlighet samt valda modeller, strategier, metoder <b>och alternativ till dem</b>.",
 "Eleven kan föra <b>välgrundade och nyanserade</b> matematiska resonemang och med <b>nyanserade</b> omdömen värdera egna och andras resonemang samt skilja mellan gissningar och välgrundade påståenden. Dessutom uttrycker sig eleven <b>med säkerhet</b> i tal, enkel skrift och i handling <b>samt använder</b> matematiska <b>symboler och andra</b> representationer <b>med god anpassning till syfte och situation</b>.",
-"Genom att ge exempel relaterar eleven något  <b>några av kursens delområden</b> till dess betydelse inom yrkesliv, samhällsliv och matematikens kulturhistoria. Dessutom kan eleven föra <b>välgrundade och</b> <b>nyanserade</b> resonemang om exemplens relevans."]}}
+"Genom att ge exempel relaterar eleven något  <b>några av kursens delområden</b> till dess betydelse inom yrkesliv, samhällsliv och matematikens kulturhistoria. Dessutom kan eleven föra <b>välgrundade och</b> <b>nyanserade</b> resonemang om exemplens relevans."]},
+"req":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["MATMAT01b",
+"MATMAT01c"]},
+"reqBy":["MATMAT02a",
+"MATMAT02b",
+"MATMAT02c"]}

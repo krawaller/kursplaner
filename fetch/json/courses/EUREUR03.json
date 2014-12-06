@@ -2,6 +2,7 @@
 "name":"Eurytmi 3",
 "points":100,
 "instrRAW":"som bygger på kursen eurytmi 2.",
+"instrRAW2":"som bygger på kursen eurytmi 2.",
 "reqRAW":"kursen EUREUR02",
 "code":"EUREUR03",
 "goals":[2,2,2,1,1,1,0,1,2],
@@ -35,4 +36,6 @@
 "Eleven redogö <b>utförligt och</b> <b>nyanserat</b> för några genrer, stilarter och stilmedel i historiska och kulturella sammanhang. Eleven presenterar också <b>flera</b> demonstrationsexempel med <b>nya</b> tillämpningar av några koreografiska förhållningssätt. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för eurytmiska principer.",
 "Eleven deltar i skapande arbetsprocesser och tillämpar med <b>gott</b> resultat koreografiska förhållningssätt. I arbetet omsätter eleven egna idéer, intentioner och iakttagelser. Dessutom presenterar eleven <b>utförligt och</b> <b>nyanserat</b> sin tillämpning av kompositionstekniker genom att demonstrera <b>flera komplexa</b> autentiska kompositioner.",
 "Eleven presenterar <b>med säkerhet</b> multimodal gestaltning i relation till ledsagande musik och recitation, sammanhängande flöde, differentierad dynamik och nyanserad närvaro i rörelsen. I presentationen kommunicerar eleven <b>med säkerhet</b> med publiken.",
-"Eleven gör en <b>välgrundad och nyanserad</b> reflektion över arbetsprocesser, material och rörelseuttryck genom att följa rörelseförlopp, beskriva rörelsemönster och arbetsmetoder samt resonera om gestaltningsresultat. I sin reflektion använder eleven <b>med säkerhet</b> adekvata begrepp."]}}
+"Eleven gör en <b>välgrundad och nyanserad</b> reflektion över arbetsprocesser, material och rörelseuttryck genom att följa rörelseförlopp, beskriva rörelsemönster och arbetsmetoder samt resonera om gestaltningsresultat. I sin reflektion använder eleven <b>med säkerhet</b> adekvata begrepp."]},
+"req":"EUREUR02",
+"reqBy":["EUREUR04"]}

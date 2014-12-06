@@ -2,6 +2,7 @@
 "name":"Bageri 4",
 "points":100,
 "instrRAW":"som bygger på kursen bageri 3.",
+"instrRAW2":"som bygger på kursen bageri 3.",
 "reqRAW":"kursen BAGBAG03",
 "code":"BAGBAG04",
 "goals":[1,1,1,1,1,1,1,1,1,0],
@@ -27,4 +28,5 @@
 "a":["Eleven planerar och organiserar <b>efter samr��d</b> med handledare produktion av bröd och bakverk samt genomför arbetet metodiskt, hantverksmässigt och med tempo. I sitt arbete använder eleven med <b>mycket gott</b> handlag tillverkningsmetoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften. Produkten är av <b>god</b> kvalitet i fråga om utseende och smak.",
 "Eleven följer recept och arbetsbeskrivningar. I arbetet utför eleven ekonomiska kalkyler, redogör för samband mellan råvaror, kvalitet och pris samt fastställer produktens pris. Dessutom hanterar eleven <b>efter samråd</b> med handledare råvarorna på lämpligt sätt. När arbetet är utfört väljer eleven <b>med säkerhet</b> lämpligt förpackningsmaterial samt förpackar och märker den färdiga produkten.",
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven arbetet och resultatet me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras.</b>",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"BAGBAG03"}

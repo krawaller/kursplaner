@@ -2,6 +2,7 @@
 "name":"Fotografisk bild 3",
 "points":100,
 "instrRAW":"som bygger på kursen fotografisk bild 2.",
+"instrRAW2":"som bygger på kursen fotografisk bild 2.",
 "reqRAW":"kursen FOTFOT02",
 "code":"FOTFOT03",
 "goals":[1,2,2,2,2,1,2,0,0],
@@ -32,4 +33,6 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b>, utifrån bildexempel, hur fotografiska bilder används för <b>flera olika</b> olika syften och sammanhang samt redogör <b>utförligt och</b> <b>nyanserat</b> för hur innehåll, form och sammanhang samverkar ivisuell kommunikation. I beskrivningar och resonemang använder eleven <b>med säkerhet</b> <b>modeller</b> för att analysera fotografisk bild och kommunikation. Dessutom använder eleven <b>med säkerhet</b> <b>avancerade</b> begrepp.",
 "Eleven redogö <b>utförligt och</b> <b>nyanserat</b>, utifrån bildexempel, för fotografiets historia och beskriver <b>utförligt och nyanserat, samt gör egna reflektioner över</b>, fotografiets betydelse för kulturyttringar <b>och kunskapsutveckling</b> i dagens samhälle.",
 "Eleven redogör <b>utförligt</b> för lagar och andra bestämmelser om upphovsrätt inom området. Eleven diskuterar också <b>utförligt och</b> <b>nyanserat</b> etiska frågeställningar i relation till fotografiska bilder.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FOTFOT02",
+"reqBy":["FOTFOT04"]}

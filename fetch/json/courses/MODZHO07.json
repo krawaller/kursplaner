@@ -2,6 +2,7 @@
 "name":"Kinesiska 7",
 "points":100,
 "instrRAW":"som bygger på kursen kinesiska 6.",
+"instrRAW2":"som bygger på kursen kinesiska 6.",
 "reqRAW":"kursen MODZHO06",
 "code":"MODZHO07",
 "goals":[1,1,1,1,1],
@@ -69,4 +70,5 @@
 "Eleven väljer texter från olika medier och använder <b>på ett relevant och effektivt sätt</b> det valda materialet i sin egen produktion och interaktion.",
 "Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven <b>relativt varierat, tydligt och relativt</b> sammanhängande. <b>Eleven formulerar sig även med visst flyt och i någon mån anpassat till syfte, mottagare och situation.</b> För att förtydliga och variera sin kommunikation bearbetar eleven egna framställningar och gör <b>välgrundade</b> förbättringar.",
 "I skriftlig interaktion med förenklade tecken uttrycker sig eleven <b>tydligt och med visst flyt samt med viss anpassning till syfte, mottagare och situation</b>. Dessutom väljer och använder eleven <b>väl</b> <b>fungerande</b> strategier som <b>löser</b> problem i och förbättrar interaktionen <b>och för den framåt på ett konstruktivt sätt</b>.",
-"Eleven kommenterar <b>utförligt</b> några företeelser i olika sammanhang och områden där kinesiska används, och gör då också <b>välutvecklade</b> jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven kommenterar <b>utförligt</b> några företeelser i olika sammanhang och områden där kinesiska används, och gör då också <b>välutvecklade</b> jämförelser med egna erfarenheter och kunskaper."]},
+"req":"MODZHO06"}

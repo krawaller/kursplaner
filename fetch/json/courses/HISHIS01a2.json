@@ -2,6 +2,7 @@
 "name":"Historia 1a2",
 "points":50,
 "instrRAW":"som bygger på kursen historia 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1b.",
+"instrRAW2":"som bygger på kursen historia 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1b.",
 "reqRAW":"kursen HISHIS01a1",
 "notwithRAW":"kursen HISHIS01b",
 "code":"HISHIS01a2",
@@ -25,4 +26,8 @@
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med <b>nyanserade</b> omdömen sitt val. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar <b>utförligt och</b> <b>nyanserat</b> deras betydelse för olika skeenden. Eleven ger <b>komplexa</b> exempel på, och förklarar <b>utförligt och</b> <b>nyanserat</b>, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några <b>välgrundade och nyanserade</b> slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.",
 "Eleven kan <b>med säkerhet</b> använda historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.",
 "Eleven kan <b>med säkerhet</b> söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra <b>välgrundade och</b> <b>nyanserade</b> reflektioner över materialets relevans. I värderingen utgår eleven från <b>källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet</b>.",
-"Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för några historiska skeenden och händelser som har använts på olika sätt samt <b>utförligt och</b> <b>nyanserat</b> förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med <b>nyanserade</b> omdömen deras betydelse för nutida skeenden och händelser."]}}
+"Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för några historiska skeenden och händelser som har använts på olika sätt samt <b>utförligt och</b> <b>nyanserat</b> förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med <b>nyanserade</b> omdömen deras betydelse för nutida skeenden och händelser."]},
+"req":"HISHIS01a1",
+"notwith":"HISHIS01b",
+"reqBy":["HISHIS02a",
+"HISHIS02b"]}

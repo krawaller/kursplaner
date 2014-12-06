@@ -2,7 +2,8 @@
 "name":"Fiske 1",
 "points":100,
 "instrRAW":"som bygger på biologi i vattenmiljöer 1.",
-"reqRAW":"biologi i vattenmiljöer 1",
+"instrRAW2":"som bygger på BIIVAT01.",
+"reqRAW":"BIIVAT01",
 "code":"FISFIS01",
 "goals":[1,0,1,1,1,1,1,0],
 "level":"normal",
@@ -28,4 +29,6 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för förekomsten av fisk i olika vattenmiljöer och för hur fisket påverkar miljön och den ekologiska balansen.",
 "Eleven utför <b>efter samråd</b> med handledare arbetsuppgifter inom fiske. Resultatet av arbetet är <b>gott</b>. I arbetet väljer, använder och vårdar eleven <b>efter samråd</b> med handledare teknisk utrustning, verktyg och material för de olika arbetsuppgifterna. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert, gör en <b>välgrundad</b> <b>och nyanserad</b> bedömning av olycksrisker samt vidtar <b>efter samråd</b> med handledare åtgärder vid olycksfall och tillbud. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör yrkesmässigt fiske.",
 "I samband med fiske identifierar eleven <b>med säkerhet</b> skador och sjukdomar på fisken samt redogör <b>utförligt och</b> <b>nyanserat</b> för möjliga orsaker till skadorna och sjukdomarna.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"BIIVAT01",
+"reqBy":["FISFIS02"]}

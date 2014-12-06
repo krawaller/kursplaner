@@ -2,6 +2,7 @@
 "name":"Charkuteri 2",
 "points":100,
 "instrRAW":"som bygger på kursen charkuteri 1.",
+"instrRAW2":"som bygger på kursen charkuteri 1.",
 "reqRAW":"kursen STYCHA01",
 "code":"STYCHA02",
 "goals":[0,1,0,1,1,1,1,1,1,1],
@@ -33,4 +34,7 @@
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare tillverkning av charkuterivaror samt tillverkar dessa <b>efter samråd</b> med handledare. I arbetet läser och följer eleven <b>med säkerhet</b> recept samt gö <b>med säkerhet</b> recept- och näringsberäkningar. Dessutom värderar eleven med <b>nyanserade</b> omdömen råvarornas kvalitet. Eleven använder <b>med säkerhet</b> utrustning, maskiner och verktyg. Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <b>med säkerhet</b> charkuterivaror i enlighet med lagar och andra bestämmelser.",
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom arbetar eleven <b>med säkerhet</b> på ett ekonomiskt och miljömässigt sätt.",
 "När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["CHACHA03",
+"STYCHA03"],
+"req":"STYCHA01"}

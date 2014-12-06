@@ -2,6 +2,7 @@
 "name":"Bild och form - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen bild eller kursen form. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen BILBIL0 eller kursen BILFOM0",
 "code":"BILBIL00S",
@@ -34,4 +35,7 @@
 "Eleven använder <b>avancerat</b> formspråk samt material och tekniker från <b>flera</b> olika bildgenrer <b>med säkerhet</b> samt redovisar <b>både enkla och komplexa</b> lösningar på bildproblem. Vidare använder eleven arbetsmetoder som förekommer på professionell nivå.",
 "Eleven producerar kommunicerande bilder med ett <b>nyanserat</b> visuellt budskap. Arbetsprocessen är <b>målinriktad och eleven arbetar</b> <b>med hjälp av utkast, skisser och försök</b>. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av sin arbetsprocess.",
 "Eleven visar och marknadsför sitt arbete för andra.",
-"Eleven kategoriserar <b>med säkerhet</b>, diskuterar <b>utförligt och</b> <b>nyanserat</b> samt värderar med <b>nyanserade</b> omdömen egna och andras publika presentationer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för sina intentioner med sitt bild- eller formskapande samt diskuterar <b>utförligt och</b> <b>nyanserat</b> i vilken utsträckning hon eller han lyckas kommunicera det tänkta budskapet. I detta redogör eleven <b>utförligt och</b> <b>nyanserat</b> för förtjänster och brister i sitt eget bildarbete. Eleven använder <b>med säkerhet</b> relevanta begrepp."]}}
+"Eleven kategoriserar <b>med säkerhet</b>, diskuterar <b>utförligt och</b> <b>nyanserat</b> samt värderar med <b>nyanserade</b> omdömen egna och andras publika presentationer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för sina intentioner med sitt bild- eller formskapande samt diskuterar <b>utförligt och</b> <b>nyanserat</b> i vilken utsträckning hon eller han lyckas kommunicera det tänkta budskapet. I detta redogör eleven <b>utförligt och</b> <b>nyanserat</b> för förtjänster och brister i sitt eget bildarbete. Eleven använder <b>med säkerhet</b> relevanta begrepp."]},
+"req":{"type":"OR",
+"arr":["BILBIL0",
+"BILFOM0"]}}

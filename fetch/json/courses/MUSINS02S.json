@@ -2,6 +2,7 @@
 "name":"Instrument eller sång 2",
 "points":100,
 "instrRAW":"som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen MUSINS01S",
 "code":"MUSINS02S",
@@ -27,4 +28,6 @@
 "a":["Eleven tar ansvar för att studera in och framföra musikverk av <b>större</b> omfattning med tillfredsställande resultat. I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <b>gott</b> konstnärligt <b>och personligt</b> uttryck och följer <b>med säkerhet</b> genrespecifika krav utifrån musikens historiska och kulturella sammanhang. Dessutom gör eleven <b>välgrundade och nyanserade</b> musikaliska tolkningar utifrån genre och praxis. Eleven uppvisar en väl <b>utvecklad</b> spel- eller sångteknik och anpassar de <b>väl</b> till olika musikaliska uttryck.",
 "Eleven spelar eller sjunger en <b>omfattande</b> grundläggande repertoar med tillfredsställande musikaliskt resultat. Eleven tar ansvar för instudering av musik, prövar <b>några</b> strategier för musikalisk instudering, <b>upptäcker och analyserar</b> <b>spel- eller sångtekniska områden som behöver särskild uppmärksamhet</b> samt arbetar efter lärarens instruktioner <b>och</b> <b>egna väl fungerande övningar</b> i sitt eget övande.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för instrumentets konstruktion, funktion och vård, alternativt för röstfysiologi och röstvård.",
-"Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med lyhördhet."]}}
+"Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med lyhördhet."]},
+"req":"MUSINS01S",
+"reqBy":["MUSINS03S"]}

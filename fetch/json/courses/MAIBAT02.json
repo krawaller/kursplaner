@@ -2,6 +2,7 @@
 "name":"Båtel 2",
 "points":100,
 "instrRAW":"som bygger på kursen båtel 1.",
+"instrRAW2":"som bygger på kursen båtel 1.",
 "reqRAW":"kursen MAIBAT01",
 "code":"MAIBAT02",
 "goals":[1,1,1,0,1,1,1,1,1],
@@ -38,4 +39,5 @@
 "Eleven arbetar <b>efter samråd</b> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <b>utförligt</b> lagar och andra bestämmelser som reglerar arbetet.",
 "Resultatet av elevens arbete är <b>gott</b>.",
 "Eleven gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete samt presenterar <b>med säkerhet</b> sitt arbete. Dessutom gör eleven <b>komplexa</b> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten. Eleven utvärderar med <b>nyanserade</b> omdömen både arbetsprocess och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"MAIBAT01"}

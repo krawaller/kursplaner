@@ -2,6 +2,7 @@
 "name":"Arrangering och komposition 1",
 "points":100,
 "instrRAW":"som bygger på kursen gehörs- och musiklära 1.",
+"instrRAW2":"som bygger på kursen gehörs- och musiklära 1.",
 "reqRAW":"kursen MUIGEH01",
 "code":"MUIARA01",
 "goals":[1,0,0,1,1,2,2,2,1],
@@ -24,4 +25,6 @@
 "Eleven diskuterar <b>utförligt</b> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <b>nyanserade</b> omdömen sitt eget arbete. <b>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet</b>. I diskussionen och värderingen använder eleven <b>med viss säkerhet</b> musikteoretiska begrepp."],
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för <b>flera</b> typiska ensembler och musikformer från <b>flera</b> olika musikaliska epoker och stilar. Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i <b>flera</b> valda musikformer. Eleven noterar <b>enligt praxis med god läsbarhet</b> och läser <b>med säkerhet</b> musik <b>samt diskuterar utförligt och nyanserat olika notationssätt och ger exempel på deras användningsområden</b>.",
 "Eleven skapar musik i några olika, <b>både</b> traditionella <b>och ovanliga</b>, instrumentala eller vokala former, med <b>ett personligt uttryck, kreativitet och god konstnärlig kvalitet</b>. Eleven gör egna arrangemang och kompositioner för <b>flera olika vanliga</b> ensembler <b>och instrumentkombinationer med ett musikaliskt uttryck som är anpassat till instrumentens eller rösternas karaktär</b>. I arbetet använder eleven <b>med säkerhet</b> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
-"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <b>nyanserade</b> omdömen sitt eget arbete <b>och ger förslag på hur arbetet kan förbättras</b>. <b>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras</b>. I diskussionen och värderingen använder eleven <b>med säkerhet</b> musikteoretiska begrepp."]}}
+"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <b>nyanserade</b> omdömen sitt eget arbete <b>och ger förslag på hur arbetet kan förbättras</b>. <b>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras</b>. I diskussionen och värderingen använder eleven <b>med säkerhet</b> musikteoretiska begrepp."]},
+"req":"MUIGEH01",
+"reqBy":["MUIARA02"]}

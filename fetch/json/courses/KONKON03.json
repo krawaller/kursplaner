@@ -2,6 +2,7 @@
 "name":"Konferens 3",
 "points":100,
 "instrRAW":"som bygger på kursen konferens 2.",
+"instrRAW2":"som bygger på kursen konferens 2.",
 "reqRAW":"kursen KONKON02",
 "code":"KONKON03",
 "goals":[1,1,2,2,2,2,2],
@@ -35,4 +36,5 @@
 "a":["Eleven beskrive <b>utförligt och</b> <b>nyanserat</b> olika typer av konferensanläggningar och deras utbud samt, utifrån exempel, hur olika konferensanläggningar marknadsför sig. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika samarbetspartner att ordna arrangemang med samt deras utbud.",
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare arrangemang. I planeringen föreslår eleven <b>med s</b><b>äkerhet</b> aktiviteter som passar konferensens syfte utifrån konferensens ekonomiska ramar och med hänsyn till miljö och säkerhet. Dessutom väljer eleven <b>efter samråd</b> med handledare möblering och teknisk utrustning som passar för arrangemanget. Eleven iordningställer <b>med säkerhet</b> arrangemang samt genomför <b>med säkerhet</b> praktiska och administrativa uppgifter i samband med arrangemang, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven <b>med säkerhet</b> teknisk utrustning. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <b>efter samråd</b> med handledare.",
 "Eleven arbetar med hänsyn till hälsa, miljö, ekonomi och säkerhet utifrån lagar och andra bestämmelser. Dessutom värderar eleven med <b>nyanserade</b> omdömen arrangemangets säkerhe <b>samt ger förslag på hur säkerheten kan förbättras</b>.",
-"Eleven anpassar <b>med säkerhet</b> sitt arrangemang efter målgruppen och motiverar <b>utförligt och</b> <b>nyanserat</b> hur anpassningen är gjord. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med både kunder och medarbetare samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet och kommunikationen kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven anpassar <b>med säkerhet</b> sitt arrangemang efter målgruppen och motiverar <b>utförligt och</b> <b>nyanserat</b> hur anpassningen är gjord. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med både kunder och medarbetare samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet och kommunikationen kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"KONKON02"}

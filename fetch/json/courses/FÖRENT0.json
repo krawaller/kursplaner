@@ -2,6 +2,7 @@
 "name":"Entreprenörskap och företagande",
 "points":100,
 "instrRAW":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap.",
+"instrRAW2":"som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap.",
 "reqRAW":"kursen FÖRFÖR01 eller kursen ENTENR0",
 "code":"FÖRENT0",
 "goals":[0,1,1,1,0,1,0],
@@ -35,4 +36,8 @@
 "Eleven utvärderar med <b>nyanserade</b> omdömen företagets verksamhet, <b>ger förslag på hur verksamheten kan förbättras</b> samt gör en ekonomisk uppföljning. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen gruppens eller sin egen arbetsprocess <b>samt ger förslag på hur arbetsprocessen kan förbättras</b>.",
 "Eleven använder <b>med säkerhet</b> relevanta företagsekonomiska begrepp och metoder för företagets arbetsområde.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"judgechangewarn":true}
+"judgechangewarn":true,
+"req":{"type":"OR",
+"arr":["FÖRFÖR01",
+"ENTENR0"]},
+"reqBy":["FÖRMAD0"]}

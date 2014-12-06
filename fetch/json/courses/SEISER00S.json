@@ -2,6 +2,7 @@
 "name":"Serviceteknik - naturbruk - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen serviceteknik - naturbruk 2. Kursen kan läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen serviceteknik - naturbruk 2. Kursen kan läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SEISEI02",
 "code":"SEISER00S",
@@ -35,4 +36,5 @@
 "Eleven utför <b>efter samråd</b> med handledare ett serviceuppdrag. I uppdraget upprättar eleven en <b>avancerad</b> ekonomisk kalkyl med hänsyn till den tekniska utrustningens ålder, användningstid och slitage. Dessutom informerar eleven <b>med säkerhet</b> till kunder.",
 "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av den tekniska utrustningen. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "När arbetet är utfört upprättar eleven <b>efter samråd</b> med handledare ett arbetsprotokoll i vilket eleven utvärderar sitt arbete och resultat med <b>nyanserade</b> omdömen <b>och ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SEISEI02"}

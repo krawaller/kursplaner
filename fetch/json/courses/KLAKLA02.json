@@ -2,6 +2,7 @@
 "name":"Klassisk grekiska - språk och kultur 2",
 "points":100,
 "instrRAW":"som bygger på kursen klassisk grekiska - språk och kultur 1.",
+"instrRAW2":"som bygger på kursen klassisk grekiska - språk och kultur 1.",
 "reqRAW":"kursen KLAKLA01",
 "code":"KLAKLA02",
 "goals":[1,1,1,1,1],
@@ -22,4 +23,5 @@
 "Eleven redogör <b>utförligt</b> för huvuddragen i det antika Greklands historia och samhällsliv samt ger <b>välgrundade</b> exempel på några viktiga strömningar inom grekisk arkitektur, konst, litteratur och filosofi. Eleven för <b>välgrundade</b> resonemang om hur dessa strömningar har påverkat senare tiders konst, litteratur och idéer fram till vår egen tid. Eleven gör <b>välgrundade</b> tolkningar av grekiska texter utifrån sina kunskaper om grekisk historia, kultur och samhällsliv."],
 "a":["Eleven läser, återger och tolkar <b>såväl</b> huvudinnehålle <b>som detaljer</b> i enkla grekiska texter. Eleven läser grekisk vers med godtagbart uttal. I arbetet med texterna använder eleven <b>med säkerhet</b> den grekiska formläran och några mycket vanliga syntaktiska strukturer. Eleven beskriver enkl <b>och mer komplexa</b> företeelser i det grekiska språket med hjälp av relevanta begrepp. I arbetet med texterna använder eleven <b>med säkerhet</b> et <b>större</b> grekiskt basordförråd.",
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> sambandet mellan grekiska och svenska, engelska och andra moderna språk. Eleven identifierar och förklarar <b>utförligt och</b> <b>nyanserat</b> vanliga grekiska ord, orddelar, begrepp och uttryck i de moderna språken och inom vetenskaplig terminologi.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för huvuddragen i det antika Greklands historia och samhällsliv samt ger <b>välgrundade och nyanserade</b> exempel på några viktiga strömningar inom grekisk arkitektur, konst, litteratur och filosofi. Eleven för <b>välgrundade och nyanserade</b> resonemang om hur dessa strömningar har påverkat senare tiders konst, litteratur och idéer fram till vår egen tid. Eleven gör <b>välgrundade och nyanserade</b> tolkningar av grekiska texter utifrån sina kunskaper om grekisk historia, kultur och samhällsliv."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för huvuddragen i det antika Greklands historia och samhällsliv samt ger <b>välgrundade och nyanserade</b> exempel på några viktiga strömningar inom grekisk arkitektur, konst, litteratur och filosofi. Eleven för <b>välgrundade och nyanserade</b> resonemang om hur dessa strömningar har påverkat senare tiders konst, litteratur och idéer fram till vår egen tid. Eleven gör <b>välgrundade och nyanserade</b> tolkningar av grekiska texter utifrån sina kunskaper om grekisk historia, kultur och samhällsliv."]},
+"req":"KLAKLA01"}

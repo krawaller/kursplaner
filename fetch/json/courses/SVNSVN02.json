@@ -2,6 +2,7 @@
 "name":"Svenska för döva 2",
 "points":100,
 "instrRAW":"som bygger på kursen svenska för döva 1.",
+"instrRAW2":"som bygger på kursen svenska för döva 1.",
 "reqRAW":"kursen SVNSVN01",
 "code":"SVNSVN02",
 "goals":[1,1,1,1,1,1,1,1,1],
@@ -30,4 +31,6 @@
 "Eleven diskuterar översiktligt stil, innehåll och bärande tankar i skönlitterära verk och författarskap från olika tider och epoker utifrån några få centrala litteraturvetenskapliga begrepp. Eleven ger exempel på <b>litterära verkningsmedel, resonerar nyanserat om dem</b> och diskuterar <b>utförligt och nyanserat hur de skönlitterära verken förmedlar idéer och känslor samt sätter dessa verk och författarskap i relation till förhållanden</b> och idéströmningar i samhället.",
 "Eleven kan <b>med god precision</b> utifrån språkexempel redogöra för hur olika typer av satser, fraser och ord i svenska språket är uppbyggda och samspelar med varandra i grammatiken.",
 "Eleven ka <b>utförligt och</b> <b>nyanserat</b> redogöra för <b>några</b> aspekter av språksituationen i Sverige och övriga Norden.",
-"Eleven kan identifiera språkdrag och göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]}}
+"Eleven kan identifiera språkdrag och göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
+"req":"SVNSVN01",
+"reqBy":["SVNSVN03"]}

@@ -2,6 +2,7 @@
 "name":"Florist 4",
 "points":200,
 "instrRAW":"som bygger på kursen florist 3.",
+"instrRAW2":"som bygger på kursen florist 3.",
 "reqRAW":"kursen HAVFLO03",
 "code":"HAVFLO04",
 "comment":"<h2>Begrepp i kursen florist 4</h2><h3>Kostnadskalkyler</h3><p>I samband med att kostnadskalkyler behandlas kan prissättning av varor eller tjänster undersökas i relation till inköpskostnader och arbetad tid. </p><p></p><h3>Ansvarsfullt yrkesutövade</h3><p>Med ansvarsfullt yrkesutövande avses dels kvaliteten på det utförda binderiet, dels bemötandet av kunden. Att identifiera kundens behov är avgörande för en florist då hon eller han ska tillgodose dennas önskemål. Som florist behöver man kunna ställa relevanta frågor för att utröna behov och önskemål eftersom kunden inte alltid explicit kan beskriva dessa God service kan också generera merförsäljning i butiken.</p><p>Ansvarsfullt yrkesutövande kan också innefatta hur man uppträder på en arbetsplats. Som florist och företagare är det viktigt med ett gott företagsklimat där medarbetarna förstår sin egen roll för den psykosociala arbetsmiljön och tar ansvar för sitt yrkesutövande. Det gäller mot såväl kolleger som kunder och leverantörer.</p>",
@@ -37,4 +38,7 @@
 "Eleven använder <b>med säkerhet</b> tekniker och metoder och uppnår resultat <b>som uppfyller höga krav på</b> teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med <b>mycket gott</b> handlag. Under arbetet upptäcker och löser eleven <b>efter samråd</b> med handledare eventuella problem som uppkommer, <b>efter att ha övervägt alternativa lösningar</b>. Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin arbetsprocess och sitt resultat samt värderar dessa med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förslag på förbättringar av, <b>och alternativa tillvägagångssätt i</b>, arbetsprocessen. I beskrivningen använder eleven <b>med säkerhet</b> relevant <b>fackspråk</b>.",
 "Eleven använder <b>efter samråd</b> med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <b>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</b>.",
 "Eleven agerar kundorienterat i <b>nya</b> försäljnings- eller servicesituationer,<b> tar egna initiativ</b> samt motiverar <b>utförligt och</b> <b>nyanserat</b> sitt agerande <b>och ger förslag på alternativa tillvägagångssätt i agerandet</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"HAVFLO03",
+"reqBy":["HAVFLO05",
+"HAVFLO05S"]}

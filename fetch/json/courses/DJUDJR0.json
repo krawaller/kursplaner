@@ -2,6 +2,7 @@
 "name":"Djuren i naturbruket",
 "points":100,
 "instrRAW":"som bygger på kursen naturbruk.",
+"instrRAW2":"som bygger på kursen naturbruk.",
 "reqRAW":"kursen NAUNAU0",
 "code":"DJUDJR0",
 "goals":[1,0,1,2,2,1,1,1],
@@ -28,4 +29,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
 "Eleven följer arbetsinstruktioner och sköter och hanterar <b>efter samråd</b> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov. Dessutom sköter och hanterar eleven <b>efter samråd</b> med handledare utrustning och anläggningar på ett säkert sätt. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. När eleven arbetar med djur följer hon eller han aktuella hygienrutiner. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör djur.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"NAUNAU0"}

@@ -2,6 +2,7 @@
 "name":"Svenskt teckenspråk för hörande 7",
 "points":100,
 "instrRAW":"som bygger på kursen svenskt teckenspråk för hörande 6.",
+"instrRAW2":"som bygger på kursen svenskt teckenspråk för hörande 6.",
 "reqRAW":"kursen SVTSVT06",
 "code":"SVTSVT07",
 "goals":[1,1,1,1,1],
@@ -40,4 +41,5 @@
 "Eleven väljer teckenspråkiga texter från olika medier och använder på ett relevant,<b> effektivt och kritiskt</b> sätt det valda materialet i sin egen produktion och interaktion.",
 "I framställningar i olika genrer formulerar sig eleven <b>med god precision</b>, varierat,<b> nyanserat</b>, tydligt oc <b>välstrukturerat</b>. Eleven formulerar sig även med flyt oc <b>god</b> anpassning till syfte, mottagare och situation. Eleven bearbetar och gör välgrundad <b>och nyanserade</b> förbättringar av egna framställningar.",
 "I interaktion i olika, även formella och komplexa, sammanhang uttrycker sig eleven tydligt, ledigt och med flyt samt <b>med flexibel och effektiv</b> anpassning till syfte, mottagare och situation. Dessutom väljer och använder eleven <b>väl</b> fungerande strategier som löser problem i och förbättrar interaktionen <b>och för den framåt på ett konstruktivt sätt</b>. ",
-"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade och nyanserade</b> jämförelser med egna erfarenheter och kunskaper."]}}
+"Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang där teckenspråk används, och gör då också <b>välutvecklade och nyanserade</b> jämförelser med egna erfarenheter och kunskaper."]},
+"req":"SVTSVT06"}

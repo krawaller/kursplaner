@@ -2,6 +2,7 @@
 "name":"Skogsskötsel - specialisering",
 "points":100,
 "instrRAW":"som bygger på kursen skogsskötsel 2. Kursen kan läsas läsas flera gånger med olika innehåll.",
+"instrRAW2":"som bygger på kursen skogsskötsel 2. Kursen kan läsas läsas flera gånger med olika innehåll.",
 "repeat":"Kursen kan läsas läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen SKGSKO02",
 "code":"SKGSKG00S",
@@ -28,4 +29,5 @@
 "Eleven upprättar <b>efter samråd</b> med handledare en <b>genomarbetad</b> plan för skogsskötsel inom valt specialområde samt tar i planen hänsyn till natur- och kulturvärden och sociala värden. Eleven planerar och genomför <b>efter samråd</b> med handledare arbetsuppgifter inom valt specialområde inom skogsbruk. I planeringen gör eleven <b>välgrundade och nyanserade</b> bedömningar av när och hur olika arbetsuppgifter ska genomföras. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Resultatet av arbetet är <b>gott</b>. Dessutom gör eleven ekonomiska <b>avancerade</b> beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <b>nyanserade</b> omdömen.",
 "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom det valda specialområdet.",
 "När arbetet är utfört gör eleven en <b>välgrundad och nyanserad</b> bedömning av arbetsresultatet och rapporterar det.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SKGSKO02"}

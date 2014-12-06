@@ -2,6 +2,7 @@
 "name":"Konstruktion 3",
 "points":100,
 "instrRAW":"som bygger på kursen konstruktion 2.",
+"instrRAW2":"som bygger på kursen konstruktion 2.",
 "reqRAW":"kursen KOTKOS02",
 "code":"KOTKOS03",
 "goals":[1,1,1,0,1,1,1,1],
@@ -25,4 +26,5 @@
 "a":["Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för nya trender vid val av konstruktionsmaterial eller komponenter för hållbar utveckling.",
 "Eleven utför, med <b>gott</b> resultat, konstruktionsarbete där teknikområden integreras. Dessutom väljer eleven <b>efter samråd</b> med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <b>utförligt och</b> <b>nyanserat</b> sina val utifrån deras egenskaper och begränsningar. I arbetet löser eleven me <b>gott</b> resultat <b>komplexa</b> problem och konstruktionsuppgifter samt utför <b>avancerade</b> beräkningar genom att använda matematiska och teknikvetenskapliga samband. Dessutom utför eleven <b>med säkerhet avancerade</b> dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer. <b>Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter</b>.",
 "Eleven dokumenterar, redovisar och presenterar <b>med säkerhet</b> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"KOTKOS02"}

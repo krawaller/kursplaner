@@ -2,6 +2,7 @@
 "name":"Idrott och hälsa 2",
 "points":100,
 "instrRAW":"som bygger på kursen idrott och hälsa 1.",
+"instrRAW2":"som bygger på kursen idrott och hälsa 1.",
 "reqRAW":"kursen IDRIDR01",
 "code":"IDRIDR02",
 "goals":[1,1,1,1,1,1,1],
@@ -26,4 +27,5 @@
 "a":["Eleven kan <b>med säkerhet</b> och med goda rörelsekvaliteter genomföra en bredd av aktiviteter, <b>även av komplex karaktär</b>, som utvecklar den kroppsliga förmågan. I samband med det kan eleven <b>utförligt och</b> <b>nyanserat</b> beskriva aktiviteternas fysiologiska och psykologiska betydelse för den kroppsliga förmågan och hälsan.",
 "<b>Eleven kan redogöra för hälsobegreppets grunder</b> samt <b>utförligt och</b> <b>nyanserat</b> beskriva innebörden av ett hälsofrämjande arbetssätt. På denna grund kan eleven bedöma sina egna utvecklingsbehov i fråga om kroppslig förmåga, <b>med säkerhet</b> välja och planera områden och metoder för regelbunden träning, ta ett aktivt ansvar för att genomföra dessa samt med <b>nyanserade</b> omdömen värdera resultatet i relation till träningsmetodernas teori. <b>Vid behov kan eleven anpassa sin träning till variationer i förutsättningarna</b>. Eleven visar i utövandet av idrott, motion och friluftsliv hänsyn till sin egen och andras säkerhet samt kan <b>utförligt och</b> <b>nyanserat</b> beskriva riskfaktorer i samband med fysiska aktiviteter.",
 "Eleven kan <b>med säkerhet</b> och med goda rörelsekvaliteter beskriva friluftsliv, motion och idrott. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> beskriva friluftsliv, motion och idrott som sociala och kulturella fenomen och <b>utförligt och</b> <b>nyanserat</b> beskriva sociala faktorers betydelse för fysiska aktiviteter, livsstil och hälsa.",
-"Eleven kan <b>utförligt och</b> <b>nyanserat</b> beskriva kroppsideals påverkan på människors hälsa. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> beskriva hur miljöer kan anpassas till människors förutsättningar."]}}
+"Eleven kan <b>utförligt och</b> <b>nyanserat</b> beskriva kroppsideals påverkan på människors hälsa. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> beskriva hur miljöer kan anpassas till människors förutsättningar."]},
+"req":"IDRIDR01"}

@@ -2,8 +2,10 @@
 "name":"Språk specialisering - retorik 1a",
 "points":50,
 "instrRAW":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. I ett och samma språk kan endast betyg i en av kurserna språk specialisering - retorik 1a eller språk specialisering - retorik 1b ingå i elevens examen.",
+"instrRAW2":"som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. I ett och samma språk kan endast betyg i en av kurserna språk specialisering - retorik 1a eller språk specialisering - retorik 1b ingå i elevens examen.",
 "repeat":"Kursen kan läsas flera gånger i olika språk.",
 "reqRAW":"någon av kurserna ENGENG05, MODXXX05 eller MOEXXX01",
+"notwithRAW":"  I ett och samma språk kan endast betyg i en av kurserna SPAXXX01a eller SPAXXX01b ingå i elevens examen.",
 "code":"SPAXXX01a",
 "goals":[1,1,1,1],
 "level":"normal",
@@ -27,4 +29,11 @@
 "a":["Eleven genomför <b>med säkerhet</b> muntliga framställningar av olika slag och med varierande syften. I muntliga framställningar formulerar sig eleven varierat, <b>nyanserat</b>, tydligt och strukturerat. Eleven formulerar sig även med flyt och anpassning till syfte, mottagare och situation. Eleven har <b>god</b> åhörarkontakt.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för den retoriska arbetsprocessen. Eleven kommenterar <b>utförligt och</b> <b>nyanserat</b> förberedelser och genomförande av egna och andras muntliga framställningar.",
 "Med utgångspunkt i andra framställningar producerar eleven <b>med säkerhet</b> egna. Med <b>nyanserade</b> omdömen värderar eleven sin egen muntliga prestation samt ger <b>välgrundad och nyanserad</b> respons på andras muntliga framställningar. Med stöd av andras respons och egen reflektion bearbetar eleven egna framställningar och genomför <b>välgrundade och nyanserade</b> förbättringar.",
-"Eleven använder <b>med säkerhet och på ett väl integrerat sätt</b> presentationstekniska hjälpmedel och förklarar <b>utförligt</b> hur inspelningar av muntliga framställningar kan spridas. Eleven diskuterar översiktligt yttrandefrihet och ansvar."]}}
+"Eleven använder <b>med säkerhet och på ett väl integrerat sätt</b> presentationstekniska hjälpmedel och förklarar <b>utförligt</b> hur inspelningar av muntliga framställningar kan spridas. Eleven diskuterar översiktligt yttrandefrihet och ansvar."]},
+"req":{"type":"OR",
+"arr":["ENGENG05",
+"MODXXX05",
+"MOEXXX01"]},
+"notwith":{"type":"LINK",
+"target":"SPAXXX01b",
+"comment":"i samma språk"}}

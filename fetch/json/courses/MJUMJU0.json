@@ -2,6 +2,7 @@
 "name":"Mjukvarudesign",
 "points":100,
 "instrRAW":"som bygger på kursen programmering 1 och kursen webbutveckling 1.",
+"instrRAW2":"som bygger på kursen programmering 1 och kursen webbutveckling 1.",
 "reqRAW":"kursen PRRPRR01 och kursen WEBWEU01",
 "code":"MJUMJU0",
 "goals":[1,1,1,1,1,1],
@@ -34,4 +35,7 @@
 "Eleven deltar i ett projekt för att utveckla en applikation och följer <b>med säkerhet</b> vald utvecklingsmetodik. Dessutom skapar eleven med <b>gott</b> resultat installerbara paket av applikationen eller installationsprogram för applikationen.",
 "I sitt arbete <b>installerar och</b> använder eleven <b>flera</b> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, kodanalys och versionshantering. Dessutom skapar eleven <b>med säkerhet</b> kod som följer projektets specificerade kodstandard. Under arbetet använder och skapar eleven <b>med säkerhet</b> teknisk dokumentation, buggrapporter och tester. Eleven för <b>välgrundade och nyanserade</b> resonemang med användare och medarbetare för att föra arbetet framåt.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur produkten internationaliserats eller lokaliserats.",
-"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."]}}
+"Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."]},
+"req":{"type":"AND",
+"arr":["PRRPRR01",
+"WEBWEU01"]}}

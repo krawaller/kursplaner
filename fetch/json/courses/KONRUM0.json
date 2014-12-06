@@ -2,6 +2,7 @@
 "name":"Rums- och konferensbokning",
 "points":100,
 "instrRAW":"som bygger på kursen konferens 2 eller kursen reception 2.",
+"instrRAW2":"som bygger på kursen konferens 2 eller kursen reception 2.",
 "reqRAW":"kursen KONKON02 eller kursen RECREC02",
 "code":"KONRUM0",
 "goals":[1,0,1,1,1,1,1],
@@ -28,4 +29,7 @@
 "Eleven anpassar <b>med viss säkerhet</b> sitt arbete efter målgruppen och motiverar <b>utförligt</b> hur anpassningen är gjord. Eleven samarbetar och kommunicerar <b>med viss säkerhet</b> med både kunder och medarbetare samt anpassar <b>med viss säkerhet</b> sitt språk efter situationen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen. När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven redogö <b>utförligt och</b> <b>nyanserat</b> för olika typer av kundgrupper och deras önskemål. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika samarbetspartner och deras utbud. Eleven beskriver äve <b>utförligt och</b> <b>nyanserat</b> hur riktade erbjudanden kan öka försäljning och lönsamhet Eleven redogö <b>utförligt och</b> <b>nyanserat</b> för innebörden av olika typer av avtal samt för hur lönsamhetsberäkning och prissättning görs. ",
 "Eleven planerar, organiserar och utför <b>efter samråd</b> med handledare enklare administrativa och praktiska arbetsuppgifter i samband med bokning och uppnår ett resultat som uppfyller fastställda kvalitetskrav. Dessutom gör eleven <b>med säkerhet</b> enklare ekonomiska kalkyler samt utformar <b>med säkerhet</b> olika former av affärsdokument. I arbetet använder eleven <b>med säkerhet</b> relevant datorprogram. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser de <b>efter samråd</b> med handledare.",
-"Eleven anpassar <b>med säkerhet</b> sitt arbete efter målgruppen och motiverar <b>utförligt och</b> <b>nyanserat</b> hur anpassningen är gjord. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med både kunder och medarbetare samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet och kommunikationen kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"Eleven anpassar <b>med säkerhet</b> sitt arbete efter målgruppen och motiverar <b>utförligt och</b> <b>nyanserat</b> hur anpassningen är gjord. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med både kunder och medarbetare samt anpassar <b>med säkerhet</b> sitt språk efter situationen. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet och kommunikationen kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["KONKON02",
+"RECREC02"]}}

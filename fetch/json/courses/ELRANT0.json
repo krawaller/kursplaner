@@ -2,6 +2,7 @@
 "name":"Antenn- och kabel-TV-teknik",
 "points":100,
 "instrRAW":"som bygger på kursen elkraftteknik.",
+"instrRAW2":"som bygger på kursen elkraftteknik.",
 "reqRAW":"kursen ELRELF0",
 "code":"ELRANT0",
 "goals":[1,1,1,1,1,1,1],
@@ -31,4 +32,5 @@
 "a":["Eleven utför me <b>mycket gott</b> handlag enkelt,<b> men även mer avancerat</b>, installationsarbete på antenn- och kabel-tv. Eleven gör en <b>genomarbetad</b> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven <b>efter samråd</b> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den me <b>mycket gott</b> handlag och på ett miljömässigt sätt.",
 "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <b>efter samråd</b> med handledare.",
 "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten me <b>gott</b> resultat, gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete och tar i drift installationen.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELRELF0"}

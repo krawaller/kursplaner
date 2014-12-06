@@ -2,6 +2,7 @@
 "name":"Samhällskunskap 1b",
 "points":100,
 "instrRAW":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1a1 eller kursen samhällskunskap 1a2.",
+"instrRAW2":"som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1a1 eller kursen samhällskunskap 1a2.",
 "reqRAW":"de kunskaper grundskolan ger eller motsvarande",
 "notwithRAW":"kursen SAMSAM01a1 eller kursen SAMSAM01a2",
 "code":"SAMSAM01b",
@@ -30,4 +31,11 @@
 "a":["Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <b>utförligt och</b> <b>nyanserat</b> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven <b>komplexa</b> samband och drar <b>välgrundade</b> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> redogöra för de historiska förutsättningarnas betydelse och dra <b>välgrundade och nyanserade</b> slutsatser om hur nutida samhällsförhållanden, exempelvis arbetslivets utveckling, påverkar och påverkas av individer, grupper och samhällsstrukturer.",
 "Eleven kan analysera samhällsfrågor och identifierar <b>flera</b> orsaker och konsekvenser. I analysen använder eleven <b>med säkerhet</b> samhällsvetenskapliga begrepp, teorier, modeller och metoder <b>samt värderar dem med nyanserade omdömen</b>. Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <b>nyanserade</b> argument för sina ståndpunkter och värderar med <b>nyanserade</b> omdömen andras ståndpunkter.",
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.",
-"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <b>välgrundade och nyanserade</b> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]}}
+"I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <b>välgrundade och nyanserade</b> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]},
+"req":"de kunskaper grundskolan ger eller motsvarande",
+"notwith":{"type":"OR",
+"arr":["SAMSAM01a1",
+"SAMSAM01a2"]},
+"reqBy":["SAMSAM02",
+"SAMINE0",
+"SAMINR0"]}

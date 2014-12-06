@@ -2,6 +2,7 @@
 "name":"Bild",
 "points":100,
 "instrRAW":"som bygger på kursen bild och form 1b eller kursen bild och form 1a2.",
+"instrRAW2":"som bygger på kursen bild och form 1b eller kursen bild och form 1a2.",
 "reqRAW":"kursen BILBIL01b eller kursen BILBIL01a2",
 "code":"BILBIL0",
 "goals":[1,1,1,1,1,1,1],
@@ -39,4 +40,8 @@
 "Eleven visar och marknadsför sitt arbete för andra. Dessutom gör eleven <b>välgrundade och nyanserade</b> reflektioner över egna och andras publika presentationer.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> <b>flera</b> delar av den visuella kulturens uttryc <b>samt relaterar välgrundat sina beskrivningar till bildspråkliga teorier</b>. Dessutom identifierar och beskriver eleven <b>utförligt och</b> <b>nyanserat</b> karaktärsskillnader mellan bilder ur olika genrer. Eleven värderar med <b>nyanserade</b> omdömen hur sammanhanget påverkar bilden och hur bilder ges olika betydelser i olika sammanhang.",
 "Eleven redogör <b>utförligt</b> för etiska förhållningssätt samt för lagar och andra bestämmelser om upphovsrätt och arbetsmiljö.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["BILBIL01b",
+"BILBIL01a2"]},
+"reqBy":["BILBIL00S"]}

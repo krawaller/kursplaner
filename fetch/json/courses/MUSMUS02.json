@@ -2,6 +2,7 @@
 "name":"Musikproduktion 2",
 "points":100,
 "instrRAW":"som bygger på kursen musikproduktion 1.",
+"instrRAW2":"som bygger på kursen musikproduktion 1.",
 "reqRAW":"kursen MUSMUS01",
 "code":"MUSMUS02",
 "goals":[0,0,0,0,1,0,0,2,1],
@@ -36,4 +37,5 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> utifrån <b>flera</b> exempel hur inspelad musik kan användas tillsammans med andra medier.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för grundläggande ellära relaterad till musikproduktion. Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger <b>flera</b> adekvata förslag på hur felen kan avhjälpas eller repareras.",
 "Eleven planerar och genomför en större musikproduktion i samarbete med andra och resultatet är <b>gott</b>. Eleven uppvisar ett <b>gott</b> konstnärligt uttryck. <b>Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet.</b>",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"MUSMUS01"}

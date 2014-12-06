@@ -2,6 +2,7 @@
 "name":"Styckning 4",
 "points":100,
 "instrRAW":"som bygger på kursen styckning 3.",
+"instrRAW2":"som bygger på kursen styckning 3.",
 "reqRAW":"kursen STYSTY03",
 "code":"STYSTY04",
 "goals":[1,0,1,0,0,1,1,1,1,1],
@@ -27,4 +28,7 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> djurens anatomi. Dessutom redogör eleve <b>utförligt och</b> <b>nyanserat</b> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras. Vidare redogör eleven <b>utförligt och</b> <b>nyanserat</b> för styckningsdetaljernas kött- och styckningskvalitet.",
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare styckningsarbete. Vid planeringen gör eleven <b>med säkerhet</b> en styckningskalkyl samt motiverar <b>utförligt och</b> <b>nyanserat</b> sin kalkyl utifrån ekonomiska aspekter. Eleven genomför med <b>mycket gott</b> handlag styckning med ett <b>gott</b> resultat. Dessutom värderar eleven med <b>nyanserade</b> omdömen råvarornas kvalitet. I arbetet använder eleven <b>med säkerhet</b> utrustning, maskiner och verktyg. Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <b>med säkerhet</b> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom arbetar eleven <b>med säkerhet</b> på ett ekonomiskt och miljömässigt sätt.",
-"När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <b>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <b>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["STCSTY00S",
+"STYSTY00S"],
+"req":"STYSTY03"}

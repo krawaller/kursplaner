@@ -2,6 +2,7 @@
 "name":"Svenska för döva 1",
 "points":100,
 "instrRAW":"som bygger på de kunskaper specialskolan ger eller motsvarande.",
+"instrRAW2":"som bygger på de kunskaper specialskolan ger eller motsvarande.",
 "reqRAW":"de kunskaper specialskolan ger eller motsvarande",
 "code":"SVNSVN01",
 "goals":[1,1,1,1,1,1,1,1,1],
@@ -30,4 +31,6 @@
 "Eleven kan läsa, reflektera över och göra sammanfattningar av texter samt skriva egna texter so <b>lyfter fram huvudtanken i</b> det läst <b>och ger nya, relevanta perspektiv</b>. I sitt arbete värderar och granskar eleven <b>med säkerhet</b> källor kritiskt samt tillämpar grundläggande regler för citat- och referatteknik.",
 "Eleven kan översiktligt återge innehållet i några centrala svenska och internationella skönlitterära verk och annat berättande. <b>Eleven reflekterar också över innehåll och form med hjälp av några berättartekniska och stilistiska begrepp.</b> Dessutom kan eleven <b>utförligt redogöra</b> för några samband mellan olika verk genom att ge exempel på gemensamma teman och motiv. Eleven återger <b>några</b> iakttagelser, formulerar <b>välgrundade och nyanserade</b> egna tankar med utgångspunkt i berättandet <b>samt relaterar innehållet i berättandet på ett relevant sätt till allmänmänskliga förhållanden</b>.",
 "Eleven kan göra <b>välgrundade och nyanserade</b> reflektioner över hur språklig variation hänger samman med språkanvändare och kommunikationssituation samt ge exempel på <b>och nyanserat diskutera</b> hur språk och språkbruk kan markera avstånd och samhörighet. Dessutom resonerar eleven <b>utförligt,</b><b> utifrån flera olika perspektiv</b>, om attityder till <b>flera</b> olika former av språklig variation.",
-"Eleven kan göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]}}
+"Eleven kan göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
+"req":"de kunskaper specialskolan ger eller motsvarande",
+"reqBy":["SVNSVN02"]}

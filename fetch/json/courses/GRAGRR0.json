@@ -2,6 +2,7 @@
 "name":"Original, reproduktion och prepress",
 "points":100,
 "instrRAW":"som bygger på kursen grafisk kommunikation 2.",
+"instrRAW2":"som bygger på kursen grafisk kommunikation 2.",
 "reqRAW":"kursen GRAGRA02",
 "code":"GRAGRR0",
 "goals":[2,1,1,2,1,2],
@@ -27,4 +28,5 @@
 "Eleven visualiserar <b>med säkerhet</b> idéer och använder <b>efter samråd</b> med handledare relevanta digitala grafiska tekniker och program. I arbetet använder eleven <b>med säkerhet</b> relevant arbetsmetodik. Eleven för ett <b>välgrundat och nyanserat</b> resonemang om sitt val av innehåll och uttryckssätt, utifrån målgrupp, sammanhang och önskad effekt samt med utgångspunkt från produktionstekniska lösningar inom original-, reproduktions- och prepressprocessen.",
 "Eleven planerar och genomför, utifrån grafiska idéer, <b>med säkerhet</b> och med <b>god</b> teknisk och estetisk kvalitet processer och produktioner i relevanta grafiska program. Detta gör eleven inom överenskomna ramar vad gäller arbetsmetodik, kvalitetskrav och leverenskrav från beställare. I planeringen utgår eleven från den egna produktionssituatione <b>och kundens önskemål om teknisk kvalitet samt produktionstekniska lösningar inom valt område</b>.",
 "Dessutom gör eleven en <b>komplex</b> analys av sin produktion, som omfattar såväl processens olika delar som helhetsresultatet. I analysen för eleven <b>välgrundade och nyanserade</b> resonemang om på vilket sätt delarna bidrar till helhetsresultatet samt använder <b>och kombinerar</b> <b>med säkerhet</b> några bild- och kommunikationsteorier. Dessutom värderar eleven arbetsprocessen me <b>nyanserade</b> omdömen <b>och ger förslag på möjliga optimeringar avseende kvalitet och leveranssäkerhet samt standardisering av arbetsprocessens olika steg</b>. I diskussioner och resonemang använder eleven <b>med säkerhet</b> <b>flera</b> begrepp och fackspråksuttryck inom området.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"GRAGRA02"}

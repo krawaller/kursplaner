@@ -2,6 +2,7 @@
 "name":"Design 2",
 "points":100,
 "instrRAW":"som bygger på kursen design 1.",
+"instrRAW2":"som bygger på kursen design 1.",
 "reqRAW":"kursen DESDES01",
 "code":"DESDES02",
 "goals":[1,1,1,1,1,1,1,1,1,1],
@@ -27,4 +28,5 @@
 "a":["Eleven identifierar me <b>säkerhet</b> design från olika historiska perioder, samt diskuterar <b>utförligt och</b> <b>nyanserat</b> vad som karaktäriserar de olika periodernas design. I diskussionen redogör eleven också <b>utförligt och</b> <b>nyanserat</b> för människors olika behov och förutsättningar att hantera och samspela med produkter och miljöer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur design och designer både har påverkats av och påverkat sin samtid.",
 "Eleven söker och väljer <b>med säkerhet</b> information från olika källor för att lösa ett designproblem samt värderar med <b>nyanserade</b> omdömen källornas trovärdighet och relevans. Eleven gestaltar, genomför och beskriver <b>utförligt</b> arbetet i designprocessen <b>utifrån ett valt problem</b>. <b>Eleven motiverar utförligt och nyanserat sitt val av problem.</b> I gestaltningen och genomförandet <b>väljer och</b> använder eleven material och tekniker för att visualisera två- och tredimensionella idéer både analogt och virtuellt <b>samt motiverar sina val utförligt och</b> <b>nyanserat</b>. Eleven utför arbetet utifrån <b>egna val</b> och uppnår ett <b>gott</b> resultat. När arbetet är utfört utvärderar eleven sin process och sitt resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven gör också en <b>välgrundad och nyanserad</b> jämförelse av sin designidé och andras. Dessuto <b>väljer</b> eleven <b>presentationsform och</b> presenterar <b>med säkerhet</b> sin process och sitt resultat med bild, ritning, modell, skrift och tal.",
 "Eleven anpassar sitt arbete till ett tänkt företags varumärke samt motiverar <b>utförligt och</b> <b>nyanserat</b> sin anpassning utifrån estetiska kriterier.",
-"Eleven genomför ett projektarbete med ett <b>gott</b> resultat. I arbetet väljer eleven lämplig metod och redovisningsform samt motivera<b>r utförligt och</b> <b>nyanserat</b> sina val."]}}
+"Eleven genomför ett projektarbete med ett <b>gott</b> resultat. I arbetet väljer eleven lämplig metod och redovisningsform samt motivera<b>r utförligt och</b> <b>nyanserat</b> sina val."]},
+"req":"DESDES01"}

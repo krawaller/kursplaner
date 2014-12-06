@@ -2,6 +2,7 @@
 "name":"Elektronik - flyg",
 "points":100,
 "instrRAW":"som bygger på kursen ellära - flyg.",
+"instrRAW2":"som bygger på kursen ellära - flyg.",
 "reqRAW":"kursen FLYELL0",
 "code":"FLYELT0",
 "goals":[0,1,0,0,1,1,1,0,0],
@@ -20,4 +21,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> elektroniska komponenter, kretsar och system.",
 "Eleven <b>väljer</b> formler, <b>motiverar sina val</b> och utför <b>efter samråd</b> med handledare beräkningar samt redogör <b>utförligt och</b> <b>nyanserat</b> för <b>komplexa</b> samband inom området. Dessutom utför eleven i bekanta <b>och nya</b> situationer och utifrån laborationsanvisningar <b>avancerade</b> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten. I arbetet använder eleven <b>med säkerhet</b> relevanta begrepp och symboler. Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <b>utförligt</b> lagar och andra bestämmelser som styr verksamheten. Resultatet av elevens arbete är <b>gott</b>.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"FLYELL0"}

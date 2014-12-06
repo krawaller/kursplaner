@@ -2,6 +2,7 @@
 "name":"Planering före byggstart",
 "points":150,
 "instrRAW":"som bygger på kursen byggprocessens organisation.",
+"instrRAW2":"som bygger på kursen byggprocessens organisation.",
 "reqRAW":"kursen SAHBYP0",
 "code":"BYLPLA0",
 "goals":[0,0,1,1,0,1,1,0,0,0],
@@ -36,4 +37,6 @@
 "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>välgrundad och nyanserad</b> jämförelse av sitt eget resultat med andras, när det gäller funktion, teknik, ekonomi, miljö och arbetsmiljö.",
 "Eleven redogör <b>med säkerhet</b> för strategier och system för produktionsskedet i ett byggprojekt.",
 "Eleven använder <b>med säkerhet</b> begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"SAHBYP0",
+"reqBy":["BYLPRO0"]}

@@ -2,6 +2,7 @@
 "name":"Trädgårdsodling - grönsaker, frukt och bär",
 "points":100,
 "instrRAW":"som bygger på kursen trädgårdsodling eller kursen växtodling 1.",
+"instrRAW2":"som bygger på kursen trädgårdsodling eller kursen växtodling 1.",
 "reqRAW":"kursen TRRTRA0 eller kursen VAOVAT01",
 "code":"ODLTRR0",
 "goals":[1,1,1,1,1,0,1,1],
@@ -31,4 +32,7 @@
 "a":["Eleven tolkar <b>med säkerhet</b> odlingsplaner samt upprättar själv en <b>genomarbetad</b> odlingsplan med utgångspunkt i aktuella odlingsförutsättningar och motiverar <b>utförligt och</b> <b>nyanserat</b> sina val i planen. Planen innehåller en <b>avancerad</b> ekonomisk kalkyl. I planen beskriver eleven <b>utförligt och</b> <b>nyanserat</b> produktionsprocessen och odlingssystemet för de aktuella växtslagen. Eleven bedömer <b>efter samråd</b> med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat och miljöhänsyn.",
 "Eleven organiserar, planerar och utför <b>efter samråd</b> med handledare aktuella arbetsuppgifter inom odling av grönsaker, frukt och bär med aktuell teknisk utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleve <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör odling av grönsaker, frukt och bär.",
 "I samband med fältstudier beskriver eleven <b>utförligt och</b> <b>nyanserat</b> växternas utveckling och kvalitet samt identifierar <b>med säkerhet</b> ett flertal vanliga ogräs, växtsjukdomar, skadedjur och nyttodjur på trädgårdsväxter. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för de skador som ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga förebyggande åtgärder och direkta motåtgärder. Redogörelsen innehålle <b>välgrundade och nyanserade</b> förklaringar av samband mellan växternas utveckling och kondition och risk för angrepp.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["TRRTRA0",
+"VAOVAT01"]}}

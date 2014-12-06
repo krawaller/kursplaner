@@ -2,6 +2,7 @@
 "name":"Provning och kontrollarbete",
 "points":100,
 "instrRAW":"som bygger på kursen elektronikproduktionsteknik.",
+"instrRAW2":"som bygger på kursen elektronikproduktionsteknik.",
 "reqRAW":"kursen ELKELO0",
 "code":"ELKPRV0",
 "goals":[0,0,2,1,2,1,1,1],
@@ -27,4 +28,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med viss säkerhet</b> den egna förmågan och situationens krav."],
 "a":["Eleven planerar <b>efter samråd</b> med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater. I planeringen tolkar eleven <b>med säkerhet</b> arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför <b>efter samråd</b> med handledare provningen och kontrollen utifrån fastställda kvalitetskrav. Dessutom felsöker och reparerar eleven <b>efter</b> <b>samråd</b> med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater. I arbetet använder eleven <b>med säkerhet</b> metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <b>efter samråd</b> med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <b>gott</b>.",
 "När arbetet är utfört utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom för eleven <b>välgrundade och nyanserade</b> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELKELO0"}

@@ -2,6 +2,7 @@
 "name":"Mikrodatortillämpningar",
 "points":100,
 "instrRAW":"som bygger på kursen elektronik och mikrodatorteknik.",
+"instrRAW2":"som bygger på kursen elektronik och mikrodatorteknik.",
 "reqRAW":"kursen ELEELR0",
 "code":"ELEMIK0",
 "goals":[1,1,1,1,1,0,1,1],
@@ -34,4 +35,5 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> deras användningsområden.",
 "Eleven planerar och löser <b>efter samråd</b> med handledare <b>avancerade</b> styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar. Eleven programmerar kretsarna så att de på ett <b>gott</b> sätt uppfyller kraven på funktion och säkerhet. I arbetet använder och tolkar eleven <b>med säkerhet</b> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
 "Eleven utför <b>med säkerhet</b> felsökning i hård- och mjukvara. Dessutom utför eleven <b>avancerade</b> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"ELEELR0"}

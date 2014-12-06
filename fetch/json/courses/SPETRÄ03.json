@@ -2,8 +2,8 @@
 "name":"Tränings- och tävlingslära 3",
 "points":100,
 "instrRAW":"som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3.",
+"instrRAW2":"som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2.  ",
 "reqRAW":"kursen SPETRÄ02 eller kursen TRNTRN02",
-"notwithRAW":"kursen träningslära 3",
 "code":"SPETRÄ03",
 "goals":[0,1,0,1,1,1,0],
 "level":"high",
@@ -28,4 +28,7 @@
 "a":["Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> principer för prestationsutveckling samt sambandet mellan prestationsförmåga, prestationsberedskap, prestationstillstånd och prestationsfaktorer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika träningsmetoder och deras betydelse för prestationsutvecklingen inom vald idrott. Eleven beskriver även <b>utförligt och</b> <b>nyanserat</b> hur olika kvaliteter kan mätas genom tester. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för alternativa behandlingsformer för idrottsskador. I beskrivningar och redogörelser använder eleven <b>med säkerhet</b> centrala begrepp och teorier samt förklarar <b>komplexa</b> samband och drar <b>välgrundade och nyanserade</b> slutsatser.",
 "Eleven <b>väljer metoder och</b> planerar, utifrån kända teorier och uppsatta mål <b>samt aktuella förutsättningar</b>, olika träningsprogram för sig själv och för andra i syfte att utveckla den idrottsliga förmågan. <b>Dessutom motiverar eleven sina val</b>. <b>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå vid genomförandet</b>. Utifrån planeringen genomför eleven träningsprogrammen <b>efter samråd</b> med handledar <b>samt anpassar genomförandet till den aktuella situationen</b>. I träningen tar eleven ansva <b>samt anpassar tränings- och tävlingsplaneringen</b> för att förebygga skador och ohälsa. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av genomförda aktiviteter. Eleven utvärderar träningsprogrammen med <b>nyanserade</b> omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> möjliga alternativa lösningar och föreslår vid behov förbättringar. I utvärderingen resonerar eleven även <b>utförligt och</b> <b>nyanserat</b> om i vilken utsträckning träningen lever upp till vad internationell tränings- och tävlingsförberedelse på elitnivå kräver. Vidare värderar eleven <b>med säkerhet</b> sin förmåga att klara av de belastningar, fysiskt och psykiskt, som tränings- och tävlingsaktiviteter på elitnivå kräver. I sin tränings- och tävlingsverksamhet använder eleven <b>med säkerhet</b> olika metoder och teorier.",
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> olika attityder till och värderingar av träning och kroppsideal.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":{"type":"OR",
+"arr":["SPETRÄ02",
+"TRNTRN02"]}}

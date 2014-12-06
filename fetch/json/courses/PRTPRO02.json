@@ -2,7 +2,8 @@
 "name":"Produktionsfilosofi 2",
 "points":100,
 "instrRAW":"som bygger på produktionsfilosofi 1.",
-"reqRAW":"produktionsfilosofi 1",
+"instrRAW2":"som bygger på PRTPRO01.",
+"reqRAW":"PRTPRO01",
 "code":"PRTPRO02",
 "goals":[1,0,1,1,1,1,1,1],
 "level":"high",
@@ -30,4 +31,5 @@
 "Eleven planerar och genomför <b>efter samråd</b> med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <b>med säkerhet</b> metoder och verktyg för strukturerat förbättringsarbete. Eleven använder också <b>med säkerhet</b> kvalitetsstyrningssystem och miljöledningssystem. Dessutom ger eleven <b><strong>välgrundade <strong>och nyanserade</b> </strong></strong>argument för de valda systemen. Resultatet av elevens arbete är <b><strong>gott</b></strong>.",
 "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b><strong>nyanserade</b> </strong>omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom dokumenterar, redovisar och presenterar eleven <b>med säkerhet</b> sitt eller projektgruppens utvecklings- och förbättringsarbete.",
 "Eleven redogör <b><strong>utförligt</b> <b>och nyanserat</b> </strong>för leverantörens roll i utvecklingsprocessen och produktionskedjan. Eleven redogör också <b><strong>utförligt</b> <b>och nyanserat</b> </strong>för hur inköp, logistik och produktion samt miljö- och kvalitetsarbete samverkar i en optimal produktion. Dessutom redogör eleven <b><strong>utförligt</b> <b>och nyanserat</b> </strong>för beslutsprocesserna inom arbetsmiljö- och miljöområdet.",
-"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]}}
+"När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"req":"PRTPRO01"}
