@@ -6,7 +6,7 @@ var React = require('react'),
 
 var CourseContent = React.createClass({
   render: function(){
-    var content = this.props.content;
+    var content = this.props.course.content;
     return (
         <Section headline="Centralt innehåll">
             <ul>

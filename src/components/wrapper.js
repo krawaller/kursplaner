@@ -3,13 +3,13 @@
 var React = require('react'),
     Router = require('react-router'),
     RouteHandler = React.createFactory(Router.RouteHandler),
-    Topbar = require('./topbar');
+    Navbar = require('./navbar');
 
 var Wrapper = React.createClass({
     render: function() {
         return (
             <div className="wrapper">
-                <Topbar/>
+                <Navbar links={{Hem:"home","Ämnen":"subjects",Kurser:"courses"}}/>
                 <RouteHandler {...this.props} />
             </div>
         );
