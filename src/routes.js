@@ -10,14 +10,16 @@ var Router = require('react-router'),
   CourseGoals = require('./components/course_goals'),
   CourseGrades = require('./components/course_grades'),
   CourseDesc = require('./components/course_description'),
+  CourseComparer = require('./components/course_comparer'),
+  CourseCompareChoice = require('./components/course_comparechoice'),
 	Subject = require('./components/subject.js'),
-	SubjectList = require('./components/subjectlist.js'),
+	Subjects = require('./components/subjects.js'),
   SubjectDesc = require('./components/subject_desc.js'),
   SubjectPurpose = require('./components/subject_purpose.js'),
   SubjectGoals = require('./components/subject_goals.js'),
   SubjectCourseList = require('./components/subject_courselist'),
   SubjectAuth = require('./components/subject_auth'),
-	CourseList = require('./components/courselist.js'),
+	Courses = require('./components/courses.js'),
 	Wrapper = require('./components/wrapper.js'),
 	Home = require('./components/home.js');
 
@@ -33,7 +35,7 @@ module.exports = (
             <Route name="subjectcourses" path="/subjects/:subject/courses" handler={SubjectCourseList}/>
             <Route name="subjectauth" path="/subjects/:subject/auth" handler={SubjectAuth}/>
           </Route>
-        	<DefaultRoute handler={SubjectList}/>
+        	<DefaultRoute handler={Subjects}/>
       	</Route>
 
         <Route name="courses" path="/courses" handler={Multiroute}>
@@ -42,8 +44,12 @@ module.exports = (
             <Route name="coursegoals" path="/courses/:course/goals" handler={CourseGoals}/>
             <Route name="coursecontent" path="/courses/:course/content" handler={CourseContent}/>
             <Route name="coursegrades" path="/courses/:course/grades" handler={CourseGrades}/>
+            <Route name="comparetochoice" path="/courses/:course/compareto" handler={Multiroute}>
+              <Route name="comparetoother" path="/courses/:course/compareto/:other" handler={CourseComparer}/>
+              <DefaultRoute handler={CourseCompareChoice}/>
+            </Route>
           </Route>
-          <DefaultRoute handler={CourseList}/>
+          <DefaultRoute handler={Courses}/>
         </Route>
 
     </Route>

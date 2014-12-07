@@ -8,7 +8,7 @@ var CourseContent = React.createClass({
   render: function(){
     var content = this.props.course.content;
     return (
-        <Section headline="Centralt innehåll">
+        <Section {...this.props} headline="Centralt innehåll">
             <ul>
                 {_.isArray(content) ? content.map(function(c,n){
                     return <li key={n}>{c}</li>;

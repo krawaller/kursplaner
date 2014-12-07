@@ -234,7 +234,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 								console.log(code,"2:::",course.name,"WANTS TO BE",course.code,"but that's already taken by",GLOBAL.codetosubjcourse[course.code]);
 								throw "EEE";
 							}
-						} catch(e) {
+						} catch(e) {
 							console.log("Failed to read code and raw for course",type,code,course.name,"REG:",regdef);
 							throw e;
 						}
@@ -329,7 +329,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							if (!course.content){
 								var match = raw.match(a[1]);
 								if (match){
-									try {
+									try {
 										var o={}, part, block = match[a[0]];
 										while(part = block.match(/^<p>(.*?)<\/p><ul>(.*?)<\/ul>/)){
 											//console.log("PART",part);
@@ -652,6 +652,7 @@ _.each(GLOBAL.courses,function(course,code){
 	_.each(["descarr","reqRAW","notwithRAW","alsoreqRAW"],function(prop){
 		if (course[prop]){
 			_.each(names,function(name){
+				if (!(code==="HÄTDEN01a"&&name.toLowerCase()==="naturbruk"))
 				course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+GLOBAL.coursetocode[name]);
 			});
 			if (prop !== "descarr") course[prop.replace("RAW","")] = courseList(course[prop],code);
@@ -678,10 +679,50 @@ _.each(GLOBAL.courses,function(course,code){
 		});
 	}
 });
+
+// course selection
+//var dividers = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","W"];
+var dividers = ["A-C","D-E","F-G","H-J","K-L","M-N","O-R","S","T-Ö"];
+var dict = {};
+
+_.each(GLOBAL.courses,function(course,code){
+	var name = course.name;
+	var cat = _.contains(["Å","Ä","Ö"],name[0]) ? dividers[dividers.length-1] : _.find(dividers,function(l,n){
+		return name > l && n===dividers.length-1 || name < dividers[n+1];
+	});
+	if (!cat){
+		console.log("No category for",name,code);
+	} else {
+		dict[cat] = (dict[cat]||[]).concat(code);
+	}
+});
+_.each(dividers,function(l){
+	console.log("Letter",l,"has",(dict[l]||[]).length,"courses");
+	dict[l] = dict[l].sort(function(a,b){
+		return GLOBAL.courses[a].name > GLOBAL.courses[b].name ? 1 : -1;
+	});
+});
+console.log(dict);
+GLOBAL.coursedict = dict;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 _.each(GLOBAL.courses,function(course,code){
 	fs.writeFile("./courses/"+course.code+".json",JSON.stringify(course).replace(/\,"/g,',\n"').replace("��","å"));
 });
 GLOBAL.coursenames = GLOBAL.coursenames.sort();
 fs.writeFile("./master.json",JSON.stringify(GLOBAL));
-
 

@@ -16,36 +16,17 @@ var Course = React.createClass({
       Beskrivning: pre,
       "Centralt innehåll": pre+"/content",
       "Ämnesmål": pre+"/goals",
-      "Kunskapskrav": pre+"/grades"
+      "Kunskapskrav": pre+"/grades",
+      "Jämför med annan kurs": pre+"/compareto"
     };
     return !course ? <p>Hittar ingen kurs med kod {code}!</p> : !subject ? <p>Lyckades ej ladda ämne {course.subject} för {course.name}!</p> : (
       <div>
         <h2>Kursen {course.name}</h2>
         <NavBar links={links}/>
-        <RouteHandler course={course} subject={subject} DB={DB} />
+        <RouteHandler course={course} subject={subject} {...this.props} />
       </div>
     );
   }
 });
 
 module.exports = Course;
-
-/*
-<div>
-        <h2>Kurs {course.code}: {course.name}, {course.points} poäng</h2>
-        <CourseDescription course={course} subject={subject} DB={this.props.DB}/>
-        <CourseGoals course={course} subject={subject}/>
-        <CourseContent content={course.content}/>
-        <CourseGrades grades={course.judge}/>
-        {comm.comment && (
-          <Section headline="Kommentar till innehåll">
-            <div dangerouslySetInnerHTML={{__html:comm.comment}}/>
-          </Section>
-        )}
-        {comm.judgehelp && (
-          <Section headline="Kommentar till kunskapskrav">
-            <div dangerouslySetInnerHTML={{__html:comm.judgehelp}}/>
-          </Section>
-        )}
-      </div>
-*/

@@ -20,27 +20,25 @@ var CourseGrades = React.createClass({
         },this)}
       </div>
     );
-    var course = this.props.course;
+    var course = this.props.course,
+        j = course.judge,
+        rows = Math.max(j.a.length,j.c.length,j.e.length);
     return (
-        <Section headline="Kunskapskrav">
+        <Section headline="Kunskapskrav" {...this.props}>
             <h4>Visar {sel}</h4>
             { now !== "matris" ? (
                 _.map(course.judge[now],function(paraf,n){
                     return <p key={n} dangerouslySetInnerHTML={{__html:paraf}}/>;
                 })
-              ) : (
-                <div className='row'>
-                  {_.map(course.judge,function(content,grade){
+              ) : _.map(_.range(0,rows),function(n){
                     return (
-                      <div key={grade} className='col-sm-4'>
-                        {_.map(content,function(paraf,n){
-                            return <p key={n} dangerouslySetInnerHTML={{__html:paraf}}/>;
-                        })}
+                      <div key={n} className='row'>
+                        <div key="e" className='col-xs-4 padass' dangerouslySetInnerHTML={{__html:j.e[n]}} />
+                        <div key="c" className='col-xs-4 padass' dangerouslySetInnerHTML={{__html:j.c[n]}} />
+                        <div key="a" className='col-xs-4 padass' dangerouslySetInnerHTML={{__html:j.a[n]}} />
                       </div>
                     )
-                  })}
-                </div>
-              )
+                })
             }
     	</Section>
     );
