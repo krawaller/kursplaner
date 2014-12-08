@@ -33,4 +33,5 @@
 "I beskrivningarna använder eleven <b>med säkerhet</b> medicinsk terminologi."]},
 "judgechangewarn":true,
 "req":"MEDMED01",
+"reqarr":["MEDMED01"],
 "reqBy":["VADVAR00S"]}

@@ -51,4 +51,7 @@
 "MOEXXX01"]},
 "notwith":{"type":"LINK",
 "target":"SPAXXX01a",
-"comment":"i samma språk"}}
+"comment":"i samma språk"},
+"reqarr":["ENGENG05",
+"MODXXX05",
+"MOEXXX01"]}

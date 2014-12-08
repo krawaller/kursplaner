@@ -41,4 +41,7 @@
 "req":{"type":"OR",
 "arr":["SNOREP0",
 "MASREP0",
-"PERREA0"]}}
+"PERREA0"]},
+"reqarr":["SNOREP0",
+"MASREP0",
+"PERREA0"]}

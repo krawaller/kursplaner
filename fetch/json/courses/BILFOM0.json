@@ -49,4 +49,6 @@
 "req":{"type":"OR",
 "arr":["BILBIL01a2",
 "BILBIL01b"]},
+"reqarr":["BILBIL01a2",
+"BILBIL01b"],
 "reqBy":["BILBIL00S"]}

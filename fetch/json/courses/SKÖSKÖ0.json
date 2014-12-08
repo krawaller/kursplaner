@@ -38,5 +38,7 @@
 "req":{"type":"OR",
 "arr":["BIGMAN0",
 "VÄXVÄK0"]},
+"reqarr":["BIGMAN0",
+"VÄXVÄK0"],
 "reqBy":["SKÖBEK0",
 "SKÖSKÖ00S"]}

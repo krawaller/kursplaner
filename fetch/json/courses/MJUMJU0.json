@@ -44,4 +44,6 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."]},
 "req":{"type":"AND",
 "arr":["PRRPRR01",
-"WEBWEU01"]}}
+"WEBWEU01"]},
+"reqarr":["PRRPRR01",
+"WEBWEU01"]}

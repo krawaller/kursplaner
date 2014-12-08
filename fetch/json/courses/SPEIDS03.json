@@ -35,4 +35,7 @@
 "req":{"type":"AND",
 "arr":["SPEIDS02",{"type":"OR",
 "arr":["SPETRÄ02",
-"TRNTRN02"]}]}}
+"TRNTRN02"]}]},
+"reqarr":["SPEIDS02",
+"SPETRÄ02",
+"TRNTRN02"]}

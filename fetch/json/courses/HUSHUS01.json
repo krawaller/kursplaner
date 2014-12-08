@@ -54,4 +54,7 @@
 "arr":["BYGBYG02",{"type":"AND",
 "arr":["PRUPRD01S",
 "PRDPRO01"]}]},
+"reqarr":["BYGBYG02",
+"PRUPRD01S",
+"PRDPRO01"],
 "reqBy":["HUSHUS02"]}

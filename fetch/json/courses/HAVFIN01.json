@@ -47,4 +47,5 @@
 "req":{"type":"LINK",
 "target":"HAVHAV0",
 "comment":"med innehåll finsnickeri"},
+"reqarr":["HAVHAV0"],
 "reqBy":["HAVFIN02"]}

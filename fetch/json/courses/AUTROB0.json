@@ -37,4 +37,7 @@
 "req":{"type":"OR",
 "arr":["MÄTPRR0",{"type":"AND",
 "arr":["DARDAT01S",
-"DARDAT02"]}]}}
+"DARDAT02"]}]},
+"reqarr":["MÄTPRR0",
+"DARDAT01S",
+"DARDAT02"]}

@@ -42,4 +42,7 @@
 "req":{"type":"AND",
 "arr":["DAOINU0",{"type":"OR",
 "arr":["PROPRC01",
-"PROPRE0"]}]}}
+"PROPRE0"]}]},
+"reqarr":["DAOINU0",
+"PROPRC01",
+"PROPRE0"]}

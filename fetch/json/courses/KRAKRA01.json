@@ -42,4 +42,6 @@
 "req":{"type":"AND",
 "arr":["ENEENE02",
 "ENEVAE0"]},
+"reqarr":["ENEENE02",
+"ENEVAE0"],
 "reqBy":["KRAKRA02"]}

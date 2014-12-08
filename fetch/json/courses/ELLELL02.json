@@ -34,6 +34,7 @@
 "Eleven utför <b>efter samråd</b> med handledare elektriska mätningar på trefassystem. Inför arbetet väljer eleven <b>med säkerhet</b> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <b>välgrundad</b> riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <b>efter samråd</b> med handledare <b>avancerade</b> beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <b>med säkerhet</b> lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför <b>efter samråd</b> med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELLELL01",
+"reqarr":["ELLELL01"],
 "reqBy":["INSBES0",
 "INSELI0",
 "INSELS0"]}

@@ -43,4 +43,6 @@
 "TRRTRA00S"],
 "req":{"type":"OR",
 "arr":["TRRTRA0",
-"VAOVAT01"]}}
+"VAOVAT01"]},
+"reqarr":["TRRTRA0",
+"VAOVAT01"]}

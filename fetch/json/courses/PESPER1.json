@@ -61,4 +61,5 @@
 "notwith":{"type":"OR",
 "arr":["PESPER01a",
 "PESPER01b"]},
+"reqarr":["TRAYRK1"],
 "reqBy":["PESPER00S"]}

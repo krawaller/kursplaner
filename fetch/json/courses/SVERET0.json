@@ -32,4 +32,6 @@
 "Eleven kan göra en <b>komplex</b> analys av såväl muntlig framställning i olika medier som nedtecknade tal utifrån den retoriska arbetsprocessen. I analysen använder eleven på ett korrekt sätt grundläggande retoriska begrepp <b>och verktyg för att fördjupa analysen</b>."]},
 "req":{"type":"OR",
 "arr":["SVESVE01",
-"SVASVA01"]}}
+"SVASVA01"]},
+"reqarr":["SVESVE01",
+"SVASVA01"]}

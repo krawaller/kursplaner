@@ -55,4 +55,6 @@
 "SKMSKO00S"],
 "req":{"type":"OR",
 "arr":["SKMTER0",
-"NABFOR0"]}}
+"NABFOR0"]},
+"reqarr":["SKMTER0",
+"NABFOR0"]}

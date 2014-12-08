@@ -38,4 +38,6 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> beskriva, inom flera olika områden, hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare utför eleven en enkel naturvetenskaplig undersökning samt redogör <b>utf��rligt</b> <b>och nyanserat</b> för den, värderar den med <b>nyanserade</b> omdömen <b>och ger förslag på hur den kan förbättras</b>. Dessutom kan eleven g <b>komplexa</b> exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar <b>utförligt och</b> <b>nyanserat</b> utifrån <b>några</b> exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt och för människans världsbild."]},
 "req":{"type":"OR",
 "arr":["NAKNAK01a2",
-"NAKNAK01b"]}}
+"NAKNAK01b"]},
+"reqarr":["NAKNAK01a2",
+"NAKNAK01b"]}

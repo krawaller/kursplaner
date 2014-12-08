@@ -34,4 +34,6 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för några historiska skeenden och händelser som har använts på olika sätt samt <b>utförligt och</b> <b>nyanserat</b> förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med <b>nyanserade</b> omdömen deras betydelse för nutida skeenden och händelser."]},
 "req":{"type":"OR",
 "arr":["HISHIS02a",
-"HISHIS02b"]}}
+"HISHIS02b"]},
+"reqarr":["HISHIS02a",
+"HISHIS02b"]}

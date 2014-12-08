@@ -59,4 +59,5 @@
 "req":"ANAANA03",
 "notwith":{"type":"OR",
 "arr":["MOBGRV0",
-"MOBHJU0"]}}
+"MOBHJU0"]},
+"reqarr":["ANAANA03"]}

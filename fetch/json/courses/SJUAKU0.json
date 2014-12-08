@@ -40,4 +40,6 @@
 "req":{"type":"AND",
 "arr":["VÅRVÅR02",
 "MEDMED01"]},
+"reqarr":["VÅRVÅR02",
+"MEDMED01"],
 "reqBy":["VADVAR00S"]}

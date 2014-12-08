@@ -41,4 +41,6 @@
 "INRROB0"],
 "req":{"type":"OR",
 "arr":["MÄTMÄO0",
-"PRRPRR01"]}}
+"PRRPRR01"]},
+"reqarr":["MÄTMÄO0",
+"PRRPRR01"]}

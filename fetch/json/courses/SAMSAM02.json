@@ -33,5 +33,7 @@
 "req":{"type":"OR",
 "arr":["SAMSAM01a2",
 "SAMSAM01b"]},
+"reqarr":["SAMSAM01a2",
+"SAMSAM01b"],
 "reqBy":["SAMSAM03",
 "HUMHUM00S"]}

@@ -43,4 +43,6 @@
 "req":{"type":"AND",
 "arr":["TRAYRK01a",
 "TRAYRK01b"]},
+"reqarr":["TRAYRK01a",
+"TRAYRK01b"],
 "reqBy":["GOSGOD00S"]}

@@ -56,5 +56,8 @@
 "notwith":{"type":"OR",
 "arr":["MATMAT02a",
 "MATMAT02b"]},
+"reqarr":["MATMAT01a",
+"MATMAT01b",
+"MATMAT01c"],
 "reqBy":["MATMAT03b",
 "MATMAT03c"]}

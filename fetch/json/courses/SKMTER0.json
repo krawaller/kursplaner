@@ -50,4 +50,6 @@
 "req":{"type":"OR",
 "arr":["NAUNAU0",
 "RENREE01"]},
-"notwith":"NABFOR0"}
+"notwith":"NABFOR0",
+"reqarr":["NAUNAU0",
+"RENREE01"]}

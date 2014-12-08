@@ -41,4 +41,5 @@
 "Resultatet av arbetet är <b>gott</b>. I arbetet utför eleven <b>efter samråd</b> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion. Eleven löser också <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"HÄTHÄS01",
+"reqarr":["HÄTHÄS01"],
 "reqBy":["HÄTHÄS03"]}

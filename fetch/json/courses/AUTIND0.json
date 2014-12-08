@@ -32,4 +32,7 @@
 "req":{"type":"AND",
 "arr":["MÄTMÄO0",
 "MÄTMÄT0",
-"MÄTPRR0"]}}
+"MÄTPRR0"]},
+"reqarr":["MÄTMÄO0",
+"MÄTMÄT0",
+"MÄTPRR0"]}

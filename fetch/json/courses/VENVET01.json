@@ -52,4 +52,5 @@
 "req":{"type":"OR",
 "arr":["BYGBYG02",
 "VVS - grund"]},
+"reqarr":["BYGBYG02"],
 "reqBy":["VENVET02"]}

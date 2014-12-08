@@ -40,4 +40,5 @@
 "notwith":{"type":"OR",
 "arr":["NAKNAK01a1",
 "NAKNAK01a2"]},
+"reqarr":[],
 "reqBy":["NAKNAK02"]}

@@ -40,6 +40,8 @@
 "req":{"type":"AND",
 "arr":["MASMAI0",
 "MASREP0"]},
+"reqarr":["MASMAI0",
+"MASREP0"],
 "reqBy":["MASMOB01",
 "MASANP0",
 "MASSTY0"]}

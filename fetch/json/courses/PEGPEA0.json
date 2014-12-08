@@ -46,4 +46,6 @@
 "req":{"type":"AND",
 "arr":["PEDLÄR0",
 "PEDMÄI0"]},
+"reqarr":["PEDLÄR0",
+"PEDMÄI0"],
 "reqBy":["PEDPED0"]}

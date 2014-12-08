@@ -41,4 +41,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["CHACHA03",
 "STYCHA03"],
-"req":"STYCHA01"}
+"req":"STYCHA01",
+"reqarr":["STYCHA01"]}

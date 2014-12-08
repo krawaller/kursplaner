@@ -47,4 +47,7 @@
 "req":{"type":"AND",
 "arr":["SKMVIE0",
 "SKGVIR0",
-"SKGSKO01"]}}
+"SKGSKO01"]},
+"reqarr":["SKMVIE0",
+"SKGVIR0",
+"SKGSKO01"]}

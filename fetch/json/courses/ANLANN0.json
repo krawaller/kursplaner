@@ -54,4 +54,6 @@
 "req":{"type":"OR",
 "arr":["ANLANL02",
 "ANAANA02"]},
+"reqarr":["ANLANL02",
+"ANAANA02"],
 "reqBy":["MOBVAG0"]}

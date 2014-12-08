@@ -45,4 +45,5 @@
 "Eleven demonstrerar med <b>mycket gott</b> handlag läs-, skriv-, uppdaterings- och raderingsoperationer gentemot lagrad data från någon egenutvecklad applikation eller ett egenutvecklat kodbibliotek. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.",
 "Eleven utvecklar med <b>gott</b> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.",
 "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <b>utförligt och</b> <b>nyanserat</b> om personlig integritet och andra etiska frågor i relation till datalagring."]},
-"req":"WEBWEB01"}
+"req":"WEBWEB01",
+"reqarr":["WEBWEB01"]}

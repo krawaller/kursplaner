@@ -45,4 +45,5 @@
 "reqBy":["LAULAT02",
 "NABLAT02"],
 "req":"NABFOR0",
-"notwith":"NABLAT01"}
+"notwith":"NABLAT01",
+"reqarr":["NABFOR0"]}

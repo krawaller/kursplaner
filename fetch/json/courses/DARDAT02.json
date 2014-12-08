@@ -31,4 +31,5 @@
 "reqBy":["AUTROB0",
 "DARDAT03",
 "INRROB0"],
-"req":"DARDAT01S"}
+"req":"DARDAT01S",
+"reqarr":["DARDAT01S"]}

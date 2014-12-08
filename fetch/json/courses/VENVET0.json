@@ -49,4 +49,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":{"type":"OR",
 "arr":["BYGBYG02",
-"VVS - grund"]}}
+"VVS - grund"]},
+"reqarr":["BYGBYG02"]}

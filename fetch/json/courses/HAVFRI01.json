@@ -44,4 +44,5 @@
 "req":{"type":"LINK",
 "target":"HAVHAV0",
 "comment":"med innehåll frisör"},
+"reqarr":["HAVHAV0"],
 "reqBy":["HAVFRI02"]}

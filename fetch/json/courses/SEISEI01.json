@@ -43,4 +43,6 @@
 "req":{"type":"OR",
 "arr":["NABFOR0",
 "SKMTER0"]},
+"reqarr":["NABFOR0",
+"SKMTER0"],
 "reqBy":["SEISEI02"]}

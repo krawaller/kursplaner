@@ -44,5 +44,6 @@
 "req":{"type":"LINK",
 "target":"HAVHNT03",
 "comment":"med innehåll från vald profil"},
+"reqarr":["HAVHNT03"],
 "reqBy":["HAVHNT05",
 "HAVHNT05S"]}

@@ -43,4 +43,5 @@
 "req":{"type":"LINK",
 "target":"HAVHNT05",
 "comment":"med innehåll från vald profil"},
-"notwith":"HAVHNT06a"}
+"notwith":"HAVHNT06a",
+"reqarr":["HAVHNT05"]}

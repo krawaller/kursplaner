@@ -46,5 +46,7 @@
 "req":{"type":"OR",
 "arr":["MATMAT03b",
 "MATMAT03c"]},
+"reqarr":["MATMAT03b",
+"MATMAT03c"],
 "reqBy":["MATMAT05",
 "MATMAT00S"]}

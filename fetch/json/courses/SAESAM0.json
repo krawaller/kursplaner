@@ -52,4 +52,6 @@
 "SAMSAM01a1"]},
 "notwith":{"type":"OR",
 "arr":["HISHIS02a",
-"HISHIS02b"]}}
+"HISHIS02b"]},
+"reqarr":["HISHIS01a1",
+"SAMSAM01a1"]}

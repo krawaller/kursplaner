@@ -42,6 +42,7 @@
 "I samband med fältstudier identifierar eleven <b>med säkerhet</b> vanliga vilda djur och grupperar dem <b>med säkerhet</b> efter det vetenskapliga system som används för att gruppera djur. ",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om djur. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> begrepp, teorier och modeller."]},
 "req":"BIOBIO01",
+"reqarr":["BIOBIO01"],
 "reqBy":["BIGBEA0",
 "BIGBIG00S",
 "DJRDJU01",

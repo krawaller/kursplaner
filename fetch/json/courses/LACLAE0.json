@@ -44,4 +44,6 @@
 "req":{"type":"AND",
 "arr":["FODFOO0",
 "FORFOD0"]},
+"reqarr":["FODFOO0",
+"FORFOD0"],
 "reqBy":["LACBAK0"]}

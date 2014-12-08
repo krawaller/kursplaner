@@ -37,4 +37,5 @@
 "reqBy":["RIDTRA02",
 "TRVTRA02"],
 "req":"RINRID0",
-"notwith":"RINKOR01"}
+"notwith":"RINKOR01",
+"reqarr":["RINRID0"]}

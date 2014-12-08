@@ -32,4 +32,6 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> resonera om kvalitet och tolkningsmöjligheter hos skönlitterär text <b>samt utförligt och nyanserat om olika grunder för att värdera kvalitet</b>. I samband med resonemanget formulerar eleven en tes och ger <b>välgrundade och nyanserade</b> argument till stöd för tesen."]},
 "req":{"type":"OR",
 "arr":["SVESVE01",
-"SVASVA01"]}}
+"SVASVA01"]},
+"reqarr":["SVESVE01",
+"SVASVA01"]}

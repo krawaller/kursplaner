@@ -43,4 +43,7 @@
 "req":{"type":"OR",
 "arr":["ENEENE01",
 "SKGSKO01",
-"VAOVAT01"]}}
+"VAOVAT01"]},
+"reqarr":["ENEENE01",
+"SKGSKO01",
+"VAOVAT01"]}

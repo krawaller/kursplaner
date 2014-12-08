@@ -44,4 +44,6 @@
 "Eleven kategoriserar <b>med säkerhet</b>, diskuterar <b>utförligt och</b> <b>nyanserat</b> samt värderar med <b>nyanserade</b> omdömen egna och andras publika presentationer. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för sina intentioner med sitt bild- eller formskapande samt diskuterar <b>utförligt och</b> <b>nyanserat</b> i vilken utsträckning hon eller han lyckas kommunicera det tänkta budskapet. I detta redogör eleven <b>utförligt och</b> <b>nyanserat</b> för förtjänster och brister i sitt eget bildarbete. Eleven använder <b>med säkerhet</b> relevanta begrepp."]},
 "req":{"type":"OR",
 "arr":["BILBIL0",
-"BILFOM0"]}}
+"BILFOM0"]},
+"reqarr":["BILBIL0",
+"BILFOM0"]}

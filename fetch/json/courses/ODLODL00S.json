@@ -39,4 +39,7 @@
 "req":{"type":"OR",
 "arr":["TRRTRG0",
 "TRRTRD0",
-"VAOVAT02"]}}
+"VAOVAT02"]},
+"reqarr":["TRRTRG0",
+"TRRTRD0",
+"VAOVAT02"]}

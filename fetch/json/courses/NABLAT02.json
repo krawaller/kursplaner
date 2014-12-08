@@ -43,4 +43,6 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":{"type":"OR",
 "arr":["NABLAT01",
-"TRSTRG0"]}}
+"TRSTRG0"]},
+"reqarr":["NABLAT01",
+"TRSTRG0"]}

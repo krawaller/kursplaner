@@ -55,5 +55,7 @@
 "req":{"type":"OR",
 "arr":["FYSFYS01a",
 "FYSFYS01b2"]},
+"reqarr":["FYSFYS01a",
+"FYSFYS01b2"],
 "reqBy":["FYSFYS03",
 "NAVNAT00S"]}

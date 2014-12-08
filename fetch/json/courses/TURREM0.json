@@ -38,4 +38,6 @@
 "TURVÄR0"],
 "req":{"type":"OR",
 "arr":["TURBEÖ0",
-"FORFOD0"]}}
+"FORFOD0"]},
+"reqarr":["TURBEÖ0",
+"FORFOD0"]}

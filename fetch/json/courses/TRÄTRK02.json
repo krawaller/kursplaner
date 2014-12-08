@@ -48,4 +48,5 @@
 "reqBy":["GOLGOL03",
 "TRÄTRK03"],
 "req":"TRÄTRK01",
-"notwith":"TRÄBYG0"}
+"notwith":"TRÄBYG0",
+"reqarr":["TRÄTRK01"]}

@@ -39,4 +39,7 @@
 "req":{"type":"OR",
 "arr":["ELRELF0",
 "ELLELL02",
-"ELLPRA0"]}}
+"ELLPRA0"]},
+"reqarr":["ELRELF0",
+"ELLELL02",
+"ELLPRA0"]}

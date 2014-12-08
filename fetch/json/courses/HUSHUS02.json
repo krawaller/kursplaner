@@ -47,6 +47,7 @@
 "I arbetet samverkar och kommunicerar eleven med andra samt använder facksprå <b>med säkerhet</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"HUSHUS01",
+"reqarr":["HUSHUS01"],
 "reqBy":["HUSHUS03",
 "MURMUR01",
 "TÄTTÄT0",

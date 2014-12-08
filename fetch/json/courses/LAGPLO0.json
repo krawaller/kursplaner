@@ -45,4 +45,7 @@
 "req":{"type":"OR",
 "arr":["LAGLAG0",
 "LAGLAP0",
-"INKLOG02"]}}
+"INKLOG02"]},
+"reqarr":["LAGLAG0",
+"LAGLAP0",
+"INKLOG02"]}

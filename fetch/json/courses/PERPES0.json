@@ -39,4 +39,6 @@
 "req":{"type":"AND",
 "arr":["FORFOD0",
 "FODFOO0"]},
+"reqarr":["FORFOD0",
+"FODFOO0"],
 "reqBy":["PERREA0"]}

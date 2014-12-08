@@ -33,4 +33,6 @@
 "Eleven värderar det musikaliska resultatet med <b>nyanserade</b> omdömen och <b>ger förslag på hur arbetet kan förbättras</b> samt diskuterar <b>utförligt och</b> <b>nyanserat</b> åtgärder för att utveckla repetitionsarbetet <b>och kommer med välgrundade och motiverade förslag på åtgärder för att utveckla repetitionsarbetet</b>. Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> samt föreslår <b>flera</b> tolkningsalternativ. Eleven kommunicerar med och anpassar sin kommunikation <b>med säkerhet</b> till publiken. <b>Eleven uppvisar ledighet och personligt uttryck i sin kommunikation med publiken</b>."]},
 "req":{"type":"OR",
 "arr":["MUSENS0",
-"MUSENS01"]}}
+"MUSENS01"]},
+"reqarr":["MUSENS0",
+"MUSENS01"]}

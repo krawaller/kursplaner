@@ -37,4 +37,5 @@
 "Eleven presenterar och rekommenderar <b>med säkerhet</b> mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför me <b>mycket gott</b> handlag servering av mat och dryck i det aktuella sammanhanget. Eleven arbetar <b>med säkerhet</b> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <b>efter samråd</b> med handledare arbetet på ett serviceinriktat sätt. Eleven utför också för aktiviteten relevant kalkylering och prissättnin <b>efter samråd</b> med handledare.",
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"req":"SERSER02"}
+"req":"SERSER02",
+"reqarr":["SERSER02"]}

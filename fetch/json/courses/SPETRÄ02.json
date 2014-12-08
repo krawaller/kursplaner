@@ -40,5 +40,7 @@
 "arr":["SPETRÄ01",
 "TRNTRN01"]},
 "notwith":"TRNTRN02",
+"reqarr":["SPETRÄ01",
+"TRNTRN01"],
 "reqBy":["SPEIDS03",
 "SPETRÄ03"]}

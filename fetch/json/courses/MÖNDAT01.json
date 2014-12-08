@@ -33,4 +33,5 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DAIMON02",
 "MÖNDAT02"],
-"req":"MÖNMÖN02"}
+"req":"MÖNMÖN02",
+"reqarr":["MÖNMÖN02"]}

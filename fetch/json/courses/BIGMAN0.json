@@ -47,6 +47,7 @@
 "I samband med fältstudier identifierar eleven <b>med säkerhet</b> och namnger, med svenska namn, <b>flera</b> vanliga vilda växter, nyttodjur, skadedjur, växtsjukdomar och skadesymtom. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> ekologiska samband mellan klimat, växter, skadeorganismer och nyttiga organismer.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket samt söker <b>med säkerhet</b> information om växter."]},
 "req":"BIOBIO01",
+"reqarr":["BIOBIO01"],
 "reqBy":["BIGBEA0",
 "BIGBIG00S",
 "MOBGRV0",

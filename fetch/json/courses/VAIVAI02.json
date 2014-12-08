@@ -42,4 +42,5 @@
 "reqBy":["ADMPER0",
 "HOTVÅN03",
 "VAIVAI03"],
-"req":"VAIVAI01"}
+"req":"VAIVAI01",
+"reqarr":["VAIVAI01"]}

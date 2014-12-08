@@ -51,4 +51,6 @@
 "SKMAVV0"],
 "req":{"type":"OR",
 "arr":["MOTMOT01",
-"PRUPRD01S"]}}
+"PRUPRD01S"]},
+"reqarr":["MOTMOT01",
+"PRUPRD01S"]}

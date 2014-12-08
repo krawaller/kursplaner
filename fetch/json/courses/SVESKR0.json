@@ -42,4 +42,6 @@
 "Eleven kan med <b>nyanserade</b> omdömen värdera sina egna texter, göra <b>avancerade</b> förbättringar av dem med utgångspunkt i sin egen värdering och andras råd samt ge återkoppling på andras texter."]},
 "req":{"type":"OR",
 "arr":["SVESVE01",
-"SVASVA01"]}}
+"SVASVA01"]},
+"reqarr":["SVESVE01",
+"SVASVA01"]}

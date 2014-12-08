@@ -671,11 +671,12 @@ _.each(GLOBAL.courses,function(course,code){
 		delete course.alsoreq;
 	}
 	if (course.req){
+		course.reqarr = [];
 		var mine = harvestFiles(course.req);
-		if (code==="MATMAT02c") console.log("MINE",mine)
 		_.each(_.uniq(mine),function(cid){
 			if (!GLOBAL.courses[cid].reqBy){GLOBAL.courses[cid].reqBy = [];}
 			GLOBAL.courses[cid].reqBy = (GLOBAL.courses[cid].reqBy||[]).concat([code]);
+			course.reqarr.push(cid);
 		});
 	}
 });

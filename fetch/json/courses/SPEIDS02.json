@@ -39,4 +39,7 @@
 "arr":["SPEIDS01",{"type":"OR",
 "arr":["SPETRÄ01",
 "TRNTRN01"]}]},
+"reqarr":["SPEIDS01",
+"SPETRÄ01",
+"TRNTRN01"],
 "reqBy":["SPEIDS03"]}

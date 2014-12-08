@@ -71,4 +71,5 @@
 "req":{"type":"OR",
 "arr":["MODZHO01",
 "kinesiska inom ramen för elevens val i grundskolan"]},
+"reqarr":["MODZHO01"],
 "reqBy":["MODZHO03"]}

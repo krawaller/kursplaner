@@ -42,4 +42,6 @@
 "PESPER01b"],
 "req":{"type":"AND",
 "arr":["FORFOD0",
-"FODFOO0"]}}
+"FODFOO0"]},
+"reqarr":["FORFOD0",
+"FODFOO0"]}

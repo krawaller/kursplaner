@@ -35,4 +35,5 @@
 "Eleven visiterar och utrustar <b>efter samråd</b> med handledare travhästar för körning. Eleven kör <b>efter samråd</b> med handledare skolade travhästar med kontroll och säker position. Eleven kör också <b>efter samråd</b> med handledare olika typer av travhästar i ändamålsenlig form utifrån hästens individuella förutsättningar. Elevens körning är <b>god</b>. I körningen tolkar eleven <b>med säkerhet</b> hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet. Eleven sköter och vårdar <b>efter samråd</b> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"RINRID0",
-"notwith":"RINKOR01"}
+"notwith":"RINKOR01",
+"reqarr":["RINRID0"]}

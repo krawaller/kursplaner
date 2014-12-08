@@ -52,4 +52,7 @@
 "MATMAT02b",
 "MATMAT02c"]},
 "notwith":"MATMAT03c",
+"reqarr":["MATMAT02a",
+"MATMAT02b",
+"MATMAT02c"],
 "reqBy":["MATMAT04"]}

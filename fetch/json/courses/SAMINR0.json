@@ -38,4 +38,6 @@
 "I arbetet med samhällsfrågor kan eleven <b>med säkerhet</b> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <b>välgrundade och nyanserade</b> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <b>med säkerhet</b> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <b>samt formulera sig självständigt i förhållande till källorna</b>."]},
 "req":{"type":"OR",
 "arr":["SAMSAM01a2",
-"SAMSAM01b"]}}
+"SAMSAM01b"]},
+"reqarr":["SAMSAM01a2",
+"SAMSAM01b"]}

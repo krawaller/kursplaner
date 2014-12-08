@@ -41,4 +41,6 @@
 "req":{"type":"AND",
 "arr":["DRIUNH0",
 "DRIUNE0"]},
+"reqarr":["DRIUNH0",
+"DRIUNE0"],
 "reqBy":["DRIUNO0"]}

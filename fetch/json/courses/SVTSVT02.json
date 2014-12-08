@@ -46,4 +46,5 @@
 "req":{"type":"OR",
 "arr":["SVTSVT01",
 "svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan"]},
+"reqarr":["SVTSVT01"],
 "reqBy":["SVTSVT03"]}

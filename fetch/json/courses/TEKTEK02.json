@@ -34,4 +34,5 @@
 "Eleven löser <b>avancerade</b> tekniska problem, <b>väljer och</b> använder <b>efter samråd</b> med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <b>med säkerhet</b> tekniska begrepp, teorier och modeller. Eleven utför <b>avan</b><b>cerade</b> beräkningar och analyser av tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat. ",
 "Eleven undersöker <b>avancerade</b> tekniska system avseende funktionssamband och begränsningar samt redogör <b>utförligt och</b> <b>nyanserat</b> för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband. Dessutom använder eleven <b>med säkerhet</b> datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"req":"TEKTEK01"}
+"req":"TEKTEK01",
+"reqarr":["TEKTEK01"]}

@@ -39,5 +39,7 @@
 "arr":["HISHIS01a2",
 "HISHIS01b"]},
 "notwith":"HISHIS02a",
+"reqarr":["HISHIS01a2",
+"HISHIS01b"],
 "reqBy":["HISHIS03",
 "HUMHUM00S"]}

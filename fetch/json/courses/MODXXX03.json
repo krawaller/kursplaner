@@ -49,4 +49,5 @@
 "req":{"type":"OR",
 "arr":["MODXXX02",
 "moderna språk inom ramen för språkval i grundskolan"]},
+"reqarr":["MODXXX02"],
 "reqBy":["MODXXX04"]}

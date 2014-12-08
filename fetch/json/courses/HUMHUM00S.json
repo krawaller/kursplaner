@@ -41,4 +41,10 @@
 "PSKPSY02b"]},{"type":"OR",
 "arr":["HISHIS02a",
 "HISHIS02b"]},
-"MODXXX04"]}}
+"MODXXX04"]},
+"reqarr":["SAMSAM02",
+"PSKPSY02a",
+"PSKPSY02b",
+"HISHIS02a",
+"HISHIS02b",
+"MODXXX04"]}

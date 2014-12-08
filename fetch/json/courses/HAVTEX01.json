@@ -45,4 +45,5 @@
 "req":{"type":"LINK",
 "target":"HAVHAV0",
 "comment":"med innehåll textil design"},
+"reqarr":["HAVHAV0"],
 "reqBy":["HAVTEX02"]}

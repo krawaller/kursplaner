@@ -54,4 +54,5 @@
 "reqBy":["ELMELM0",
 "TRÄTRK02"],
 "req":"HUSHUS02",
-"notwith":"TRÄBYG0"}
+"notwith":"TRÄBYG0",
+"reqarr":["HUSHUS02"]}

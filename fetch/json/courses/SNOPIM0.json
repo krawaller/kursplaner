@@ -47,4 +47,6 @@
 "reqBy":["MASMOB01"],
 "req":{"type":"AND",
 "arr":["SNOSNO0",
-"SNOREP0"]}}
+"SNOREP0"]},
+"reqarr":["SNOSNO0",
+"SNOREP0"]}
