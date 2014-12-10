@@ -13,7 +13,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -493,19 +493,19 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							jraw = jraw.replace(regex,repl||"");
 						});
 						var g = {
-							e: jraw.match(/<h4>Betyget E<\/h4> *<p>(.*?) *<\/p> *<h4>/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList),
-							c: jraw.match(/<h4>Betyget C<\/h4> *<p>(.*?) *<\/p> *<h4>/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList),
-							a: jraw.match(/<h4>Betyget A<\/h4> *<p>(.*?) *<\/p> *$/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList)
+							E: jraw.match(/<h4>Betyget E<\/h4> *<p>(.*?) *<\/p> *<h4>/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList),
+							C: jraw.match(/<h4>Betyget C<\/h4> *<p>(.*?) *<\/p> *<h4>/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList),
+							A: jraw.match(/<h4>Betyget A<\/h4> *<p>(.*?) *<\/p> *$/)[1].split(/<\/p> *<p>/),//.map(splitJudgeList)
 						}
-						if (course.code==="GRÄGRN0" && g.e.length===8 && g.c.length===7){
-							g.e[6] = g.e[6]+" "+g.e[7];
-							g.e.pop();
+						if (course.code==="GRÄGRN0" && g.E.length===8 && g.C.length===7){
+							g.E[6] = g.E[6]+" "+g.E[7];
+							g.E.pop();
 							console.log("fixar lite med GRÄGRN0 dårå")
 						}
-						if (!(g.e.length === g.c.length && g.c.length === g.a.length)){
-							console.log("Different number of ps in ",course.name,course.code,g.e.length,g.c.length,g.a.length)
+						if (!(g.E.length === g.C.length && g.C.length === g.A.length)){
+							console.log("Different number of ps in ",course.name,course.code,g.E.length,g.C.length,g.A.length)
 							if (course.code==="GRÄGRN0"){
-								console.log(g.e);
+								console.log(g.E);
 							}
 						}
 						course.judge = g;
@@ -698,12 +698,12 @@ _.each(GLOBAL.courses,function(course,code){
 	}
 });
 _.each(dividers,function(l){
-	console.log("Letter",l,"has",(dict[l]||[]).length,"courses");
+	//console.log("Letter",l,"has",(dict[l]||[]).length,"courses");
 	dict[l] = dict[l].sort(function(a,b){
 		return GLOBAL.courses[a].name > GLOBAL.courses[b].name ? 1 : -1;
 	});
 });
-console.log(dict);
+//console.log(dict);
 GLOBAL.coursedict = dict;
 
 
@@ -715,8 +715,16 @@ GLOBAL.coursedict = dict;
 
 
 
-
-
+GLOBAL.plans={};
+_.each(["grund","vux","gymn"],function(level){
+	fs.readFileS("../markdown/"+level+".html",function(err,data){
+		var split = data.toString().split(/<h1.*?<\/h1>/g),
+			mission = split[1],
+			goals = split[2].split("<script>")[0];
+		GLOBAL.plans[level]={mission:mission,goals:goals};
+		console.log(level,mission.length,goals.length);
+	});
+});
 
 
 

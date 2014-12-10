@@ -19,6 +19,7 @@ var Router = require('react-router'),
   SubjectGoals = require('./components/subject_goals.js'),
   SubjectCourseList = require('./components/subject_courselist'),
   SubjectAuth = require('./components/subject_auth'),
+  SubjectComments = require('./components/subject_comments'),
 	Courses = require('./components/courses.js'),
 	Wrapper = require('./components/wrapper.js'),
 	Home = require('./components/home.js');
@@ -34,6 +35,7 @@ module.exports = (
             <Route name="subjectgoals" path="/subjects/:subject/goals" handler={SubjectGoals}/>
             <Route name="subjectcourses" path="/subjects/:subject/courses" handler={SubjectCourseList}/>
             <Route name="subjectauth" path="/subjects/:subject/auth" handler={SubjectAuth}/>
+            <Route name="subjectcomments" path="/subjects/:subject/comments" handler={SubjectComments}/>
           </Route>
         	<DefaultRoute handler={Subjects}/>
       	</Route>
@@ -44,8 +46,8 @@ module.exports = (
             <Route name="coursegoals" path="/courses/:course/goals" handler={CourseGoals}/>
             <Route name="coursecontent" path="/courses/:course/content" handler={CourseContent}/>
             <Route name="coursegrades" path="/courses/:course/grades" handler={CourseGrades}/>
-            <Route name="comparetochoice" path="/courses/:course/compareto" handler={Multiroute}>
-              <Route name="comparetoother" path="/courses/:course/compareto/:other" handler={CourseComparer}/>
+            <Route name="coursecomparetochoice" path="/courses/:course/compareto" handler={Multiroute}>
+              <Route name="coursecomparetoother" path="/courses/:course/compareto/:other" handler={CourseComparer}/>
               <DefaultRoute handler={CourseCompareChoice}/>
             </Route>
           </Route>

@@ -22,7 +22,7 @@ var CoursesSelect = React.createClass({
       keys = ["Relaterade kurser"].concat(keys);
       compcourse = courses[compareto];
       related = _.unique(_.without(DB.subjects[compcourse.subject].courses,compareto).concat(compcourse.reqarr||[]).concat(compcourse.reqBy||[]));
-      console.log("COMPARETO",compareto,"RELATED",related,compcourse);
+      //console.log("COMPARETO",compareto,"RELATED",related,compcourse);
     }
     var sel = (
       <div style={{display:"inline-block"}} className="btn-group">
@@ -32,7 +32,7 @@ var CoursesSelect = React.createClass({
       </div>
     );
     function linkToC(d){
-      return <Link to={compareto?"comparetoother":"course"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
+      return <Link to={compareto?"coursecomparetoother":"course"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
     }
     //console.log("SELSCREEN",now,DB.coursedict[now]);
     return (

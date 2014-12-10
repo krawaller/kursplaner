@@ -18,6 +18,9 @@ var Subject = React.createClass({
       "Kurser i ämnet": pre+"/courses",
       "Behörighet": pre+"/auth"
     };
+    if (Object.keys(subject.comments||{}).length){
+      links["Kommentarer"] = pre+"/comments";
+    }
     return !subject ? <p>Hittar inget ämne med kod {code}!</p> : (
     	<div>
     		<h2>Ämne {subject.code}: {subject.name}</h2>
@@ -29,28 +32,3 @@ var Subject = React.createClass({
 });
 
 module.exports = Subject;
-
-        /*comm = subject && subject.comments || {};
-        ctitles = {
-          ABOUT_THE_SUBJECT: "Kommentar till ämnet",
-          COMPARISON_GY2000: "Jämförelse med Gy2000",
-          COMPARISON_GR: "Jämförelse med grundskolan",
-          DESCRIPTION: "Kommentar till beskrivning",
-          PURPOSE: "Kommentar till syfte"
-        }*/
-
-
-/*
-        <Section headline="Beskrivning"><div dangerouslySetInnerHTML={{__html:subject.description}}/></Section>
-        <Section headline="Syfte"><div dangerouslySetInnerHTML={{__html:subject.purpose}}/></Section>
-        <SubjectGoals subject={subject} />
-        <SubjectCourseList subject={subject} DB={DB} />
-        <SubjectAuth subject={subject}/>
-        {_.map(comm,function(content,name){
-            return (
-              <Section headline={ctitles[name]}>
-                  <div dangerouslySetInnerHTML={{__html:content}}/>
-              </Section>
-            )
-        })}
-*/

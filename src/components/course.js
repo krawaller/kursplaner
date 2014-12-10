@@ -14,10 +14,10 @@ var Course = React.createClass({
   		  subject = course && DB.subjects[course.subject];
     var pre = "/courses/"+code, links = {
       Beskrivning: pre,
-      "Centralt innehåll": pre+"/content",
-      "Ämnesmål": pre+"/goals",
-      "Kunskapskrav": pre+"/grades",
-      "Jämför med annan kurs": pre+"/compareto"
+      "Centralt innehåll": ["coursecontent",{course:code}],
+      "Ämnesmål": ["coursegoals",{course:code}],
+      "Kunskapskrav": ["coursegrades",{course:code}],
+      "Jämför med annan kurs": ["coursecomparetochoice",{course:code}]
     };
     return !course ? <p>Hittar ingen kurs med kod {code}!</p> : !subject ? <p>Lyckades ej ladda ämne {course.subject} för {course.name}!</p> : (
       <div>
