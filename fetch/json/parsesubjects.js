@@ -659,9 +659,12 @@ _.each(GLOBAL.courses,function(course,code){
 		}
 	});
 	if (course.descarr){
-		_.each(course.descarr.split(/\W/g),function(part){
+		_.each(course.descarr.split(/[^A-Za-zÅÄÖåäö\-_0-9]/g),function(part){
 			if (GLOBAL.courses[part]){
 				course.descarr = course.descarr.replace(part,"___"+part+"___")
+			}
+			if (code==="VÅRVÅR02"){
+				console.log("AIE AIE AIE",part,Object.keys(GLOBAL.courses[part]||{}));
 			}
 		});
 		course.descarr = course.descarr.replace(/^som /,"Den ").split("___");
