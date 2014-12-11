@@ -7,11 +7,11 @@ var React = require('react'),
 
 var SubjectsSelect = React.createClass({
   render: function(){
-  	var DB = this.props.DB,
-        subjects = DB.subjects
-    function linkToC(d){return <Link to="subject" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
+  	var subjects = this.props.DB.subjects,
+        compareto = this.props.compareto;
+    function linkToC(d){return <Link to={compareto?"subjectcomparetoother":"subjectdesc"} params={compareto?{subject:compareto,other:d}:{subject:d}}>{subjects[d].name}</Link>;}
     return (<div>
-      {_.flatten(_.map(DB.subjects,function(def,code){
+      {_.flatten(_.map(subjects,function(def,code){
         return [linkToC(code)," "];
       }))}
     </div>)

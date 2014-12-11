@@ -10,8 +10,9 @@ var State = require('react-router').State;
 var Navlink = React.createClass({
   mixins: [ State ],
   render: function() {
-    var className = this.isActive(this.props.to, this.props.params, this.props.query) ? 'active' : '';
-    return <li className={className}>{Link(this.props)}</li>;
+  	var Tag = React.DOM[this.props.tag || "li"];
+    var className = (this.props.linkClasses || '')+(this.isActive(this.props.to, this.props.params, this.props.query) ? 'active' : '');
+    return <Tag className={className}>{Link(this.props)}</Tag>;
   }
 });
 

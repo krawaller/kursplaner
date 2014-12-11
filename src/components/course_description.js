@@ -15,8 +15,8 @@ var CourseDescription = React.createClass({
         desc = course.descarr,
         by = course.reqBy,
         DB = this.props.DB;
-    function linkToC(d){return <Link to="course" params={{course:d}}>{DB.courses[d].name}</Link>;}
-    function linkToS(d){return <Link to="subject" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
+    function linkToC(d){return <Link to="coursedesc" params={{course:d}}>{DB.courses[d].name}</Link>;}
+    function linkToS(d){return <Link to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
     return (
         <Section headline="Beskrivning">
             <p>

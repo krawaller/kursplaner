@@ -7,7 +7,7 @@ var SubjectDesc = React.createClass({
   render: function(){
     var subject = this.props.subject
     return (
-        <Section headline="Beskrivning">
+        <Section headline="Beskrivning" {...this.props}>
             <div dangerouslySetInnerHTML={{__html:subject.description}}/>
         </Section>
     );

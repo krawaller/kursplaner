@@ -12,8 +12,8 @@ var Course = React.createClass({
         DB = this.props.DB,
   		  course = DB.courses[code],
   		  subject = course && DB.subjects[course.subject];
-    var pre = "/courses/"+code, links = {
-      Beskrivning: pre,
+    var links = {
+      Beskrivning: ["coursedesc",{course:code}],
       "Centralt innehåll": ["coursecontent",{course:code}],
       "Ämnesmål": ["coursegoals",{course:code}],
       "Kunskapskrav": ["coursegrades",{course:code}],

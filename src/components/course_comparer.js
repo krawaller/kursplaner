@@ -28,7 +28,7 @@ var CourseComparer = React.createClass({
             <h5>{course.name}</h5>
           </div>
           <div className="col-xs-6">
-            <Link to="course" params={{course:othercode}}>
+            <Link to="coursedesc" params={{course:othercode}}>
               <h5>{other.name}</h5>
             </Link>
           </div>

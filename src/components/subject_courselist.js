@@ -14,7 +14,7 @@ var SubjectCourseList = React.createClass({
         DB = this.props.DB;
     function linkToC(d){
         var c = DB.courses[d];
-        return <Link to="course" params={{course:d}}>{c.name}, {c.points} poäng</Link>;
+        return <Link to="coursedesc" params={{course:d}}>{c.name}, {c.points} poäng</Link>;
     }
     return (
         <Section headline="Ingående kurser">

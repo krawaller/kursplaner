@@ -8,7 +8,7 @@ var SubjectGoals = React.createClass({
   render: function(){
     var subject = this.props.subject;
     return (
-        <Section headline="Ämnesmål">
+        <Section headline="Ämnesmål" {...this.props}>
             <p>Undervisningen i {subject.name} ska ge eleverna möjlighet att utveckla förmågan att:</p>
             <ol>
                 {subject.goals.map(function(goal,n){

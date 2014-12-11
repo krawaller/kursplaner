@@ -4,6 +4,7 @@ var Router = require('react-router'),
 	Route = Router.Route,
 	DefaultRoute = Router.DefaultRoute,
 	Multiroute = require('./components/multiroute.js'),
+  Masterplan = require('./components/masterplan.js'),
 	Courses = require('./components/courses.js'),
 	Course = require('./components/course.js'),
   CourseContent = require('./components/course_content'),
@@ -21,7 +22,8 @@ var Router = require('react-router'),
   SubjectCourseList = require('./components/subject_courselist'),
   SubjectAuth = require('./components/subject_auth'),
   SubjectComments = require('./components/subject_comments'),
-	Courses = require('./components/courses.js'),
+  SubjectComparer = require('./components/subject_comparer'),
+  SubjectCompareChoice = require('./components/subject_comparechoice'),
 	Wrapper = require('./components/wrapper.js'),
 	Home = require('./components/home.js');
 
@@ -29,21 +31,33 @@ module.exports = (
     <Route handler={Wrapper}>
         <Route name="home" path="/" handler={Home} />
         
+        <Route name="masterplan" path="/master" handler={Multiroute}>
+          <Route name="masterplancomp" path="/master/:action/:part/:level/:other" handler={Masterplan}/>
+          <DefaultRoute handler={Masterplan} />
+        </Route>
+
         <Route name="subjects" path="/subjects" handler={Multiroute}>
-        	<Route name="subject" path="/subjects/:subject" handler={Subject}>
-            <DefaultRoute handler={SubjectDesc}/>
+          <Route name="subject" path="/subjects/:subject" handler={Subject}>
+            <Route name="subjectdesc" path="/subjects/:subject/desc" handler={SubjectDesc}/>
             <Route name="subjectpurpose" path="/subjects/:subject/purpose" handler={SubjectPurpose}/>
             <Route name="subjectgoals" path="/subjects/:subject/goals" handler={SubjectGoals}/>
             <Route name="subjectcourses" path="/subjects/:subject/courses" handler={SubjectCourseList}/>
             <Route name="subjectauth" path="/subjects/:subject/auth" handler={SubjectAuth}/>
-            <Route name="subjectcomments" path="/subjects/:subject/comments" handler={SubjectComments}/>
+            <Route name="subjectcomparetochoice" path="/subjects/:subject/compareto" handler={Multiroute}>
+              <Route name="subjectcomparetoother" path="/subjects/:subject/compareto/:other" handler={SubjectComparer}/>
+              <DefaultRoute handler={SubjectCompareChoice}/>
+            </Route>
+            <Route name="subjectcomments" path="/subjects/:subject/comments" handler={SubjectComments}>
+              <Route name="subjectcommentstype" path="/subjects/:subject/comments/:type" handler={SubjectComments}/>
+              <DefaultRoute handler={SubjectComments} />
+            </Route>
           </Route>
-        	<DefaultRoute handler={Subjects}/>
-      	</Route>
+          <DefaultRoute handler={Subjects}/>
+        </Route>
 
         <Route name="courses" path="/courses" handler={Multiroute}>
           <Route name="course" path="/courses/:course" handler={Course}>
-            <DefaultRoute handler={CourseDesc}/>
+            <Route name="coursedesc" path="/courses/:course/desc" handler={CourseDesc}/>
             <Route name="coursegoals" path="/courses/:course/goals" handler={CourseGoals}/>
             <Route name="coursecontent" path="/courses/:course/content" handler={CourseContent}/>
             <Route name="coursegrades" path="/courses/:course/grades" handler={CourseGrades}/>

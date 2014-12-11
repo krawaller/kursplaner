@@ -32,7 +32,7 @@ var CoursesSelect = React.createClass({
       </div>
     );
     function linkToC(d){
-      return <Link to={compareto?"coursecomparetoother":"course"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
+      return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
     }
     //console.log("SELSCREEN",now,DB.coursedict[now]);
     return (

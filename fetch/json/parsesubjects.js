@@ -13,7 +13,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -27,7 +27,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				sub.comments={};
 				while ((comm=commentblock.match(/<div id="([A-Z0-9\-a-z_]*)" class="commentContainer".*?<\/a>(<h.*?)<\/div><\/div>/))){
 					var cname = comm[1], ccont = comm[2];
-					sub.comments[cname] = ccont.replace(/<h2> *<\/h2>/g,"").replace(/^ *<h2>[^<]*<\/h2>/,"").replace(/h[123]>/g,"h4>");
+					sub.comments[cname] = ccont.replace(/<h2> *<\/h2>/g,"").replace(/^ *<h2>[^<]*<\/h2>/,"").replace(/h[123]>/g,"h4>").replace(/<img[^>]*>/g,"");
 					console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
 					commentblock=commentblock.replace(comm[0],"");
 				}
