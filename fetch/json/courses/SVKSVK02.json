@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen SVKSVK01",
 "code":"SVKSVK02",
-"comments":{"comment":"<h4>Retorikens grunder</h4><p>Kursen tar upp retorikens grunder för framställning på svenskt teckenspråk. Den retoriska arbetsprocessen innebär att på ett strukturerat och metodiskt sätt planera och genomföra en framställning som tar hänsyn till syfte, mottagare och kommunikationssituation i övrigt. Det kan innebära att samla stoff eller argument för sin framställning, planera, disponera och formulera innehållet, öva in det som ska sägas och slutligen framföra det med känsla och trovärdighet.</p>"},
+"comments":{"innehållet":"<h4>Retorikens grunder</h4><p>Kursen tar upp retorikens grunder för framställning på svenskt teckenspråk. Den retoriska arbetsprocessen innebär att på ett strukturerat och metodiskt sätt planera och genomföra en framställning som tar hänsyn till syfte, mottagare och kommunikationssituation i övrigt. Det kan innebära att samla stoff eller argument för sin framställning, planera, disponera och formulera innehållet, öva in det som ska sägas och slutligen framföra det med känsla och trovärdighet.</p>"},
 "goals":[1,1,1,1,1,1,1,0,1],
 "excludesgoals":true,
 "focusesgoals":false,

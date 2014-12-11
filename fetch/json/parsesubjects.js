@@ -13,7 +13,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -241,7 +241,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					}
 					sub.courses.push(course.code);
 					// STEAL EVENTUAL COURSE COMMENTS FROM SUBJECT
-					_.each([["CC-","","comment"],["KR-","E","judgehelp"]],function(a){
+					_.each([["CC-","","innehållet"],["KR-","E","kunskapskraven"]],function(a){
 						var pre=a[0],suf=a[1],call=a[2], cid=pre+course.code+suf;
 						if (sub.comments && sub.comments[cid]){
 							if (!course.comments) course.comments={};

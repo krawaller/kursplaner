@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen HANPRA01",
 "code":"HANPRA02",
-"comments":{"comment":"<h4>Marknadsundersökning</h4><p>I kursen praktisk marknadsföring 2 kan marknadsundersökningarna till exempel fokuserapå kundens behov då det gäller utbud och prissättning.</p>"},
+"comments":{"innehållet":"<h4>Marknadsundersökning</h4><p>I kursen praktisk marknadsföring 2 kan marknadsundersökningarna till exempel fokuserapå kundens behov då det gäller utbud och prissättning.</p>"},
 "goals":[0,0,1,2,1,2,1,1,1,2],
 "excludesgoals":true,
 "focusesgoals":true,

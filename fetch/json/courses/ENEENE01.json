@@ -2,7 +2,7 @@
 "name":"Energiteknik 1",
 "points":100,
 "code":"ENEENE01",
-"comments":{"comment":"<h4>Systemförståelse och energihantering</h4><p>Exempel på olika arbetsmoment och utrustning som kan bidra till att utveckla elevens förmåga att hantera och förstå energitekniska system kan vara drift och underhåll av kompressorer, luftbehandlingsanläggningar, värmeväxlare och pumpar. Hantering av lyftanordningar och olika typer av filter eller byte av packningar är andra exempel. För att arbeta med energitekniska system behöver eleven även färdigheter i att använda mätinstrument och förstå resultat av mätningar. Exempel på storheter som kan mätas inom området är tryck, temperatur och flöde.</p>"},
+"comments":{"innehållet":"<h4>Systemförståelse och energihantering</h4><p>Exempel på olika arbetsmoment och utrustning som kan bidra till att utveckla elevens förmåga att hantera och förstå energitekniska system kan vara drift och underhåll av kompressorer, luftbehandlingsanläggningar, värmeväxlare och pumpar. Hantering av lyftanordningar och olika typer av filter eller byte av packningar är andra exempel. För att arbeta med energitekniska system behöver eleven även färdigheter i att använda mätinstrument och förstå resultat av mätningar. Exempel på storheter som kan mätas inom området är tryck, temperatur och flöde.</p>"},
 "goals":[1,1,1,1,1,1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

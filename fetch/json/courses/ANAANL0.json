@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen BYGBYG02",
 "code":"ANAANL0",
-"comments":{"comment":"<h4>Från planering till färdigt resultat</h4><p>Kunskaper om anläggningsbranschens arbetsprocesser kan till exempel innefatta bygglovsförfaranden, kvalitetskrav och miljömässigt hållbart byggande.</p>"},
+"comments":{"innehållet":"<h4>Från planering till färdigt resultat</h4><p>Kunskaper om anläggningsbranschens arbetsprocesser kan till exempel innefatta bygglovsförfaranden, kvalitetskrav och miljömässigt hållbart byggande.</p>"},
 "goals":[1,1,1,1,1,0,1,1,1,1],
 "excludesgoals":true,
 "focusesgoals":false,

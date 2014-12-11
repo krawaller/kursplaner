@@ -13,7 +13,7 @@ var Section = React.createClass({
     var clps = this.state.collapsed;
     return (
         <div>
-            {!this.props.sub && <h3>{this.props.headline}</h3>}
+            {!this.props.sub && this.props.headline && <h3>{this.props.headline}</h3>}
             {this.props.children}
         </div>
     );

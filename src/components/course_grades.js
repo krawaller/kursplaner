@@ -6,15 +6,15 @@ var React = require('react'),
     Sel = require('../mixins/select');
 
 var CourseGrades = React.createClass({
-  mixins:[Sel('grade',["E","C","A"])],
+  mixins:[Sel('grade',["E","C","A","matris"])],
   render: function(){
     var now=this.props.grade || this.state.grade;
     var course = this.props.course,
         j = course.judge,
         rows = Math.max(j.A.length,j.C.length,j.E.length);
     return (
-        <Section headline="Kunskapskrav" {...this.props}>
-            {!this.props.grade && <h4>Visar {this.grade()}</h4>}
+        <Section {...this.props}>
+            {!this.props.grade && <h3>Kunskapskrav för {this.grade()}</h3>}
             { now !== "matris" ? (
                 _.map(course.judge[now],function(paraf,n){
                     return <p key={n} dangerouslySetInnerHTML={{__html:paraf}}/>;

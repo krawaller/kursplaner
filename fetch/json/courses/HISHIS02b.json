@@ -12,7 +12,7 @@
 "reqRAW":"kursen HISHIS01a2 eller kursen HISHIS01b",
 "notwithRAW":"kursen HISHIS02a",
 "code":"HISHIS02b",
-"comments":{"comment":"<h4>Populärkultur</h4><p>Begreppet <em>populärkultur</em> har en vid betydelse, vilket innebär att det ger utrymme för olika tolkningar vid val av undervisningsstoff. Betoningen av 1900-talet ska inte ses som uttryck för en begränsning i tid utan även senare uttryck för populärkultur kan behandlas.</p>"},
+"comments":{"innehållet":"<h4>Populärkultur</h4><p>Begreppet <em>populärkultur</em> har en vid betydelse, vilket innebär att det ger utrymme för olika tolkningar vid val av undervisningsstoff. Betoningen av 1900-talet ska inte ses som uttryck för en begränsning i tid utan även senare uttryck för populärkultur kan behandlas.</p>"},
 "goals":[1,1,2,1,1],
 "excludesgoals":false,
 "focusesgoals":true,

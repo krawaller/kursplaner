@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen HAVFIN02",
 "code":"HAVFIN03",
-"comments":{"comment":"<h4>Tids- och kostnadskalkyler</h4><p>För att yrket ska vara lönsamt för yrkesutövaren är tids- och kostnadsberäkningar av stor vikt och därför betonas målet förmåga att beräkna kostnad, material och tidsåtgång i kursen.</p><p></p><h4>Försäljning och service</h4><p>Att ha kunskap om olika typer av kunder kan vara en avgörande faktor för yrkesutövaren, därför betonas målet att utföra service och försäljning i kursen. Eleverna kan träna detta, till exempel genom att diskutera eller dramatisera olika kommunikationssituationer i en fiktiv yrkesmiljö.</p>"},
+"comments":{"innehållet":"<h4>Tids- och kostnadskalkyler</h4><p>För att yrket ska vara lönsamt för yrkesutövaren är tids- och kostnadsberäkningar av stor vikt och därför betonas målet förmåga att beräkna kostnad, material och tidsåtgång i kursen.</p><p></p><h4>Försäljning och service</h4><p>Att ha kunskap om olika typer av kunder kan vara en avgörande faktor för yrkesutövaren, därför betonas målet att utföra service och försäljning i kursen. Eleverna kan träna detta, till exempel genom att diskutera eller dramatisera olika kommunikationssituationer i en fiktiv yrkesmiljö.</p>"},
 "goals":[2,2,1,1,2,1,1,1,1,2],
 "excludesgoals":false,
 "focusesgoals":true,

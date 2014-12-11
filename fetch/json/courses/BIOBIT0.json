@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen BIOBIO01",
 "code":"BIOBIT0",
-"comments":{"judgehelp":"<h4>Frågor</h4><p>Uttrycken frågor och komplexa frågor återkommer i kunskapskraven. Även om eleven visar olika kvalitet i sin förmåga att analysera, söka svar på och ställa frågor så ska undervisningen ge alla elever möjlighet att möta olika slags frågor. Ofta kan en och samma fråga leda till undersökningar, diskussioner och beskrivningar av allt ifrån lätt identifierbara till komplexa samband.</p>"},
+"comments":{"kunskapskraven":"<h4>Frågor</h4><p>Uttrycken frågor och komplexa frågor återkommer i kunskapskraven. Även om eleven visar olika kvalitet i sin förmåga att analysera, söka svar på och ställa frågor så ska undervisningen ge alla elever möjlighet att möta olika slags frågor. Ofta kan en och samma fråga leda till undersökningar, diskussioner och beskrivningar av allt ifrån lätt identifierbara till komplexa samband.</p>"},
 "goals":[1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

@@ -17,8 +17,11 @@ var Course = React.createClass({
       "Centralt innehåll": ["coursecontent",{course:code}],
       "Ämnesmål": ["coursegoals",{course:code}],
       "Kunskapskrav": ["coursegrades",{course:code}],
-      "Jämför med annan kurs": ["coursecomparetochoice",{course:code}]
+      "Jämför": ["coursecomparetochoice",{course:code}]
     };
+    if (Object.keys(course.comments||{}).length){
+      links["Kommentarer"] = ["coursecomments",{course:code}];
+    }
     return !course ? <p>Hittar ingen kurs med kod {code}!</p> : !subject ? <p>Lyckades ej ladda ämne {course.subject} för {course.name}!</p> : (
       <div>
         <h2>Kursen {course.name}</h2>

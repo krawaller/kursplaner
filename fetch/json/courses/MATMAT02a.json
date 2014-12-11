@@ -16,7 +16,7 @@
 "reqRAW":"kursen MATMAT01a, MATMAT01b eller MATMAT01c",
 "notwithRAW":"kursen MATMAT02b eller MATMAT02c",
 "code":"MATMAT02a",
-"comments":{"comment":"<h4>Metoder för beräkningar vid budgetering.</h4><p>Budgetering avser till exempel kostnadsanalyser. Inom många områden, både privat och yrkesmässigt, behöver man kunna göra en enkel budget för att ha kontroll över kostnader, intäkter och utgifter. Budgetering kan inkludera uppskattningar, procenträkning och beräkningar med funktioner.</p>"},
+"comments":{"innehållet":"<h4>Metoder för beräkningar vid budgetering.</h4><p>Budgetering avser till exempel kostnadsanalyser. Inom många områden, både privat och yrkesmässigt, behöver man kunna göra en enkel budget för att ha kontroll över kostnader, intäkter och utgifter. Budgetering kan inkludera uppskattningar, procenträkning och beräkningar med funktioner.</p>"},
 "goals":[1,1,1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

@@ -22,8 +22,7 @@ var CourseComparer = React.createClass({
         nowg = this.state.grade,
         Comp = (now==="kunskapskrav"?CourseGrades:CourseContent);
     return (
-    	<Section headline={"Jämförelse"}>
-        <h4>Jämför {this.what()} {now==="kunskapskrav" && ["för"," ",this.grade()]}</h4>
+    	<Section headline={<span>Jämför {this.what()} {now==="kunskapskrav" && ["för"," ",this.grade()]}</span>}>
         <div className="row">
           <div className="col-xs-6">
             <h5>{course.name}</h5>

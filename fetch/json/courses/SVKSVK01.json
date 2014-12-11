@@ -2,7 +2,7 @@
 "name":"Svenskt teckenspråk 1",
 "points":100,
 "code":"SVKSVK01",
-"comments":{"comment":"<h4>Yttrandefrihet och upphovsrätt</h4><p>Den ökade tillgången till information och möjligheterna att med hjälp av internet sprida och dela texter, bilder, filmer och liknande för med sig frågor om yttrandefrihet och upphovsrätt. Juridiska och etiska regler för spridning och användning av olika slags material kan behandlas, liksom frågor om hur man uttrycker sig i till exempel sociala medier..</p>"},
+"comments":{"innehållet":"<h4>Yttrandefrihet och upphovsrätt</h4><p>Den ökade tillgången till information och möjligheterna att med hjälp av internet sprida och dela texter, bilder, filmer och liknande för med sig frågor om yttrandefrihet och upphovsrätt. Juridiska och etiska regler för spridning och användning av olika slags material kan behandlas, liksom frågor om hur man uttrycker sig i till exempel sociala medier..</p>"},
 "goals":[1,1,1,1,1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

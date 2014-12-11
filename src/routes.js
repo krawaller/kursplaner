@@ -12,6 +12,7 @@ var Router = require('react-router'),
   CourseDesc = require('./components/course_description'),
   CourseComparer = require('./components/course_comparer'),
   CourseCompareChoice = require('./components/course_comparechoice'),
+  CourseComments = require('./components/course_comments'),
 	Subject = require('./components/subject.js'),
 	Subjects = require('./components/subjects.js'),
   SubjectDesc = require('./components/subject_desc.js'),
@@ -50,6 +51,7 @@ module.exports = (
               <Route name="coursecomparetoother" path="/courses/:course/compareto/:other" handler={CourseComparer}/>
               <DefaultRoute handler={CourseCompareChoice}/>
             </Route>
+            <Route name="coursecomments" path="/courses/:course/comments" handler={CourseComments}/>
           </Route>
           <DefaultRoute handler={Courses}/>
         </Route>

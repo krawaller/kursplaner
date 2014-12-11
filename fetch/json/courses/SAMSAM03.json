@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen SAMSAM02",
 "code":"SAMSAM03",
-"comments":{"comment":"<h4>Introduktion av vetenskapsteori</h4><p>Här introduceras kunskaper om vetenskapsteori som en brygga till högre studier. I första hand handlar det om vetenskapsteoretiska begrepp med praktisk tillämpning till exempel induktion, deduktion, hypotes och abduktion. I andra hand handlar det om vetenskapsfilosofiska traditioner som hermeneutik och positivism.</p><h4>Hur vetenskapliga begrepp används</h4><p>Många vetenskapliga begrepp överförs till vardagsspråket och påverkar därmed individen och samhällsdebatten. Exempel på sådana begrepp är ras, kultur, feminism, evolution och big bang.</p>"},
+"comments":{"innehållet":"<h4>Introduktion av vetenskapsteori</h4><p>Här introduceras kunskaper om vetenskapsteori som en brygga till högre studier. I första hand handlar det om vetenskapsteoretiska begrepp med praktisk tillämpning till exempel induktion, deduktion, hypotes och abduktion. I andra hand handlar det om vetenskapsfilosofiska traditioner som hermeneutik och positivism.</p><h4>Hur vetenskapliga begrepp används</h4><p>Många vetenskapliga begrepp överförs till vardagsspråket och påverkar därmed individen och samhällsdebatten. Exempel på sådana begrepp är ras, kultur, feminism, evolution och big bang.</p>"},
 "goals":[1,1,2,1,1],
 "excludesgoals":false,
 "focusesgoals":true,

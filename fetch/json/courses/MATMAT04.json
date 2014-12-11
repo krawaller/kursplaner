@@ -9,7 +9,7 @@
 "."],
 "reqRAW":"kursen MATMAT03b eller MATMAT03c",
 "code":"MATMAT04",
-"comments":{"comment":"<h4>Olika bevismetoder</h4><p>Olika bevismetoder kan till exempel vara direkta bevis, indirekta bevis och motsägelsebevis. I kursen matematik 5 utvidgas detta med induktionsbevis.</p>"},
+"comments":{"innehållet":"<h4>Olika bevismetoder</h4><p>Olika bevismetoder kan till exempel vara direkta bevis, indirekta bevis och motsägelsebevis. I kursen matematik 5 utvidgas detta med induktionsbevis.</p>"},
 "goals":[1,1,1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

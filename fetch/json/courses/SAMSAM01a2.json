@@ -10,7 +10,7 @@
 "reqRAW":"kursen SAMSAM01a1",
 "notwithRAW":"kursen SAMSAM01b",
 "code":"SAMSAM01a2",
-"comments":{"comment":"<h4>Välfärdsteorier</h4><p>Med hjälp av välfärdsteorier betraktas välfärdsfrågor ur ett normativt perspektiv, dvs. hur välfärdsfrågor bäst kan behandlas. Utifrån en välfärdsteori formuleras olika välfärdsmodeller. Ibland skiljer man på tre grupper av välfärdsmodeller: den konservativa, den liberala och den skandinaviska.</p>"},
+"comments":{"innehållet":"<h4>Välfärdsteorier</h4><p>Med hjälp av välfärdsteorier betraktas välfärdsfrågor ur ett normativt perspektiv, dvs. hur välfärdsfrågor bäst kan behandlas. Utifrån en välfärdsteori formuleras olika välfärdsmodeller. Ibland skiljer man på tre grupper av välfärdsmodeller: den konservativa, den liberala och den skandinaviska.</p>"},
 "goals":[1,1,2,1,1],
 "excludesgoals":false,
 "focusesgoals":true,

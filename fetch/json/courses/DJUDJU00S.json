@@ -8,7 +8,7 @@
 "repeat":"Kursen kan läsas flera gånger med olika innehåll.",
 "reqRAW":"kursen DJUSÄL01 eller kursen LANLAN02",
 "code":"DJUDJU00S",
-"comments":{"comment":"<h4>Djur - specialisering</h4><p>Kursen djur - specialisering bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2 och omfattar ämnets alla åtta mål. Kursen möjliggör en fördjupning inom ett specialiseringsområde utifrån ämnets mål och kursens centrala innehåll. Kursen kan läsas flera gånger med olika specialiseringar.</p>"},
+"comments":{"innehållet":"<h4>Djur - specialisering</h4><p>Kursen djur - specialisering bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2 och omfattar ämnets alla åtta mål. Kursen möjliggör en fördjupning inom ett specialiseringsområde utifrån ämnets mål och kursens centrala innehåll. Kursen kan läsas flera gånger med olika specialiseringar.</p>"},
 "goals":[1,1,1,1,1,1,1,1],
 "excludesgoals":false,
 "focusesgoals":false,

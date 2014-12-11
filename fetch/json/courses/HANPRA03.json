@@ -10,7 +10,7 @@
 "reqRAW":"kursen HANPRA02",
 "notwithRAW":"kursen UTSUTS01",
 "code":"HANPRA03",
-"comments":{"comment":"<h4>Digitala hjälpmedel</h4><p>Digitala hjälpmedel kan behandlas ur olika perspektiv, dels hur företag marknadsför sig digitalt på olika sätt, dels hur man arbetar digitalt för att skapa sin marknadsföring på ett effektivt och ekonomiskt fördelaktigt sätt.</p>"},
+"comments":{"innehållet":"<h4>Digitala hjälpmedel</h4><p>Digitala hjälpmedel kan behandlas ur olika perspektiv, dels hur företag marknadsför sig digitalt på olika sätt, dels hur man arbetar digitalt för att skapa sin marknadsföring på ett effektivt och ekonomiskt fördelaktigt sätt.</p>"},
 "goals":[0,0,1,2,1,2,1,1,1,1],
 "excludesgoals":true,
 "focusesgoals":true,

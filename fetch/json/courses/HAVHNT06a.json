@@ -10,7 +10,7 @@
 "reqRAW":"kursen HAVHNT05 med innehåll från vald profil",
 "notwithRAW":"kursen HAVHNT06b",
 "code":"HAVHNT06a",
-"comments":{"comment":"<h4>Arbete i projektsammanhang</h4><p>I kursen betonas arbete i projektsammanhang. Här kan eleven till exempel driva ett företag i enlighet med Ung Företagsamhet (UF), ett fiktivt företag eller genomföra ett större projekt.</p><h4><br />Kundorienterat yrkesutövande</h4><p>För en hantverkare är kunden och hennes eller hans önskemål centrala. Därför betonas ett kundorienterat yrkesutövande med fokus på service och bemötande. I kommunikation med kunden och god säljetik ingår bland annat exponering av produkter, rimlig prissättning och kvalitetsgranskning.</p>"},
+"comments":{"innehållet":"<h4>Arbete i projektsammanhang</h4><p>I kursen betonas arbete i projektsammanhang. Här kan eleven till exempel driva ett företag i enlighet med Ung Företagsamhet (UF), ett fiktivt företag eller genomföra ett större projekt.</p><h4><br />Kundorienterat yrkesutövande</h4><p>För en hantverkare är kunden och hennes eller hans önskemål centrala. Därför betonas ett kundorienterat yrkesutövande med fokus på service och bemötande. I kommunikation med kunden och god säljetik ingår bland annat exponering av produkter, rimlig prissättning och kvalitetsgranskning.</p>"},
 "goals":[2,2,1,1,1,2,1,1,1,2],
 "excludesgoals":false,
 "focusesgoals":true,
