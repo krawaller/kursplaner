@@ -17,7 +17,7 @@ var CoursesSelect = React.createClass({
         courses = DB.courses,
         compareto = this.props.compareto,
         now = this.state.cat,
-        keys = Object.keys(DB.coursedict).sort(), related=[], compcourse;
+        keys = ["Grundskola"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
     if (compareto){
       keys = ["Relaterade kurser"].concat(keys);
       compcourse = courses[compareto];
@@ -27,7 +27,7 @@ var CoursesSelect = React.createClass({
     var sel = (
       <div style={{display:"inline-block"}} className="btn-group">
         {_.map(keys,function(g){
-          return <button onClick={_.partial(this.choose,g)} className={'btn btn-default'+(g===now?' active':'')}>{g.toUpperCase()}</button>
+          return <button onClick={_.partial(this.choose,g)} className={'btn btn-default'+(g===now?' active':'')}>{g}</button>
         },this)}
       </div>
     );
@@ -37,9 +37,9 @@ var CoursesSelect = React.createClass({
     //console.log("SELSCREEN",now,DB.coursedict[now]);
     return (
       <div>
-        {sel}
+        <p>{sel}</p>
         <div>
-          {_.flatten(_.map(DB.coursedict[this.state.cat]||related,function(s){
+          {_.flatten(_.map(DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:related),function(s){
             return [linkToC(s)," "];
           }))}
         </div>

@@ -14,34 +14,46 @@ var SubjectCourseList = React.createClass({
         DB = this.props.DB;
     function linkToC(d){
         var c = DB.courses[d];
-        return <Link to="coursedesc" params={{course:d}}>{c.name}, {c.points} poäng</Link>;
+        return <Link to="coursedesc" params={{course:d}}>{c.name}{c.points && <span>, {c.points} poäng</span>}</Link>;
     }
     return (
         <Section headline="Ingående kurser">
-            <p>Följande {list.length===1?"kurs är den enda i ämnet":(nums[list.length]||list.length)+" kurser ingår i ämnet"}:</p>
-            <table className="table">
-                <thead>
-                    <tr>
-                        <th>Kurs</th>
-                        <th>Nivå</th>
-                        {_.map(subject.goals,function(g,n){return <th>{n+1}</th>;})}
-                    </tr>
-                </thead>
-                <tbody>
-                    {_.map(list,function(cid,n){
-                        var course = DB.courses[cid];
-                        return (
-                            <tr key={n}>
-                                <td>{linkToC(cid)}</td>
-                                <td>{{basic:"grundl",normal:"normal",high:"fördjup"}[course.level]}</td>
-                                {_.map(course.goals,function(u){
-                                    return <td>{["--","ja",<strong>ja</strong>][u]}</td>;
-                                })}
+            {subject.school==="grund" ? (
+                <div>
+                    <p>Normalt skiljer man inte mellan kurser och ämnen på grundskolan, men eftersom det finns specifikt centralt innehåll och kunskapskrav för de olika stadierna inom grundskolans ämnen så har vi valt att hantera dessa som kurser, för att matcha strukturen på gymnasienivå.</p>
+                    <p>Ämnet {subject.name} delas då in i följande "delkurser":</p>
+                    <ul>
+                        {_.map(list,function(cid){ return <li>{linkToC(cid)}</li>; })}
+                    </ul>
+                </div>
+            ) : (
+                <div>
+                    <p>Följande {list.length===1?"kurs är den enda i ämnet":(nums[list.length]||list.length)+" kurser ingår i ämnet"}:</p>
+                    <table className="table">
+                        <thead>
+                            <tr>
+                                <th>Kurs</th>
+                                <th>Nivå</th>
+                                {_.map(subject.goals,function(g,n){return <th>{n+1}</th>;})}
                             </tr>
-                        );
-                    })}
-                </tbody>
-            </table>
+                        </thead>
+                        <tbody>
+                            {_.map(list,function(cid,n){
+                                var course = DB.courses[cid];
+                                return (
+                                    <tr key={n}>
+                                        <td>{linkToC(cid)}</td>
+                                        <td>{{basic:"grundl",normal:"normal",high:"fördjup"}[course.level]}</td>
+                                        {_.map(course.goals,function(u){
+                                            return <td>{["--","ja",<strong>ja</strong>][u]}</td>;
+                                        })}
+                                    </tr>
+                                );
+                            })}
+                        </tbody>
+                    </table>
+                </div>
+            )}
         </Section>
     );
   }

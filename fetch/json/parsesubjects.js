@@ -9,22 +9,6 @@ var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = { grundsubjects: [], grundcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
-
-_.each(_.without(fs.readdirSync("./grundcourses/"),".DS_Store"),function(path){
-	fs.readFileS("./grundcourses/"+path,function(err,data){
-		var course = JSON.parse(data.toString());
-		GLOBAL.courses[course.code] = course;
-		GLOBAL.grundcourses.push(course.code);
-	});
-});
-_.each(_.without(fs.readdirSync("./grundsubjects/"),".DS_Store"),function(path){
-	fs.readFileS("./grundsubjects/"+path,function(err,data){
-		var subject = JSON.parse(data.toString());
-		GLOBAL.subjects[subject.code] = subject;
-		GLOBAL.grundsubjects.push(subject.code);
-	});
-});
-
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
@@ -716,6 +700,36 @@ _.each(GLOBAL.courses,function(course,code){
 		dict[cat] = (dict[cat]||[]).concat(code);
 	}
 });
+
+_.each(GLOBAL.subjects,function(subject,code){
+	if (subject.type){
+		if (!GLOBAL["subjects"+subject.type]){
+			GLOBAL["subjects"+subject.type]=[];
+		}
+		GLOBAL["subjects"+subject.type].push(code);
+	}
+});
+
+_.each(_.without(fs.readdirSync("./grundcourses/"),".DS_Store"),function(path){
+	fs.readFileS("./grundcourses/"+path,function(err,data){
+		var course = JSON.parse(data.toString());
+		GLOBAL.courses[course.code] = course;
+		GLOBAL.grundcourses.push(course.code);
+	});
+});
+
+_.each(_.without(fs.readdirSync("./grundsubjects/"),".DS_Store"),function(path){
+	fs.readFileS("./grundsubjects/"+path,function(err,data){
+		var subject = JSON.parse(data.toString());
+		GLOBAL.subjects[subject.code] = subject;
+		GLOBAL.grundsubjects.push(subject.code);
+	});
+});
+
+
+
+
+
 _.each(dividers,function(l){
 	//console.log("Letter",l,"has",(dict[l]||[]).length,"courses");
 	dict[l] = dict[l].sort(function(a,b){
@@ -727,8 +741,30 @@ GLOBAL.coursedict = dict;
 
 
 
-
-
+var friends = [
+	["GRGRBIL01","BIL"],
+	["GRGRBIO01","BIO"],
+	["GRGRENG01","ENG"],
+	["GRGRFYS01","FYS"],
+	["GRGRGEO01","GEO"],
+	["GRGRHIS01","HIS"],
+	["GRGRIDR01","IDR"],
+	["GRGRKEM01","KEM"],
+	["GRGRMAT01","MAT"],
+	["GRGRMSP01","MOD"],
+	["GRGRMUS01","MUS"],
+	["GRGRREL01","REL"],
+	["GRGRSAM01","SAM"],
+	["GRGRSVA01","GRGRSVE01","SVA","SVE"],
+	["GRGRTEK01","TEK"],
+	["GRGRTSP01","SVK"], // teckenspråk
+	["GRGRMOD01","MOE"] // modersmål
+]
+_.each(friends,function(rel){
+	_.each(rel,function(sid){
+		GLOBAL.subjects[sid].friends = _.without(rel,sid);
+	});
+});
 
 
 

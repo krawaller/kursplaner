@@ -7,7 +7,7 @@ var React = require('react'),
 var Courses = React.createClass({
   render: function(){
     return (<div>
-      <h2>Alla {this.props.DB.coursecodes.length} kurser</h2>
+      <h2>Välj kurs (totalt {Object.keys(this.props.DB.courses).length} st)</h2>
       <Courses_select {...this.props}/>
     </div>)
   }

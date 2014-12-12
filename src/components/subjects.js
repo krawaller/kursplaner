@@ -6,7 +6,7 @@ var React = require('react'),
 var Subjects = React.createClass({
   render: function(){
     return (<div>
-      <h2>Alla {this.props.DB.subjectcodes.length} ämnen</h2>
+      <h2>Välj ämne (totalt {Object.keys(this.props.DB.subjects).length})</h2>
       <Subjects_select {...this.props}/>
     </div>)
   }
