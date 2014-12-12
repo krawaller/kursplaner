@@ -31,4 +31,10 @@
 "När arbetet är utfört utvärderar eleven <b>efter samråd</b> med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven <b>efter samråd</b> med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MALMAL03",
 "reqarr":["MALMAL03"],
-"reqBy":["MALMAL00S"]}
+"reqBy":["MALMAL00S"],
+"friends":["MALMAL00S",
+"MALMAL01",
+"MALMAL02",
+"MALMAL03",
+"MALMAL03",
+"MALSPE0"]}

@@ -38,4 +38,7 @@
 "Eleven kan identifiera språkdrag och göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
 "req":"SVNSVN01",
 "reqarr":["SVNSVN01"],
-"reqBy":["SVNSVN03"]}
+"reqBy":["SVNSVN03"],
+"friends":["SVNSVN01",
+"SVNSVN01",
+"SVNSVN03"]}

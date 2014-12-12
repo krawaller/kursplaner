@@ -31,4 +31,9 @@
 "Eleven samarbetar med andra och använder <b>nyanserat</b> fackspråk. När arbetsuppgiften är utförd gör eleven en <b>noggrann och</b> <b>utförlig</b> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"VETLUB0",
-"reqarr":["VETLUB0"]}
+"reqarr":["VETLUB0"],
+"friends":["VETLUF0",
+"VETLUB0",
+"VETLUB0",
+"VETLUS0",
+"VETVEL0"]}

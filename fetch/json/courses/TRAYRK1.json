@@ -44,4 +44,8 @@
 "Eleven identifierar <b>med säkerhet</b> och beskriver <b>utförligt och</b> <b>nyanserat</b> gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det. Eleven ger också <b>välgrundade och nyanserade</b> exempel på riskerna med denna hantering. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger <b>efter samråd</b> med handledare hjälp till skadade. Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
 "Eleven tar ansvar för kundens egendom samt för fordon och utrustning. Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter. Dessutom samarbetar eleven med andra och anpassar <b>med säkerhet</b> bemötande och språk efter situation och mottagare. Resultatet av elevens arbete är <b>gott</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["PESPER1"]}
+"reqBy":["PESPER1"],
+"friends":["TRAFOR0",
+"TRAFOD0",
+"TRAYRK01a",
+"TRAYRK01b"]}

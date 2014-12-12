@@ -38,4 +38,6 @@
 "Eleven utför <b>efter samråd</b> med handledare exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <b>med säkerhet</b> olika varor eller tjänster till kunden eller gästen. Eleven värderar med <b>nyanserade</b> omdömen sin exponering och sina rekommendationer <b>samt ger förslag på hur exponeringen och rekommendationerna kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SEVSEV01",
-"reqarr":["SEVSEV01"]}
+"reqarr":["SEVSEV01"],
+"friends":["SEVSEV01",
+"SEVSEV01"]}

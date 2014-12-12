@@ -34,4 +34,7 @@
 "Elevens färdiga program är utfört med <b>gott</b> resultat i ett eller flera programmeringsspråk och innehåller objektorienterad programmering som är stabil och robust <b>i program av komplex karaktär</b>.",
 "Eleven anpassar <b>med säkerhet</b> sin planering av programmeringsuppgiften, <b>anpassar polymorfi</b>, uppmärksammar problem med typsäkerhet och utför <b>på ett systematiskt och effektivt sätt</b> felsökning av syntaxfel, <b>körtidsfel och programmeringslogiska fel</b>. Innan programmeringsuppgiften avslutas utvärderar eleven me <b>nyanserade</b> omdömen <b>och med förslag på förbättringar</b> programmets prestanda och ändamålsenlighet i <b>flera</b> situationer <b>och</b> sammanhang. Eleven kommunicerar <b>med säkerhet</b> med datalogiska begrepp om programmeringsuppgiften och dess utvärdering."]},
 "req":"PRRPRR01",
-"reqarr":["PRRPRR01"]}
+"reqarr":["PRRPRR01"],
+"friends":["PRRIND0",
+"PRRPRR01",
+"PRRPRR01"]}

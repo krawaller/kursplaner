@@ -42,4 +42,12 @@
 "Eleven använder <b>med säkerhet</b> ett naturvetenskapligt språk och anpassar <b>till stor del</b> sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <b>välgrundade och nyanserade</b> bedömningar av informationens och källornas trovärdighet och relevans.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"FYSFYS02",
-"reqarr":["FYSFYS02"]}
+"reqarr":["FYSFYS02"],
+"friends":["Fysik 1-3",
+"FYSFYS01a",
+"FYSFYS01b1",
+"FYSFYS01b2",
+"FYSFYS02",
+"FYSFYS02",
+"Fysik 4-6",
+"Fysik 7-9"]}

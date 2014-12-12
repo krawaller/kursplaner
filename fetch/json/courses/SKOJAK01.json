@@ -33,4 +33,9 @@
 "Eleven tolkar <b>efter samråd</b> med handledare viltvårdsplaner. Eleven följer också instruktioner och genomfö <b>efter samråd</b> med handledar <b>sammanhållna</b> arbetsuppgifter inom jakt och viltvård. Dessutom utför eleven <b>efter samråd</b> med handledare viltinventeringar. Resultatet av arbetet är <b>gott</b>. I arbetet använder eleven olika jaktmetoder, jaktvapen, redskap och annan utrustning samt drar <b>välgrundade och nyanserade</b> slutsatser om hur olika metoder och utrustning påverkar jaktresultatet. Dessutom löser eleven <b>efter samråd</b> med handledare de problem som uppstår. När arbetet är utfört vårdar eleven <b>efter samråd</b> med handledare utrustningen samt tillvaratar <b>efter samråd</b> med handledare det fällda viltet.",
 "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör jakt och viltvård.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["SKOJAK02"]}
+"reqBy":["SKOJAK02"],
+"friends":["SKOFIS01",
+"SKOFIS02",
+"SKOJAK00S",
+"SKOJAK02",
+"SKOMÅN0"]}

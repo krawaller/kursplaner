@@ -36,4 +36,8 @@
 "req":"NAKNAK01a1",
 "notwith":"NAKNAK01b",
 "reqarr":["NAKNAK01a1"],
-"reqBy":["NAKNAK02"]}
+"reqBy":["NAKNAK02"],
+"friends":["NAKNAK01a1",
+"NAKNAK01a1",
+"NAKNAK01b",
+"NAKNAK02"]}

@@ -44,4 +44,9 @@
 "Eleven kontrollerar och felsöker <b>efter samråd</b> med handledare anläggningar och system samt reparerar <b>avancerade</b> fel som uppkommer i såväl nya som befintliga installationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"LARLAM0",
-"reqarr":["LARLAM0"]}
+"reqarr":["LARLAM0"],
+"friends":["LARBRN0",
+"LARCCT0",
+"LARINB0",
+"LARLAM0",
+"LARLAM0"]}

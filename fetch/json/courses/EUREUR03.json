@@ -43,4 +43,8 @@
 "Eleven gör en <b>välgrundad och nyanserad</b> reflektion över arbetsprocesser, material och rörelseuttryck genom att följa rörelseförlopp, beskriva rörelsemönster och arbetsmetoder samt resonera om gestaltningsresultat. I sin reflektion använder eleven <b>med säkerhet</b> adekvata begrepp."]},
 "req":"EUREUR02",
 "reqarr":["EUREUR02"],
-"reqBy":["EUREUR04"]}
+"reqBy":["EUREUR04"],
+"friends":["EUREUR01",
+"EUREUR02",
+"EUREUR02",
+"EUREUR04"]}

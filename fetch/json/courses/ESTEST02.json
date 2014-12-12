@@ -47,4 +47,10 @@
 "MUSMUS01",
 "MEPMEI01",
 "DIGDIG01"],
-"reqBy":["ESTEST03"]}
+"reqBy":["ESTEST03"],
+"friends":["DIGDIG01",
+"ESTEST01",
+"ESTEST01",
+"ESTEST03",
+"MEPMEI01",
+"MUSMUS01"]}

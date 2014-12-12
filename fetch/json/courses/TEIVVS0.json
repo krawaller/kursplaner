@@ -31,4 +31,8 @@
 "När arbetet är utfört gör eleven <b>efter samråd</b> med handledare kontroller. Eleven värderar också med <b>nyanserade</b> omdömen om arbetet uppfyller fastställda kvalitetskrav <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av utförda åtgärder.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["TEIBRA0",
-"TEIKOD0"]}
+"TEIKOD0"],
+"friends":["TEIBRA0",
+"TEIINT0",
+"TEIKOD0",
+"TEIYTB0"]}

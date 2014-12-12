@@ -28,4 +28,6 @@
 "Eleven identifierar <b>med säkerhet</b> filosofiska frågor samt gör <b>välgrundade och nyanserade</b> analyser av <b>flera</b> frågor och teorier som gäller verklighet, kunskap, vetenskap, samhällsfilosofi och värdefilosofi. <b>Eleven formulerar sig självständigt i förhållande till valda källor</b>. Elevens analyser leder fram till <b>välgrundade och nyanserade</b> förklaringar av dessa filosofiska frågor och teorier där <b>flera</b> relevanta filosofiska begrepp används <b>med säkerhet</b>. <b>Utifrån sina analyser ställer eleven dessutom relevanta frågor och upptäcker nya relaterade frågor</b>. Eleven tar ställning till filosofiska frågor och teorier genom att dra <b>välgrundade och nyanserade</b> slutsatser och värdera frågorna och teorierna med <b>nyanserade</b> omdömen.",
 "Elevens urskiljer och förklarar <b>med säkerhet</b> logisk argumentation i olika sammanhang samt underbygger egna ställningstaganden i filosofiska frågor med <b>välgrundade och nyanserade</b> argument."]},
 "req":"FIOFIO01",
-"reqarr":["FIOFIO01"]}
+"reqarr":["FIOFIO01"],
+"friends":["FIOFIO01",
+"FIOFIO01"]}

@@ -34,4 +34,6 @@
 "Eleven arbetar på ett ergonomiskt riktigt sätt. <b>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.</b>",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MÖNMÖN02",
-"reqarr":["MÖNMÖN02"]}
+"reqarr":["MÖNMÖN02"],
+"friends":["DAIMON02",
+"MÖNMÖN02"]}

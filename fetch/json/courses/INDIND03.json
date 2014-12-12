@@ -42,4 +42,7 @@
 "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"INDIND02",
-"reqarr":["INDIND02"]}
+"reqarr":["INDIND02"],
+"friends":["INDIND01",
+"INDIND02",
+"INDIND02"]}

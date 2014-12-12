@@ -42,4 +42,7 @@
 "När arbetet är utfört upprättar eleven <b>efter samråd</b> med handledare ett arbetsprotokoll i vilket eleven utvärderar sitt arbete och resultat med <b>nyanserade</b> omdömen <b>och ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SEISEI02",
-"reqarr":["SEISEI02"]}
+"reqarr":["SEISEI02"],
+"friends":["SEISEI01",
+"SEISEI02",
+"SEISEI02"]}

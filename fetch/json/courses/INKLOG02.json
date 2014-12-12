@@ -37,4 +37,9 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"INKLOG01",
 "reqarr":["INKLOG01"],
-"reqBy":["LAGPLO0"]}
+"reqBy":["LAGPLO0"],
+"friends":["INKINK01",
+"INKINK02",
+"INKLOG01",
+"INKLOG01",
+"INKTRP0"]}

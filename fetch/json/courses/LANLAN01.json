@@ -36,4 +36,6 @@
 "Eleven hanterar <b>med säkerhet</b> produkter från lantbruksdjur med hänsyn till produktkvalitet, smittspridning och livsmedelssäkerhet. Dessutom drar eleven <b>välgrundade</b> <b>och nyanserade</b> slutsatser om produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DJRDJU01",
+"LANLAN02"],
+"friends":["LANLAN00S",
 "LANLAN02"]}

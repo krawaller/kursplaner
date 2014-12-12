@@ -31,4 +31,8 @@
 "Eleven planerar och utför <b>efter samråd</b> med handledare arbetsuppgifter inom ett specialområde. Dessutom bemöter eleven <b>med säkerhet</b> hundägare och andra kunder. Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom för eleven <b>noggranna och utförliga</b> journalanteckningar över genomförda åtgärder.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"HUNHUN02",
-"reqarr":["HUNHUN02"]}
+"reqarr":["HUNHUN02"],
+"friends":["HUNHUN01",
+"HUNHUN02",
+"HUNHUN02",
+"HUNTRN0"]}

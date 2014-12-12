@@ -60,4 +60,9 @@
 "notwith":{"type":"OR",
 "arr":["MOBGRV0",
 "MOBHJU0"]},
-"reqarr":["ANAANA03"]}
+"reqarr":["ANAANA03"],
+"friends":["ANAANL0",
+"ANAANA01",
+"ANAANA02",
+"ANAANA03",
+"ANAANA03"]}

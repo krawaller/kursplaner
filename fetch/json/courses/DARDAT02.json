@@ -32,4 +32,11 @@
 "DARDAT03",
 "INRROB0"],
 "req":"DARDAT01S",
-"reqarr":["DARDAT01S"]}
+"reqarr":["DARDAT01S"],
+"friends":["DARCAD0",
+"DARDAT01S",
+"DARDAT01S",
+"DARDAT03",
+"DARDAT04",
+"DARDAT05",
+"DARDAT06"]}

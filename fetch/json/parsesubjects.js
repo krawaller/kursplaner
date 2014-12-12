@@ -766,9 +766,16 @@ _.each(friends,function(rel){
 	});
 });
 
-
-
-
+_.each(GLOBAL.courses,function(course,code){
+	var subject = GLOBAL.subjects[course.subject];
+	course.friends = _.without(subject.courses,code).concat(course.reqarr||[]).concat(course.reqby||[]);
+	_.each(subject.friends||[],function(friend){
+		course.friends = course.friends.concat(GLOBAL.subjects[friend].courses);
+	});
+	course.friends.sort(function(c1,c2){
+		return GLOBAL.courses[c1].name > GLOBAL.courses[c2].name ? 1 : -1;
+	});
+});
 
 GLOBAL.plans={};
 _.each(["grund","vux","gymn"],function(level){

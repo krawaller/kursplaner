@@ -44,4 +44,7 @@
 "KEMKEM02"]},
 "reqarr":["BIOBIO02",
 "FYSFYS02",
+"KEMKEM02"],
+"friends":["BIOBIO02",
+"FYSFYS02",
 "KEMKEM02"]}

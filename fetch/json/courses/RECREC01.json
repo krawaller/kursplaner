@@ -41,4 +41,8 @@
 "reqBy":["HOTREC02",
 "RECREC02"],
 "req":"RECLOG0",
-"reqarr":["RECLOG0"]}
+"reqarr":["RECLOG0"],
+"friends":["RECLOG0",
+"RECLOG0",
+"RECREC02",
+"RECREC03"]}

@@ -30,4 +30,10 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["FÖRFÖR02",
 "FÖRENT0",
-"FÖRMAD0"]}
+"FÖRMAD0"],
+"friends":["FÖRENT0",
+"FÖRFÖR00S",
+"FÖRFÖR02",
+"FÖRMAD0",
+"FÖRRED01",
+"FÖRRED02"]}

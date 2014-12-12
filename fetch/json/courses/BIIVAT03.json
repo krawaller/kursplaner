@@ -38,4 +38,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Dessutom söker eleven <b>med säkerhet</b> information om utrotningshotade växt- och djurarter i vattenmiljöer. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> vetenskapliga begrepp, teorier och modeller.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"BIIVAT02",
-"reqarr":["BIIVAT02"]}
+"reqarr":["BIIVAT02"],
+"friends":["BIIVAT01",
+"BIIVAT02",
+"BIIVAT02"]}

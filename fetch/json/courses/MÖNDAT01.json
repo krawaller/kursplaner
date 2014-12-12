@@ -36,4 +36,8 @@
 "reqBy":["DAIMON02",
 "MÖNDAT02"],
 "req":"MÖNMÖN02",
-"reqarr":["MÖNMÖN02"]}
+"reqarr":["MÖNMÖN02"],
+"friends":["MÖNDAT02",
+"MÖNMÖN01",
+"MÖNMÖN02",
+"MÖNMÖN02"]}

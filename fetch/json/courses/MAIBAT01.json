@@ -40,4 +40,10 @@
 "Resultatet av elevens arbete är <b>gott</b>.",
 "Eleven gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete samt presenterar <b>med säkerhet</b> sitt arbete. Dessutom gör eleven <b>komplexa</b> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten. Eleven utvärderar med <b>nyanserade</b> omdömen både arbetsprocess och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["MAIBAT02"]}
+"reqBy":["MAIBAT02"],
+"friends":["MAIBAT02",
+"MAIMAR01",
+"MAIMAR02",
+"MAIMAR03",
+"MAIMOT01",
+"MAIMOT02"]}

@@ -41,4 +41,7 @@
 "Eleven utför <b>med säkerhet</b> felsökning i hård- och mjukvara. Dessutom utför eleven <b>avancerade</b> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELEELR0",
-"reqarr":["ELEELR0"]}
+"reqarr":["ELEELR0"],
+"friends":["ELEELR0",
+"ELEELR0",
+"ELELÅG0"]}

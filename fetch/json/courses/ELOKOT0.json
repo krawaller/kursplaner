@@ -41,4 +41,7 @@
 "Eleven ger <b>med säkerhet</b> tydliga instruktioner till användare av apparater och system.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELEELR0",
-"reqarr":["ELEELR0"]}
+"reqarr":["ELEELR0"],
+"friends":["ELOBID0",
+"ELEELR0",
+"ELOTRL0"]}

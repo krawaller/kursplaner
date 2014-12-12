@@ -38,4 +38,11 @@
 "Eleven planerar och utför <b>efter samråd</b> med handledare och med <b>mycket gott</b> handlag <b>avancerad</b> hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem. Resultatet är <b>gott</b> i fråga om funktion, säkerhet och kvalitet. Dessutom installerar eleve <b>efter samråd</b> med handledare datorer i lokala nätverk. Eleven hanterar med <b>mycket gott</b> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"DAODAT01a",
-"reqarr":["DAODAT01a"]}
+"reqarr":["DAODAT01a"],
+"friends":["DAODAT0",
+"DAODAT01a",
+"DAODAT01a",
+"DAODAT01b",
+"DAODIG0",
+"DAOINU0",
+"DAOMUL0"]}

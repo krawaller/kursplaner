@@ -44,4 +44,7 @@
 "Eleven använder <b>med säkerhet</b> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <b>stor</b> del sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <b>välgrundade och nyanserade</b> bedömningar av informationens och källornas trovärdighet och relevans.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"BIOBIO02",
-"reqarr":["BIOBIO02"]}
+"reqarr":["BIOBIO02"],
+"friends":["BIOBIO02",
+"HIOHIO0",
+"HIOHIL0"]}

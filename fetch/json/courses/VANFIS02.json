@@ -35,4 +35,8 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för förutsättningar och krav för en fiskodling. Eleven redogör också <b>utförligt och</b> <b>nyanserat</b> för fiskens tillväxt och utveckling i en fiskodling samt för hur näringstillgång och hälsa påverkar tillväxt och utveckling. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för arbetsgången i samband med tillståndsgivning. ",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"VANFIS01",
-"reqarr":["VANFIS01"]}
+"reqarr":["VANFIS01"],
+"friends":["VANFIS01",
+"VANFIS01",
+"VANVAT0",
+"VANVAE00S"]}

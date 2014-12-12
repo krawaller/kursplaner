@@ -35,4 +35,7 @@
 "req":"de kunskaper grundskolan ger eller motsvarande",
 "notwith":"NAKNAK01b",
 "reqarr":[],
-"reqBy":["NAKNAK01a2"]}
+"reqBy":["NAKNAK01a2"],
+"friends":["NAKNAK01a2",
+"NAKNAK01b",
+"NAKNAK02"]}

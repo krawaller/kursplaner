@@ -35,4 +35,9 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <b>nyanserade</b> omdömen. Beskrivningen innehåller <b>välgrundade och nyanserade</b> förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven <b>med säkerhet</b> relevant fackspråk och samisk terminologi.",
 "Eleven hanterar och vårdar <b>efter samråd</b> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.<b> Eleven</b><b> utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.</b>",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["SAISAM02S"]}
+"reqBy":["SAISAM02S"],
+"friends":["SAISAM0",
+"SAISAM02S",
+"SAISAM03S",
+"SAISAM04",
+"SAISAM05"]}

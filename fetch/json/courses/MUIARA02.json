@@ -34,4 +34,8 @@
 "I arbetet använder eleven <b>med säkerhet</b> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <b>nyanserade</b> omdömen sitt eget arbete <b>och ger förslag på hur arbetet kan förbättras</b>. <b>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras.</b> I diskussionen och värderingen använder eleven <b>med säkerhet</b> musikteoretiska begrepp."]},
 "req":"MUIARA01",
-"reqarr":["MUIARA01"]}
+"reqarr":["MUIARA01"],
+"friends":["MUIARA01",
+"MUIARA01",
+"MUIGEH01",
+"MUIGEH02"]}

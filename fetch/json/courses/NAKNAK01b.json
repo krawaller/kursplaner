@@ -41,4 +41,7 @@
 "arr":["NAKNAK01a1",
 "NAKNAK01a2"]},
 "reqarr":[],
-"reqBy":["NAKNAK02"]}
+"reqBy":["NAKNAK02"],
+"friends":["NAKNAK01a1",
+"NAKNAK01a2",
+"NAKNAK02"]}

@@ -40,4 +40,10 @@
 "TRAYRK01b"]},
 "reqarr":["TRAYRK01a",
 "TRAYRK01b"],
-"reqBy":["PESPER00S"]}
+"reqBy":["PESPER00S"],
+"friends":["PESPER1",
+"PESPER01b",
+"PESPER00S",
+"PESTAX0",
+"TRAYRK01a",
+"TRAYRK01b"]}

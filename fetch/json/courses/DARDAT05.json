@@ -37,4 +37,11 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"DARDAT04",
 "reqarr":["DARDAT04"],
-"reqBy":["DARDAT06"]}
+"reqBy":["DARDAT06"],
+"friends":["DARCAD0",
+"DARDAT01S",
+"DARDAT02",
+"DARDAT03",
+"DARDAT04",
+"DARDAT04",
+"DARDAT06"]}

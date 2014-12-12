@@ -41,4 +41,8 @@
 "Vid fältstudier identifierar eleven <b>med säkerhet</b> olika rovdjur samt redogör <b>utförligt och</b> <b>nyanserat</b> för deras beteenden och för skador de förorsakar.",
 "I beskrivningar och redogörelser använder eleven <b>med säkerhet</b> samisk terminologi som berör renen och rennäringen."]},
 "req":"RENREN01",
-"reqarr":["RENREN01"]}
+"reqarr":["RENREN01"],
+"friends":["RENREN01",
+"RENREN01",
+"RENREE01",
+"RENREE02"]}

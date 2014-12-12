@@ -45,4 +45,12 @@
 "reqarr":["SPETRÄ01",
 "TRNTRN01"],
 "reqBy":["SPEIDS03",
-"SPETRÄ03"]}
+"SPETRÄ03"],
+"friends":["SPEIDT0",
+"SPEIDS01",
+"SPEIDS02",
+"SPEIDS03",
+"SPETRÄ01",
+"SPETRÄ01",
+"SPETRÄ03",
+"TRNTRN01"]}

@@ -42,4 +42,13 @@
 "Eleven samverkar och kommunicerar <b>med säkerhet</b> med andra samt anpassar <b>med säkerhet</b> sitt språk efter situation och mottagare. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"TURREM0",
-"reqarr":["TURREM0"]}
+"reqarr":["TURREM0"],
+"friends":["TURAKT0",
+"TURBEÖ0",
+"TURGUI0",
+"TURHÅL0",
+"TURMAS0",
+"TURRES0",
+"TURREM0",
+"TURREM0",
+"TURTUR0"]}

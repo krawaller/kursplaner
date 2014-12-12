@@ -53,4 +53,12 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MARMAL01",
 "reqarr":["MARMAL01"],
-"reqBy":["MARMAL03"]}
+"reqBy":["MARMAL03"],
+"friends":["MARMAE0",
+"MARMAR0",
+"MARMAL01",
+"MARMAL01",
+"MARMAL03",
+"MARMAL04",
+"MARMAL05",
+"MARMAL0"]}

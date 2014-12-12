@@ -28,4 +28,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arvets och miljöns betydelse för individens psykiska hälsa, ohälsa och uppkomsten av psykiska störningar. Eleven ger också exempel på <b>flera</b> psykologiska behandlingsalternativ samt redogör <b>utförligt och</b> <b>nyanserat</b> för grundtankarna bakom dessa. Dessutom för eleven <b>välgrundade och nyanserade</b> resonemang om hur människan påverkas och formas av kulturer, medier och livsstilar samt gör i samband med det kopplingar till egna erfarenheter."]},
 "req":"PSKPSY01",
 "reqarr":["PSKPSY01"],
-"reqBy":["HUMHUM00S"]}
+"reqBy":["HUMHUM00S"],
+"friends":["PSKPSY01",
+"PSKPSY01",
+"PSKPSY02b"]}

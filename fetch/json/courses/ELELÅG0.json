@@ -38,4 +38,7 @@
 "Eleven utför <b>avancerade</b> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar. Arbetet utförs med <b>gott</b> resultat.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELEELR0",
-"reqarr":["ELEELR0"]}
+"reqarr":["ELEELR0"],
+"friends":["ELEELR0",
+"ELEELR0",
+"ELEMIK0"]}

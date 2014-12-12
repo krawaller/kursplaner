@@ -37,4 +37,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"FIKFIS01",
 "reqarr":["FIKFIS01"],
-"reqBy":["FIKFIS03"]}
+"reqBy":["FIKFIS03"],
+"friends":["FIKFIS01",
+"FIKFIS01",
+"FIKFIS03"]}

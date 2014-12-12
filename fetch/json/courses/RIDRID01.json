@@ -35,4 +35,11 @@
 "Eleven visiterar och utrustar <b>efter samråd</b> med handledare hästar för ridning. Eleven rider <b>efter samråd</b> med handledare olika typer av hästar i olika gångarter och i olika sitsar samt i ändamålsenlig form utifrån hästens individuella förutsättningar. Elevens ridning är <b>god</b>. Dessutom genomför eleven <b>efter samråd</b> med handledare longering av skolade hästar. I ridningen tolkar eleven <b>med säkerhet</b> hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet. Eleven sköter och vårdar <b>efter samråd</b> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"RINRID0",
-"reqarr":["RINRID0"]}
+"reqarr":["RINRID0"],
+"friends":["RIDKÖR01",
+"RIDKÖR02",
+"RIDRID02",
+"RIDRID0",
+"RINRID0",
+"RIDTRA01",
+"RIDTRA02"]}

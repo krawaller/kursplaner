@@ -28,4 +28,7 @@
 "Eleven utarbetar <b>efter samråd</b> med handledare förslag till en anläggning inom sitt specialområde samt gör <b>välgrundade och nyanserade</b> bedömningar av resultatet och kvaliteten.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"TRDTRÄ02",
-"reqarr":["TRDTRÄ02"]}
+"reqarr":["TRDTRÄ02"],
+"friends":["TRDTRÄ01",
+"TRDTRÄ02",
+"TRDTRÄ02"]}

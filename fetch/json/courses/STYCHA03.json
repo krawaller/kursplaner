@@ -41,4 +41,15 @@
 "reqBy":["CHACHA04",
 "STYCHA04"],
 "req":"STYCHA02",
-"reqarr":["STYCHA02"]}
+"reqarr":["STYCHA02"],
+"friends":["STYCHA00S",
+"STYCHA01",
+"STYCHA02",
+"STYCHA02",
+"STYCHA04",
+"STYFIN0",
+"STYSTY00S",
+"STYSTY01",
+"STYSTY02",
+"STYSTY03",
+"STYSTY04"]}

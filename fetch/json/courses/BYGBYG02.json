@@ -69,4 +69,6 @@
 "VENVET01",
 "VENVEI0"],
 "req":"BYGBYG01",
-"reqarr":["BYGBYG01"]}
+"reqarr":["BYGBYG01"],
+"friends":["BYGBYG01",
+"BYGBYG01"]}

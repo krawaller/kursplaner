@@ -34,4 +34,10 @@
 "req":"MALMAL02",
 "reqarr":["MALMAL02"],
 "reqBy":["MALMAL04",
+"MALSPE0"],
+"friends":["MALMAL00S",
+"MALMAL01",
+"MALMAL02",
+"MALMAL02",
+"MALMAL04",
 "MALSPE0"]}

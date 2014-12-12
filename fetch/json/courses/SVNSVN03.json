@@ -41,4 +41,7 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för några aspekter av det svenska språkets släktskapsförhållanden och historiska utveckling. <b>Dessutom kan eleven dra relevanta generella slutsatser om språkförändring.</b>",
 "Eleven kan identifiera och analysera <b>komplexa</b> språkliga drag samt göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
 "req":"SVNSVN02",
-"reqarr":["SVNSVN02"]}
+"reqarr":["SVNSVN02"],
+"friends":["SVNSVN01",
+"SVNSVN02",
+"SVNSVN02"]}

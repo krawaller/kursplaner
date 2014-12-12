@@ -38,4 +38,12 @@
 "Eleven använder <b>med säkerhet</b> korrekt fackspråk.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"PRUPRD03S",
-"reqarr":["PRUPRD03S"]}
+"reqarr":["PRUPRD03S"],
+"friends":["PRUINU0",
+"PRUIND0",
+"PRUINE00S",
+"PRUPRD01S",
+"PRUPRD02S",
+"PRUPRD03S",
+"PRUPRD03S",
+"PRUVEY0"]}

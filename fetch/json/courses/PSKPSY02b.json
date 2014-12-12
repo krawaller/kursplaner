@@ -23,4 +23,7 @@
 "Eleven formulerar <b>med säkerhet</b> <b>komplexa</b> psykologiska frågeställningar och väljer <b>med säkerhet</b><b> några</b> psykologiska teorier och modeller. Eleven prövar frågeställningarna med hjälp av <b>valda</b> experiment och observationer, <b>motiverar sina val</b> <b>samt</b> <b>genomför experimenten och observationerna med gott resultat</b>. Dessutom för eleven <b>välgrundade</b> <b>och nyanserade</b> resonemang om resultatet och drar <b>välgrundade och nyanserade</b> slutsatser."]},
 "req":"PSKPSY01",
 "reqarr":["PSKPSY01"],
-"reqBy":["HUMHUM00S"]}
+"reqBy":["HUMHUM00S"],
+"friends":["PSKPSY01",
+"PSKPSY01",
+"PSKPSY02a"]}

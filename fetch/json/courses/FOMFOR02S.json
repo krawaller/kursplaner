@@ -38,4 +38,9 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"FOMFOR01S",
 "reqarr":["FOMFOR01S"],
-"reqBy":["FOMFOR03S"]}
+"reqBy":["FOMFOR03S"],
+"friends":["FOMFAC0",
+"FOMFOR01S",
+"FOMFOR01S",
+"FOMFOR03S",
+"FOMTEX0"]}

@@ -36,4 +36,6 @@
 "Eleven kan göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
 "req":"de kunskaper specialskolan ger eller motsvarande",
 "reqarr":[],
-"reqBy":["SVNSVN02"]}
+"reqBy":["SVNSVN02"],
+"friends":["SVNSVN02",
+"SVNSVN03"]}

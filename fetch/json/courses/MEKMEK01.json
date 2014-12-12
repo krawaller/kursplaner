@@ -24,4 +24,5 @@
 "A":["Eleven planerar och bygger <b>efter samråd</b> med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven <b>med säkerhet</b> ritningar och manualer samt samarbetar <b>med säkerhet</b> med andra. Eleven gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete.",
 "Med exempel från både industri och vardagsliv beskriver eleven <b>utförligt och</b> <b>nyanserat</b> hur ett <b>komplext</b> mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <b>utförligt och</b> <b>nyanserat</b> fysikaliska principer vid olika mekatroniska tillämpningar.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["MEKMEK02"]}
+"reqBy":["MEKMEK02"],
+"friends":["MEKMEK02"]}

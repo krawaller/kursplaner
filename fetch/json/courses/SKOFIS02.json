@@ -33,4 +33,10 @@
 "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske, vattenvård och fiskevård.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SKOFIS01",
-"reqarr":["SKOFIS01"]}
+"reqarr":["SKOFIS01"],
+"friends":["SKOFIS01",
+"SKOFIS01",
+"SKOJAK00S",
+"SKOJAK01",
+"SKOJAK02",
+"SKOMÅN0"]}

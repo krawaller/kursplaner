@@ -38,4 +38,6 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> egna och andras attityder, värderingar och handlingar i relation till människor med funktionsnedsättningar. I diskussionen framför eleven <b>välgrundade och nyanserade</b> argument för sina åsikter samt visar respekt för andras åsikter.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SPCSPE01",
-"reqarr":["SPCSPE01"]}
+"reqarr":["SPCSPE01"],
+"friends":["SPCSPE01",
+"SPCSPE01"]}

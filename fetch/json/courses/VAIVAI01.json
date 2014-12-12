@@ -37,4 +37,7 @@
 "reqBy":["HOTVÅN02",
 "VAIVAI02"],
 "req":"RECLOG0",
-"reqarr":["RECLOG0"]}
+"reqarr":["RECLOG0"],
+"friends":["RECLOG0",
+"VAIVAI02",
+"VAIVAI03"]}

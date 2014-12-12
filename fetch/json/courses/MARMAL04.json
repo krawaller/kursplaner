@@ -58,4 +58,12 @@
 "LACLAK0",
 "MARMAL05"],
 "req":"MARMAL03",
-"reqarr":["MARMAL03"]}
+"reqarr":["MARMAL03"],
+"friends":["MARMAE0",
+"MARMAR0",
+"MARMAL01",
+"MARMAL02",
+"MARMAL03",
+"MARMAL03",
+"MARMAL05",
+"MARMAL0"]}

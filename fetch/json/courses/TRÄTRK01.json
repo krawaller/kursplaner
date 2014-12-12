@@ -57,4 +57,9 @@
 "TRÄTRK02"],
 "req":"HUSHUS02",
 "notwith":"TRÄBYG0",
-"reqarr":["HUSHUS02"]}
+"reqarr":["HUSHUS02"],
+"friends":["TRÄBYG0",
+"HUSHUS02",
+"TRÄTIM0",
+"TRÄTRK02",
+"TRÄTRK03"]}

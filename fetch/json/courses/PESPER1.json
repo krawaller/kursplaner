@@ -62,4 +62,9 @@
 "arr":["PESPER01a",
 "PESPER01b"]},
 "reqarr":["TRAYRK1"],
-"reqBy":["PESPER00S"]}
+"reqBy":["PESPER00S"],
+"friends":["PESPER01a",
+"PESPER01b",
+"PESPER00S",
+"PESTAX0",
+"TRAYRK1"]}

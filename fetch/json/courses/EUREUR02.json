@@ -47,4 +47,8 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> arbetsprocesser och yrkesrollers huvudsakliga arbetsområden, funktioner och samverkan. Dessutom redogör eleve <b>utförligt och</b> <b>nyanserat</b> för etiska förhållningssätt samt för <b>välgrundade och nyanserade</b> resonemang om etiska hänsyn till andra medaktörer. I diskussioner och redogörelser använder eleven <b>med säkerhet</b> adekvata begrepp."]},
 "req":"EUREUR01",
 "reqarr":["EUREUR01"],
-"reqBy":["EUREUR03"]}
+"reqBy":["EUREUR03"],
+"friends":["EUREUR01",
+"EUREUR01",
+"EUREUR03",
+"EUREUR04"]}

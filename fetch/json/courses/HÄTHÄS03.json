@@ -33,4 +33,10 @@
 "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom för eleven <b>noggranna och utförliga</b> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <b>med säkerhet</b> förändringar hos hästarna eller i deras miljö.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"HÄTHÄS02",
-"reqarr":["HÄTHÄS02"]}
+"reqarr":["HÄTHÄS02"],
+"friends":["HÄTDEN01a",
+"HÄTDEN01b",
+"HÄTDEN02",
+"HÄTHÄS01",
+"HÄTHÄS02",
+"HÄTHÄS02"]}

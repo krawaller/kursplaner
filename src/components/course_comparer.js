@@ -15,21 +15,24 @@ var CourseComparer = React.createClass({
   mixins: [Sel("what",["centralt innehåll","kunskapskrav"]),Sel("grade",["E","C","A"])],
   render: function(){
   	var course = this.props.course,
+        coursesuff = (course.school === "grund" ? " (grund)" : " (gy)")
         DB = this.props.DB,
         othercode = this.props.params && this.props.params.other,
         other = DB.courses[othercode],
+        othersuff = (other.school === "grund" ? " (grund)" : " (gy)")
         now = this.state.what,
         nowg = this.state.grade,
-        Comp = (now==="kunskapskrav"?CourseGrades:CourseContent);
+        Comp = (now==="kunskapskrav"?CourseGrades:CourseContent),
+        diff = (course.school!==other.school);
     return (
     	<Section headline={<span>Jämför {this.what()} {now==="kunskapskrav" && ["för"," ",this.grade()]}</span>}>
         <div className="row">
           <div className="col-xs-6">
-            <h5>{course.name}</h5>
+            <h5>{course.name}{diff && coursesuff}</h5>
           </div>
           <div className="col-xs-6">
             <Link to="coursedesc" params={{course:othercode}}>
-              <h5>{other.name}</h5>
+              <h5>{other.name}{diff && othersuff}</h5>
             </Link>
           </div>
         </div>

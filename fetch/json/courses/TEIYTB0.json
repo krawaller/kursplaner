@@ -37,4 +37,8 @@
 "Eleven planerar <b>efter samråd</b> med handledare sitt arbete. I planeringen väljer eleven <b>med säkerhet</b> någon vanligt förekommande metod. Eleven utför <b>efter samråd</b> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med <b>mycket gott</b> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
 "När arbetet är utfört gör eleven <b>efter samråd</b> med handledare kontroller. Eleven värderar också med <b>nyanserade</b> omdömen om arbetet uppfyller fastställda kvalitetskrav <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av utförda åtgärder.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["TEIKOD0"]}
+"reqBy":["TEIKOD0"],
+"friends":["TEIBRA0",
+"TEIINT0",
+"TEIKOD0",
+"TEIVVS0"]}

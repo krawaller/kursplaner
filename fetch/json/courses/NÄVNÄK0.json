@@ -37,4 +37,9 @@
 "Eleven ger <b>efter samråd</b> med handledar <b>avancerade</b> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"NÄVNÄR0",
-"reqarr":["NÄVNÄR0"]}
+"reqarr":["NÄVNÄR0"],
+"friends":["NÄVADM0",
+"NÄVNÄV0",
+"NÄVNÄE0",
+"NÄVNÄR0",
+"NÄVNÄR0"]}

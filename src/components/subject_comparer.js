@@ -16,20 +16,23 @@ var SubjectComparer = React.createClass({
   mixins: [Sel("what",["beskrivning","syfte","ämnesmål"])],
   render: function(){
   	var subject = this.props.subject,
+        subsuff = (subject.school === "grund" ? " (grund)" : " (gy)"),
         DB = this.props.DB,
         othercode = this.props.params && this.props.params.other,
         other = DB.subjects[othercode],
+        othersuff = (other.school === "grund" ? " (grund)" : " (gy)")
         now = this.state.what,
-        Comp = (now==="ämnesmål"?SubjectGoals:now==="syfte"?SubjectPurpose:SubjectDesc);
+        Comp = (now==="ämnesmål"?SubjectGoals:now==="syfte"?SubjectPurpose:SubjectDesc),
+        diff = (subject.school!==other.school);
     return (
     	<Section headline={<span>Jämför {this.what()}</span>}>
         <div className="row">
           <div className="col-xs-6">
-            <h5>{subject.name}</h5>
+            <h5>{subject.name}{diff && subsuff}</h5>
           </div>
           <div className="col-xs-6">
             <Link to="subjectdesc" params={{subject:othercode}}>
-              <h5>{other.name}</h5>
+              <h5>{other.name}{diff && othersuff}</h5>
             </Link>
           </div>
         </div>

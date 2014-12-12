@@ -50,4 +50,12 @@
 "req":"FYSFYS01b1",
 "notwith":"FYSFYS01a",
 "reqarr":["FYSFYS01b1"],
-"reqBy":["FYSFYS02"]}
+"reqBy":["FYSFYS02"],
+"friends":["Fysik 1-3",
+"FYSFYS01a",
+"FYSFYS01b1",
+"FYSFYS01b1",
+"FYSFYS02",
+"FYSFYS03",
+"Fysik 4-6",
+"Fysik 7-9"]}

@@ -20,3 +20,7 @@ h1 {
 .padass {
 	padding-bottom: 1em;
 }
+
+.selectlist > a {
+	margin-right: 15px;
+}

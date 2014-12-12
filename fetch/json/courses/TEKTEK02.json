@@ -35,4 +35,10 @@
 "Eleven undersöker <b>avancerade</b> tekniska system avseende funktionssamband och begränsningar samt redogör <b>utförligt och</b> <b>nyanserat</b> för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband. Dessutom använder eleven <b>med säkerhet</b> datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"TEKTEK01",
-"reqarr":["TEKTEK01"]}
+"reqarr":["TEKTEK01"],
+"friends":["TEKTEK00S",
+"TEKTEK01",
+"TEKTEK01",
+"Teknik 1-3",
+"Teknik 4-6",
+"Teknik 7-9"]}

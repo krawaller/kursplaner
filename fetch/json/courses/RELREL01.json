@@ -33,4 +33,9 @@
 "req":"de kunskaper grundskolan ger eller motsvarande",
 "reqarr":[],
 "reqBy":["RELREL02",
-"RELREL0"]}
+"RELREL0"],
+"friends":["RELREL0",
+"Religionskunskap 1-3",
+"RELREL02",
+"Religionskunskap 4-6",
+"Religionskunskap 7-9"]}

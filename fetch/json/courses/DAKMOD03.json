@@ -63,4 +63,12 @@
 "DATDAS02S",
 "DATDAS03S",
 "DATDAS04S"]},
-"reqarr":["DAKMOD02"]}
+"reqarr":["DAKMOD02"],
+"friends":["DAKDAN0",
+"DAKDAS0",
+"DAKKLA01",
+"DAKKLA02",
+"DAKKLA03",
+"DAKMOD01",
+"DAKMOD02",
+"DAKMOD02"]}

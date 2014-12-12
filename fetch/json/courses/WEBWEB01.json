@@ -47,4 +47,9 @@
 "reqBy":["DALDAT0",
 "WEBWEB02"],
 "req":"WEBWEU01",
-"reqarr":["WEBWEU01"]}
+"reqarr":["WEBWEU01"],
+"friends":["WEBWEB02",
+"WEBWEU01",
+"WEBWEU01",
+"WEBWEU02",
+"WEBWEU03"]}

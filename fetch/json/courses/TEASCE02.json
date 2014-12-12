@@ -32,4 +32,16 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"TEASCE01",
 "reqarr":["TEASCE01"],
-"reqBy":["TEASCE03"]}
+"reqBy":["TEASCE03"],
+"friends":["TEADRM0",
+"TEAFYS0",
+"TEALJU00S",
+"TEAREG0",
+"TEARÖS0",
+"TEASCE01",
+"TEASCE01",
+"TEASCE03",
+"TEASCI0",
+"TEASCN0",
+"TEASCE00S",
+"TEATEA0"]}

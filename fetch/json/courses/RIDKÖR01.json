@@ -42,4 +42,11 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"RINRID0",
 "notwith":"TRVTRA01",
-"reqarr":["RINRID0"]}
+"reqarr":["RINRID0"],
+"friends":["RIDKÖR02",
+"RIDRID01",
+"RIDRID02",
+"RIDRID0",
+"RINRID0",
+"RIDTRA01",
+"RIDTRA02"]}

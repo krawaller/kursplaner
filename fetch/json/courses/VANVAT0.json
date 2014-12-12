@@ -41,4 +41,8 @@
 "req":"BIIVAT01",
 "reqarr":["BIIVAT01"],
 "reqBy":["VANFIS01",
+"VANVAE00S"],
+"friends":["BIIVAT01",
+"VANFIS01",
+"VANFIS02",
 "VANVAE00S"]}

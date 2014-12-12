@@ -21,7 +21,7 @@ var CoursesSelect = React.createClass({
     if (compareto){
       keys = ["Relaterade kurser"].concat(keys);
       compcourse = courses[compareto];
-      related = _.unique(_.without(DB.subjects[compcourse.subject].courses,compareto).concat(compcourse.reqarr||[]).concat(compcourse.reqBy||[]));
+      related = compcourse.friends || []; // _.unique(_.without(DB.subjects[compcourse.subject].courses,compareto).concat(compcourse.reqarr||[]).concat(compcourse.reqBy||[]));
       //console.log("COMPARETO",compareto,"RELATED",related,compcourse);
     }
     var sel = (
@@ -31,14 +31,21 @@ var CoursesSelect = React.createClass({
         },this)}
       </div>
     );
+    //function linkToC(d){
+      //return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
+    //}
     function linkToC(d){
-      return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
+      var suffix = "";
+      if (now==="Relaterade kurser" && DB.courses[d].school!==DB.courses[compareto].school){
+        suffix = (DB.courses[d].school === "grund" ? " (grund)" : " (gy)");
+      }
+      return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}{suffix}</Link>;
     }
     //console.log("SELSCREEN",now,DB.coursedict[now]);
     return (
       <div>
         <p>{sel}</p>
-        <div>
+        <div className="selectlist">
           {_.flatten(_.map(DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:related),function(s){
             return [linkToC(s)," "];
           }))}

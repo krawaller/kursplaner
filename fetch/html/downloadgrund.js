@@ -3,7 +3,7 @@ var fs = require('fs'),
 	download = require('./download');
 
 function cleanText(buffer){
-	var ret = buffer.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace(/<script.*?<\/script>/g,"").replace(/<img[^>]*\/?>/g,"").replace(/<p> *<\/p>/g,"").replace(/   */g," ").replace(/[ ]style="[^"]*"/g,"").replace(/anv��nda/,"använda");
+	var ret = buffer.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace(/<script.*?<\/script>/g,"").replace(/<img[^>]*\/?>/g,"").replace(/<p> *<\/p>/g,"").replace(/   */g," ").replace(/[ ]style="[^"]*"/g,"").replace(/anv��nda/,"använda").replace(/ d��r /," där ");
 	_.each({
 		"0,4-24kV": /0\,4\-24 kV/g
 	},function(regex,replace){ ret = ret.replace(regex,replace); });

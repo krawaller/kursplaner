@@ -44,4 +44,10 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SAISAM02S",
 "reqarr":["SAISAM02S"],
-"reqBy":["SAISAM04"]}
+"reqBy":["SAISAM04"],
+"friends":["SAISAM0",
+"SAISAM01S",
+"SAISAM02S",
+"SAISAM02S",
+"SAISAM04",
+"SAISAM05"]}

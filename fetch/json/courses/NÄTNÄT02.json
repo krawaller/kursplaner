@@ -34,4 +34,6 @@
 "Eleven utför <b>på ett välorganiserat sätt</b> arbetet utifrån givna instruktioner, lagar och andra bestämmelser. <b>I arbetet tar eleven egna initiativ.</b> Dessutom arbetar eleven ergonomiskt och miljöanpassat. När arbetsuppgiften är utförd diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> sitt arbete och resultat utifrån ekonomiska, miljömässiga och etiska aspekter.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"NÄTNÄT01",
-"reqarr":["NÄTNÄT01"]}
+"reqarr":["NÄTNÄT01"],
+"friends":["NÄTNÄT01",
+"NÄTNÄT01"]}

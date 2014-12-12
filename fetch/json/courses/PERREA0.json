@@ -47,4 +47,10 @@
 "reqarr":["PERPES0"],
 "reqBy":["PERBRO0",
 "PERMOT0",
-"SNOREE0"]}
+"SNOREE0"],
+"friends":["PERBRO0",
+"PERKOM01a",
+"PERKOM01b",
+"PERMOT0",
+"PERPES0",
+"PERPES0"]}

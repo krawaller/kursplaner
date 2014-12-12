@@ -32,4 +32,6 @@
 "Eleven gör en <b>komplex</b> tolkning av sina mätresultat. I samband med tolkningen redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras. Eleven gör en <b>noggrann och utförlig</b> dokumentation av mätresultaten.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELÄELM01",
-"reqarr":["ELÄELM01"]}
+"reqarr":["ELÄELM01"],
+"friends":["ELÄELM01",
+"ELÄELM01"]}

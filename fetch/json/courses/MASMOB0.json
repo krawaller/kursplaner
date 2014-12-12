@@ -50,4 +50,16 @@
 "MASREP0"]},
 "reqarr":["MASMAI0",
 "MASREP0"],
-"reqBy":["MASMOB01"]}
+"reqBy":["MASMOB01"],
+"friends":["MASANP0",
+"MASARB0",
+"MASKOM0",
+"MASLAT0",
+"MASLAI0",
+"MASMAI0",
+"MASMAI0",
+"MASMOB01",
+"MASMOB02",
+"MASREP0",
+"MASREP0",
+"MASSTY0"]}

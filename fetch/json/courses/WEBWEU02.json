@@ -47,4 +47,9 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"WEBWEU01",
 "reqarr":["WEBWEU01"],
-"reqBy":["WEBWEU03"]}
+"reqBy":["WEBWEU03"],
+"friends":["WEBWEB01",
+"WEBWEB02",
+"WEBWEU01",
+"WEBWEU01",
+"WEBWEU03"]}

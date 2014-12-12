@@ -31,4 +31,7 @@
 "I samband med fältstudier och undersökningar beskriver eleven <b>utförligt och</b> <b>nyanserat</b> ekologiska samband och evolutionära processer i vattenmiljöer. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> samband och växelverkan mellan biologiska, kemiska och geologiska processer i vattenmiljöer. I sina beskrivningar och redogörelser använder eleven <b>med säkerhet</b> vetenskapliga begrepp, teorier och modeller."]},
 "req":"BIIVAT01",
 "reqarr":["BIIVAT01"],
-"reqBy":["BIIVAT03"]}
+"reqBy":["BIIVAT03"],
+"friends":["BIIVAT01",
+"BIIVAT01",
+"BIIVAT03"]}

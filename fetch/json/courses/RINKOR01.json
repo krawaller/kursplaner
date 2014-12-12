@@ -44,4 +44,9 @@
 "RINKOR02"],
 "req":"RINRID0",
 "notwith":"TRVTRA01",
-"reqarr":["RINRID0"]}
+"reqarr":["RINRID0"],
+"friends":["RINKOR02",
+"RINRID01",
+"RINRID02",
+"RINRID0",
+"RINRID0"]}

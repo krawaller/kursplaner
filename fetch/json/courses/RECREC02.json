@@ -44,4 +44,8 @@
 "KONRUM0",
 "RECREC03"],
 "req":"RECREC01",
-"reqarr":["RECREC01"]}
+"reqarr":["RECREC01"],
+"friends":["RECLOG0",
+"RECREC01",
+"RECREC01",
+"RECREC03"]}

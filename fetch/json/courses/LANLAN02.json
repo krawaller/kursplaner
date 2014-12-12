@@ -55,4 +55,7 @@
 "reqBy":["DJUDJU00S",
 "LANLAN00S"],
 "req":"LANLAN01",
-"reqarr":["LANLAN01"]}
+"reqarr":["LANLAN01"],
+"friends":["LANLAN00S",
+"LANLAN01",
+"LANLAN01"]}

@@ -42,4 +42,8 @@
 "DARDAT02"]}]},
 "reqarr":["MÄTPRR0",
 "DARDAT01S",
-"DARDAT02"]}
+"DARDAT02"],
+"friends":["DARDAT01S",
+"DARDAT02",
+"INRIND0",
+"MÄTPRR0"]}

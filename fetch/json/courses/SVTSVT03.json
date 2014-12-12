@@ -48,4 +48,11 @@
 "arr":["SVTSVT02",
 "svenskt teckenspråk för hörande inom ramen för språkval i grundskolan"]},
 "reqarr":["SVTSVT02"],
-"reqBy":["SVTSVT04"]}
+"reqBy":["SVTSVT04"],
+"friends":["SVTSVT01",
+"SVTSVT02",
+"SVTSVT02",
+"SVTSVT04",
+"SVTSVT05",
+"SVTSVT06",
+"SVTSVT07"]}

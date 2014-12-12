@@ -35,4 +35,7 @@
 "Eleven använder relevant teknik för att producera och kommunicera med estetiska uttryck <b>på ett kreativt sätt</b>. Dessutom prövar eleven interaktion mellan <b>och experimenterar med</b> olika estetiska uttrycksformer samt diskuterar <b>utförligt och</b> <b>nyanserat</b> hur estetiska uttryck kan samverka och användas i olika sammanhang. I diskussionen använder eleven <b>med säkerhet</b> konstteoretiska och kulturhistoriska begrepp samt drar <b>välgrundade och nyanserade</b> slutsatser utifrån teorier om konstnärlig kommunikation och gestaltning och konstnärligt skapande.",
 "Eleven resonerar <b>utförligt och</b> <b>nyanserat</b> om eventuella etiska och konstnärliga konsekvenser av olika val under en konstnärlig process."]},
 "req":"ESTEST02",
-"reqarr":["ESTEST02"]}
+"reqarr":["ESTEST02"],
+"friends":["ESTEST01",
+"ESTEST02",
+"ESTEST02"]}

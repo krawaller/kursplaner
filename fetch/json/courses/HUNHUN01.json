@@ -35,4 +35,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hundars anatomi och fysiologi samt för vanliga skador och sjukdomar hos hundar. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hundars reproduktion och uppfödning samt för grundläggande metoder för hundars fostran och träning.",
 "Eleven följer arbetsinstruktioner och sköter och hanterar <b>efter samråd</b> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt. Dessutom sköter och hanterar eleven <b>efter samråd</b> med handledare anläggningar och utrustning. Resultatet av arbetet är <b>gott</b>. I arbetet löser eleven <b>efter samråd</b> med handledare de problem som uppstår. Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["HUNHUN02"]}
+"reqBy":["HUNHUN02"],
+"friends":["HUNHUN02",
+"HUNHUN03",
+"HUNTRN0"]}

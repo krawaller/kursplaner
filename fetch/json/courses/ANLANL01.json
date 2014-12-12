@@ -49,4 +49,11 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"BYGBYG02",
 "reqarr":["BYGBYG02"],
-"reqBy":["ANLANL02"]}
+"reqBy":["ANLANL02"],
+"friends":["ANLANL0",
+"ANLANÄ0",
+"ANLANG0",
+"ANLANN0",
+"ANLANL02",
+"ANLANS0",
+"BYGBYG02"]}

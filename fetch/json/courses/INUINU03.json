@@ -41,4 +41,9 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"INUINU02",
 "reqarr":["INUINU02"],
-"reqBy":["INUINU04"]}
+"reqBy":["INUINU04"],
+"friends":["INUINU01",
+"INUINU02",
+"INUINU02",
+"INUINU04",
+"INULAB0"]}

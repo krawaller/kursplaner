@@ -50,4 +50,14 @@
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat samt använder i sin kommunikation <b>med säkerhet</b> begrepp och uttryck som är relevanta för ämnesområdet.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SPFSPA0",
-"reqarr":["SPFSPA0"]}
+"reqarr":["SPFSPA0"],
+"friends":["SPFDIG0",
+"SPFDRI0",
+"SPFFEL01",
+"SPFFEL02",
+"SPFINR01",
+"SPFINR02",
+"SPFKOM0",
+"SPFKOR0",
+"SPFSPA0",
+"SPFSPA0"]}

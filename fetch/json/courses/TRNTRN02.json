@@ -36,4 +36,6 @@
 "reqBy":["SPEIDS03",
 "SPETRÄ03"],
 "req":"TRNTRN01",
-"reqarr":["TRNTRN01"]}
+"reqarr":["TRNTRN01"],
+"friends":["TRNTRN01",
+"TRNTRN01"]}

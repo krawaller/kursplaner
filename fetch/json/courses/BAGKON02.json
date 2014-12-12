@@ -31,4 +31,15 @@
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven arbetet och resultatet me <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"BAGKON01",
 "reqarr":["BAGKON01"],
-"reqBy":["BAGKON03"]}
+"reqBy":["BAGKON03"],
+"friends":["BAGBAG00S",
+"BAGBAG01",
+"BAGBAG02",
+"BAGBAG03",
+"BAGBAG04",
+"BAGCHO0",
+"BAGKON00S",
+"BAGKON01",
+"BAGKON01",
+"BAGKON03",
+"BAGKON04"]}

@@ -36,4 +36,9 @@
 "Eleven tar ansvar för passagerare, deras egendom samt för fordon och utrustning. Resultatet av elevens arbete är <b>gott</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"PESPER00S",
-"reqarr":["PESPER00S"]}
+"reqarr":["PESPER00S"],
+"friends":["TRAFOR0",
+"PESPER00S",
+"TRAYRK1",
+"TRAYRK01a",
+"TRAYRK01b"]}

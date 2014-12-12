@@ -40,4 +40,7 @@
 "När arbetsuppgiften är utförd diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> på vilket sätt exponeringen eller utställningen är anpassad till målgruppen och hur väl den förstärker budskap och upplevelser. Dessutom motiverar eleven med <b>nyanserade</b> omdömen de val som har gjorts under arbetet <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"UTSUTS02",
-"reqarr":["UTSUTS02"]}
+"reqarr":["UTSUTS02"],
+"friends":["UTSUTS01",
+"UTSUTS02",
+"UTSUTS02"]}

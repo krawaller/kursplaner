@@ -51,4 +51,10 @@
 "req":{"type":"OR",
 "arr":["BYGBYG02",
 "VVS - grund"]},
-"reqarr":["BYGBYG02"]}
+"reqarr":["BYGBYG02"],
+"friends":["BYGBYG02",
+"VENVET0",
+"VENVEN01",
+"VENVEN02",
+"VENVET01",
+"VENVET02"]}

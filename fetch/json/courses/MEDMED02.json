@@ -34,4 +34,6 @@
 "judgechangewarn":true,
 "req":"MEDMED01",
 "reqarr":["MEDMED01"],
-"reqBy":["VADVAR00S"]}
+"reqBy":["VADVAR00S"],
+"friends":["MEDMED01",
+"MEDMED01"]}

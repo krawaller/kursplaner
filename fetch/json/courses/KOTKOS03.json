@@ -32,4 +32,7 @@
 "Eleven dokumenterar, redovisar och presenterar <b>med säkerhet</b> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"KOTKOS02",
-"reqarr":["KOTKOS02"]}
+"reqarr":["KOTKOS02"],
+"friends":["KOTKOS01",
+"KOTKOS02",
+"KOTKOS02"]}

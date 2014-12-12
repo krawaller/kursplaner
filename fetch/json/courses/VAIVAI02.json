@@ -43,4 +43,7 @@
 "HOTVÅN03",
 "VAIVAI03"],
 "req":"VAIVAI01",
-"reqarr":["VAIVAI01"]}
+"reqarr":["VAIVAI01"],
+"friends":["VAIVAI01",
+"VAIVAI01",
+"VAIVAI03"]}

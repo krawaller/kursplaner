@@ -36,4 +36,9 @@
 "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter. Dessutom redogör eleven <b>utförligt</b> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SKGVIR0",
-"reqarr":["SKGVIR0"]}
+"reqarr":["SKGVIR0"],
+"friends":["SKGSKG00S",
+"SKGSKO01",
+"SKGSKO02",
+"SKGVIR0",
+"SKGVIR0"]}

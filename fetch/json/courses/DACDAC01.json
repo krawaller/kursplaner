@@ -36,4 +36,7 @@
 "Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra för att utföra olika uppgifter. I kommunikationen använder eleven <b>med säkerhet</b> termer och begrepp som är relevanta för området.",
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven <b>utförligt</b> fö 0lagar och andra bestämmelser som styr vakthållning på handelsfartyg. ",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["DACDAC02"]}
+"reqBy":["DACDAC02"],
+"friends":["DACDAC02",
+"DACFAR0",
+"DACRAD0"]}

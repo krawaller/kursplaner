@@ -32,4 +32,6 @@
 "Eleven hanterar <b>med säkerhet</b> gods i lager och terminal. I arbetet använder eleven <b>avancerade</b> strategier för att planera lagren och terminalytorna. Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager. Dessutom använder eleven i bekanta <b>och nya</b> situationer <b>avancerade</b> tekniska lösningar för en effektiv och rationell lager- och terminalhantering. Eleven utför <b>efter samråd</b> med handledare <b>avancerade</b> vikt- och volymberäkningar för olika godsslag. I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <b>utförligt och</b> <b>nyanserat</b> hur godsflöden kan styras för en optimal disponering av ytor. Dessutom motiverar eleven <b>utförligt och</b> <b>nyanserat</b> sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.",
 "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat. Resultatet av elevens arbete är <b>gott</b>. ",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["LAGPLO0"]}
+"reqBy":["LAGPLO0"],
+"friends":["LAGLAP0",
+"LAGPLO0"]}

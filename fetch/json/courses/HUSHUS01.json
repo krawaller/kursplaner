@@ -57,4 +57,10 @@
 "reqarr":["BYGBYG02",
 "PRUPRD01S",
 "PRDPRO01"],
-"reqBy":["HUSHUS02"]}
+"reqBy":["HUSHUS02"],
+"friends":["BYGBYG02",
+"HUSHUS02",
+"HUSHUS03",
+"HUSHUB0",
+"PRDPRO01",
+"PRUPRD01S"]}

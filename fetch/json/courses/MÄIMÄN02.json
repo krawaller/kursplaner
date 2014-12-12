@@ -33,4 +33,6 @@
 "I arbete och redovisningar använder eleven <b>med säkerhet</b> ett korrekt fackspråk.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MÄIMÄN01",
-"reqarr":["MÄIMÄN01"]}
+"reqarr":["MÄIMÄN01"],
+"friends":["MÄIMÄN01",
+"MÄIMÄN01"]}

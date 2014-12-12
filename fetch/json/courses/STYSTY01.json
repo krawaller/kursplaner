@@ -31,4 +31,14 @@
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
 "När arbetet är utfört genomför eleve <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["STCSTY02",
-"STYSTY02"]}
+"STYSTY02"],
+"friends":["STYCHA00S",
+"STYCHA01",
+"STYCHA02",
+"STYCHA03",
+"STYCHA04",
+"STYFIN0",
+"STYSTY00S",
+"STYSTY02",
+"STYSTY03",
+"STYSTY04"]}

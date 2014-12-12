@@ -38,4 +38,8 @@
 "Resultatet av elevens arbete är <b>gott</b>.",
 "Eleven gör en <b>noggrann och utförlig</b> dokumentation av sitt arbete samt presenterar <b>med säkerhet</b> sitt arbete. Dessutom gör eleven <b>komplexa</b> beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar <b>välgrundade och nyanserade</b> slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med <b>nyanserade</b> omdömen sitt arbete och resultatet <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["FRDKON02"]}
+"reqBy":["FRDKON02"],
+"friends":["FRDBAT0",
+"FRDBAS0",
+"FRDKON02",
+"FRDPLA0"]}

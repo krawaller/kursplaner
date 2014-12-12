@@ -27,4 +27,6 @@
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare enklare maträtter och bakning av bröd i butik. Dessutom tillagar och bakar eleven dessa metodiskt, hantverksmässigt och <b>efter samråd</b> med handledare. I arbetet använder eleven me <b>mycket gott</b> handlag vanliga tillagningsmetoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Maträtterna och brödet är av <b>god</b> kvalitet. Eleven väljer <b>med säkerhet</b> lämpligt förpackningsmaterial.",
 "Eleven <b>diskuterar med kunden</b> och kombinerar <b>därefter</b> <b>med säkerhet</b> olika råvaror och produkter till <b>olika</b> maträtter <b>eller hela måltider</b> och ger, <b>utifrån diskussionen med kunden</b>, exempel på hur de kan tillredas.",
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["MAOMAT02"]}
+"reqBy":["MAOMAT02"],
+"friends":["MAOMAT00S",
+"MAOMAT02"]}

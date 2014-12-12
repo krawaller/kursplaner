@@ -40,4 +40,11 @@
 "PESPER01b",
 "PESPER1"],
 "reqBy":["PESTAX0",
-"TRAFOD0"]}
+"TRAFOD0"],
+"friends":["PESPER1",
+"PESPER1",
+"PESPER01a",
+"PESPER01a",
+"PESPER01b",
+"PESPER01b",
+"PESTAX0"]}

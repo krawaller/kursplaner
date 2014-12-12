@@ -71,4 +71,10 @@
 "ANAANA04"]},
 "reqarr":["ANLANL02",
 "BIGMAN0"],
-"reqBy":["MOBTEL0"]}
+"reqBy":["MOBTEL0"],
+"friends":["ANLANL02",
+"MOBBAN0",
+"MOBGRV0",
+"BIGMAN0",
+"MOBTEL0",
+"MOBVAG0"]}

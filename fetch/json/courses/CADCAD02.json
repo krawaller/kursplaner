@@ -26,4 +26,7 @@
 "Eleven utför <b>komplexa</b> sammanställningar me <b>gott</b> resultat. I arbetet använder eleven <b>med säkerhet</b> applikationer i olika <b>komplexa</b> situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetat kan förbättras</b>."]},
 "req":"CADCAD01",
 "reqarr":["CADCAD01"],
-"reqBy":["CADCAD03"]}
+"reqBy":["CADCAD03"],
+"friends":["CADCAD01",
+"CADCAD01",
+"CADCAD03"]}
