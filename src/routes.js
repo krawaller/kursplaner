@@ -4,7 +4,11 @@ var Router = require('react-router'),
 	Route = Router.Route,
 	DefaultRoute = Router.DefaultRoute,
 	Multiroute = require('./components/multiroute.js'),
+  Masterplans = require('./components/masterplans.js'),
   Masterplan = require('./components/masterplan.js'),
+  MasterplanMission = require('./components/masterplanmission.js'),
+  MasterplanGoals = require('./components/masterplangoals.js'),
+  MasterplanCompare = require('./components/masterplancomp.js'),
 	Courses = require('./components/courses.js'),
 	Course = require('./components/course.js'),
   CourseContent = require('./components/course_content'),
@@ -31,9 +35,16 @@ module.exports = (
     <Route handler={Wrapper}>
         <Route name="home" path="/" handler={Home} />
         
-        <Route name="masterplan" path="/master" handler={Multiroute}>
-          <Route name="masterplancomp" path="/master/:action/:part/:level/:other" handler={Masterplan}/>
-          <DefaultRoute handler={Masterplan} />
+        <Route name="masterplans" path="/masters" handler={Multiroute}>
+          <Route name="masterplan" path="/masters/:level" handler={Masterplan}>
+            <Route name="masterplanmission" path="/masters/:level/mission" handler={MasterplanMission}/>
+            <Route name="masterplangoals" path="/masters/:level/goals" handler={MasterplanGoals}/>
+            <Route name="masterplancompdefault" path="/masters/:level/compare" handler={Multiroute}>
+              <Route name="masterplancomp" path="/masters/:level/compare/:part/:other" handler={MasterplanCompare}/>
+              <DefaultRoute handler={MasterplanCompare}/>
+            </Route>
+          </Route>
+          <DefaultRoute handler={Masterplans} />
         </Route>
 
         <Route name="subjects" path="/subjects" handler={Multiroute}>
