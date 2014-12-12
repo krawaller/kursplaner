@@ -7,7 +7,23 @@ fs.readFileS = function(path,callback){ callback(null,fs.readFileSync(path)); }
 
 var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
-var GLOBAL = { courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
+var GLOBAL = { grundsubjects: [], grundcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
+
+
+_.each(_.without(fs.readdirSync("./grundcourses/"),".DS_Store"),function(path){
+	fs.readFileS("./grundcourses/"+path,function(err,data){
+		var course = JSON.parse(data.toString());
+		GLOBAL.courses[course.code] = course;
+		GLOBAL.grundcourses.push(course.code);
+	});
+});
+_.each(_.without(fs.readdirSync("./grundsubjects/"),".DS_Store"),function(path){
+	fs.readFileS("./grundsubjects/"+path,function(err,data){
+		var subject = JSON.parse(data.toString());
+		GLOBAL.subjects[subject.code] = subject;
+		GLOBAL.grundsubjects.push(subject.code);
+	});
+});
 
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";

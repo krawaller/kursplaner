@@ -11,8 +11,39 @@ var SubjectAuth = React.createClass({
     var subject = this.props.subject
     return (
         <Section headline="Behörighet">
-            {
-                subject.type === "COMMON" ? (<div>
+            {   subject.school === "grund" ? (
+                    <div>
+                        <p>
+                            <p>För att vara behörig att undervisa i årskurs 1-3 behöver du:</p>
+                            <ul>
+                                <li>en grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1-3, eller</li>
+                                <li>en äldre examen avsedd för arbete i minst en av årskurserna 1-3 i grundskolan (exempelvis en lågstadielärare), eller</li>
+                                <li>en examen som ger behörighet att bedriva undervisning enligt behörighetsförordningen, om du har kompletterat din utbildning så att du har fått kunskaper och förmågor som motsvarar kraven för en grundlärarexamen.</li>
+                                <li>En fritidspedagogexamen med inriktning mot arbete enbart i fritidshem och ämnesstudier i tillräcklig omfattning inom eller utöver din examen.</li>
+                            </ul>
+                        </p>    
+                        <p>
+                            <p>För att vara behörig att undervisa i årskurs 4-6 behöver du:</p>
+                            <ul>
+                                <li>en grundlärarexamen med inriktning mot arbete i årskurs 4-6, eller</li>
+                                <li>en grundlärarexamen med inriktning mot arbete i fritidshem, eller</li>
+                                <li>en ämneslärarexamen med inriktning mot arbete i årskurs 7-9, eller</li>
+                                <li>en äldre examen avsedd för arbete i minst en av årskurserna 4-6, eller</li>
+                                <li>en äldre examen avsedd för arbete i minst en av årskurserna 7-9.</li>
+                                <li>En fritidspedagogexamen med inriktning mot arbete enbart i fritidshem och ämnesstudier i tillräcklig omfattning inom eller utöver din examen.</li>
+                            </ul>
+                        </p>   
+                        <p>
+                            <p>För att vara behörig att undervisa i årskurs 7-9 behöver du:</p>
+                            <ul>
+                                <li>en ämneslärarexamen med inriktning mot arbete i årskurs 7-9, eller</li>
+                                <li>en ämneslärarexamen med inriktning mot arbete i gymnasieskolan, eller</li>
+                                <li>en äldre examen avsedd för arbete i minst en av årskurserna 7-9 i grundskolan, eller</li>
+                                <li>en äldre examen avsedd för arbete i gymnasieskolan.</li>
+                            </ul>
+                        </p>   
+                    </div>
+                ) : subject.type === "COMMON" ? (<div>
                     <p>{subject.name} är ett så kallat <strong>vanligt ämne</strong>. Därmed krävs för behörighet att du har:</p>
                     <ul>
                         <li>Ämneslärarexamen med inriktning mot arbete i gymnasieskolan, eller</li>
