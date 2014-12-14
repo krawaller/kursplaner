@@ -8,6 +8,7 @@
 		"react-router": "~0.11.4",
 		"jsdom": "*",
 		"pdf2json": "*",
+		"pdftohtmljs":"*",
 		"object-assign": "^1.0.0"
 	},
 	"scripts": {

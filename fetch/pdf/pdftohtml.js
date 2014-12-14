@@ -1,14 +1,18 @@
-var fs = require('fs'),
-	_ = require('lodash'),
-	Parser = require('pdf2json/pdfparser');
+var pdftohtml = require('pdftohtmljs'),
+    converter = new pdftohtml('./vuxgrund.pdf', "./vuxgrund.html");
 
-var parser = new Parser;
+converter.preset('default');
 
-_.each(["COMMON","VOCATIONAL","OTHER"],function(type){
-	var folder = "./subjects/"+type+"/";
-	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
-		fs.readFile(folder+path,function(err,pdfBuffer){
-			fs.writeFile("../parsedpdf/subjects/"+type+"/"+path+".html",pdfBuffer.toString().replace(/<\!--.*?-->/g,"").replace(/[\n\t\r\f]/g,"").replace("��","å"));
-		});
-	});
+converter.success(function() {
+  console.log("convertion done");
 });
+
+converter.error(function(error) {
+  console.log("conversion error: " + error);
+});
+
+converter.progress(function(ret) {
+  console.log ((ret.current*100.0)/ret.total + " %");
+});
+
+converter.convert();
