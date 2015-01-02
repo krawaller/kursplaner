@@ -71,7 +71,10 @@ module.exports = (
             <Route name="coursedesc" path="/courses/:course/desc" handler={CourseDesc}/>
             <Route name="coursegoals" path="/courses/:course/goals" handler={CourseGoals}/>
             <Route name="coursecontent" path="/courses/:course/content" handler={CourseContent}/>
-            <Route name="coursegrades" path="/courses/:course/grades" handler={CourseGrades}/>
+            <Route name="coursegrades" path="/courses/:course/grades" handler={Multiroute}>
+              <Route name="coursegradessel" path="/courses/:course/grades/:grade" handler={CourseGrades}/>
+              <DefaultRoute handler={CourseGrades}/>
+            </Route>
             <Route name="coursecomparetochoice" path="/courses/:course/compareto" handler={Multiroute}>
               <Route name="coursecomparetoother" path="/courses/:course/compareto/:other" handler={CourseComparer}/>
               <DefaultRoute handler={CourseCompareChoice}/>

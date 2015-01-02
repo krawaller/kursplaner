@@ -11,7 +11,7 @@ var SubjectAuth = React.createClass({
     var subject = this.props.subject
     return (
         <Section headline="Behörighet">
-            {   subject.school === "grund" ? (
+            { subject.school === "grund" ? (
                     <div>
                         <p>
                             <p>För att vara behörig att undervisa i årskurs 1-3 behöver du:</p>
@@ -42,6 +42,15 @@ var SubjectAuth = React.createClass({
                                 <li>en äldre examen avsedd för arbete i gymnasieskolan.</li>
                             </ul>
                         </p>   
+                    </div>
+                ) : subject.school === "grundvux" ? (
+                    <div>
+                        <p>Behörig att undervisa i kommunal vuxenutbildning är den som är behörig att undervisa på motsvarande nivå och i motsvarande ämne i grundskolan eller gymnasieskolan.</p>
+                        <p>Några exempel:</p>
+                        <ul>
+                            <li>Om du är behörig att undervisa i matematik i årskurs 1-3 så är du även behörig i ämnet på grundläggande nivå i kommunal vuxenutbildning.</li>
+                            <li>Om du är behörig att undervisa i svenska i gymnasieskolan så är du även behörig i ämnet på gymnasial nivå i kommunal vuxenutbildning.</li>
+                        </ul>
                     </div>
                 ) : subject.type === "COMMON" ? (<div>
                     <p>{subject.name} är ett så kallat <strong>vanligt ämne</strong>. Därmed krävs för behörighet att du har:</p>

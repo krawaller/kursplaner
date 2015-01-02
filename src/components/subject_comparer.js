@@ -16,11 +16,11 @@ var SubjectComparer = React.createClass({
   mixins: [Sel("what",["beskrivning","syfte","ämnesmål"])],
   render: function(){
   	var subject = this.props.subject,
-        subsuff = (subject.school === "grund" ? " (grund)" : " (gy)"),
+        subsuff = (subject.school? " ("+subject.school+")" : " (gy)"),
         DB = this.props.DB,
         othercode = this.props.params && this.props.params.other,
         other = DB.subjects[othercode],
-        othersuff = (other.school === "grund" ? " (grund)" : " (gy)")
+        othersuff = (other.school? " ("+subject.school+")" : " (gy)")
         now = this.state.what,
         Comp = (now==="ämnesmål"?SubjectGoals:now==="syfte"?SubjectPurpose:SubjectDesc),
         diff = (subject.school!==other.school);

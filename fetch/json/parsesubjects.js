@@ -7,7 +7,7 @@ fs.readFileS = function(path,callback){ callback(null,fs.readFileSync(path)); }
 
 var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
-var GLOBAL = { grundsubjects: [], grundcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
+var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
@@ -728,6 +728,23 @@ _.each(_.without(fs.readdirSync("./grundsubjects/"),".DS_Store"),function(path){
 
 
 
+_.each(_.without(fs.readdirSync("./grundvuxcourses/"),".DS_Store"),function(path){
+	fs.readFileS("./grundvuxcourses/"+path,function(err,data){
+		var course = JSON.parse(data.toString());
+		GLOBAL.courses[course.code] = course;
+		GLOBAL.grundvuxcourses.push(course.code);
+	});
+});
+
+_.each(_.without(fs.readdirSync("./grundvuxsubjects/"),".DS_Store"),function(path){
+	fs.readFileS("./grundvuxsubjects/"+path,function(err,data){
+		var subject = JSON.parse(data.toString());
+		GLOBAL.subjects[subject.code] = subject;
+		GLOBAL.grundvuxsubjects.push(subject.code);
+	});
+});
+
+
 
 
 _.each(dividers,function(l){
@@ -743,25 +760,29 @@ GLOBAL.coursedict = dict;
 
 var friends = [
 	["GRGRBIL01","BIL"],
-	["GRGRBIO01","BIO"],
+	["GRGRBIO01","BIO","GRNBIO2"],
 	["GRGRENG01","ENG"],
 	["GRGRFYS01","FYS"],
 	["GRGRGEO01","GEO"],
-	["GRGRHIS01","HIS"],
+	["GRGRHIS01","HIS","GRNHIS2"],
 	["GRGRIDR01","IDR"],
-	["GRGRKEM01","KEM"],
-	["GRGRMAT01","MAT"],
+	["GRGRKEM01","KEM","GRNKEM2"],
+	["GRGRMAT01","MAT","GRNMAT2"],
 	["GRGRMSP01","MOD"],
 	["GRGRMUS01","MUS"],
-	["GRGRREL01","REL"],
-	["GRGRSAM01","SAM"],
-	["GRGRSVA01","GRGRSVE01","SVA","SVE"],
+	["GRGRREL01","REL","GRNREL2"],
+	["GRGRSAM01","SAM","GRNSAM2"],
+	["GRGRSVA01","GRGRSVE01","SVA","SVE","GRNSVA2","GRNSVE2"],
 	["GRGRTEK01","TEK"],
 	["GRGRTSP01","SVK"], // teckenspråk
-	["GRGRMOD01","MOE"] // modersmål
+	["GRGRMOD01","MOE"], // modersmål
+	["GRNHEM2","GRGRHKK01"] // hem- & konsumentkunskap
 ]
 _.each(friends,function(rel){
 	_.each(rel,function(sid){
+		if (!GLOBAL.subjects[sid]){
+			console.log("SUBJECT ERROR",sid)
+		}
 		GLOBAL.subjects[sid].friends = _.without(rel,sid);
 	});
 });

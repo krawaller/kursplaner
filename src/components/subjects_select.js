@@ -5,7 +5,7 @@ var React = require('react'),
   Router = require('react-router'),
   Link = Router.Link;
 
-var translator = {"grundskoleämnen":"grundsubjects","gymn. yrkesämnen":"subjectsVOCATIONAL","gymn. vanliga ämnen":"subjectsCOMMON","gymn. övriga ämnen":"subjectsOTHER"};
+var translator = {"grundskoleämnen":"grundsubjects","grundvux":"grundvuxsubjects","gymn. yrkesämnen":"subjectsVOCATIONAL","gymn. vanliga ämnen":"subjectsCOMMON","gymn. övriga ämnen":"subjectsOTHER"};
 
 var SubjectsSelect = React.createClass({
   getInitialState: function(){
@@ -31,7 +31,7 @@ var SubjectsSelect = React.createClass({
     function linkToC(d){
       var suffix = "";
       if (now==="relaterade ämnen" && DB.subjects[d].school!==DB.subjects[compareto].school){
-        suffix = (DB.subjects[d].school === "grund" ? " (grund)" : " (gy)");
+        suffix = (DB.subjects[d].school ? " ("+DB.subjects[d].school+")" : " (gy)");
       }
       return <Link to={compareto?"subjectcomparetoother":"subjectdesc"} params={compareto?{subject:compareto,other:d}:{subject:d}}>{DB.subjects[d].name}{suffix}</Link>;
     }

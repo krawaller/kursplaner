@@ -1,6 +1,7 @@
 #Biologi
 
 Kurskod: GRNBIO2
+
 Verksamhetspoäng: 150
 
 Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i biologi har stor betydelse för samhällsutvecklingen inom områden som hälsa, naturbruk och miljö. Med kunskaper om naturen och människan får människor redskap för att påverka sitt eget välbefinnande, men också för att bidra till en hållbar utveckling.
@@ -85,6 +86,7 @@ Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbar­ hetsf
 #Hem- och konsumentkunskap
 
 Kurskod: GRNHEM2
+
 Verksamhetspoäng: 50
 
 Livet i hem och familj har en central betydelse för människan. Våra vanor i hemmet påverkar såväl individens och familjens välbefinnande som sam­hället och naturen. Kunskaper om konsumentfrågor och arbetet i hemmet ger människor viktiga verktyg för att skapa en fungerande vardag och kunna göra medvetna val som konsumenter med hänsyn till hälsa, ekonomi och miljö.
@@ -147,6 +149,7 @@ Eleven kan föra **välutvecklade och väl underbyggda** resonemang kring kon­s
 #Historia
 
 Kurskod: GRNHIS2
+
 Verksamhetspoäng: 150
 
 Människans förståelse av det förflutna är inflätad i hennes föreställningar om samtiden och perspektiv på framtiden. På så sätt påverkar det förflutna både våra liv i dag och våra val inför framtiden. Kvinnor och män har i alla tider skapat historiska berättelser för att tolka verkligheten och påverka sin omgivning. Ett historiskt perspektiv ger oss redskap att förstå och förändra vår egen tid.
@@ -239,6 +242,7 @@ Eleven kan använda historiskt källmaterial för att dra **välutvecklade och v
 #Kemi
 
 Kurskod: GRNKEM2
+
 Verksamhetspoäng: 150
 
 Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i kemi har stor betydelse för samhällsutvecklingen inom områden som hälsa, resurshushållning, material­ utveckling och miljöteknik. Med kunskaper om materiens uppbyggnad och oförstörbarhet får människor redskap för att kunna bidra till en hållbar utveckling.
@@ -331,6 +335,7 @@ Eleven har **mycket goda** kunskaper om materiens uppbyggnad, oförstör­ barhe
 #Matematik
 
 Kurskod: GRNMAT2
+
 Verksamhetspoäng: 600
 
 Matematiken har en flertusenårig historia med bidrag från många kulturer. Den utvecklas såväl ur praktiska behov som ur människans nyfikenhet och lust att utforska matematiken som sådan. Matematisk verksamhet är till sin art en kreativ, reflekterande och problemlösande aktivitet som är nära kopplad till den samhälleliga, sociala och tekniska utvecklingen. Kunskaper i mate­ matik ger människor förutsättningar att fatta välgrundade beslut i vardags­ livets många valsituationer och ökar möjligheterna att delta i arbetslivet samt i samhällets beslutsprocesser.
@@ -455,6 +460,7 @@ Eleven kan redogöra för och samtala om tillvägagångssätt på ett **ändamå
 #Religionskunskap
 
 Kurskod: GRNREL2
+
 Verksamhetspoäng: 150
 
 Människor har i alla tider och alla samhällen försökt förstå och förklara sina levnadsvillkor och de sammanhang de lever i. Religioner och andra livs­ åskådningar är därför centrala inslag i den mänskliga kulturen. I dagens samhälle, som är präglat av mångfald, är kunskaper om religioner och andra livsåskådningar viktiga för att skapa ömsesidig förståelse mellan människor.
@@ -534,6 +540,7 @@ Eleven kan resonera och argumentera kring moraliska frågeställningar och värd
 #Samhällskunskap
 
 Kurskod: GRNSAM2
+
 Verksamhetspoäng: 150
 
 Människor har alltid varit beroende av att samarbeta när de skapar och utvecklar­ samhällen. I dag står människor i olika delar av världen inför både möjligheter och problem kopplade till globalisering, interkulturella relationer och hållbar samhällsutveckling. Kunskaper om samhället ger individen verktyg för att orientera sig och ta ansvar för sitt handlande i en komplex värld.
@@ -629,6 +636,7 @@ Eleven har **mycket goda** kunskaper om demokratiska värden och processer och v
 #Svenska
 
 Kurskod: GRNSVE2
+
 Verksamhetspoäng: 1000
 
 Språk är människans främsta redskap för reflektion, kommunikation och kunskapsutveckling. Genom språket kan människan uttrycka sin personlighet, uttrycka känslor och tankar och förstå hur andra känner och tänker. Att ha ett rikt och varierat språk är betydelsefullt för att kunna förstå och verka i ett samhälle där kulturer, livsåskådningar, generationer och språk möts.
@@ -758,6 +766,7 @@ Eleven kan samtala om och diskutera varierande ämnen genom att ställa frågor 
 #Svenska som andraspråk
 
 Kurskod: GRNSVA2
+
 Verksamhetspoäng: 1000
 
 Kursen ger elever med annat modersmål än svenska en möjlighet att utveckla sin förmåga att kommunicera på svenska. Ett rikt språk ger ökade förutsättningar för att utveckla ny kunskap, studera vidare och ta aktiv del i samhälls- och arbetslivet. Det är också genom språket som vi uttrycker vår personlighet och samspelar med andra människor i olika situationer. Kursen bidrar till att eleverna stärker sin flerspråkiga identitet och utvecklar tillit till sin egen språkförmåga.

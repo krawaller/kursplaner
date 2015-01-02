@@ -10,15 +10,13 @@ var Home = React.createClass({
         	<div>
             	<h2>Home sweet home</h2>
             	<p>Välkomna till kurskollen, siten som tillhandahåller Skolverkets ämnesplaner på ett mindre asjobbigt sätt!</p>
-            	<p>
-            		Än finns ingen sökfunktion eller annat sånt, det kommer. Men du kan se listor över alla 
-            		{' '}<Link to="subjects">ämnen</Link> och <Link to="courses">kurser</Link> och därifrån klicka dig vidare. Tufft, visst? :)
-            	</p>
+            	<p>Den är långtifrån klar och det finns många vassa kanter, men redan nu kan du förhoppningsvis ha glädje av att enkelt kunna navigera styrdokumenten!</p>
+            	<p>Hittar du något som är knas eller får tankar om förbättringar, släng iväg ett mail till <a href="mailto:david@krawaller.se">David</a>!</p>
                 <h4>Saker att fixa</h4>
                 <ul>
                     <li>Lägg till kommentarerna till grundskolans kurser</li>
-                    <li>Lägg till grundvuxkurserna</li>
-                    <li>Se mindre lamt ut :)</li>
+                    <li>Lägg till kommentarerna till kurserna på grundvux</li>
+                    <li>Klä siten i snyggare skrud :)</li>
                 </ul>
             </div>
         );

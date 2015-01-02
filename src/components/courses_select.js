@@ -17,7 +17,7 @@ var CoursesSelect = React.createClass({
         courses = DB.courses,
         compareto = this.props.compareto,
         now = this.state.cat,
-        keys = ["Grundskola"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
+        keys = ["Grundskola","Grundvux"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
     if (compareto){
       keys = ["Relaterade kurser"].concat(keys);
       compcourse = courses[compareto];
@@ -37,7 +37,7 @@ var CoursesSelect = React.createClass({
     function linkToC(d){
       var suffix = "";
       if (now==="Relaterade kurser" && DB.courses[d].school!==DB.courses[compareto].school){
-        suffix = (DB.courses[d].school === "grund" ? " (grund)" : " (gy)");
+        suffix = (DB.courses[d].school ? " ("+DB.courses[d].school+")" : " (gy)");
       }
       return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}{suffix}</Link>;
     }
@@ -46,7 +46,7 @@ var CoursesSelect = React.createClass({
       <div>
         <p>{sel}</p>
         <div className="selectlist">
-          {_.flatten(_.map(DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:related),function(s){
+          {_.flatten(_.map(DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:this.state.cat==="Grundvux"?DB.grundvuxcourses:related),function(s){
             return [linkToC(s)," "];
           }))}
         </div>
