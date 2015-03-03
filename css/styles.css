@@ -24,3 +24,7 @@ h1 {
 .selectlist > a {
 	margin-right: 15px;
 }
+
+.diffunique {
+	background-color: #50EB00;
+}

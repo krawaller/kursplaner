@@ -38,10 +38,10 @@ var CourseComparer = React.createClass({
         </div>
         <div className="row">
           <div className="col-xs-6">
-            <Comp DB={DB} course={course} sub={true} grade={nowg} />
+            <Comp DB={DB} course={course} sub={true} grade={nowg} other={other} />
           </div>
           <div className="col-xs-6">
-              <Comp DB={DB} course={other} sub={true} grade={nowg} />
+              <Comp DB={DB} course={other} sub={true} grade={nowg} other={course} />
           </div>
         </div>
     	</Section>
