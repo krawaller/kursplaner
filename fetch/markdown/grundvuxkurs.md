@@ -1,3 +1,80 @@
+#Engelska
+
+Kurskod: GRNENG2
+
+Verksamhetspoäng: 450
+
+Det engelska språket omger oss i vardagen och används inom så skilda områden som kultur, politik, utbildning och ekonomi. Kunskaper i engelska ökar individens möjligheter att ingå i olika sociala och kulturella sammanhang och att delta i ett internationellt studie- och arbetsliv. Kunskaper i engelska kan dessutom ge nya perspektiv på omvärlden, ökade möjligheter till kontakter och större förståelse för olika sätt att leva.
+
+##Syfte
+
+Undervisningen i kursen engelska inom kommunal vuxenutbildning på grundläggande nivå syftar till att eleven utvecklar kunskaper i engelska, omvärldskunskap samt tilltro till sin förmåga att använda engelska i olika situationer och för skilda syften. Eleven ska ges möjlighet att, genom språkanvändning i funktionella och meningsfulla sammanhang, utveckla en allsidig kommunikativ förmåga. Denna förmåga innefattar dels att förstå talat och skrivet språk, dels att formulera sig och samspela med andra i tal och skrift samt att anpassa sitt språk till olika situationer, syften och mottagare. Dessutom ska eleven ges möjlighet att utveckla förmågan att använda olika strategier för att stödja kommunikationen och för att lösa problem när språkkunskaperna inte räcker till.
+
+Eleven ska ges möjlighet att utveckla kunskaper om livsvillkor, samhällsfrågor och kulturella företeelser i olika sammanhang och delar av världen där engelska används. Undervisningen ska stimulera elevens nyfikenhet på språk och kultur samt ge möjlighet att vidareutveckla flerspråkighet där kunskaper i olika språk samverkar och stödjer varandra. Undervisningen ska dessutom bidra till att eleven utvecklar språklig medvetenhet och kunskaper om hur man lär sig språk i och utanför undervisningen.
+
+Undervisningen ska i allt väsentligt bedrivas på engelska. I undervisningen ska eleven få möta talad och skriven engelska av olika slag samt få sätta innehållet i relation till egna erfarenheter och kunskaper. Eleven ska få interagera i tal och skrift samt producera talat språk och olika texter, på egen hand och tillsammans med andra, och med stöd av olika hjälpmedel och medier. Undervisningen ska dra nytta av omvärlden som en resurs för kontakter, information och lärande samt bidra till att eleven utvecklar förståelse för hur man söker, värderar, väljer och tillägnar sig innehåll från olika källor för information, kunskaper och upplevelser.
+
+
+##Ämnesmål
+
+Genom undervisningen i kursen engelska ska eleven ges förutsättningar att utveckla sin förmåga att
+
+*    förstå talad och skriven engelska samt tolka innehållet,
+*    formulera sig och kommunicera på engelska i tal och skrift,
+*    använda språkliga strategier i olika sammanhang,
+*    anpassa språket efter olika syften, mottagare och situationer, och
+*    reflektera över livsvillkor, samhällsfrågor och kulturella företeelser i olika sammanhang och delar av världen där engelska används.
+
+##Centralt innehåll
+
+###Kommunikationens innehåll
+
+*    Aktuella och kända ämnesområden, intressen, vardagliga situationer, aktiviteter och händelseförlopp, relationer och etiska frågor samt åsikter, erfarenheter, känslor och framtidsplaner.
+*    Levnadsvillkor, traditioner, sociala relationer och kulturella företeelser i sammanhang och delar av världen där engelska används.
+
+###Lyssna och läsa – reception
+
+*    Talad engelska, även med viss regional och social färgning, och texter som är instruerande, beskrivande, berättande, diskuterande, argumenterande och kontaktskapande, även via film och andra medier.
+*    Samtal och sammanhängande talat språk, till exempel dialoger och intervjuer.
+*    Skönlitteratur och annan fiktion, även i talad och dramatiserad form, samt sånger och dikter.
+*    Sakprosa av olika slag och med olika syften, till exempel reportage.
+*    Strategier för att uppfatta detaljer och förstå sammanhang samt för att anpassa lyssnande och läsning till framställningens form, innehåll och syfte.
+*    Olika sätt att söka, välja och värdera innehållet i texter och talat språk.
+*    Språkliga företeelser, till exempel uttal, intonation, grammatiska strukturer och satsbyggnad samt ord med olika stilvärde och fasta språkliga uttryck, i det språk eleverna möter.
+*    Hur texter och talat språk kan varieras för olika syften och sammanhang.
+*    Hur sammanbindande ord och andra uttryck används för att skapa struktur och språkligt sammanhängande helheter.
+
+###Tala, skriva och samtala – produktion och interaktion
+
+*    Instruktioner, berättelser och beskrivningar i tal och skrift. Samtal, diskussion och argumentation för kommunikation och kontakt i olika situationer.
+*    Strategier för att lösa språkliga problem, till exempel med hjälp av omformuleringar,
+frågor och förklaringar.
+*    Strategier för att bidra till och aktivt medverka i samtal, till exempel genom att ge bekräftelse, ställa följdfrågor och ta initiativ till nya frågeställningar eller ämnesområden.
+*    Språklig säkerhet när det gäller till exempel uttal, intonation, fasta språkliga uttryck och satsbyggnad, för att skapa tydlighet, variation och flyt.
+*    Bearbetning av egna och andras muntliga och skriftliga framställningar för att variera, tydliggöra, precisera och anpassa dem till syfte, mottagare och situation.
+
+##Kunskapskrav
+
+###Betyget E
+
+Eleven kan förstå **det huvudsakliga innehållet och uppfatta tydliga detaljer** i talad engelska i måttligt tempo samt i lättillgängliga texter i olika genrer. Eleven visar sin förståelse genom att **översiktligt** redogöra för, diskutera och kommentera innehåll och detaljer samt genom att med **godtagbart** resultat agera utifrån budskap och instruktioner i innehållet. För att underlätta sin förståelse av innehållet i talad och skriven engelska kan eleven välja och använda **någon** strategi för lyssnande och läsning. Eleven väljer texter och talat språk från olika medier, samt använder **med viss relevans** det valda materialet i sin egen produktion och interaktion.
+
+I muntliga och skriftliga framställningar i olika genrer kan eleven formulera sig **enkelt, begripligt och relativt sammanhängande**. För att förtydliga och variera sin kommunikation bearbetar eleven, och gör **enkla** förbättringar av, egna framställningar. I muntlig och skriftlig interaktion i olika sammanhang kan eleven uttrycka sig **begripligt och enkelt** samt **i någon mån anpassat** till syfte, mottagare och situation. Dessutom kan eleven välja och använda **i huvudsak fungerande** strategier som i viss mån löser problem i och förbättrar interaktionen. Eleven diskuterar **översiktligt** några företeelser i olika sammanhang och delar av världen där engelska används, och kan då också göra **enkla** jämförelser med egna erfarenheter och kunskaper.
+
+###Betyget C
+
+Eleven kan förstå **det huvudsakliga innehållet och uppfatta väsentliga detaljer** i talad engelska i måttligt tempo samt i lättillgängliga texter i olika genrer. Eleven visar sin förståelse genom att **välgrundat** redogöra för, diskutera och kommentera innehåll och detaljer samt genom att med **tillfredsställande** resultat agera utifrån budskap och instruktioner i innehållet. För att underlätta sin förståelse av innehållet i talad och skriven engelska kan eleven **i viss utsträckning** välja och använda strategier för lyssnade och läsning. Eleven väljer texter och talat språk från olika medier, samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
+
+I muntliga och skriftliga framställningar i olika genrer kan eleven formulera sig **relativt varierat, tydligt och relativt sammanhängande**. **Eleven kan även formulera sig med visst flyt och i någon mån anpassat till syfte, mottagare och situation.** För att förtydliga och variera sin kommunikation bearbetar eleven, och gör **välgrundade** förbättringar av, egna framställningar. I muntlig och skriftlig interaktion i olika sammanhang kan eleven uttrycka sig **tydligt och med visst flyt** samt **med viss anpassning** till syfte, mottagare och situation. Dessutom kan eleven välja och använda **fungerande** strategier som löser problem i och förbättrar interaktionen. Eleven diskuterar **utförligt** några företeelser i olika sammanhang och delar av världen där engelska används, och kan då också göra **välutvecklade** jämförelser med egna erfarenheter och kunskaper.
+
+
+###Betyget A
+
+Eleven kan förstå **såväl helhet som detaljer** i talad engelska i måttligt tempo och i lättillgängliga texter i olika genrer. Eleven visar sin förståelse genom att **välgrundat och nyanserat** redogöra för, diskutera och kommentera innehåll och detaljer samt genom att med **gott** resultat agera utifrån budskap och instruktioner i innehållet. För att underlätta sin förståelse av innehållet i talad och skriven engelska kan eleven **i viss utsträckning** välja och använda strategier för lyssnande och läsning. Eleven kan välja texter och talat språk från olika medier, samt använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
+
+I muntliga och skriftliga framställningar i olika genrer kan eleven formulera sig **relativt varierat, tydligt och sammanhängande**. **Eleven kan även formulera sig med flyt och viss anpassning till syfte, mottagare och situation.** För att förtydliga och variera sin kommunikation bearbetar eleven, och gör **välgrundade** förbättringar av, egna framställningar. I muntlig och skriftlig interaktion i olika sammanhang kan eleven uttrycka sig **tydligt och med flyt** samt **med viss anpassning** till syfte, mottagare och situation. Dessutom kan eleven välja och använda **väl fungerande** strategier som löser problem i och förbättrar interaktionen **och för den framåt på ett konstruktivt sätt**. Eleven diskuterar **utförligt och nyanserat** några företeelser i olika sammanhang och delar av världen där engelska används, och kan då också göra **välutvecklade och nyanserade** jämförelser med egna erfarenheter och kunskaper.
+
+
 #Biologi
 
 Kurskod: GRNBIO2

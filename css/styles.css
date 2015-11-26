@@ -21,8 +21,17 @@ h1 {
 	padding-bottom: 1em;
 }
 
+.selectlist {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: flex-start;
+  max-height: 1500px;
+}
+
 .selectlist > a {
-	margin-right: 15px;
+	margin-right: 10px;
 }
 
 .diffunique {

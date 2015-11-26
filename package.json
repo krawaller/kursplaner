@@ -6,7 +6,7 @@
 		"react": "~0.12.1",
 		"uglify-js": "~2.4.15",
 		"react-router": "~0.11.4",
-		"jsdom": "*",
+		"jsdom": "7.1.0",
 		"pdf2json": "*",
 		"pdftohtmljs":"*",
 		"object-assign": "^1.0.0",
