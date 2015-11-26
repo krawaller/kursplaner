@@ -13,7 +13,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att");
+			data = data.toString().replace(/[\n\t\r\f]/g,"").replace(/ {2}/g," ").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -197,6 +197,11 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						}
 						if (instr.match(/^ *I ett och samma språk kan endast betyg i en av kurserna språk specialisering - retorik 1[ab] eller språk specialisering - retorik 1[ab] ingå i elevens examen\. *$/)){
 							course.notwithRAW = instr;
+							instr = "";
+						}
+						if (instr.match(/^ *Kursen den unga hästens utveckling [12][ab]? får bara anordnas inom av Skolverket beviljad särskild variant med riksrekryterande yrkesutbildning för naturbruksprogrammet, inriktning djur\. *$/)){
+							//course.descarr = course.descarr.replace(/Kursen Den unga hästens utveckling [12][ab]? får bara anordnas/,"Kursen får bara anordnas");
+							course.onlynaturyrk = true;
 							instr = "";
 						}
 						// ALL?
@@ -532,6 +537,21 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	});
 });
 
+
+// SAMENAMES
+
+_.each(GLOBAL.courses,function(def,cid){
+	_.each(GLOBAL.courses,function(def2,cid2){
+		if (cid!==cid2 && def.name === def2.name){
+			def.samenamecoursecode = cid2;
+			def.samenamesubjectcode = def2.subject;
+			def.samenamesubjectname = GLOBAL.subjects[def2.subject].name;
+			//console.log(def.name,def.code,def2.code);
+		}
+	});
+});
+
+
 // COURSELINKS
 
 var text = {
@@ -651,9 +671,19 @@ _.each(GLOBAL.courses,function(course,code){
 	//betterbehaved
 	_.each(["descarr","reqRAW","notwithRAW","alsoreqRAW"],function(prop){
 		if (course[prop]){
+			// TODO - fix here, start with just the same subject names! Test with charkuteri to see if it worked!
+			var subjectnames = GLOBAL.subjects[course.subject].courses.map(function(cid){
+				return GLOBAL.courses[cid].name;
+			});
+			var subjectnamestocode = _.reduce(GLOBAL.subjects[course.subject].courses,function(mem,cid){
+				mem[GLOBAL.courses[cid].name] = cid;
+				return mem;
+			},{});
+
+			//console.log("SIBLINGNAMES",subjectnames);
 			_.each(names,function(name){
-				if (!(code==="HÄTDEN01a"&&name.toLowerCase()==="naturbruk"))
-				course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+GLOBAL.coursetocode[name]);
+				if (!(code.match("HÄTDEN0")&&name.toLowerCase()==="naturbruk"))
+				    course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+(subjectnamestocode[name] || GLOBAL.coursetocode[name]));
 			});
 			if (prop !== "descarr") course[prop.replace("RAW","")] = courseList(course[prop],code);
 		}
@@ -793,6 +823,9 @@ _.each(GLOBAL.courses,function(course,code){
 	_.each(subject.friends||[],function(friend){
 		course.friends = course.friends.concat(GLOBAL.subjects[friend].courses);
 	});
+	if (course.samenamecoursecode){
+		course.friends.push(course.samenamecoursecode);
+	}
 	course.friends.sort(function(c1,c2){
 		return GLOBAL.courses[c1].name > GLOBAL.courses[c2].name ? 1 : -1;
 	});

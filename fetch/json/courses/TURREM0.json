@@ -36,6 +36,9 @@
 "Eleven söker <b>med säkerhet</b> information från kartor och andra källor för att hitta alternativa resmål och resvägar. Eleven gör en <b>välgrundad och nyanserad</b> granskning, bearbetning och presentation av resultatet. I arbetet väljer eleven <b>efter samråd</b> med handledare material, källor och metod som passar för uppgiften. Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser de <b>efter samråd</b> med handledare.",
 "Eleven samverkar och kommunicerar <b>med säkerhet</b> med andra samt anpassar <b>med säkerhet</b> sitt språk efter situation och mottagare. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"samenamecoursecode":"RESREM0",
+"samenamesubjectcode":"RES",
+"samenamesubjectname":"Reseproduktion och marknadsföring",
 "reqBy":["AKTVAR0",
 "TURVÄR0"],
 "req":{"type":"OR",
@@ -51,5 +54,6 @@
 "TURHÅL0",
 "TURMAS0",
 "TURRES0",
+"RESREM0",
 "TURTUR0",
 "TURVÄR0"]}

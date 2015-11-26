@@ -16,6 +16,7 @@ var CoursesSelect = React.createClass({
   	var DB = this.props.DB,
         courses = DB.courses,
         compareto = this.props.compareto,
+        thiscourse = courses[compareto],
         now = this.state.cat,
         keys = ["Grundskola","Grundvux"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
     if (compareto){
@@ -38,6 +39,8 @@ var CoursesSelect = React.createClass({
       var suffix = "";
       if (now==="Relaterade kurser" && DB.courses[d].school!==DB.courses[compareto].school){
         suffix = (DB.courses[d].school ? " ("+DB.courses[d].school+")" : " (gy)");
+      } else if (thiscourse && d === thiscourse.samenamecoursecode){
+        suffix = " ("+thiscourse.samenamesubjectname+")";
       }
       return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}{suffix}</Link>;
     }

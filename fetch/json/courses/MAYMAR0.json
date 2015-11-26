@@ -45,6 +45,10 @@
 "Efter utfört arbete gör eleven en <b>noggrann och utförlig</b> dokumentation av utfört arbete. Eleven utvärderar sitt arbete med <b>nyanserade</b> omdöme <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "Eleven ger <b>med säkerhet</b> tydliga instruktioner till användare av apparater och system.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"samenamecoursecode":"ELTMAR0",
+"samenamesubjectcode":"ELT",
+"samenamesubjectname":"Elektroniksystem",
 "req":"ELEELR0",
 "reqarr":["ELEELR0"],
-"friends":["ELEELR0"]}
+"friends":["ELEELR0",
+"ELTMAR0"]}

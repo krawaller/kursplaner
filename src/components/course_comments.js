@@ -16,6 +16,7 @@ var CourseComments = React.createClass({
     var course = this.props.course;
     var now = this.state.comm,
         keys = Object.keys(this.props.course.comments);
+    console.log("COMMENTS",this.props.course.comments);
     return (
         <Section>
           <h3>Kommentar till {keys.length>1 ? this.comm() : keys[0]}</h3>

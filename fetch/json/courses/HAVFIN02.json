@@ -7,7 +7,7 @@
 "."],
 "reqRAW":"kursen HAVFIN01",
 "code":"HAVFIN02",
-"comments":{"innehållet":"<h4>Beskrivning och dokumentation</h4><p>Digitala tekniker ska användas för att beskriva eller dokumentera utfört arbete och resultat, till exempel med hjälp av portfolio där digitala bilder ingår. Att dokumentera och beskriva en idé eller arbetsprocess ger eleverna möjlighet att reflektera över sitt arbete och komma med förslag till förbättringar. I dialog lärareå�elev eller elev-elev kan elevens analysförmåga och ett processinriktat arbetssätt utvecklas.</p>"},
+"comments":{"innehållet":"<h4>Beskrivning och dokumentation</h4><p>Digitala tekniker ska användas för att beskriva eller dokumentera utfört arbete och resultat, till exempel med hjälp av portfolio där digitala bilder ingår. Att dokumentera och beskriva en idé eller arbetsprocess ger eleverna möjlighet att reflektera över sitt arbete och komma med förslag till förbättringar. I dialog lärare-elev eller elev-elev kan elevens analysförmåga och ett processinriktat arbetssätt utvecklas.</p>"},
 "goals":[2,1,2,2,1,2,2,1,1,1],
 "excludesgoals":false,
 "focusesgoals":true,

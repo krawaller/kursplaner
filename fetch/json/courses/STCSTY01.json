@@ -33,8 +33,13 @@
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
 "När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen sitt arbete och resultat <b>samt ger förslag på hur arbetet kan förbättras</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"samenamecoursecode":"STYSTY01",
+"samenamesubjectcode":"STY",
+"samenamesubjectname":"Stycknings- och charkuterikunskap",
+"reqBy":["STCSTY02"],
 "friends":["STCFIN0",
 "STCSTY00S",
+"STYSTY01",
 "STCSTY02",
 "STCSTY03",
 "STCSTY04"]}

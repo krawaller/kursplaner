@@ -33,10 +33,12 @@
 "Eleven planerar och organiserar <b>efter samråd</b> med handledare styckningsarbete. Vid planeringen gör eleven <b>med säkerhet</b> en styckningskalkyl samt motiverar <b>utförligt och</b> <b>nyanserat</b> sin kalkyl utifrån ekonomiska aspekter. Eleven genomför med <b>mycket gott</b> handlag styckning med ett <b>gott</b> resultat. Dessutom värderar eleven med <b>nyanserade</b> omdömen råvarornas kvalitet. I arbetet använder eleven <b>med säkerhet</b> utrustning, maskiner och verktyg. Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <b>med säkerhet</b> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
 "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <b>utförligt och</b> <b>nyanserat</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. Dessutom arbetar eleven <b>med säkerhet</b> på ett ekonomiskt och miljömässigt sätt.",
 "När arbetet är utfört genomför eleven <b>efter samråd</b> med handledare underhåll av utrustning, maskiner och verktyg. Dessutom utvärderar eleven med <b>nyanserade</b> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <b>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</b>. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["STCSTY00S",
-"STYSTY00S"],
+"samenamecoursecode":"STCSTY04",
+"samenamesubjectcode":"STC",
+"samenamesubjectname":"Styckningskunskap",
 "req":"STYSTY03",
 "reqarr":["STYSTY03"],
+"reqBy":["STYSTY00S"],
 "friends":["STYCHA00S",
 "STYCHA01",
 "STYCHA02",
@@ -47,4 +49,5 @@
 "STYSTY01",
 "STYSTY02",
 "STYSTY03",
-"STYSTY03"]}
+"STYSTY03",
+"STCSTY04"]}
