@@ -5,7 +5,13 @@ var React = require('react'),
   Router = require('react-router'),
   Link = Router.Link;
 
-var translator = {"grundskoleämnen":"grundsubjects","grundvux":"grundvuxsubjects","gymn. yrkesämnen":"subjectsVOCATIONAL","gymn. vanliga ämnen":"subjectsCOMMON","gymn. övriga ämnen":"subjectsOTHER"};
+var translator = {
+  "grundskoleämnen":"grundsubjects",
+  "grundvux":"grundvuxsubjects",
+  "gymn. yrkesämnen":"subjectsVOCATIONAL",
+  "gymn. vanliga ämnen":"subjectsCOMMON",
+  "gymn. övriga ämnen":"subjectsOTHER"
+};
 
 var SubjectsSelect = React.createClass({
   getInitialState: function(){

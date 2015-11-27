@@ -11,7 +11,7 @@ var Masterplan = React.createClass({
     var p = _.extend({},{
       level:"grund",
       part:"mission"
-    },this.props.params||{});
+    },this.props.params||{}); // defaults
     p.other = p.other || {grund:"gymn","gymn":"vux","vux":"gymn"}[p.level];
 
     var Part = <NavSel to="masterplancomp" params={p} name="part" opts={{"mission":"värdegrund och uppdrag","goals":"mål och riktlinjer"}}/>;
