@@ -12,6 +12,39 @@ function cleanText(buffer){
 	return ret;
 };
 
+function downloadCourse(type,name,code,urlcode,desperation){
+	if (desperation===3){
+		var f = fs.readFileSync('./manual/'+type+'/'+code+".html"),
+			d = cleanText(f && f.toString() || "");
+		if (d.length){
+			fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",d);
+			console.log("Ok, found manual backup for",type,code,name);
+		} else {
+			console.log("...............No luck at all for",type,code,name,"......................");
+		}
+	} else {
+		var path = [
+			"http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+urlcode+"&lang=sv&tos=gy",
+			"http://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/"+urlcode.toLowerCase()+"?"+"tos=gy&subjectCode="+code+"&lang=sv",
+			"http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+encodeURIComponent(code)+"&lang=sv&tos=gy"
+		][desperation || 0];
+		download(path,function(data){
+			if (!data || !data.length || data.match("Tyvärr kan vi inte hitta sidan du söker" || data.match("Ämnet eller kursen som efterfrågades kunde inte hittas"))){
+				downloadCourse(type,name,code,urlcode,desperation+1);
+			} else if (data.match("Innehållet är för närvarande inte tillgängligt. Var god försök senare")){
+				setTimeout(function(){
+					console.log("New attempt for",name,"after unavailability");
+					downloadCourse(type,name,code,urlcode,desperation);
+				},1000);
+			} else {
+				console.log("Finished",name,"at desperation",desperation);
+				data = data.toString().replace(/fram��t/g,"").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/ {2}/g," ");
+				fs.writeFile("subjects/"+type+"/"+code+"_"+name+".html",data);
+			}
+		});
+	}
+}
+
 _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 	_.each(["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","Å","Ä","Ö"],function(l){
 		fs.readFile("./letters/"+type+"/"+l+".html",function(err,data){
@@ -26,6 +59,9 @@ _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 					code = urlcode.replace("%C3%84","Ä").replace("%C3%85","Å").replace("%C3%B6","Ö").replace("%C3%96","Ö");
 				if (!found[code]){
 					found[code] = name;
+					downloadCourse(type,name,code,urlcode,0);
+					return;
+
 					var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+urlcode+"&lang=sv&tos=gy";
 					download(path,function(data){
 						data = cleanText(data);
