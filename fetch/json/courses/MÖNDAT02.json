@@ -1,4 +1,4 @@
-{"subject":"MÖN",
+{"subject":"MÖN",
 "name":"Datoriserad mönsterhantering 2",
 "points":100,
 "instrRAW":"som bygger på kursen datoriserad mönsterhantering 1.",
@@ -41,6 +41,10 @@
 "reqarr":["MÖNDAT01"],
 "friends":["MÖNDAT01",
 "MÖNDAT01",
+"DAIMON01",
+"DAIMON02",
 "DAIMON02",
 "MÖNMÖN01",
-"MÖNMÖN02"]}
+"MNUMON01",
+"MÖNMÖN02",
+"MNUMON02"]}

@@ -9,29 +9,47 @@ var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
+var replacedby = {
+	AUT: ["AUO","ELI","FAI","INR"],
+	ELT: ["ELO","MAY"],
+	MÖN: ["DAI","MNU"],
+	HOT: ["REC","VAI"],
+	TUR: ["AKT","RES"],
+	NAB: ["FOH","LAU","LAS","SKM","TRS"],
+	ODL: ["VAO","TRR"],
+	RID: ["RIN","TRV"],
+	STY: ["STC","CHA"],
+	VVS: ["VVI","INV"]
+};
+var replacing = _.reduce(replacedby,function(mem,arr,old){
+	_.each(arr,function(c){ mem[c] = old; });
+	return mem;
+},{});
+
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/ {2}/g," ");
+			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
 			}
-			var code = path.split("_")[0], name = path.split("_")[1].replace(".html","").replace(/ä/g,"ä").replace(/å/g,"å").replace(/ö/g,"ö");
-			var replacing = {
-				AUT: ["AUO","ELI","FAI","INR"],
-				ELT: ["ELO","MAY"],
-				MÖN: ["DAI","MNU"],
-				HOT: ["REC","VAI"],
-				TUR: ["AKT","RES"],
-				NAB: ["FOH","LAU","LAS","SKM","TRS"],
-				ODL: ["VAO","TRR"],
-				RID: ["RIN","TRV"],
-				STY: ["STC","CHA"],
-				VVS: ["VVI","INV"]
+			path = path.replace(/ä/g,"ä").replace(/å/g,"å").replace(/ö/g,"ö").replace(/Ä/g,"Ä").replace(/Å/g,"Å").replace(/Ö/g,"Ö");
+			var code = path.split("_")[0],
+				name = path.split("_")[1].replace(".html","");
+			if (replacedby[code]){
+				name += " [ersatt]";
+			}
+			var sub = {
+				name:name,
+				code:code,
+				type:type,
+				courses:[],
+				replacedby: replacedby[code],
+				replacing: replacing[code],
+				replacingwith: replacing[code] && replacedby[replacing[code]].filter(function(i){return i!==code;})
 			};
-			var sub = {name:name,code:code,type:type,courses:[]};
 			/*var replacecode = {
 				BYL: "BYP",
 				DAL: "DAA",
@@ -259,7 +277,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						var regdef = "> *"+course.name+', *\\d{2,3} *poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9 ]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
 							regex = new RegExp(regdef,"i"),
 							match = data.match(regex);
-						course.code = match[1].replace(" ","");
+						course.code = match[1].replace(/ /g,"");
 						data = data.replace(regdef,"");
 						if (!GLOBAL.codetosubjcourse[course.code]){
 							GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.name;
@@ -273,7 +291,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							var regdef = "> *"+course.name+', *\\d{2,3} *poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
 								regex = new RegExp(regdef,"i"),
 								match = data.match(regex);
-							course.code = match[1];
+							course.code = match[1].replace(/ /g,"");
 							console.log("Step 2 delete ?",!!data.match(regdef,""));
 							data = data.replace(regdef,"");
 							raw = match[2];
@@ -288,7 +306,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 								var raw = data.match(new RegExp("> *"+course.name+", *\\d{2,3} *poäng<\\/a> *<\\/h3>(.*?)<\\/article","i") )[1];
 								//var secraw = data.match(/courses-wrapper">(.*?)<\/section/)[1],
 								//	raw = secraw.match(/<article>(.*?)<\/article>/)[1+i];
-								course.code = raw.match(/Kurskod: *([^<]*)</)[1];
+								course.code = raw.match(/Kurskod: *([^<]*)</)[1].replace(/ /g,"");
 								if (!GLOBAL.codetosubjcourse[course.code]){
 									GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.name;
 								} else {
@@ -296,7 +314,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 									throw "EEE";
 								}
 							} catch(e){
-								console.log("Failed to read code and raw for course",type,code,course.name,"REG:",regdef,data);
+								console.log("Failed to read code and raw for course",type,code,course.name,"REG:",regdef);
 								throw e;
 							}
 						}
@@ -894,11 +912,17 @@ var friends = [
 	["GRGRTSP01","SVK"], // teckenspråk
 	["GRGRMOD01","MOE"], // modersmål
 	["GRNHEM2","GRGRHKK01"] // hem- & konsumentkunskap
-]
+];
+
+friends = _.reduce(replacedby,function(mem,newcodes,oldcode){
+	mem.push([oldcode].concat(newcodes));
+	return mem;
+},friends);
+
 _.each(friends,function(rel){
 	_.each(rel,function(sid){
 		if (!GLOBAL.subjects[sid]){
-			console.log("SUBJECT ERROR",sid)
+			console.log("SUBJECT ERROR",sid,"WAH",Object.keys(GLOBAL.subjects));
 		}
 		GLOBAL.subjects[sid].friends = _.without(rel,sid);
 	});

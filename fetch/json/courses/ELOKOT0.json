@@ -42,10 +42,15 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "samenamecoursecode":"ELTKOT0",
 "samenamesubjectcode":"ELT",
-"samenamesubjectname":"Elektroniksystem",
+"samenamesubjectname":"Elektroniksystem [ersatt]",
 "req":"ELEELR0",
 "reqarr":["ELEELR0"],
 "friends":["ELOBID0",
+"ELTBID0",
 "ELEELR0",
 "ELTKOT0",
-"ELOTRL0"]}
+"ELTKOT0",
+"ELTMAR0",
+"MAYMAR0",
+"ELOTRL0",
+"ELTTRL0"]}

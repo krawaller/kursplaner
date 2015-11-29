@@ -36,9 +36,16 @@
 "samenamesubjectcode":"ELI",
 "samenamesubjectname":"Elmotordrivsystem",
 "friends":["AUTALL0",
+"AUOALL0",
 "AUTAVH0",
+"AUOAVH0",
+"ELIELD0",
 "ELIELD0",
 "AUTFAS01",
+"FAIFAS01",
 "AUTFAS02",
+"FAIFAS02",
 "AUTIND0",
-"AUTROB0"]}
+"INRIND0",
+"AUTROB0",
+"INRROB0"]}

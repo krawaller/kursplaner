@@ -1,4 +1,4 @@
-{"subject":"MÖN",
+{"subject":"MÖN",
 "name":"Mönsterkonstruktion 2",
 "points":100,
 "instrRAW":"som bygger på kursen mönsterkonstruktion 1.",
@@ -41,7 +41,11 @@
 "req":"MÖNMÖN01",
 "reqarr":["MÖNMÖN01"],
 "friends":["MÖNDAT01",
+"DAIMON01",
 "MÖNDAT02",
+"DAIMON02",
 "MÖNMÖN01",
 "MÖNMÖN01",
+"MNUMON01",
+"MNUMON02",
 "MNUMON02"]}

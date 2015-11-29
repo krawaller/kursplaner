@@ -29,9 +29,16 @@
 "samenamesubjectcode":"AUO",
 "samenamesubjectname":"Automatiserade system",
 "friends":["AUOALL0",
+"AUOALL0",
 "AUTAVH0",
+"AUOAVH0",
+"ELIELD0",
 "AUTELD0",
 "AUTFAS01",
+"FAIFAS01",
 "AUTFAS02",
+"FAIFAS02",
 "AUTIND0",
-"AUTROB0"]}
+"INRIND0",
+"AUTROB0",
+"INRROB0"]}
