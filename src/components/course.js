@@ -23,7 +23,7 @@ var Course = React.createClass({
       links["Kommentarer"] = ["coursecomments",{course:code}];
     }
     return !course ? <p>Hittar ingen kurs med kod {code}!</p> : !subject ? <p>Lyckades ej ladda ämne {course.subject} för {course.name}!</p> : (
-      <div>
+      <div key={code}>
         <h2>Kursen {course.name}</h2>
         <NavBar links={links}/>
         <RouteHandler course={course} subject={subject} {...this.props} />

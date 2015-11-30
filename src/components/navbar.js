@@ -11,7 +11,7 @@ var Navbar = React.createClass({
         <ul className='nav nav-pills navbar-left' role='tablist'>
           {_.map(this.props.links,function(arr,title){
             var arr = [].concat(arr), target = arr[0], params=arr[1]||{};
-            return <li><Navlink to={target} params={params}>{title}</Navlink></li>;
+            return <li key={title}><Navlink to={target} params={params}>{title}</Navlink></li>;
           })}
         </ul>
       </div>

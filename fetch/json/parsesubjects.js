@@ -30,7 +30,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
+			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace("kursen psykologi 2, kursen historia 2 eller","kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller").replace(/som bygger på kursen byggprocessens organisation/g,"som bygger på kursen SAHBYC0").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -706,6 +706,8 @@ function courseList(str,code){
 		ret = {type:"OR",arr:[courseList(t[0],code),courseList("på "+t[1].trim(),code)]}
 	} else if (t=str.match(/någon av kurserna [^\.]*? eller/)){
 		ret = {type:"OR",arr:str.replace(/^ *någon av kurserna /,"").split(/, | eller /)};
+	} else if (t=str.match(/beroende på valt kunskapsområde bygger på kursen [^\.]*? eller/)) {
+		ret = {type:"OR",arr:str.replace(/^ *beroende på valt kunskapsområde bygger på kursen /,"").split(/, | eller /)};
 	} else if (!str.match(/eller/) && str.match(/^p?å? ?(någon av )?(kurser?na? )?[^\.]*? (och|samt)/)){
 		ret = {type:"AND",arr:str.replace(/^p?å? ?(någon av )?(kurser?na? )?/,"").split(/, | och | samt /)};
 	} else if (str.match(/^kursen [^]* eller på .*? (samt|och)/)){
@@ -748,9 +750,10 @@ var okTexts = {
 
 function fixStr(s,code){
 	if (typeof s !== "string"){return s;}
+	s = s.trim();
 	if (s.match(/^ *på kurserna /)){ return courseList(s.replace(/^ *på */,"någon av kurserna "),code) }
-	if (s==="psykologi 2"){ return {type:"OR",arr:["PSKPSY02a","PSKPSY02b"]} }
-	if (s==="historia 2"){ return {type:"OR",arr:["HISHIS02a","HISHIS02b"]} }
+	if (s.match(/(kursen )?[Pp]sykologi 2/)){ return {type:"OR",arr:["PSKPSY02a","PSKPSY02b"]} }
+	if (s.match(/(kursen )?[Hh]istoria 2/)){ return {type:"OR",arr:["HISHIS02a","HISHIS02b"]} }
 	s = s.trim().replace(/^p?å? ?kursen */,"");
 	//return (n && c[0].match(/^\d/) ? list[0].split(/ \d/)[0]+" "+c : c).trim().replace("kursen ","");
 	if (!GLOBAL.codetocode[s] && !okTexts[s]){
@@ -787,7 +790,9 @@ _.each(GLOBAL.courses,function(course,code){
 
 			//console.log("SIBLINGNAMES",subjectnames);
 			_.each(names,function(name){
-				if (!(code.match("HÄTDEN0")&&name.toLowerCase()==="naturbruk"))
+				if (!(code.match("HÄTDEN0")&&name.toLowerCase()==="naturbruk") && 
+					!(name.toLowerCase()==="form" && !course.name.match("Bild"))
+				)
 				    course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+(subjectnamestocode[name] || GLOBAL.coursetocode[name]));
 			});
 			if (prop !== "descarr") course[prop.replace("RAW","")] = courseList(course[prop],code);
@@ -811,6 +816,9 @@ _.each(GLOBAL.courses,function(course,code){
 	if (course.req){
 		course.reqarr = [];
 		var mine = harvestFiles(course.req);
+		if (code==="HUMHUM00S"){
+			console.log("HUM shit bah",mine);
+		}
 		_.each(_.uniq(mine),function(cid){
 			if (!GLOBAL.courses[cid].reqBy){GLOBAL.courses[cid].reqBy = [];}
 			GLOBAL.courses[cid].reqBy = (GLOBAL.courses[cid].reqBy||[]).concat([code]);
