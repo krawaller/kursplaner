@@ -16,7 +16,12 @@ var SubjectGoals = React.createClass({
                 })}
             </ol>
             <p>
-                {subject.school === "grund" || subject.school === "grundvux" ? "På grundläggande nivå jobbar man med samtliga mål i ämnets alla \"kurser\"." : subject.someexcludes?"Vissa kurser täcker inte alla ämnesmål.":"Samtliga kurser i ämnet täcker alla mål. "}
+                {subject.school === "grund" || subject.school === "grundvux"
+                ? "På grundläggande nivå jobbar man med samtliga mål i ämnets alla \"kurser\"."
+                : subject.someexcludes?"Vissa kurser täcker inte alla ämnesmål."
+                : subject.courses.length > 1
+                ? "Samtliga kurser i ämnet täcker alla mål. "
+                : "Ämnet har bara en enda kurs, som därmed givetvis täcker alla ämnesmålen."}
                 {subject.somefocuses && " Några mål har extra fokus i vissa kurser."}
             </p>
     	</Section>

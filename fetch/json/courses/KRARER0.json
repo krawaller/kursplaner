@@ -1,5 +1,6 @@
 {"subject":"KRA",
 "name":"Reservkraft",
+"origname":"Reservkraft",
 "points":100,
 "code":"KRARER0",
 "goals":[1,1,1,1,1,1,1,1],

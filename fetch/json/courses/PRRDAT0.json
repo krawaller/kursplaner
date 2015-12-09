@@ -1,5 +1,6 @@
 {"subject":"PRR",
 "name":"Datalogi",
+"origname":"Datalogi",
 "points":100,
 "code":"PRRDAT0",
 "goals":[0,1,2,2,1,2,1,2],

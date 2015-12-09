@@ -1,5 +1,6 @@
 {"subject":"NAI",
 "name":"Nätverksadministration",
+"origname":"Nätverksadministration",
 "points":100,
 "instrRAW":"som bygger på kursen nätverksteknik.",
 "descarr":["Den bygger på kursen ",
@@ -41,7 +42,12 @@
 "req":"NAINAR0",
 "reqarr":["NAINAR0"],
 "friends":["NAIADM0",
+"NÄVADM0",
+"NÄVNÄV0",
 "NAINAE0",
+"NÄVNÄE0",
 "NAINAR0",
 "NAINAR0",
-"NAINAK0"]}
+"NÄVNÄR0",
+"NAINAK0",
+"NÄVNÄK0"]}

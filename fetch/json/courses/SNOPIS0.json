@@ -1,5 +1,6 @@
 {"subject":"SNO",
 "name":"Pistmaskinkörning",
+"origname":"Pistmaskinkörning",
 "points":100,
 "code":"SNOPIS0",
 "goals":[1,1,0,1,1,0,1,1,0],

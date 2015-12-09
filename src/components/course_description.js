@@ -28,7 +28,7 @@ var CourseDescription = React.createClass({
               ) : (
                 <div>
                   <p>
-                    {course.name} har kod <strong>{course.code}</strong> och är på <strong>{course.points}</strong> poäng. Den är {tot===1?"enda kursen":"en av "+(nums[tot]||tot)+" kurser "} i ämnet {linkToS(subject.code)}.
+                    {course.school === "grundvux" ? "Grundvuxkursen" : "Gymnasiekursen"} {course.name} har kod <strong>{course.code}</strong> och är på <strong>{course.points}</strong> poäng. Den är {tot===1?"enda kursen":"en av "+(nums[tot]||tot)+" kurser "} i ämnet {linkToS(subject.code)}.
                     {desc && [" "].concat(desc.map(function(d){
                       return DB.courses[d]?linkToC(d):d;
                     }))}

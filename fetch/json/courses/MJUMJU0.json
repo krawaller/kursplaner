@@ -1,5 +1,7 @@
 {"subject":"MJU",
-"name":"Mjukvarudesign",
+"name":"Mjukvarudesign [ej aktuell]",
+"origname":"Mjukvarudesign",
+"obsolete":true,
 "points":100,
 "instrRAW":"som bygger på kursen programmering 1 och kursen webbutveckling 1.",
 "descarr":["Den bygger på kursen ",
@@ -47,5 +49,6 @@
 "WEBWEU01"]},
 "reqarr":["PRRPRR01",
 "WEBWEU01"],
-"friends":["PRRPRR01",
+"friends":["MJKMJU0",
+"PRRPRR01",
 "WEBWEU01"]}

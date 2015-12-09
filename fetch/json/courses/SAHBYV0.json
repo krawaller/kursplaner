@@ -1,5 +1,6 @@
 {"subject":"SAH",
 "name":"Byggnadsverk",
+"origname":"Byggnadsverk",
 "points":100,
 "code":"SAHBYV0",
 "goals":[1,1,1,1,1,0,0,0,0,0],

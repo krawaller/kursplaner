@@ -1,5 +1,6 @@
 {"subject":"INA",
 "name":"Informationsteknisk arkitektur",
+"origname":"Informationsteknisk arkitektur",
 "points":100,
 "code":"INAINF0",
 "goals":[1,1,1,1,1,1,1,1,1],
@@ -41,9 +42,8 @@
 "Eleven identifierar <b>med säkerhet</b> uppdragsgivares behov och ger <b>välgrundade och nyanserade</b> råd och förslag på förbättringar i informationstekniska system. Förbättringarna tillgodoser uppdragsgivarnas behov med <b>gott</b> resultat. Eleven gör en <b>noggrann och utförlig</b> dokumentation över föreslagna förbättringar.",
 "Eleven kommunicerar <b>med säkerhet</b> med kunder, uppdragsgivare och uppdragstagare.",
 "När eleven samråder med handledare bedömer eleven <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"samenamecoursecode":"INOINF0",
-"samenamesubjectcode":"INO",
-"samenamesubjectname":"Informationsteknisk arkitektur och infrastruktur",
 "friends":["INADAT0",
+"INODAT0",
 "INOINF0",
-"INANAT0"]}
+"INANAT0",
+"INONAT0"]}

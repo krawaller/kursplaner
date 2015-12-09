@@ -10,7 +10,15 @@ var CourseGoals = React.createClass({
     return (
         <Section headline="Ämnesmål">
             <p>
-                {course.school==="grund" ? "På grundskolan så jobbar man hela tiden med ämnets samtliga mål:" : course.excludesgoals ? "Ej ingående ämnesmål visas överstrykna. " : subject.someexcludes || subject.courses.length===1? "Denna kurs täcker samtliga ämnesmål: " : "Liksom alla övriga kurser i ämnet så täcker denna kurs samtliga ämnesmål:"}
+                {course.school==="grund"
+                ? "På grundskolan så jobbar man hela tiden med ämnets samtliga mål:"
+                : course.excludesgoals
+                ? "Ej ingående ämnesmål visas överstrykna. "
+                : subject.courses.length===1
+                ? "Eftersom denna kurs är ensam i sitt ämne så täcker den samtliga ämnesmål:"
+                : subject.someexcludes
+                ? "Denna kurs täcker samtliga ämnesmål: "
+                : "Liksom alla övriga kurser i ämnet så täcker denna kurs samtliga ämnesmål:"}
                 {course.focusesgoals ? "Mål som kursen fokuserar på visas i fetstil. " : ""}
             </p>
             <ol>

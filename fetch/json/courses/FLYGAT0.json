@@ -1,5 +1,6 @@
 {"subject":"FLY",
 "name":"Gasturbinmotorer",
+"origname":"Gasturbinmotorer",
 "points":200,
 "code":"FLYGAT0",
 "goals":[0,1,0,1,1,1,1,1,0],

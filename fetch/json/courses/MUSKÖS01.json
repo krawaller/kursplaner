@@ -1,5 +1,6 @@
 {"subject":"MUS",
 "name":"Körsång 1",
+"origname":"Körsång 1",
 "points":100,
 "code":"MUSKÖS01",
 "goals":[2,1,0,1,1,0,2,0,0],

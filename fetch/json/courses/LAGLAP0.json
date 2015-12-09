@@ -1,5 +1,6 @@
 {"subject":"LAG",
 "name":"Lagerprocesser",
+"origname":"Lagerprocesser",
 "points":200,
 "code":"LAGLAP0",
 "goals":[0,1,1,1,1,0,0,1],

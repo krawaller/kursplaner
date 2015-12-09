@@ -1,5 +1,6 @@
 {"subject":"INT",
 "name":"Ventilation och komfortkyla",
+"origname":"Ventilation och komfortkyla",
 "points":150,
 "code":"INTVET0",
 "goals":[1,1,1,1,1,1,1,1,1],

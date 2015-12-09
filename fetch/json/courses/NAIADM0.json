@@ -1,5 +1,6 @@
 {"subject":"NAI",
 "name":"Administration av nätverks- och serverutrustning",
+"origname":"Administration av nätverks- och serverutrustning",
 "points":100,
 "instrRAW":"som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
 "descarr":["Den bygger på kursen ",
@@ -43,9 +44,14 @@
 "DAODAT01b"]},
 "reqarr":["DAODAT01a",
 "DAODAT01b"],
-"friends":["DAODAT01a",
+"friends":["NÄVADM0",
+"DAODAT01a",
 "DAODAT01b",
 "NAINAV0",
+"NÄVNÄV0",
 "NAINAE0",
+"NÄVNÄE0",
 "NAINAR0",
-"NAINAK0"]}
+"NÄVNÄR0",
+"NAINAK0",
+"NÄVNÄK0"]}

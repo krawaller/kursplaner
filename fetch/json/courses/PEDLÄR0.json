@@ -1,5 +1,6 @@
 {"subject":"PED",
 "name":"Lärande och utveckling",
+"origname":"Lärande och utveckling",
 "points":100,
 "code":"PEDLÄR0",
 "goals":[1,1,1,0,0,1],

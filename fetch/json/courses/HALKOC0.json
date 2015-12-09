@@ -1,5 +1,6 @@
 {"subject":"HAL",
 "name":"Kost och hälsa",
+"origname":"Kost och hälsa",
 "points":100,
 "code":"HALKOC0",
 "goals":[1,1,0,1,1,0,0,1,1],

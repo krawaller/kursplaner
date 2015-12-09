@@ -9,7 +9,7 @@ var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
-var replacedby = {
+var splitinto = {
 	AUT: ["AUO","ELI","FAI","INR"],
 	ELT: ["ELO","MAY"],
 	MÖN: ["DAI","MNU"],
@@ -21,24 +21,40 @@ var replacedby = {
 	STY: ["STC","CHA"],
 	VVS: ["VVI","INV"]
 };
-var replacing = _.reduce(replacedby,function(mem,arr,old){
+
+var shardof = _.reduce(splitinto,function(mem,arr,old){
 	_.each(arr,function(c){ mem[c] = old; });
 	return mem;
 },{});
+
+var replacedby = {
+	BYL: "BYP",
+	DAL: "DAA",
+	GYM: "GYN",
+	MJU: "MJK",
+	INO: "INA",
+	"NÄV": "NAI",
+	PRT: "PRI"
+};
+
+var replaces = _.invert(replacedby);
 
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace("kursen psykologi 2, kursen historia 2 eller","kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller").replace(/som bygger på kursen byggprocessens organisation/g,"som bygger på kursen SAHBYC0").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
+			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace(/redog��r/g,"redogör").replace(/utf��rlig/g,"utförlig").replace(/ramen f��r språkval/g,"ramen för språkval").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace("kursen psykologi 2, kursen historia 2 eller","kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller").replace(/som bygger på kursen byggprocessens organisation/g,"som bygger på kursen SAHBYC0").replace(/rubriken ��mnets/g,"rubriken Ämnets").replace(/flera g��nger/g,"flera gånger").replace(/ p�� /g," på ").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
 			}
 			path = path.replace(/ä/g,"ä").replace(/å/g,"å").replace(/ö/g,"ö").replace(/Ä/g,"Ä").replace(/Å/g,"Å").replace(/Ö/g,"Ö");
 			var code = path.split("_")[0],
-				name = path.split("_")[1].replace(".html","");
-			if (replacedby[code]){
+				name = path.split("_")[1].replace(".html",""),
+				origname = name;
+			if (splitinto[code]){
+				name += " [uppdelad]";
+			} else if (replacedby[code]){
 				name += " [ersatt]";
 			}
 			var sub = {
@@ -46,9 +62,12 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				code:code,
 				type:type,
 				courses:[],
+				obsolete: !!(splitinto[code] || replacedby[code]),
+				splitinto: splitinto[code],
 				replacedby: replacedby[code],
-				replacing: replacing[code],
-				replacingwith: replacing[code] && replacedby[replacing[code]].filter(function(i){return i!==code;})
+				replaces: replaces[code],
+				shardof: shardof[code],
+				shardofwith: shardof[code] && splitinto[shardof[code]].filter(function(i){return i!==code;})
 			};
 			/*var replacecode = {
 				BYL: "BYP",
@@ -79,18 +98,18 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				)){
 					var cname = comm[1], ccont = comm[2];
 					sub.comments[cname] = ccont.replace(/<h2> *<\/h2>/g,"").replace(/^ *<h2>[^<]*<\/h2>/,"").replace(/h[123]>/g,"h4>").replace(/<img[^>]*>/g,"");
-					console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
+					//console.log("Subject",code,name,"has comment",cname,"with length",ccont.length);
 					commentblock=commentblock.replace(comm[0],"");
 				}
 			}
 			// AUTHORITY
 			if (type==="OTHER"){
-				var regex = new RegExp('<h3><b>Ämnet '+name.toLowerCase()+' ?</b></h3>(.*?)<h3>'),
+				var regex = new RegExp('<h3><b>Ämnet '+origname.toLowerCase()+' ?</b></h3>(.*?)<h3>'),
 					match = otherrules.match(regex);
 				try {
 					sub.auth = match[1];
 				} catch(e){
-					console.log("Error reading rule for",name);
+					console.log("Error reading rule for",origname);
 				}
 			}
 			// DESCRIPTION
@@ -166,6 +185,12 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					course.name = def.split(/,?  ?\d{2,3}  ?poäng/)[0];
 					if (trans[course.name]){
 						course.name = trans[course.name];
+					}
+					// UTGÅNGEN KURS
+					course.origname = course.name;
+					if (sub.obsolete){
+						course.obsolete = true;
+						course.name += " [ej aktuell]";
 					}
 					// POÄNG
 					try {
@@ -288,7 +313,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						raw = match[2];
 					} catch(e){
 						try {
-							var regdef = "> *"+course.name+', *\\d{2,3} *poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
+							var regdef = "> *"+course.origname+', *\\d{2,3} *poäng<\\/h2><div id="([A-ZÅÄÖa-zåäö0-9]*?)".*?>(.*?)(<\\/div><script|<a id="anchor)',
 								regex = new RegExp(regdef,"i"),
 								match = data.match(regex);
 							course.code = match[1].replace(/ /g,"");
@@ -296,25 +321,25 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 							data = data.replace(regdef,"");
 							raw = match[2];
 							if (!GLOBAL.codetosubjcourse[course.code]){
-								GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.name;
+								GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.origname;
 							} else {
-								console.log(code,"2:::",course.name,"WANTS TO BE",course.code,"but that's already taken by",GLOBAL.codetosubjcourse[course.code]);
+								console.log(code,"2:::",course.origname,"WANTS TO BE",course.code,"but that's already taken by",GLOBAL.codetosubjcourse[course.code]);
 								throw "EEE";
 							}
 						} catch(e) {
 							try {
-								var raw = data.match(new RegExp("> *"+course.name+", *\\d{2,3} *poäng<\\/a> *<\\/h3>(.*?)<\\/article","i") )[1];
+								var raw = data.match(new RegExp("> *"+course.origname+", *\\d{2,3} *poäng<\\/a> *<\\/h3>(.*?)<\\/article","i") )[1];
 								//var secraw = data.match(/courses-wrapper">(.*?)<\/section/)[1],
 								//	raw = secraw.match(/<article>(.*?)<\/article>/)[1+i];
 								course.code = raw.match(/Kurskod: *([^<]*)</)[1].replace(/ /g,"");
 								if (!GLOBAL.codetosubjcourse[course.code]){
-									GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.name;
+									GLOBAL.codetosubjcourse[course.code] = code+" --- "+course.origname;
 								} else {
-									console.log(code,"2:::",course.name,"WANTS TO BE",course.code,"but that's already taken by",GLOBAL.codetosubjcourse[course.code]);
+									console.log(code,"2:::",course.origname,"WANTS TO BE",course.code,"but that's already taken by",GLOBAL.codetosubjcourse[course.code]);
 									throw "EEE";
 								}
 							} catch(e){
-								console.log("Failed to read code and raw for course",type,code,course.name,"REG:",regdef);
+								console.log("Failed to read code and raw for course",type,code,course.origname,"REG:",regdef);
 								throw e;
 							}
 						}
@@ -326,7 +351,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						if (sub.comments && sub.comments[cid]){
 							if (!course.comments) course.comments={};
 							course.comments[call] = sub.comments[cid];
-							console.log(course.code,"has comment",cid);
+							//console.log(course.code,"has comment",cid);
 							delete sub.comments[cid];
 						}
 					});
@@ -645,7 +670,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 
 // SAMENAMES
 
-_.each(GLOBAL.courses,function(def,cid){
+/*_.each(GLOBAL.courses,function(def,cid){
 	_.each(GLOBAL.courses,function(def2,cid2){
 		if (cid!==cid2 && def.name === def2.name){
 			def.samenamecoursecode = cid2;
@@ -654,7 +679,7 @@ _.each(GLOBAL.courses,function(def,cid){
 			//console.log(def.name,def.code,def2.code);
 		}
 	});
-});
+});*/
 
 
 // COURSELINKS
@@ -775,6 +800,7 @@ function harvestFiles(o){
 }
 
 var names = _.keys(GLOBAL.coursetocode).sort(function(s,t){return s.length>t.length?-1:s.length<t.length?1:s>t?1:-1;});
+
 _.each(GLOBAL.courses,function(course,code){
 	//betterbehaved
 	_.each(["descarr","reqRAW","notwithRAW","alsoreqRAW"],function(prop){
@@ -790,6 +816,11 @@ _.each(GLOBAL.courses,function(course,code){
 
 			//console.log("SIBLINGNAMES",subjectnames);
 			_.each(names,function(name){
+				var repcid = GLOBAL.coursetocode[name],
+					repcourse = GLOBAL.courses[repcid];
+				if (repcourse.replaces && course.obsolete){
+					name = GLOBAL.courses[repcourse.replaces].name;
+				}
 				if (!(code.match("HÄTDEN0")&&name.toLowerCase()==="naturbruk") && 
 					!(name.toLowerCase()==="form" && !course.name.match("Bild"))
 				)
@@ -919,18 +950,24 @@ var friends = [
 	["GRGRTEK01","TEK"],
 	["GRGRTSP01","SVK"], // teckenspråk
 	["GRGRMOD01","MOE"], // modersmål
-	["GRNHEM2","GRGRHKK01"] // hem- & konsumentkunskap
+	["GRNHEM2","GRGRHKK01"], // hem- & konsumentkunskap
+	["LAT","KLA"] // latin och grekiska
 ];
 
-friends = _.reduce(replacedby,function(mem,newcodes,oldcode){
+friends = _.reduce(splitinto,function(mem,newcodes,oldcode){
 	mem.push([oldcode].concat(newcodes));
+	return mem;
+},friends);
+
+friends = _.reduce(replacedby,function(mem,newcode,oldcode){
+	mem.push([newcode,oldcode]);
 	return mem;
 },friends);
 
 _.each(friends,function(rel){
 	_.each(rel,function(sid){
 		if (!GLOBAL.subjects[sid]){
-			console.log("SUBJECT ERROR",sid,"WAH",Object.keys(GLOBAL.subjects));
+			console.log("SUBJECT ERROR",sid,"WAH");
 		}
 		GLOBAL.subjects[sid].friends = _.without(rel,sid);
 	});
@@ -942,9 +979,9 @@ _.each(GLOBAL.courses,function(course,code){
 	_.each(subject.friends||[],function(friend){
 		course.friends = course.friends.concat(GLOBAL.subjects[friend].courses);
 	});
-	if (course.samenamecoursecode){
+	/*if (course.samenamecoursecode){
 		course.friends.push(course.samenamecoursecode);
-	}
+	}*/
 	course.friends.sort(function(c1,c2){
 		return GLOBAL.courses[c1].name > GLOBAL.courses[c2].name ? 1 : -1;
 	});

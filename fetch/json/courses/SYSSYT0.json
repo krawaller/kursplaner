@@ -1,5 +1,6 @@
 {"subject":"SYS",
 "name":"Systemuppbyggnad",
+"origname":"Systemuppbyggnad",
 "points":100,
 "code":"SYSSYT0",
 "goals":[2,0,1,2,1,1,1],

@@ -1,5 +1,6 @@
 {"subject":"LAT",
 "name":"Latin - språk och kultur 3",
+"origname":"Latin - språk och kultur 3",
 "points":100,
 "instrRAW":"som bygger på kursen latin - språk och kultur 2.",
 "descarr":["Den bygger på kursen ",
@@ -27,6 +28,8 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för romersk historia, kultur och samhällsliv samt för hur händelser, företeelser och idéer kommer till uttryck i de lästa texterna. Eleven för <b>välgrundade och nyanserade</b> resonemang om hur den romerska kulturen har påverkat senare tiders kulturer i Europa och i övriga världen. Vidare diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> samt drar <b>välgrundade och nyanserade</b> slutsatser om hur litterära teman har påverkat senare tiders litteratur och konst."]},
 "req":"LATLAT02",
 "reqarr":["LATLAT02"],
-"friends":["LATLAT01",
+"friends":["KLAKLA01",
+"KLAKLA02",
+"LATLAT01",
 "LATLAT02",
 "LATLAT02"]}

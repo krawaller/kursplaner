@@ -1,5 +1,6 @@
 {"subject":"ATV",
 "name":"Reparation av motorcyklar och ATV",
+"origname":"Reparation av motorcyklar och ATV",
 "points":200,
 "code":"ATVREP0",
 "goals":[1,1,1,1,1,1,1,1],

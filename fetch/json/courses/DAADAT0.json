@@ -1,5 +1,6 @@
 {"subject":"DAA",
 "name":"Datalagring",
+"origname":"Datalagring",
 "points":100,
 "instrRAW":"som bygger på kursen webbserverprogrammering 1.",
 "descarr":["Den bygger på kursen ",
@@ -47,4 +48,5 @@
 "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <b>utförligt och</b> <b>nyanserat</b> om personlig integritet och andra etiska frågor i relation till datalagring."]},
 "req":"WEBWEB01",
 "reqarr":["WEBWEB01"],
-"friends":["WEBWEB01"]}
+"friends":["DALDAT0",
+"WEBWEB01"]}

@@ -1,5 +1,6 @@
 {"subject":"EUR",
 "name":"Eurytmi 1",
+"origname":"Eurytmi 1",
 "points":100,
 "code":"EUREUR01",
 "goals":[2,1,1,2,0,2,1,0,0],

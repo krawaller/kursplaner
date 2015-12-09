@@ -1,5 +1,6 @@
 {"subject":"SNO",
 "name":"Reparation av snöfordon",
+"origname":"Reparation av snöfordon",
 "points":300,
 "code":"SNOREP0",
 "goals":[1,1,1,1,1,1,0,1,0],

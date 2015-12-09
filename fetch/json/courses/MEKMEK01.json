@@ -1,5 +1,6 @@
 {"subject":"MEK",
 "name":"Mekatronik 1",
+"origname":"Mekatronik 1",
 "points":100,
 "code":"MEKMEK01",
 "goals":[1,1,0,1,1],

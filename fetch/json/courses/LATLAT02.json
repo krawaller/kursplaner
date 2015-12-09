@@ -1,5 +1,6 @@
 {"subject":"LAT",
 "name":"Latin - språk och kultur 2",
+"origname":"Latin - språk och kultur 2",
 "points":100,
 "instrRAW":"som bygger på kursen latin - språk och kultur 1.",
 "descarr":["Den bygger på kursen ",
@@ -32,6 +33,8 @@
 "req":"LATLAT01",
 "reqarr":["LATLAT01"],
 "reqBy":["LATLAT03"],
-"friends":["LATLAT01",
+"friends":["KLAKLA01",
+"KLAKLA02",
+"LATLAT01",
 "LATLAT01",
 "LATLAT03"]}

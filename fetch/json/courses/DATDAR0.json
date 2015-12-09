@@ -1,5 +1,6 @@
 {"subject":"DAT",
 "name":"Dansträning",
+"origname":"Dansträning",
 "points":100,
 "code":"DATDAR0",
 "goals":[0,1,0,0,0,1,1,1,1],

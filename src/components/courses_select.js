@@ -42,7 +42,7 @@ var CoursesSelect = React.createClass({
       } else if (thiscourse && d === thiscourse.samenamecoursecode){
         suffix = " ("+thiscourse.samenamesubjectname+")";
       }
-      return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}{suffix}</Link>;
+      return <Link key={d} to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}{suffix}</Link>;
     }
     //console.log("SELSCREEN",now,DB.coursedict[now]);
     return (

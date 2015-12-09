@@ -1,5 +1,6 @@
 {"subject":"SER",
 "name":"Servering 1",
+"origname":"Servering 1",
 "points":100,
 "code":"SERSER01",
 "goals":[2,2,2,1,1,1,2,1],

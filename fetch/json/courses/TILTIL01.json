@@ -1,5 +1,6 @@
 {"subject":"TIL",
 "name":"Tillverkningsunderlag 1",
+"origname":"Tillverkningsunderlag 1",
 "points":100,
 "code":"TILTIL01",
 "goals":[1,1,1,1,1,1,0,1],

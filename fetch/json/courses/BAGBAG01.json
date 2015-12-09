@@ -1,5 +1,6 @@
 {"subject":"BAG",
 "name":"Bageri 1",
+"origname":"Bageri 1",
 "points":100,
 "code":"BAGBAG01",
 "goals":[1,1,1,1,1,1,2,2,1,1],

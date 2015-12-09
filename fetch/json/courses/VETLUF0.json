@@ -1,5 +1,6 @@
 {"subject":"VET",
 "name":"Luftbehandling",
+"origname":"Luftbehandling",
 "points":100,
 "code":"VETLUF0",
 "goals":[2,1,1,1,1,1,1],

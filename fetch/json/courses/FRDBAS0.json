@@ -1,5 +1,6 @@
 {"subject":"FRD",
 "name":"Båtsystem",
+"origname":"Båtsystem",
 "points":200,
 "code":"FRDBAS0",
 "goals":[1,1,1,1,0,1,1,1,1,0],

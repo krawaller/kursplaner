@@ -1,5 +1,6 @@
 {"subject":"HAL",
 "name":"Mental träning",
+"origname":"Mental träning",
 "points":100,
 "code":"HALMEN0",
 "goals":[1,1,0,1,0,0,1,0,1],

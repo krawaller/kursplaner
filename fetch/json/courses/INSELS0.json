@@ -1,5 +1,6 @@
 {"subject":"INS",
 "name":"Elmotorstyrning",
+"origname":"Elmotorstyrning",
 "points":100,
 "instrRAW":"som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.",
 "descarr":["Den bygger på kursen ",

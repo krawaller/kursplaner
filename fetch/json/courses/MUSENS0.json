@@ -1,5 +1,6 @@
 {"subject":"MUS",
 "name":"Ensemble med körsång",
+"origname":"Ensemble med körsång",
 "points":200,
 "code":"MUSENS0",
 "goals":[2,1,0,2,1,2,2,2,2],

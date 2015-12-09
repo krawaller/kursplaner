@@ -1,5 +1,6 @@
 {"subject":"DAR",
 "name":"Cad/cam",
+"origname":"Cad/cam",
 "points":100,
 "code":"DARCAD0",
 "goals":[1,0,0,0,1,1,0,0,0,1],

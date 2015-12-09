@@ -1,5 +1,6 @@
 {"subject":"MAN",
 "name":"Diagnos och reparation",
+"origname":"Diagnos och reparation",
 "points":100,
 "code":"MANDIA0",
 "goals":[0,1,1,1,1,1,0],

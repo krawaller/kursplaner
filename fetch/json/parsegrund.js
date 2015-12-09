@@ -9,7 +9,7 @@ var subjects = {}, courses = {};
 
 _.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 	fs.readFileS(folder+path,function(err,data){
-		data = data.toString();
+		data = data.toString().replace(/ p�� /g," på ");
 		var split = data.split(/<\/?h1[^>]*>/g),
 			code = path.split(".html")[0],
 			headline = split[1].split(" - ")[1],

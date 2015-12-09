@@ -1,5 +1,6 @@
 {"subject":"ELD",
 "name":"Lågspänningsnät",
+"origname":"Lågspänningsnät",
 "points":100,
 "code":"ELDLÅS0",
 "goals":[1,1,1,1,1,1,1,1],

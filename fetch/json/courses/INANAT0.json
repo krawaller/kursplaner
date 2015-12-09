@@ -1,5 +1,6 @@
 {"subject":"INA",
 "name":"Nätverks- och kommunikationstjänster",
+"origname":"Nätverks- och kommunikationstjänster",
 "points":100,
 "code":"INANAT0",
 "goals":[1,1,0,1,1,1,1,0,1],
@@ -33,9 +34,8 @@
 "Eleven analysera <b>efter samråd</b> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys. Resultatet av arbetet är <b>gott</b>. Dessutom installerar, konfigurerar och felsöker eleven <b>efter samråd</b> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system. Eleven utför sitt arbete med <b>mycket gott</b> handlag och automatiserar rutinuppgifter. I arbetet använder eleven <b>med säkerhet</b> instruktioner, manualer och andra dokument på både svenska och engelska. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla. Resultatet av arbetet är <b>gott</b> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
 "Eleven presenterar <b>med säkerhet</b> sitt arbete med hjälp av något presentationsverktyg.",
 "När eleven samråder med handledare bedömer eleven <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"samenamecoursecode":"INONAT0",
-"samenamesubjectcode":"INO",
-"samenamesubjectname":"Informationsteknisk arkitektur och infrastruktur",
 "friends":["INADAT0",
+"INODAT0",
 "INAINF0",
+"INOINF0",
 "INONAT0"]}

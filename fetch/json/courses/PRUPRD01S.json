@@ -1,5 +1,6 @@
 {"subject":"PRU",
 "name":"Produktionsutrustning 1",
+"origname":"Produktionsutrustning 1",
 "points":100,
 "code":"PRUPRD01S",
 "goals":[1,1,1,0,1,1,0,1],

@@ -1,5 +1,6 @@
 {"subject":"DAT",
 "name":"Dansteknik 1",
+"origname":"Dansteknik 1",
 "points":100,
 "code":"DATDAS01S",
 "goals":[1,1,1,1,1,1,0,1,0],

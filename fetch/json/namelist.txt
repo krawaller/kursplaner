@@ -2,16 +2,19 @@ Administration - specialisering
 Administration 1
 Administration 2
 Administration av nätverks- och serverutrustning
+Administration av nätverks- och serverutrustning [ej aktuell]
 Aerodynamik
 Affärsjuridik
 Affärskommunikation
 Affärsutveckling och ledarskap
 Akrobatik
 Aktiviteter och upplevelser
+Aktiviteter och upplevelser [ej aktuell]
 Aktivitetsledarskap
 Akut omhändertagande
 Akutsjukvård
 Allmän automationsteknik
+Allmän automationsteknik [ej aktuell]
 Allmän järnvägsteknik
 Animation - specialisering
 Animation 1
@@ -37,9 +40,11 @@ Arrangemang
 Arrangering och komposition 1
 Arrangering och komposition 2
 Avhjälpande och förebyggande underhåll
+Avhjälpande och förebyggande underhåll [ej aktuell]
 Avhjälpande underhåll 1
 Avhjälpande underhåll 2
 Avverkningsmaskiner
+Avverkningsmaskiner [ej aktuell]
 BIM-samordning
 Bad- och friskvårdsanläggningar
 Bageri - specialisering
@@ -64,6 +69,7 @@ Bergmaskiner
 Bergsprängning
 Beskärning och trädvård
 Besöksnäringen
+Besöksnäringen [ej aktuell]
 Betong 1 - lågform och platta på mark
 Betong 2 - väggar och pelare
 Betong 3 - bärlag
@@ -76,6 +82,7 @@ Bild och form 1a1
 Bild och form 1a2
 Bild och form 1b
 Bild- och ljudanläggningar
+Bild- och ljudanläggningar [ej aktuell]
 Bildteori
 Biodling
 Biologi - naturbruk - specialisering
@@ -114,10 +121,15 @@ Cad 2
 Cad 3
 Cad/cam
 Charkuteri - specialisering
+Charkuteri - specialisering [ej aktuell]
 Charkuteri 1
+Charkuteri 1 [ej aktuell]
 Charkuteri 2
+Charkuteri 2 [ej aktuell]
 Charkuteri 3
+Charkuteri 3 [ej aktuell]
 Charkuteri 4
+Charkuteri 4 [ej aktuell]
 Choklad och konfektyr
 Cirkus 1
 Cirkus 2
@@ -139,11 +151,15 @@ Dansträning
 Dansträning för yrkesdansare
 Data- och medianät
 Datakommunikation och informationssäkerhet
+Datakommunikation och informationssäkerhet [ej aktuell]
 Datalagring
+Datalagring [ej aktuell]
 Datalogi
 Dator- och nätverksteknik
 Datoriserad mönsterhantering 1
+Datoriserad mönsterhantering 1 [ej aktuell]
 Datoriserad mönsterhantering 2
+Datoriserad mönsterhantering 2 [ej aktuell]
 Datorsamordning och support
 Datorstyrd produktion 1
 Datorstyrd produktion 2
@@ -197,6 +213,7 @@ Ellära - flyg
 Ellära 1
 Ellära 2
 Elmotordrivsystem
+Elmotordrivsystem [ej aktuell]
 Elmotorstyrning
 Elmätteknik 1
 Elmätteknik 2
@@ -214,6 +231,7 @@ Ensemble 2
 Ensemble med körsång
 Ensembleledning och dirigering
 Entreprenadteknik
+Entreprenadteknik [ej aktuell]
 Entreprenörskap
 Entreprenörskap och företagande
 Ergonomi
@@ -231,7 +249,9 @@ Eventteknik
 Fackteckning och design
 Fartygsbefäl
 Fastighetsautomation 1
+Fastighetsautomation 1 [ej aktuell]
 Fastighetsautomation 2
+Fastighetsautomation 2 [ej aktuell]
 Fastighetsförvaltning
 Fastighetskommunikation
 Fastighetsservice - VVS
@@ -257,6 +277,7 @@ Finsnickeri 5 - specialisering
 Finsnickeri 6a
 Finsnickeri 6b
 Finstyckning
+Finstyckning [ej aktuell]
 Fiske 1
 Fiske 2
 Fiske 3
@@ -280,6 +301,7 @@ Flyglagstiftning
 Flygplanslära
 Flygplatsen
 Fordon och redskap
+Fordon och redskap [ej aktuell]
 Fordons- och transportbranschens villkor och arbetsområden
 Fordonskombinationer - godstransporter
 Fordonskombinationer - persontransporter
@@ -307,6 +329,7 @@ Fritids- och friskvårdsverksamheter
 Fritids- och idrottskunskap
 Fritidsmiljöer och arenor
 Frukost och bufféservering
+Frukost och bufféservering [ej aktuell]
 Fysik 1a
 Fysik 1b1
 Fysik 1b2
@@ -343,15 +366,17 @@ Grafisk produktion 2
 Grafisk produktion 3
 Grafisk produktion 4
 Grafiska arbetsflöden och analysmodeller
-Grundläggande mätningsteknik
+Grundläggande mätningsteknik [ej aktuell]
 Grundläggande säkerhet
 Grundläggande vård och omsorg
 Gränssnitt 3D
 Gränssnittsdesign
 Grävmaskiner
 Guide och reseledare
+Guide och reseledare [ej aktuell]
 Guidning i naturbruksmiljöer
 Gymnasieingenjören i praktiken
+Gymnasieingenjören i praktiken [ej aktuell]
 Handel - specialisering
 Hantering av varor och gods
 Hantverk - introduktion
@@ -378,7 +403,7 @@ Historia 3
 Hjullastare
 Hjulutrustning
 Hjulutrustning - specialisering
-Hotelladministration
+Hotelladministration [ej aktuell]
 Humanistisk och samhällsvetenskaplig specialisering
 Humanistisk och samhällsvetenskaplig spets
 Hundkunskap 1
@@ -395,6 +420,7 @@ Hästkunskap 1
 Hästkunskap 2
 Hästkunskap 3
 Hållbar turism
+Hållbar turism [ej aktuell]
 Hållbart samhällsbyggande
 Högspänningsnät
 Idrott och hälsa 1
@@ -407,6 +433,7 @@ Idrottsspecialisering 2
 Idrottsspecialisering 3
 Inbrottslarmssystem
 Industriautomation
+Industriautomation [ej aktuell]
 Industriell informationsteknik
 Industriell lackering
 Industriell mätteknik - fördjupning
@@ -426,6 +453,7 @@ Information och kommunikation 1
 Information och kommunikation 2
 Informationsteknik i fastighetsförvaltning
 Informationsteknisk arkitektur
+Informationsteknisk arkitektur [ej aktuell]
 Injusteringsteknik
 Inköp 1
 Inköp 2
@@ -500,6 +528,7 @@ Konstruktion 3
 Konstruktion och reparation 1
 Konstruktion och reparation 2
 Kontorstekniksystem
+Kontorstekniksystem [ej aktuell]
 Kontrollanläggningar
 Koreografi
 Korg och boggi
@@ -519,7 +548,9 @@ Kyl- och värmepumpsteknik - service
 Kälsvets 1
 Kälsvets 2
 Körning 1
+Körning 1 [ej aktuell]
 Körning 2
+Körning 2 [ej aktuell]
 Körsång 1
 Körsång 2
 Laboratorieteknik
@@ -533,7 +564,9 @@ Lantbruksdjur - specialisering
 Lantbruksdjur 1
 Lantbruksdjur 2
 Lantbruksmaskiner 1
+Lantbruksmaskiner 1 [ej aktuell]
 Lantbruksmaskiner 2
+Lantbruksmaskiner 2 [ej aktuell]
 Larm-, övervaknings- och säkerhetssystem
 Lastbilar och utrustning
 Lastbilsmonterad hydraulik och pneumatik
@@ -541,6 +574,7 @@ Lastbilsmonterad kran
 Lastbärare
 Lasthantering och passagerarsäkerhet
 Lastmaskiner och truckar
+Lastmaskiner och truckar [ej aktuell]
 Latin - språk och kultur 1
 Latin - språk och kultur 2
 Latin - språk och kultur 3
@@ -554,6 +588,7 @@ Ljudproduktion 2
 Ljudproduktionsteknik
 Ljus- och bildproduktionsteknik
 Logi
+Logi [ej aktuell]
 Logistik 1
 Logistik 2
 Luftbehandling
@@ -566,6 +601,7 @@ Låg- och högfrekvenskretsar
 Lågspänningsnät
 Manus för film och tv
 Marina elektroniksystem
+Marina elektroniksystem [ej aktuell]
 Marinelektronik 1
 Marinelektronik 2
 Marinelektronik 3
@@ -573,6 +609,7 @@ Marinmotor - introduktion
 Marken och växternas biologi
 Marknadsföring
 Marknadsföring och försäljning
+Marknadsföring och försäljning [ej aktuell]
 Maskin- och lastbilsteknik - introduktion
 Maskinbefäl
 Maskinell godshantering
@@ -621,6 +658,7 @@ Miljö- och energikunskap
 Miljöcertifierade hus
 Miljöer och utrustning för fordonstest
 Mjukvarudesign
+Mjukvarudesign [ej aktuell]
 Mobil hydraulik 1
 Mobil hydraulik 2
 Mobila applikationer 1
@@ -672,7 +710,9 @@ Måleri 5
 Måleriprocessen
 Mångbruk av skog
 Mönsterkonstruktion 1
+Mönsterkonstruktion 1 [ej aktuell]
 Mönsterkonstruktion 2
+Mönsterkonstruktion 2 [ej aktuell]
 Natur- och landskapsvård
 Naturbruk
 Naturguidning 1
@@ -691,12 +731,18 @@ Nätunderhållsarbete i stadsnät
 Nätunderhållsarbete i vindkraftnät
 Nätunderhållsarbete på luftledningsnät 0,4–24kV
 Nätverks- och kommunikationstjänster
+Nätverks- och kommunikationstjänster [ej aktuell]
 Nätverksadministration
+Nätverksadministration [ej aktuell]
 Nätverkssäkerhet
+Nätverkssäkerhet [ej aktuell]
 Nätverksteknik
+Nätverksteknik [ej aktuell]
 Nätverksteknologier
-Odling - specialisering
+Nätverksteknologier [ej aktuell]
+Odling - specialisering [ej aktuell]
 Odling av djurfoder
+Odling av djurfoder [ej aktuell]
 Odling i växthus - specialisering
 Odling i växthus 1
 Odling i växthus 2
@@ -719,6 +765,7 @@ Persontransporter - specialisering
 Pistmaskiner och utrustning
 Pistmaskinkörning
 Planering före byggstart
+Planering före byggstart [ej aktuell]
 Plast- och lamineringsteknik
 Plocklagerhantering
 Plåtslageri - grunder
@@ -735,11 +782,13 @@ Processmätteknik 1
 Processmätteknik 2
 Processreglering
 Produktionsfilosofi 1
+Produktionsfilosofi 1 [ej aktuell]
 Produktionsfilosofi 2
+Produktionsfilosofi 2 [ej aktuell]
 Produktionsflöden
 Produktionskunskap 1
 Produktionskunskap 2
-Produktionsstyrning i byggskedet
+Produktionsstyrning i byggskedet [ej aktuell]
 Produktionsutrustning 1
 Produktionsutrustning 2
 Produktionsutrustning 3
@@ -765,8 +814,11 @@ Radiokommunikation till sjöss
 Radiologiska utrustningar
 Radioproduktion
 Reception 1
+Reception 1 [ej aktuell]
 Reception 2
+Reception 2 [ej aktuell]
 Reception 3
+Reception 3 [ej aktuell]
 Receptions- och konferensservice
 Redovisning 1
 Redovisning 2
@@ -787,16 +839,22 @@ Reparation av snöskoter
 Repertoar
 Repertoar för yrkesdansare
 Reseproduktion och försäljning
+Reseproduktion och försäljning [ej aktuell]
 Reservkraft
 Resmål och resvägar
+Resmål och resvägar [ej aktuell]
 Retorik
 Ridning 1
+Ridning 1 [ej aktuell]
 Ridning 2
+Ridning 2 [ej aktuell]
 Ridning och körning
+Ridning och körning [ej aktuell]
 Riktbänkssystem
 Riktningsteknik - introduktion
 Rit- och mätningsteknik
 Robotteknik
+Robotteknik [ej aktuell]
 Rums- och konferensbokning
 Rytmik
 Räddningsmedicin
@@ -823,7 +881,9 @@ Sammanfogning
 Samtida kulturuttryck
 Sanitet och tappvatten
 Sanitetsteknik 1
+Sanitetsteknik 1 [ej aktuell]
 Sanitetsteknik 2
+Sanitetsteknik 2 [ej aktuell]
 Scenisk gestaltning 1
 Scenisk gestaltning 2
 Scenisk gestaltning 3
@@ -847,6 +907,7 @@ Skapande verksamhet
 Skarvnings- och sammanfogningsteknik
 Skeppsteknik
 Skogsmaskiner - specialisering
+Skogsmaskiner - specialisering [ej aktuell]
 Skogsskötsel - specialisering
 Skogsskötsel 1
 Skogsskötsel 2
@@ -855,6 +916,7 @@ Skärgårdsnavigation
 Skötsel av utemiljöer
 Skötsel av utemiljöer - specialisering
 Småskalig skogsteknik
+Småskalig skogsteknik [ej aktuell]
 Snöfordon - introduktion
 Socialpedagogik
 Socialt arbete
@@ -872,10 +934,15 @@ Spårbundna fordon - introduktion
 Stumsvets 1
 Stumsvets 2
 Styckning - specialisering
+Styckning - specialisering [ej aktuell]
 Styckning 1
+Styckning 1 [ej aktuell]
 Styckning 2
+Styckning 2 [ej aktuell]
 Styckning 3
+Styckning 3 [ej aktuell]
 Styckning 4
+Styckning 4 [ej aktuell]
 Styr- och säkerhetssystem
 Styr- och övervakningssystem
 Support och hemservice
@@ -912,6 +979,7 @@ Teknik i vård och omsorg
 Telefon- och internetservice
 Teleskoplastare
 Terrängtransporter
+Terrängtransporter [ej aktuell]
 Textil design 1
 Textil design 2
 Textil design 3
@@ -929,7 +997,9 @@ Timring
 Tradition och utveckling
 Transport och spedition
 Trav 1
+Trav 1 [ej aktuell]
 Trav 2
+Trav 2 [ej aktuell]
 Trä 1 - stommar
 Trä 2 - beklädnad
 Trä 3 - montage
@@ -937,10 +1007,14 @@ Trädgårdsanläggning - specialisering
 Trädgårdsanläggning 1
 Trädgårdsanläggning 2
 Trädgårdsmaskiner
+Trädgårdsmaskiner [ej aktuell]
 Trädgårdsodling
 Trädgårdsodling - grönsaker, frukt och bär
+Trädgårdsodling - grönsaker, frukt och bär [ej aktuell]
 Trädgårdsodling - plantskoleväxter
+Trädgårdsodling - plantskoleväxter [ej aktuell]
 Trädgårdsodling - specialisering
+Trädgårdsodling [ej aktuell]
 Träning av hund
 Tränings- och tävlingslära 1
 Tränings- och tävlingslära 2
@@ -948,8 +1022,10 @@ Tränings- och tävlingslära 3
 Träningslära 1
 Träningslära 2
 Trådlösa radiosystem
+Trådlösa radiosystem [ej aktuell]
 Tunga arbetsmaskiner
 Turistbyråservice
+Turistbyråservice [ej aktuell]
 Tv-produktion
 Tätskikt våtrum
 Underhåll - driftsäkerhet
@@ -969,11 +1045,16 @@ Utställningsdesign 1
 Utställningsdesign 2
 Utställningsdesign 3
 VVS TIG-svetsning rör
+VVS TIG-svetsning rör [ej aktuell]
 VVS gassvetsning rör
+VVS gassvetsning rör [ej aktuell]
 VVS svets industrirör
+VVS svets industrirör [ej aktuell]
 VVS svets och lödning rör
+VVS svets och lödning rör [ej aktuell]
 VVS-isolering
 VVS-teknik
+VVS-teknik [ej aktuell]
 Vardagsolyckor
 Vatten- och miljöteknik
 Vatten- och processkemi
@@ -994,22 +1075,31 @@ Verktygskunskap
 Virkeslära
 Virkesmätning
 Virkestransport med skotare
+Virkestransport med skotare [ej aktuell]
 Visuell kommunikation
 Väghyvel
 Värdskap på resmålet
+Värdskap på resmålet [ej aktuell]
 Värme- och kylsystem
 Värmelära
 Värmeteknik 1
+Värmeteknik 1 [ej aktuell]
 Värmeteknik 2
+Värmeteknik 2 [ej aktuell]
 Växtkunskap - fastighetsskötsel
 Växtkunskap 1
 Växtkunskap 2
 Växtodling - specialisering
 Växtodling 1
+Växtodling 1 [ej aktuell]
 Växtodling 2
+Växtodling 2 [ej aktuell]
 Våningsservice 1
+Våningsservice 1 [ej aktuell]
 Våningsservice 2
+Våningsservice 2 [ej aktuell]
 Våningsservice 3
+Våningsservice 3 [ej aktuell]
 Vård och omsorg - specialisering
 Vård och omsorg vid demenssjukdom
 Vård- och omsorgsarbete 1

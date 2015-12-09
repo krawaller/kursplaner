@@ -1,5 +1,7 @@
 {"subject":"PRT",
-"name":"Produktionsfilosofi 2",
+"name":"Produktionsfilosofi 2 [ej aktuell]",
+"origname":"Produktionsfilosofi 2",
+"obsolete":true,
 "points":100,
 "instrRAW":"som bygger på produktionsfilosofi 1.",
 "descarr":["Den bygger på ",
@@ -38,5 +40,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"PRTPRO01",
 "reqarr":["PRTPRO01"],
-"friends":["PRTPRO01",
-"PRTPRO01"]}
+"friends":["PRIPRO01",
+"PRTPRO01",
+"PRTPRO01",
+"PRIPRO02"]}

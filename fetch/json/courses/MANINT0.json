@@ -1,5 +1,6 @@
 {"subject":"MAN",
 "name":"Intervallservice",
+"origname":"Intervallservice",
 "points":100,
 "code":"MANINT0",
 "goals":[1,1,1,1,1,1,0],

@@ -1,5 +1,6 @@
 {"subject":"FLY",
 "name":"Underhållsteknik - flyg",
+"origname":"Underhållsteknik - flyg",
 "points":200,
 "code":"FLYUNS0",
 "goals":[0,0,1,1,1,1,1,1,0],

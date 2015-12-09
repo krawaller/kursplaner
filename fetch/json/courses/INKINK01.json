@@ -1,5 +1,6 @@
 {"subject":"INK",
 "name":"Inköp 1",
+"origname":"Inköp 1",
 "points":100,
 "code":"INKINK01",
 "goals":[1,0,0,1,1,1,1,0,1,1],

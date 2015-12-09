@@ -1,5 +1,6 @@
 {"subject":"SAH",
 "name":"Miljöcertifierade hus",
+"origname":"Miljöcertifierade hus",
 "points":100,
 "code":"SAHMIL0",
 "goals":[0,1,0,0,0,0,0,1,1,1],

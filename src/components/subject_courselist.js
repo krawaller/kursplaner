@@ -29,8 +29,12 @@ var SubjectCourseList = React.createClass({
             ) : (
                 <div>
                     <p>Följande {list.length===1?"kurs är den enda i ämnet":(nums[list.length]||list.length)+" kurser ingår i ämnet"}:</p>
-                    <table className="table">
+                    <table className="table coursetable">
                         <thead>
+                            <tr>
+                                <th colSpan="2"></th>
+                                <th colSpan={subject.goals.length} className='coursegoals'>ingående ämnesmål</th>
+                            </tr>
                             <tr>
                                 <th>Kurs</th>
                                 <th>Nivå</th>

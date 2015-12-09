@@ -1,5 +1,6 @@
 {"subject":"DRY",
 "name":"Drycker",
+"origname":"Drycker",
 "points":100,
 "instrRAW":"som bygger på kursen drycker och ansvarsfull alkoholservering.",
 "descarr":["Den bygger på kursen ",

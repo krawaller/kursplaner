@@ -1,5 +1,6 @@
 {"subject":"MAS",
 "name":"Arbete från servicebil",
+"origname":"Arbete från servicebil",
 "points":100,
 "code":"MASARB0",
 "goals":[0,1,1,0,1,1,1,1],

@@ -1,5 +1,7 @@
 {"subject":"BYL",
-"name":"Grundläggande mätningsteknik",
+"name":"Grundläggande mätningsteknik [ej aktuell]",
+"origname":"Grundläggande mätningsteknik",
+"obsolete":true,
 "points":50,
 "instrRAW":"som bygger på kursen SAHBYC0.",
 "descarr":["Den bygger på kursen ",
@@ -40,5 +42,8 @@
 "req":"SAHBYC0",
 "reqarr":["SAHBYC0"],
 "friends":["SAHBYC0",
+"BYPBYG0",
+"BYPPLA0",
 "BYLPLA0",
-"BYLPRO0"]}
+"BYLPRO0",
+"BYPRIT0"]}

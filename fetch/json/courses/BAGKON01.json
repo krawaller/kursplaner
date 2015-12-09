@@ -1,5 +1,6 @@
 {"subject":"BAG",
 "name":"Konditori 1",
+"origname":"Konditori 1",
 "points":100,
 "code":"BAGKON01",
 "goals":[1,1,1,1,1,1,2,2,1,1],

@@ -1,5 +1,6 @@
 {"subject":"MAK",
 "name":"Maskintjänst 1",
+"origname":"Maskintjänst 1",
 "points":300,
 "code":"MAKMAS01",
 "goals":[2,0,2,1,1,1,1,1],

@@ -1,5 +1,6 @@
 {"subject":"SAA",
 "name":"Svets grund",
+"origname":"Svets grund",
 "points":100,
 "code":"SAASVT0",
 "goals":[1,1,1,1,1,1,1,0],

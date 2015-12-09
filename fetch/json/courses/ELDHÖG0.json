@@ -1,5 +1,6 @@
 {"subject":"ELD",
 "name":"Högspänningsnät",
+"origname":"Högspänningsnät",
 "points":100,
 "code":"ELDHÖG0",
 "goals":[1,1,1,1,1,1,1,1],

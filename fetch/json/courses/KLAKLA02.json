@@ -1,5 +1,6 @@
 {"subject":"KLA",
 "name":"Klassisk grekiska - språk och kultur 2",
+"origname":"Klassisk grekiska - språk och kultur 2",
 "points":100,
 "instrRAW":"som bygger på kursen klassisk grekiska - språk och kultur 1.",
 "descarr":["Den bygger på kursen ",
@@ -31,4 +32,7 @@
 "req":"KLAKLA01",
 "reqarr":["KLAKLA01"],
 "friends":["KLAKLA01",
-"KLAKLA01"]}
+"KLAKLA01",
+"LATLAT01",
+"LATLAT02",
+"LATLAT03"]}

@@ -1,5 +1,6 @@
 {"subject":"SYS",
 "name":"Injusteringsteknik",
+"origname":"Injusteringsteknik",
 "points":100,
 "code":"SYSINJ0",
 "goals":[1,1,1,1,1,1,0],

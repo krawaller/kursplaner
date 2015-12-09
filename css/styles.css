@@ -1,3 +1,10 @@
+.coursegoals {
+    text-align: center;
+}
+
+.coursetable tr:nth-child(1) th { border: none; }
+.coursetable tr:nth-child(2) th { border-top: none; }
+
 .wrapper {
 	max-width: 800px;
 	margin: 0 auto;

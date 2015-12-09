@@ -1,5 +1,6 @@
 {"subject":"GOS",
 "name":"Lastbilsmonterad kran",
+"origname":"Lastbilsmonterad kran",
 "points":100,
 "code":"GOSLAL0",
 "goals":[1,0,1,0,1,0,1],

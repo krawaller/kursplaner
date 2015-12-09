@@ -1,5 +1,6 @@
 {"subject":"FLY",
 "name":"Aerodynamik",
+"origname":"Aerodynamik",
 "points":100,
 "code":"FLYAER0",
 "goals":[1,0,0,0,1,1,1,1,0],

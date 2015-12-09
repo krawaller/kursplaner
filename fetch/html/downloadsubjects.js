@@ -29,7 +29,7 @@ function downloadCourse(type,name,code,urlcode,desperation){
 			"http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+encodeURIComponent(code)+"&lang=sv&tos=gy"
 		][desperation || 0];
 		download(path,function(data){
-			if (!data || !data.length || data.match("Tyvärr kan vi inte hitta sidan du söker" || data.match("Ämnet eller kursen som efterfrågades kunde inte hittas"))){
+			if (!data || !data.length || data.match("Tyvärr kan vi inte hitta sidan du söker") || data.match("Ett fel har uppstått") || data.match("Ämnet eller kursen som efterfrågades kunde inte hittas")){
 				downloadCourse(type,name,code,urlcode,desperation+1);
 			} else if (data.match("Innehållet är för närvarande inte tillgängligt. Var god försök senare")){
 				setTimeout(function(){
@@ -45,6 +45,29 @@ function downloadCourse(type,name,code,urlcode,desperation){
 	}
 }
 
+var extras = {
+	COMMON: {},
+	VOCATIONAL: {
+		N: [
+			'subject.htm?subjectCode=NÄV&amp;lang=sv&amp;tos=gy">Nätverksteknik'
+		],
+		P: [
+			'subject.htm?subjectCode=PRI&amp;lang=sv&amp;tos=gy">Produktionsfilosofi'
+		]
+	},
+	OTHER: {
+		D: [
+			'subject.htm?subjectCode=DAL&amp;lang=sv&amp;tos=gy">Datalagring'
+		],
+		G: [
+			'subject.htm?subjectCode=GYN&amp;lang=sv&amp;tos=gy">Gymnasieingenjören i praktiken'
+		],
+		M: [
+			'subject.htm?subjectCode=MJK&amp;lang=sv&amp;tos=gy">Mjukvarudesign'
+		]
+	}
+};
+
 _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 	_.each(["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","Å","Ä","Ö"],function(l){
 		fs.readFile("./letters/"+type+"/"+l+".html",function(err,data){
@@ -52,8 +75,9 @@ _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 				console.log("ERROR for",type,l,err);
 				throw "BARGHS"
 			}
-			var match = data.toString().match(/subject\.htm\?subjectCode=([A-ZÅÄÖ]{3}|[A-Z%0-9]{8})&amp;lang=sv&amp;tos\=gy\"\>([^<]*)/g);
+			var match = (data.toString()+" "+(extras[type][l]||[]).join(" ")).match(/subject\.htm\?subjectCode=([A-ZÅÄÖ]{3}|[A-Z%0-9]{8})&amp;lang=sv&amp;tos\=gy\"\>([^<]*)/g);
 			_.each(match||[],function(str){
+				//console.log("MATCHLOOKSLIKE",str);
 				var urlcode = str.match(/subjectCode=([A-ZÅÄÖ]{3}|[A-Z%0-9]{8})/)[1],
 					name = str.match(/>(.*)$/)[1],
 					code = urlcode.replace("%C3%84","Ä").replace("%C3%85","Å").replace("%C3%B6","Ö").replace("%C3%96","Ö");
@@ -62,7 +86,7 @@ _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 					downloadCourse(type,name,code,urlcode,0);
 					return;
 
-					var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+urlcode+"&lang=sv&tos=gy";
+					/*var path = "http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/sok-amnen-och-kurser/subject.htm?subjectCode="+urlcode+"&lang=sv&tos=gy";
 					download(path,function(data){
 						data = cleanText(data);
 						if (data.length && !data.match("Tyvärr kan vi inte hitta sidan du söker")){
@@ -96,7 +120,7 @@ _.each(["OTHER","VOCATIONAL","COMMON"],function(type){
 								}
 							});
 						}
-					});
+					});*/
 				}
 			});
 		});

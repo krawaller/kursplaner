@@ -1,5 +1,6 @@
 {"subject":"DES",
 "name":"Design 1",
+"origname":"Design 1",
 "points":100,
 "code":"DESDES01",
 "goals":[1,1,1,2,1,2,1,1,1,2],

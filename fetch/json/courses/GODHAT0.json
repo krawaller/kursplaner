@@ -1,5 +1,6 @@
 {"subject":"GOD",
 "name":"Hantering av varor och gods",
+"origname":"Hantering av varor och gods",
 "points":200,
 "code":"GODHAT0",
 "goals":[1,1,1,1,1,0,1],

@@ -1,5 +1,6 @@
 {"subject":"DRI",
 "name":"Underhåll - hydraulik och pneumatik",
+"origname":"Underhåll - hydraulik och pneumatik",
 "points":100,
 "code":"DRIUNH0",
 "goals":[1,1,0,1,1,1,0,0],

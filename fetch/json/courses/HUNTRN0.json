@@ -1,5 +1,6 @@
 {"subject":"HUN",
 "name":"Träning av hund",
+"origname":"Träning av hund",
 "points":100,
 "code":"HUNTRN0",
 "goals":[1,0,0,0,0,0,1,1,1,1],

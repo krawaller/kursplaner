@@ -1,5 +1,6 @@
 {"subject":"MAK",
 "name":"Maskinbefäl",
+"origname":"Maskinbefäl",
 "points":100,
 "code":"MAKMAS0",
 "goals":[0,1,0,0,1,1,2,1],

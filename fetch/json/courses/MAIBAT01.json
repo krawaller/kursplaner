@@ -1,5 +1,6 @@
 {"subject":"MAI",
 "name":"Båtel 1",
+"origname":"Båtel 1",
 "points":100,
 "code":"MAIBAT01",
 "goals":[1,1,1,0,1,1,1,1,1],

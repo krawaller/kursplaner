@@ -1,5 +1,6 @@
 {"subject":"TEA",
 "name":"Fysisk teater",
+"origname":"Fysisk teater",
 "points":100,
 "code":"TEAFYS0",
 "goals":[2,0,0,0,0,1,1,1,1,1],

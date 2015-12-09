@@ -1,5 +1,6 @@
 {"subject":"ELR",
 "name":"Elektromekanik",
+"origname":"Elektromekanik",
 "points":100,
 "code":"ELRELK0",
 "goals":[1,1,1,1,0,1,1],

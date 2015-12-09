@@ -1,5 +1,6 @@
 {"subject":"FAF",
 "name":"Fastighetsförvaltning",
+"origname":"Fastighetsförvaltning",
 "points":100,
 "code":"FAFFAS0",
 "goals":[1,1,1,1,1,1,0,0,1],

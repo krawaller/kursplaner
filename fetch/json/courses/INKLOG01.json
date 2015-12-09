@@ -1,5 +1,6 @@
 {"subject":"INK",
 "name":"Logistik 1",
+"origname":"Logistik 1",
 "points":100,
 "code":"INKLOG01",
 "goals":[1,1,0,1,1,1,0,0,1,1],

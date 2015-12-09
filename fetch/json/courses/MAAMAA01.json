@@ -1,5 +1,6 @@
 {"subject":"MAA",
 "name":"Massage 1",
+"origname":"Massage 1",
 "points":100,
 "code":"MAAMAA01",
 "goals":[1,1,1,1,0],

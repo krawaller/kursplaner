@@ -1,5 +1,6 @@
 {"subject":"FAS",
 "name":"Fastighetsservice - byggnader",
+"origname":"Fastighetsservice - byggnader",
 "points":100,
 "code":"FASFAS0",
 "goals":[1,1,0,1,1,1,1,1],

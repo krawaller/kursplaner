@@ -1,5 +1,6 @@
 {"subject":"PSY",
 "name":"Psykiatri 1",
+"origname":"Psykiatri 1",
 "points":100,
 "code":"PSYPSY01",
 "goals":[0,1,0,1,1,1,0,1,0,0],

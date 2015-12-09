@@ -1,5 +1,6 @@
 {"subject":"BYP",
 "name":"Byggstyrning",
+"origname":"Byggstyrning",
 "points":100,
 "code":"BYPBYG0",
 "goals":[0,0,1,0,1,0,1,1,1,1],
@@ -45,5 +46,8 @@
 "Eleven redogö <b>utförligt och</b> <b>nyanserat</b> för mätmetoder som används för att kontrollera fuktförhållanden i material, akustikegenskaper och lufttäthet hos byggnader samt för mätmetoder som används för att värdera en byggnads energiegenskaper.",
 "Eleven använder <b>med säkerhet</b> begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"friends":["BYPPLA0",
+"friends":["BYLGRN0",
+"BYPPLA0",
+"BYLPLA0",
+"BYLPRO0",
 "BYPRIT0"]}

@@ -1,5 +1,6 @@
 {"subject":"VAD",
 "name":"Vård och omsorg - specialisering",
+"origname":"Vård och omsorg - specialisering",
 "points":50,
 "instrRAW":"som beroende av valt kunskapsområde bygger på kursen vård och omsorgsarbete 2, kursen medicin 2, kursen psykiatri 2, kursen akutsjukvård eller kursen palliativ vård. Kursen kan läsas flera gånger med olika innehåll.",
 "descarr":["Den beroende av valt kunskapsområde bygger på kursen ",

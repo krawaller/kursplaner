@@ -1,5 +1,6 @@
 {"subject":"BYP",
 "name":"Rit- och mätningsteknik",
+"origname":"Rit- och mätningsteknik",
 "points":100,
 "code":"BYPRIT0",
 "goals":[1,1,1,0,0,0,0,0,0,0],
@@ -39,4 +40,7 @@
 "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>välgrundad och nyanserad</b> jämförelse av sitt eget resultat med andras, när det gäller funktion och praktisk genomförbarhet.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "friends":["BYPBYG0",
-"BYPPLA0"]}
+"BYLGRN0",
+"BYPPLA0",
+"BYLPLA0",
+"BYLPRO0"]}

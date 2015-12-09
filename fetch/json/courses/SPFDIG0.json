@@ -1,5 +1,6 @@
 {"subject":"SPF",
 "name":"Digitalteknik och programmering",
+"origname":"Digitalteknik och programmering",
 "points":100,
 "code":"SPFDIG0",
 "goals":[0,0,1,1,0,1,1,1,1],

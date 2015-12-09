@@ -1,5 +1,6 @@
 {"subject":"FLG",
 "name":"Fälthållning",
+"origname":"Fälthållning",
 "points":200,
 "code":"FLGFAL0",
 "goals":[1,1,1,1,0,1,1,1,1],
