@@ -1,0 +1,13 @@
+{"name":"Mjukvarudesign",
+"code":"MJK",
+"type":"OTHER",
+"courses":["MJKMJU0"],"obsolete":false,"replaces":"MJU",
+"comments":{},"auth":"<p>En lärares kompetens är relevant för ämnet mjukvarudesign om han eller hon </p><p>&#160;&#160; 1. har behörighet i något av ämnena programmering i gymnasieskolan eller webbteknik i gymnasieskolan och har genomgått utbildning om 7,5 högskolepoäng inom projektmetodik och verktyg för mjukvaruutveckling, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+"auth2012":true,"description":"<!-- Content concerning GY-Sar(subject area code) and Vux-GR(central content) only -->                  <p>Ämnet mjukvarudesign behandlar hur datorprogram, webbapplikationer och andra applikationer skapas för produkter styrda av mikroprocessorer. Det behandlar mjukvarudesignprocessen från idé, analys och kravspecifikation till modellering, implementering, testning, förbättring, kvalitetskontroll, dokumentation och distribution. Ämnet mjukvarudesign får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>  ",
+"vux":true,"purpose":"<p>Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar. Den ska även ge eleverna möjlighet att utveckla förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda verktyg för utveckling av mjukvara, för samarbete med andra deltagare i processen samt för testning och dokumentation.</p><p>Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om mjukvarudesign.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform.</p>",
+"goals":["Kunskaper om mjukvaruutvecklingens historia samt om programmeringsparadigm, kodstandarder, körmiljöer och plattformar.",
+"Förmåga att arbeta i enlighet med metodik inom teknikområdet.",
+"Förmåga att skapa internationaliserade applikationer och att lokalisera applikationer.",
+"Förmåga att sätta upp och använda verktyg för mjukvaruutveckling.",
+"Kunskaper om arbetsmiljöfrågor.",
+"Kunskaper om licensfrågor och distribution av mjukvara samt om betalningsmodeller."],"someexcludes":false,"somefocuses":false}

@@ -53,7 +53,7 @@
     <meta name="geo.region" content="SE">
 
     <title>Sök program och ämnesplaner</title>
-    <link rel="shortcut icon" href="/favicon.ico;jsessionid=153686B053862668AE39297876D61ECD">
+    <link rel="shortcut icon" href="/favicon.ico;jsessionid=143F0017AF76A2EAE584159841F4638A">
 
 
     
@@ -395,10 +395,10 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
     <div class="block searchFieldWrapper">
       <div class="block searchFieldWrapperInner">
         
-        <label for="search-block-1-149602-704990076">Sök</label>
-        <input type="text" value="Sök på hela Skolverkets webbplats..." name="q" title="Skriv dina sökord här" id="search-block-1-149602-704990076" accesskey="4"  class="searchField" >
+        <label for="search-block-1-149602-960460791">Sök</label>
+        <input type="text" value="Sök på hela Skolverkets webbplats..." name="q" title="Skriv dina sökord här" id="search-block-1-149602-960460791" accesskey="4"  class="searchField" >
         <script type="text/javascript">
-          $('#search-block-1-149602-704990076').bind({
+          $('#search-block-1-149602-960460791').bind({
         	  blur: function() {
         		  if (!$(this).val()) $(this).val('Sök på hela Skolverkets webbplats...');
         		},
@@ -418,7 +418,7 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
   
   <script type="text/javascript">
 		  var url = "/sok/qc/complete.do?format=opensearch&q={searchTerms}";
-		  jQuery("#search-block-1-149602-704990076").autocomplete({
+		  jQuery("#search-block-1-149602-960460791").autocomplete({
 			  source : function(request, response) {
 				  var sourceUrl = url.replace('{searchTerms}', request.term);
 				  jQuery.ajax(sourceUrl, {dataType: 'json',
@@ -430,7 +430,7 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
 					  }});
 				  }
 		  });
-		  jQuery("#search-block-1-149602-704990076").on('keydown', function(event) {
+		  jQuery("#search-block-1-149602-960460791").on('keydown', function(event) {
 			  if (event.keyCode == 13) {
 		            $(this).parents('form').submit();
 		            return false;
@@ -1115,7 +1115,7 @@ $('#footer .rsbtn').css('background-color','white');
 <h1>Sök program och ämnesplaner</h1>
 <p class="ingress">Du kan även söka efter kurser, inriktningar och yrkesutgångar. Skriv in hela eller delar av ett ämnes-, en kurs-, en inriktnings- eller en yrkeutgångs namn och klicka på Sök. Du kan också klicka direkt på en bokstav för att få upp en förteckning över samtliga ämnen och kurser som börjar på vald bokstav. Om du lämnar sökfältet blankt och klickar på Sök kommer samtliga ämnesplaner med tillhörande kurser upp.</p>
 
-<form id="searchForm" class="formNormal search_mtrl bacc" action="/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/sok-amnen-kurser-och-program/search.htm?searchRange=COURSE&amp;subjectCategory=VOCATIONAL&amp;searchString=&amp;searchType=ALPHABETIC&amp;alphaSearchString=I" method="get">
+<form id="searchForm" class="formNormal search_mtrl bacc" action="/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/sok-amnen-kurser-och-program/search.htm?searchRange=COURSE&amp;subjectCategory=VOCATIONAL&amp;searchString=&amp;alphaSearchString=I&amp;searchType=ALPHABETIC" method="get">
     <input id="alphaSearchString" name="alphaSearchString" type="hidden" value="I"/>
     <input type="hidden" name="searchType"  value="FREETEXT"/>	
     <fieldset class="searchSchool">
@@ -1458,7 +1458,7 @@ $('#footer .rsbtn').css('background-color','white');
 
                 <!-- SUBJECT SEARCH NEW WINSTON CONTENT - RESPONSIV WEBB START -->
                 <table class="searchresult">
-                    <caption>Kurser i ämnet Industriteknisk fördjupning</caption>
+                    <caption>Kurser i ämnet Industriteknisk f��rdjupning</caption>
                     <thead>
                         <tr>
                             <th colspan="2"><a href="/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/sok-amnen-kurser-och-program/subject.htm?subjectCode=PRF&amp;lang=sv&amp;tos=gy">Industriteknisk fördjupning</a></th>

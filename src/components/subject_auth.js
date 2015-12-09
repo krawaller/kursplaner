@@ -77,7 +77,12 @@ var SubjectAuth = React.createClass({
                         <li>Examen som ger dig behörighet att undervisa som lärare och fullgjorda ämnesstudier om minst 90 hp eller motsvarande omfattning i minst ett vanligt ämne (alternativt 120 hp om det gäller ämnena svenska, samhällskunskap eller musik), eller</li>
                         <li>Examen som ger dig behörighet att undervisa som lärare och fullgjorda ämnesstudier om minst 90 hp i ett så kallat visst ämne.</li>
                     </ul>
-                    <p>Vidare finns för dessa ämnen särskilda bestämmelser i SKOLFS 2011:159 som vad som krävs för att en lärares kompetens ska bedömas som relevant. För {subject.name} så lyder de som följer:</p>
+                    <p>
+                        Vidare finns för dessa ämnen särskilda bestämmelser i SKOLFS 2011:159 som vad som krävs för att en lärares kompetens ska bedömas som relevant.
+                        För {subject.name} så 
+                        {subject.auth2012?" uppdaterades dessa i SKOLFS 2012:17 och lyder nu " : " lyder de "}
+                        som följer:
+                    </p>
                     <div style={{paddingLeft:"2em"}} dangerouslySetInnerHTML={{__html:subject.auth||"Saknas!!"}}/>
                 </div>)
             }

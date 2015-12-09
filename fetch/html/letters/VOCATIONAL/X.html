@@ -53,7 +53,7 @@
     <meta name="geo.region" content="SE">
 
     <title>Sök program och ämnesplaner</title>
-    <link rel="shortcut icon" href="/favicon.ico;jsessionid=2CE6A5C2DFF49726C8EB114FF0B6C33A">
+    <link rel="shortcut icon" href="/favicon.ico;jsessionid=74033D83D1892AC68373D503D39CB811">
 
 
     
@@ -395,10 +395,10 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
     <div class="block searchFieldWrapper">
       <div class="block searchFieldWrapperInner">
         
-        <label for="search-block-1-149602-349290752">Sök</label>
-        <input type="text" value="Sök på hela Skolverkets webbplats..." name="q" title="Skriv dina sökord här" id="search-block-1-149602-349290752" accesskey="4"  class="searchField" >
+        <label for="search-block-1-149602-960460791">Sök</label>
+        <input type="text" value="Sök på hela Skolverkets webbplats..." name="q" title="Skriv dina sökord här" id="search-block-1-149602-960460791" accesskey="4"  class="searchField" >
         <script type="text/javascript">
-          $('#search-block-1-149602-349290752').bind({
+          $('#search-block-1-149602-960460791').bind({
         	  blur: function() {
         		  if (!$(this).val()) $(this).val('Sök på hela Skolverkets webbplats...');
         		},
@@ -418,7 +418,7 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
   
   <script type="text/javascript">
 		  var url = "/sok/qc/complete.do?format=opensearch&q={searchTerms}";
-		  jQuery("#search-block-1-149602-349290752").autocomplete({
+		  jQuery("#search-block-1-149602-960460791").autocomplete({
 			  source : function(request, response) {
 				  var sourceUrl = url.replace('{searchTerms}', request.term);
 				  jQuery.ajax(sourceUrl, {dataType: 'json',
@@ -430,7 +430,7 @@ class="odd"><a href="/om-skolverket/andra-sprak-och-lattlast/in-english" class="
 					  }});
 				  }
 		  });
-		  jQuery("#search-block-1-149602-349290752").on('keydown', function(event) {
+		  jQuery("#search-block-1-149602-960460791").on('keydown', function(event) {
 			  if (event.keyCode == 13) {
 		            $(this).parents('form').submit();
 		            return false;

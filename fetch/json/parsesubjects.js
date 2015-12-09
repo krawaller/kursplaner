@@ -9,6 +9,32 @@ var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
+var newauthrules = {
+	// uppdaterade SKOLFS 2012
+	DAA: "<p>En lärares kompetens är relevant för ämnet datalagring om han eller hon</p><p>&#160;&#160; 1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 30 högskolepoäng inom programmering eller webbserverprogrammering och 7,5 högskolepoäng inom databashantering och datalagring, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	DIG: "<p>En lärares kompetens är relevant för ämnet digitalt skapande om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena mediekommunikation i gymnasieskolan eller medieproduktion i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	EST: "<p>En lärares kompetens är relevant för ämnet estetisk kommunikation om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena animation i gymnasieskolan, bild i gymnasieskolan, cirkus i gymnasieskolan, dans i gymnasieskolan, digitalt skapande i gymnasieskolan, fotografisk bild i gymnasieskolan, musik i gymnasieskolan eller teater i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	EUR: "<p>En lärares kompetens är relevant för ämnet eurytmi om han eller hon</p><p>&#160;&#160; 1. med godkänt resultat genomgått eurytmilärarutbildningen vid Rudolf Steinerhögskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser i eurytmi.</p>",
+	FIL: "<p>En lärares kompetens är relevant för ämnet film- och tv-produktion om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena bild i gymnasieskolan, mediekommunikation i gymnasieskolan eller medieproduktion i gymnasieskolan och med godkänt resultat har genomgått en utbildning om 15 högskolepoäng inom film eller rörlig bild, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	GRA: "<p>En lärares kompetens är relevant för ämnet grafisk kommunikation om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena bild i gymnasieskolan, mediekommunikation i gymnasieskolan, medieproduktion i gymnasieskolan eller visuell kommunikation i gymnasieskolan och med godkänt resultat har genomgått en utbildning om 15 högskolepoäng inom grafisk kommunikation, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	"GRÄ": "<p>En lärares kompetens är relevant för ämnet gränssnittsdesign om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena animation i gymnasieskolan, digitalt skapande i gymnasieskolan, grafisk kommunikation i gymnasieskolan, programmering i gymnasieskolan eller webbteknik i gymnasieskolan samt med godkänt resultat har genomgått utbildning om 15 högskolepoäng inom mjukvarudesign, programmering eller webbutveckling och dessutom med godkänt resultat har genomgått utbildning om 15 högskolepoäng inom gränssnitts-design, interaktionsdesign, användbarhet eller informationsarkitektur, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	HUM: "<p>En lärares kompetens är relevant för ämnet humanistisk och samhällsvetenskaplig specialisering om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena engelska i gymnasieskolan, filosofi i gymnasieskolan, företagsekonomi i gymnasieskolan, geografi i gymnasieskolan, grekiska i gymnasieskolan, historia i gymnasieskolan, juridik i gymnasieskolan, konst och kultur i gymnasieskolan, latin i gymnasieskolan, mediekommunikation i gymnasieskolan, medier, samhälle och kommunikation i gymnasieskolan, moderna språk i gymnasieskolan, modersmål i gymnasieskolan, människans språk i gymnasieskolan, pedagogik i gymnasieskolan, psykologi i gymnasieskolan, religionskunskap i gymnasieskolan, samhällskunskap i gymnasieskolan, sociologi i gymnasieskolan, svenska i gymnasieskolan, svenska som andraspråk i gymnasieskolan eller svenskt teckenspråk i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	HUA: "<p>En lärares kompetens är relevant för ämnet humanistisk och samhällsvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena engelska i gymnasieskolan, filosofi i gymnasieskolan, företagsekonomi i gymnasieskolan, geografi i gymnasieskolan, grekiska i gymnasieskolan, historia i gymnasieskolan, juridik i gymnasieskolan, konst och kultur i gymnasieskolan, latin i gymnasieskolan, mediekommunikation i gymnasieskolan, medier, samhälle och kommunikation i gymnasieskolan, moderna språk i gymnasieskolan, modersmål i gymnasieskolan, människans språk i gymnasieskolan, pedagogik i gymnasieskolan, psykologi i gymnasieskolan, religionskunskap i gymnasieskolan, samhällskunskap i gymnasieskolan, sociologi i gymnasieskolan, svenska i gymnasieskolan, svenska som andraspråk i gymnasieskolan eller svenskt teckenspråk i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	KOS: "<p>En lärares kompetens är relevant för ämnet konst och kultur om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena bild i gymnasieskolan, dans i gymnasieskolan, historia i gymnasieskolan, musik i gymnasieskolan eller teater i gymnasieskolan samt därutöver breddat sin utbildning inom ett annat ämnesområde genom att med godkänt resultat ha genomgått utbildning om 15 högskolepoäng inom arkitektur, dansvetenskap, estetik, filmvetenskap, idéhistoria, konstvetenskap, kulturvetenskap, musikvetenskap eller teatervetenskap, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	LJU: "<p>En lärares kompetens är relevant för ämnet ljudproduktion om han eller hon</p><p>&#160;&#160; 1. har behörighet i ämnet film- och tv-produktion i gymnasieskolan och med godkänt resultat har genomgått en utbildning om 15 högskolepoäng inom ljudproduktion och ljudmedier, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	MEE: "<p>En lärares kompetens är relevant för ämnet mediekommunikation om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena film- och tv-produktion i gymnasieskolan, grafisk kommunikation i gymnasieskolan, ljudproduktion i gymnasieskolan, medieproduktion i gymnasieskolan, medier, samhälle och kommunikation i gymnasieskolan eller visuell kommunikation i gymnasieskolan och med godkänt resultat genomgått utbildning om 15 högskolepoäng inom medieområdet med inriktning mot information och reklam eller medieproduktion omfattande kunskaper i mediekommunikation, mediekunskap eller journalistik,</p><p>&#160;&#160; 2. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom medieområdet med inriktning mot information och reklam eller medieproduktion omfattande kunskaper i mediekommunikation, mediekunskap eller journalistik, eller</p><p>&#160;&#160; 3. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	MEP: "<p>En lärares kompetens är relevant för ämnet medieproduktion om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena film- och tv-produktion i gymnasieskolan, grafisk kommunikation i gymnasieskolan, ljudproduktion i gymnasieskolan, mediekommunikation i gymnasieskolan eller visuell kommunikation i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	MER: "<p>En lärares kompetens är relevant för ämnet medier, samhälle och kommunikation om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena film- och tv-produktion i gymnasieskolan, grafisk kommunikation i gymnasieskolan, ljudproduktion i gymnasieskolan, mediekommunikation i gymnasieskolan, medieproduktion i gymnasieskolan eller visuell kommunikation i gymnasieskolan och med godkänt resultat har genomgått utbildning om 15 högskolepoäng inom medieområdet eller kommunikation med relevans för ämnet,</p><p>&#160;&#160; 2. har behörighet i ämnet samhällskunskap i gymnasieskolan och med godkänt resultat har genomgått utbildning om 30 högskolepoäng inom medieområdet eller kommunikation med relevans för ämnet,</p><p>&#160;&#160; 3. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom medieområdet med inriktning mot information och reklam eller medie-produktion omfattande kunskaper i mediekommunikation, mediekunskap eller journalistik, eller</p><p>&#160;&#160; 4. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	MJK: "<p>En lärares kompetens är relevant för ämnet mjukvarudesign om han eller hon </p><p>&#160;&#160; 1. har behörighet i något av ämnena programmering i gymnasieskolan eller webbteknik i gymnasieskolan och har genomgått utbildning om 7,5 högskolepoäng inom projektmetodik och verktyg för mjukvaruutveckling, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	NAV: "<p>En lärares kompetens är relevant för ämnet naturvetenskaplig specialisering om han eller hon </p><p>&#160;&#160; 1. har behörighet i något av ämnena biologi i gymnasieskolan, geografi i gymnasieskolan, fysik i gymnasieskolan, kemi i gymnasieskolan, naturkunskap i gymnasieskolan eller teknik i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	NAE: "<p>En lärares kompetens är relevant för ämnet naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning om han eller hon</p><p>&#160;&#160; 1. har behörighet i något av ämnena biologi i gymnasieskolan, geografi i gymnasieskolan, fysik i gymnasieskolan, kemi i gymnasieskolan, naturkunskap i gymnasieskolan eller teknik i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	PRR: "<p>En lärares kompetens är relevant för ämnet programmering om han eller hon </p><p>&#160;&#160; 1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 30 högskolepoäng inom programmering, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	VIS: "<p>En lärares kompetens är relevant för ämnet visuell kommunikation om han eller hon </p><p>&#160;&#160; 1. har behörighet i något av ämnena bild i gymnasieskolan, fotografisk bild i gymnasieskolan, grafisk kommunikation i gymnasieskolan, mediekommunikation i gymnasieskolan eller medieproduktion i gymnasieskolan, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
+	WEB: "<p>En lärares kompetens är relevant för ämnet webbteknik om han eller hon </p><p>&#160;&#160; 1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 15 högskolepoäng inom webbstandardbaserad webbutveckling på klientsidan, 7,5 högskolepoäng webbaserad interaktiv datorgrafik och 15 högskolepoäng inom webbserverprogrammering, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>"
+};
+
+
+
 var splitinto = {
 	AUT: ["AUO","ELI","FAI","INR"],
 	ELT: ["ELO","MAY"],
@@ -104,12 +130,17 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 			}
 			// AUTHORITY
 			if (type==="OTHER"){
-				var regex = new RegExp('<h3><b>Ämnet '+origname.toLowerCase()+' ?</b></h3>(.*?)<h3>'),
-					match = otherrules.match(regex);
-				try {
-					sub.auth = match[1];
-				} catch(e){
-					console.log("Error reading rule for",origname);
+				if (newauthrules[sub.code]){
+					sub.auth = newauthrules[sub.code];
+					sub.auth2012 = true;
+				} else {
+					var regex = new RegExp('<h3><b>Ämnet '+origname.toLowerCase()+' ?</b></h3>(.*?)<h3>'),
+						match = otherrules.match(regex);
+					try {
+						sub.auth = match[1];
+					} catch(e){
+						console.log("Error reading rule for",origname);
+					}
 				}
 			}
 			// DESCRIPTION
@@ -951,7 +982,12 @@ var friends = [
 	["GRGRTSP01","SVK"], // teckenspråk
 	["GRGRMOD01","MOE"], // modersmål
 	["GRNHEM2","GRGRHKK01"], // hem- & konsumentkunskap
-	["LAT","KLA"] // latin och grekiska
+	["LAT","KLA"], // latin och grekiska
+	["TES","TEY"], // tekniska system el och vvs
+	["GER","GRU","ITI","PEA","TEN","VÅR","VAD","SJU"], // vårdämnen
+	["SAE","HIS"], // samerna + historia
+	["HUM","HUA"], // weird humaniststuff
+	["NAE","NAV"] // same weird but for natur
 ];
 
 friends = _.reduce(splitinto,function(mem,newcodes,oldcode){
