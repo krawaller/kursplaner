@@ -9,7 +9,7 @@ function linkToS(d,DB,sameschool){
 	var sub = DB.subjects[d], s = sub.school || "gymn";
 	return <Link to="subjectdesc" params={{subject:d}}>
 		{sub.name}
-		{s !== sameschool ? " ("+s+")" : null}
+		{s !== (sameschool||"gymn") ? " ("+s+")" : null}
 	</Link>;
 }
 

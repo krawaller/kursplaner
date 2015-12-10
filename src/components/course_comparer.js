@@ -46,9 +46,15 @@ var CourseComparer = React.createClass({
             <Comp DB={DB} course={course} sub={true} grade={nowg} other={other} subject={DB.subjects[course.subject]} />
           </div>
           <div className="col-xs-6">
-              <Comp DB={DB} course={other} sub={true} grade={nowg} other={course} subject={DB.subjects[course.subject]} />
+              <Comp DB={DB} course={other} sub={true} grade={nowg} other={course} subject={DB.subjects[other.subject]} />
           </div>
         </div>
+        { course.subject !== other.subject ? <p className="bottompara">
+          Du kan också prova att {' '}
+          <Link to="subjectcomparetoother" params={{subject:course.subject,other:other.subject}}>
+            jämföra kursernas ämnen
+          </Link>.
+        </p> : null}
     	</Section>
     )
   }

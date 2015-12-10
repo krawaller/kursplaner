@@ -1056,6 +1056,7 @@ _.each(GLOBAL.courses,function(course,code){
 	/*if (course.samenamecoursecode){
 		course.friends.push(course.samenamecoursecode);
 	}*/
+	course.friends = _.uniq(course.friends);
 	course.friends.sort(function(c1,c2){
 		return GLOBAL.courses[c1].name > GLOBAL.courses[c2].name ? 1 : -1;
 	});
