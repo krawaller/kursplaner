@@ -987,7 +987,7 @@ GLOBAL.coursedict = dict;
 var friends = [
 	["GRGRBIL01","BIL"],
 	["GRGRBIO01","BIO","GRNBIO2"],
-	["GRGRENG01","ENG"],
+	["GRGRENG01","ENG","GRNENG2"],
 	["GRGRFYS01","FYS"],
 	["GRGRGEO01","GEO"],
 	["GRGRHIS01","HIS","GRNHIS2"],
@@ -1006,7 +1006,7 @@ var friends = [
 	["LAT","KLA"], // latin och grekiska
 	["TES","TEY"], // tekniska system el och vvs
 	["GER","GRU","ITI","PEA","TEN","VÅR","VAD","SJU"], // vårdämnen
-	["SAE","HIS"], // samerna + historia
+	//["SAE","HIS"], // samerna + historia
 	["HUM","HUA"], // weird humaniststuff
 	["NAE","NAV"], // same weird but for natur
 	["DAK","DAG"] // danskurser
@@ -1031,9 +1031,25 @@ _.each(friends,function(rel){
 	});
 });
 
+// add all subjects connected through förkunskapskrav! :D
+_.each(GLOBAL.subjects,function(subject,sid){
+	subject.friends = subject.friends || [];
+	_.each(subject.courses,function(cid){
+		var course = GLOBAL.courses[cid];
+		_.each((course.reqarr||[]).concat(course.reqBy||[]),function(othercid){
+			var othercourse = GLOBAL.courses[othercid];
+			if (othercourse.subject !== sid){
+				subject.friends.push(othercourse.subject);
+			}
+		});
+	});
+	subject.friends = _.uniq(subject.friends);
+});
+
+
 _.each(GLOBAL.courses,function(course,code){
 	var subject = GLOBAL.subjects[course.subject];
-	course.friends = _.without(subject.courses,code).concat(course.reqarr||[]).concat(course.reqby||[]);
+	course.friends = _.without(subject.courses,code).concat(course.reqarr||[]).concat(course.reqBy||[]);
 	_.each(subject.friends||[],function(friend){
 		course.friends = course.friends.concat(GLOBAL.subjects[friend].courses);
 	});

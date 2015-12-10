@@ -35,8 +35,16 @@
 "Eleven söker och reparerar <b>efter samråd</b> med handledare fel som uppkommer på såväl nya som befintliga installationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["INSKOM02"],
-"friends":["INSBES0",
+"friends":["ELRANT0",
+"INSBES0",
+"ELRDAA0",
+"ELRELK0",
 "INSELI0",
+"ELRELF0",
+"ELLELL01",
+"ELLELL02",
 "INSELS0",
 "INSKOM02",
-"INSKOM03"]}
+"INSKOM02",
+"INSKOM03",
+"ELLPRA0"]}

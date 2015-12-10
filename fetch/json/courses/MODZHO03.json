@@ -79,9 +79,11 @@
 "kinesiska inom ramen för språkval i grundskolan"]},
 "reqarr":["MODZHO02"],
 "reqBy":["MODZHO04"],
-"friends":["MODZHO01",
+"friends":["HUMHUM00S",
+"MODZHO01",
 "MODZHO02",
 "MODZHO02",
+"MODZHO04",
 "MODZHO04",
 "MODZHO05",
 "MODZHO06",
@@ -96,4 +98,7 @@
 "Moderna språk 4-9 språkval, kinesiska",
 "MODXXX05",
 "MODXXX06",
-"MODXXX07"]}
+"MODXXX07",
+"SPAXXX01a",
+"SPAXXX01b",
+"SPAXXX0"]}

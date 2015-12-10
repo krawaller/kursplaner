@@ -53,10 +53,15 @@
 "req":"PLTBYG02",
 "reqarr":["PLTBYG02"],
 "reqBy":["PLTBYG04"],
-"friends":["PLTBYG01",
+"friends":["BYGBYG01",
+"BYGBYG02",
+"PLTBYG01",
 "PLTBYG02",
 "PLTBYG02",
 "PLTBYG04",
+"PLTBYG04",
 "PLTKUU0",
 "PLTLÄT0",
-"PLTPLT0"]}
+"PLÅPLÅ0",
+"PLTPLT0",
+"PLÅPLS0"]}

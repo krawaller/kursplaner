@@ -52,6 +52,11 @@
 "req":"HUBSPC01S",
 "reqarr":["HUBSPC01S"],
 "reqBy":["HUBSPC03S"],
-"friends":["HUBSPC01S",
+"friends":["HUSHUS01",
+"HUSHUS02",
+"HUSHUS03",
+"HUSHUB0",
 "HUBSPC01S",
+"HUBSPC01S",
+"HUBSPC03S",
 "HUBSPC03S"]}

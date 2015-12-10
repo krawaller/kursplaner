@@ -40,5 +40,9 @@
 "reqarr":["BIIVAT01"],
 "reqBy":["FISFIS02"],
 "friends":["BIIVAT01",
+"BIIVAT01",
+"BIIVAT02",
+"BIIVAT03",
+"FISFIS02",
 "FISFIS02",
 "FISFIS03"]}

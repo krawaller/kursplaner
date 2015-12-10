@@ -53,6 +53,11 @@
 "req":"HUSHUS02",
 "reqarr":["HUSHUS02"],
 "reqBy":["MURMUR02"],
-"friends":["HUSHUS02",
+"friends":["HUSHUS01",
+"HUSHUS02",
+"HUSHUS02",
+"HUSHUS03",
+"HUSHUB0",
+"MURMUR02",
 "MURMUR02",
 "MURMUR03"]}

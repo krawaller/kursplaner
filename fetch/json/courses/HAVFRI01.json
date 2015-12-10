@@ -48,7 +48,8 @@
 "comment":"med innehåll frisör"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVFRI02"],
-"friends":["HAVFIN01",
+"friends":["FOMFAC0",
+"HAVFIN01",
 "HAVFIN02",
 "HAVFIN03",
 "HAVFIN04",
@@ -66,6 +67,10 @@
 "HAVFLO05S",
 "HAVFLO06a",
 "HAVFLO06b",
+"FOMFOR01S",
+"FOMFOR02S",
+"FOMFOR03S",
+"HAVFRI02",
 "HAVFRI02",
 "HAVFRI03",
 "HAVFRI04",
@@ -93,4 +98,5 @@
 "HAVTEX05",
 "HAVTEX05S",
 "HAVTEX06a",
-"HAVTEX06b"]}
+"HAVTEX06b",
+"FOMTEX0"]}

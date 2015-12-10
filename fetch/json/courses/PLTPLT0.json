@@ -54,10 +54,14 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"BYGBYG02",
 "reqarr":["BYGBYG02"],
-"friends":["BYGBYG02",
+"friends":["BYGBYG01",
+"BYGBYG02",
+"BYGBYG02",
 "PLTBYG01",
 "PLTBYG02",
 "PLTBYG03",
 "PLTBYG04",
 "PLTKUU0",
-"PLTLÄT0"]}
+"PLTLÄT0",
+"PLÅPLÅ0",
+"PLÅPLS0"]}

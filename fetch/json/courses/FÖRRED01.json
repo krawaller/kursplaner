@@ -33,9 +33,11 @@
 "Eleven använder <b>efter samråd</b> med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["FÖRRED02"],
-"friends":["FÖRENT0",
+"friends":["ENTENR0",
+"FÖRENT0",
 "FÖRFÖR00S",
 "FÖRFÖR01",
 "FÖRFÖR02",
 "FÖRMAD0",
+"FÖRRED02",
 "FÖRRED02"]}

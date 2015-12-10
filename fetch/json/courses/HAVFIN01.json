@@ -51,7 +51,9 @@
 "comment":"med innehåll finsnickeri"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVFIN02"],
-"friends":["HAVFIN02",
+"friends":["FOMFAC0",
+"HAVFIN02",
+"HAVFIN02",
 "HAVFIN03",
 "HAVFIN04",
 "HAVFIN04S",
@@ -68,6 +70,9 @@
 "HAVFLO05S",
 "HAVFLO06a",
 "HAVFLO06b",
+"FOMFOR01S",
+"FOMFOR02S",
+"FOMFOR03S",
 "HAVFRI01",
 "HAVFRI02",
 "HAVFRI03",
@@ -96,4 +101,5 @@
 "HAVTEX05",
 "HAVTEX05S",
 "HAVTEX06a",
-"HAVTEX06b"]}
+"HAVTEX06b",
+"FOMTEX0"]}

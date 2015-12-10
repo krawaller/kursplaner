@@ -53,6 +53,10 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MURMUR02",
 "reqarr":["MURMUR02"],
-"friends":["MURMUR01",
+"friends":["HUSHUS01",
+"HUSHUS02",
+"HUSHUS03",
+"HUSHUB0",
+"MURMUR01",
 "MURMUR02",
 "MURMUR02"]}

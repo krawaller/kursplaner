@@ -39,7 +39,8 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"HAVTEX03",
 "reqarr":["HAVTEX03"],
-"friends":["HAVFIN01",
+"friends":["FOMFAC0",
+"HAVFIN01",
 "HAVFIN02",
 "HAVFIN03",
 "HAVFIN04",
@@ -57,6 +58,9 @@
 "HAVFLO05S",
 "HAVFLO06a",
 "HAVFLO06b",
+"FOMFOR01S",
+"FOMFOR02S",
+"FOMFOR03S",
 "HAVFRI01",
 "HAVFRI02",
 "HAVFRI03",
@@ -84,4 +88,5 @@
 "HAVTEX05",
 "HAVTEX05S",
 "HAVTEX06a",
-"HAVTEX06b"]}
+"HAVTEX06b",
+"FOMTEX0"]}

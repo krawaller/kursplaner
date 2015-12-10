@@ -44,6 +44,14 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"ELEELR0",
 "reqarr":["ELEELR0"],
-"friends":["ELEELR0",
+"friends":["ELOBID0",
+"ELTBID0",
 "ELEELR0",
-"ELELÅG0"]}
+"ELEELR0",
+"ELOKOT0",
+"ELTKOT0",
+"ELELÅG0",
+"MAYMAR0",
+"ELTMAR0",
+"ELOTRL0",
+"ELTTRL0"]}

@@ -78,11 +78,13 @@
 "req":"MODZHO04",
 "reqarr":["MODZHO04"],
 "reqBy":["MODZHO06"],
-"friends":["MODZHO01",
+"friends":["HUMHUM00S",
+"MODZHO01",
 "MODZHO02",
 "MODZHO03",
 "MODZHO04",
 "MODZHO04",
+"MODZHO06",
 "MODZHO06",
 "MODZHO07",
 "MODXXX01",
@@ -95,4 +97,7 @@
 "Moderna språk 4-9 språkval, kinesiska",
 "MODXXX05",
 "MODXXX06",
-"MODXXX07"]}
+"MODXXX07",
+"SPAXXX01a",
+"SPAXXX01b",
+"SPAXXX0"]}

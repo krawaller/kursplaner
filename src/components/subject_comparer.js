@@ -20,7 +20,7 @@ var SubjectComparer = React.createClass({
         DB = this.props.DB,
         othercode = this.props.params && this.props.params.other,
         other = DB.subjects[othercode],
-        othersuff = (other.school? " ("+subject.school+")" : " (gy)")
+        othersuff = (other.school ? " ("+other.school+")" : " (gy)")
         now = this.state.what,
         Comp = (now==="ämnesmål"?SubjectGoals:now==="syfte"?SubjectPurpose:SubjectDesc),
         diff = (subject.school!==other.school);

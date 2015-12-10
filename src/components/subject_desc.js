@@ -5,12 +5,18 @@ var React = require('react'),
     _ = require("lodash");
 
 
-function linkToS(d,DB){return <Link to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
+function linkToS(d,DB,sameschool){
+	var sub = DB.subjects[d], s = sub.school || "gymn";
+	return <Link to="subjectdesc" params={{subject:d}}>
+		{sub.name}
+		{s !== sameschool ? " ("+s+")" : null}
+	</Link>;
+}
 
-function list(subjects,DB){
+function list(subjects,DB,school){
 	var l = subjects.length;
 	return _.reduce(subjects,function(mem,sid,n){
-		mem.push(linkToS(sid,DB));
+		mem.push(linkToS(sid,DB,school));
 		if (n === l-1){
 			mem.push(".");
 		} else if (n === l-2){
@@ -44,6 +50,13 @@ var SubjectDesc = React.createClass({
 	        	Detta ämne får ej ges inom vuxenutbildningen utan endast på gymnasiet.
 	        </p> || null}
             <div dangerouslySetInnerHTML={{__html:sub.description}}/>
+            { sub.friends.length ? <p>
+            	{ sub.school
+            		? <span>Motsvarighet till detta ämne i andra skolformer är </span>
+            		: <span>Via kursers förkunskapskrav och andra sammanhang så har detta ämne kopplingar till </span>
+            	}
+            	{list(sub.friends,DB,sub.school||"gymn")}
+            </p> : null}
         </Section>
     );
   }

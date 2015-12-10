@@ -45,6 +45,10 @@
 "req":"FISFIS01",
 "reqarr":["FISFIS01"],
 "reqBy":["FISFIS03"],
-"friends":["FISFIS01",
+"friends":["BIIVAT01",
+"BIIVAT02",
+"BIIVAT03",
 "FISFIS01",
+"FISFIS01",
+"FISFIS03",
 "FISFIS03"]}
