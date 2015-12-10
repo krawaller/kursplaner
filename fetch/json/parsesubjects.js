@@ -928,11 +928,13 @@ _.each(GLOBAL.courses,function(course,code){
 });
 
 _.each(GLOBAL.subjects,function(subject,code){
-	if (subject.type){
-		if (!GLOBAL["subjects"+subject.type]){
-			GLOBAL["subjects"+subject.type]=[];
+	var type = subject.type;
+	if (type){ // means gymnasiekurs
+		if (subject.obsolete){ type = "obsolete"; }
+		if (!GLOBAL["subjects"+type]){
+			GLOBAL["subjects"+type]=[];
 		}
-		GLOBAL["subjects"+subject.type].push(code);
+		GLOBAL["subjects"+type].push(code);
 	}
 });
 
@@ -1009,7 +1011,8 @@ var friends = [
 	//["SAE","HIS"], // samerna + historia
 	["HUM","HUA"], // weird humaniststuff
 	["NAE","NAV"], // same weird but for natur
-	["DAK","DAG"] // danskurser
+	["DAK","DAG"], // danskurser
+	["BIL","BID"] // bildkurser
 ];
 
 friends = _.reduce(splitinto,function(mem,newcodes,oldcode){

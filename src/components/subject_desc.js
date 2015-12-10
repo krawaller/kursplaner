@@ -8,7 +8,7 @@ var React = require('react'),
 
 function linkToS(d,DB,sameschool){
 	var sub = DB.subjects[d], s = sub.school || "gymn";
-	return <Link to="subjectdesc" params={{subject:d}}>
+	return <Link key={d} to="subjectdesc" params={{subject:d}}>
 		{sub.name}
 		{s !== (sameschool||"gymn") ? " ("+s+")" : null}
 	</Link>;
@@ -45,10 +45,10 @@ var SubjectDesc = React.createClass({
     return (
         <Section headline="Beskrivning" {...this.props}>
         	{ sub.replacedby && <p>
-        		Detta ämne <strong>ges inte längre efter juni 2015</strong> utan ersattes av {linkToS(sub.replacedby,DB)}.
+        		Detta ämne <strong>ges inte längre efter juni 2015</strong> utan ersattes av {linkToS(sub.replacedby,DB)} med den nya koden <strong>{sub.replacedby}</strong>.
         	</p> || null}
         	{ sub.replaces && <p>
-        		Detta ämne skapades efter juni 2015 för att ersätta {linkToS(sub.replaces,DB)}.
+        		Detta ämne skapades efter juni 2015 för att ersätta {linkToS(sub.replaces,DB)} som hade koden <strong>{sub.replaces}</strong>.
         	</p> || null}
 	        { sub.splitinto && <p>
 	        	Detta ämne <strong>ges inte längre efter juni 2015</strong>, utan är uppdelat i {list(sub.splitinto,DB)}

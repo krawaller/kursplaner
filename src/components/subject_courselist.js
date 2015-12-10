@@ -23,7 +23,7 @@ var SubjectCourseList = React.createClass({
                     <p>Normalt skiljer man inte mellan kurser och ämnen på grundskolan, men eftersom det finns specifikt centralt innehåll och kunskapskrav för de olika stadierna inom grundskolans ämnen så har vi valt att hantera dessa som kurser, för att matcha strukturen på gymnasienivå.</p>
                     <p>Ämnet {subject.name} delas då in i följande "delkurser":</p>
                     <ul>
-                        {_.map(list,function(cid){ return <li>{linkToC(cid)}</li>; })}
+                        {_.map(list,function(cid){ return <li key={cid}>{linkToC(cid)}</li>; })}
                     </ul>
                 </div>
             ) : (
@@ -38,18 +38,18 @@ var SubjectCourseList = React.createClass({
                             <tr>
                                 <th>Kurs</th>
                                 <th>Nivå</th>
-                                {_.map(subject.goals,function(g,n){return <th>{n+1}</th>;})}
+                                {_.map(subject.goals,function(g,n){return <th key={n}>{n+1}</th>;})}
                             </tr>
                         </thead>
                         <tbody>
                             {_.map(list,function(cid,n){
                                 var course = DB.courses[cid];
                                 return (
-                                    <tr key={n}>
+                                    <tr key={cid}>
                                         <td>{linkToC(cid)}</td>
                                         <td>{{basic:"grundl",normal:"normal",high:"fördjup"}[course.level]}</td>
-                                        {_.map(course.goals,function(u){
-                                            return <td>{["--","ja",<strong>ja</strong>][u]}</td>;
+                                        {_.map(course.goals,function(u,n){
+                                            return <td key={n}>{["--","ja",<strong>ja</strong>][u]}</td>;
                                         })}
                                     </tr>
                                 );

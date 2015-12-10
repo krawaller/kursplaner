@@ -1,3 +1,18 @@
+###PRERELEASE TODO
+
+ X favoriter
+ - grundvux poäng sv (2 ggr 1000)
+ - lista med kurslänkar
+ X lista med ämneslänkar
+ - förkunskapskrav och nedlagda kurser (http://localhost:8000/kursplaner/#/courses/PRIPRO02/desc)
+ - dynamisk hänvisning i nedlagd kurs till ny kurs
+ - lista i kolumner
+ - ämnesdesk översta rad
+
+
+
+
+
 
 
 
