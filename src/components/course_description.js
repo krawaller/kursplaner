@@ -18,7 +18,7 @@ var CourseDescription = React.createClass({
     function linkToC(d,t){return <Link to="coursedesc" params={{course:d}}>{t || DB.courses[d].name}</Link>;}
     function linkToS(d){return <Link to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
     return (
-        <Section headline="Beskrivning">
+        <Section {...this.props} headline="Beskrivning">
             {
               course.school === "grund" ? (
                 <p>
@@ -39,6 +39,11 @@ var CourseDescription = React.createClass({
                   {course.samenamecoursecode ? <p>
                       Det finns en {linkToC(course.samenamecoursecode,"kurs med samma namn")} som denna i ämnet {linkToS(course.samenamesubjectcode)}.
                   </p> : ""}
+                  {course.novux ? (subject.courses.length === 1 ? <p>
+                    Denna kurs får ej ges inom vuxenutbildningen.
+                  </p> : <p>
+                    Liksom övriga kurser i {linkToS(subject.code)} så får denna kurs ej ges inom vuxenutbildningen.
+                  </p>) : null}
                 </div>
               )
             }

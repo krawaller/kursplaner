@@ -1,4 +1,5 @@
 {"subject":"DAK",
+"novux":true,
 "name":"Modern nutida dans 2",
 "origname":"Modern nutida dans 2",
 "points":200,
@@ -66,7 +67,9 @@
 "DATDAS04S"]},
 "reqarr":["DAKMOD01a"],
 "reqBy":["DAKMOD03"],
-"friends":["DAKDAN0",
+"friends":["DAGDAS0",
+"DAGDAN0",
+"DAKDAN0",
 "DAKDAS0",
 "DAKKLA01a",
 "DAKKLA01b",
@@ -75,4 +78,7 @@
 "DAKMOD01a",
 "DAKMOD01a",
 "DAKMOD01b",
-"DAKMOD03"]}
+"DAKMOD03",
+"DAGPAS0",
+"DAGREP0",
+"DAGSCE0"]}

@@ -1,4 +1,5 @@
 {"subject":"DAK",
+"novux":true,
 "name":"Modern nutida dans 1a",
 "origname":"Modern nutida dans 1a",
 "points":200,
@@ -45,7 +46,9 @@
 "Eleven använder <b>med god säkerhet</b> grundläggande begrepp och vokabulär i kommunikationen med andra.",
 "När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DAKMOD02"],
-"friends":["DAKDAN0",
+"friends":["DAGDAS0",
+"DAGDAN0",
+"DAKDAN0",
 "DAKDAS0",
 "DAKKLA01a",
 "DAKKLA01b",
@@ -53,4 +56,7 @@
 "DAKKLA03",
 "DAKMOD01b",
 "DAKMOD02",
-"DAKMOD03"]}
+"DAKMOD03",
+"DAGPAS0",
+"DAGREP0",
+"DAGSCE0"]}

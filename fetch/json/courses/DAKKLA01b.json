@@ -1,4 +1,5 @@
 {"subject":"DAK",
+"novux":true,
 "name":"Klassisk balett 1b",
 "origname":"Klassisk balett 1b",
 "points":200,
@@ -40,7 +41,9 @@
 "Eleven <b>undersöker</b>, utveckla <b>konsekvent</b> och anpassar med <b>gott</b> resultat dansens uttryck till musiken. Dessutom förhåller eleven spatialt med <b>gott</b> resultat den egna kroppen till rummet, riktningar och andra medverkande samt <b>läser av situationen och</b> anpassar rörelserna till olika rumsliga krav.",
 "Eleven använder <b>med god säkerhet</b> grundläggande begrepp och vokabulär i kommunikationen med andra.",
 "När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
-"friends":["DAKDAN0",
+"friends":["DAGDAS0",
+"DAGDAN0",
+"DAKDAN0",
 "DAKDAS0",
 "DAKKLA01a",
 "DAKKLA02",
@@ -48,4 +51,7 @@
 "DAKMOD01a",
 "DAKMOD01b",
 "DAKMOD02",
-"DAKMOD03"]}
+"DAKMOD03",
+"DAGPAS0",
+"DAGREP0",
+"DAGSCE0"]}

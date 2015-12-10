@@ -9,6 +9,24 @@ var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
 
+var novux = { // http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099
+	SPE: 1, // Specialidrott
+	DAG: 1, // Dansgestaltning för yrkesdansare
+	DAK: 1, // Dansteknik för yrkesdansare
+	BYL: 1, BYP: 1, // byggproduktionsledning
+	DAA: 1, DAL: 1, // datalagring
+	GYM: 1, GYN: 1, // gymnasieingejnör i praktiken
+	INA: 1, INO: 1, // Informationsteknisk arkitektur och infrastruktur
+	MJU: 1, MJK: 1, // mjukvarudesign
+	PRT: 1, PRI: 1, // produktionsfilosifi
+	HUA: 1, // hum spets
+	NAE: 1, // naturspets
+	ELP: 1, // elprojektering
+	INT: 1,
+	TEY: 1,
+	TES: 1
+};
+
 var newauthrules = {
 	// uppdaterade SKOLFS 2012
 	DAA: "<p>En lärares kompetens är relevant för ämnet datalagring om han eller hon</p><p>&#160;&#160; 1. med godkänt resultat har genomgått utbildning om 90 högskolepoäng inom datateknik, datalogi eller informatik varav 30 högskolepoäng inom programmering eller webbserverprogrammering och 7,5 högskolepoäng inom databashantering och datalagring, eller</p><p>&#160;&#160; 2. på annat sätt visar likvärdiga kunskaper och kompetenser.</p>",
@@ -69,7 +87,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace(/redog��r/g,"redogör").replace(/utf��rlig/g,"utförlig").replace(/ramen f��r språkval/g,"ramen för språkval").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace("kursen psykologi 2, kursen historia 2 eller","kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller").replace(/som bygger på kursen byggprocessens organisation/g,"som bygger på kursen SAHBYC0").replace(/rubriken ��mnets/g,"rubriken Ämnets").replace(/flera g��nger/g,"flera gånger").replace(/ p�� /g," på ").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
+			data = data.toString().replace(/s��kerhet/g,"säkerhet").replace(/fram��t/g,"framåt").replace(/[\n\t\r\f]/g,"").replace(/<div class="docs-wrapper">.*?<\/div>/g,"").replace("TIG-svetsning rår","TIG-svetsning rör").replace(/[a-zåäö] *<br\/?> *[a-zåäö]/g,"").replace(/[-–]|&mdash;/g,"-").replace(/redog��r/g,"redogör").replace(/n��gra/g,"några").replace(/utf��rlig/g,"utförlig").replace(/ramen f��r språkval/g,"ramen för språkval").replace("synen p�� männis","synen på männis").replace("H��lsopedagogik","Hälsopedagogik").replace("utvärderar med<br/>","utvärderar med").replace("I<br/>utvärderingen","I utvärderingen").replace(/\b/,"").replace(/[\x00-\x1F\x7F-\x9F]/g, "").replace("på kursen på kursen","på kursen").replace("��ven ","även ").replace("samr��d","samråd").replace("Fr��n","Från").replace("omr��den","områden").replace("s�� att","så att").replace("dialog lärare���elev","dialog lärare-elev").replace("Modersm��l","Modersmål").replace("po��ng","poäng").replace("inneh��ller","innehåller").replace("f��ljande","följande").replace("spr��k","språk").replace(/<!-- FW_SEARCH_INDEX_END -->/g,"").replace(/<!-- FW_SEARCH_INDEX_BEGIN -->/g,"").replace(/[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,"Nätunderhållsarbete på luftledningsnät 0,4–24kV").replace("bygger p�� kursen","bygger på kursen").replace(/<\/?italic>/g,"").replace("Kurser i ��mnet","Kurser i ämnet").replace("centrala inneh��ll","centrala innehåll").replace("mobila milj��er","mobila miljöer").replace("f��r vanliga","för vanliga").replace("r��r publicering","rör publicering").replace(/Mobila applikationer, 100 *poäng/g,"Mobila applikationer 1, 100 poäng").replace("v��xternas biologi","växternas biologi").replace("hj��lp","hjälp").replace("terr��ngtransport","terrängtransport").replace(/<header>.*?<\/header>/g,"").replace("inneh��ll","innehåll").replace("inneb��r","innebär").replace(/<i><i>/g,"<i>").replace(/<\/i><\/i>/g,"</i>").replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"").replace(/Underhåll ��� hydraulik/g,"Underhåll - hydraulik").replace(/ fr��n /g," från ").replace(/med arbetet g��r eleven en/g,"med arbetet gör eleven en").replace(/bes��ksnäring/g,"besöksnäring").replace("kursen psykologi 2, kursen historia 2 eller","kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller").replace(/som bygger på kursen byggprocessens organisation/g,"som bygger på kursen SAHBYC0").replace(/rubriken ��mnets/g,"rubriken Ämnets").replace(/flera g��nger/g,"flera gånger").replace(/ p�� /g," på ").replace(/Ö/g,"Ö").replace(/A¨/g,"Ä").replace(/ {2}/g," ");
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -154,7 +172,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				}
 			}
 			// VUX
-			sub.vux = !_.contains(["SPE","DAG","DAK","BYL","DAL","GYM","INO","MJU","PRT","HUA","NAE"],code); // http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099
+			sub.novux = !!novux[code]   //!_.contains(["SPE","DAG","DAK","BYL","DAL","GYM","INO","MJU","PRT","HUA","NAE"],code); // http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099
 			// PURPOSE
 			try {
 				if (code==="ITI"){
@@ -204,7 +222,10 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 			var datapart = data.match(/Kurser i ämnet ?<\/h3>.*?</)
 			if (defs.length){
 				for(var i=0;i < defs.length;i++){
-					var def = defs[i], course = {subject:code};
+					var def = defs[i], course = {
+						subject: code,
+						novux: sub.novux
+					};
 					// NAME
 					var trans={
 						"Nätunderhållsarbete på luftledningsnät 0,4–24 kV":"Nätunderhållsarbete på luftledningsnät 0,4-24kV",
@@ -987,7 +1008,8 @@ var friends = [
 	["GER","GRU","ITI","PEA","TEN","VÅR","VAD","SJU"], // vårdämnen
 	["SAE","HIS"], // samerna + historia
 	["HUM","HUA"], // weird humaniststuff
-	["NAE","NAV"] // same weird but for natur
+	["NAE","NAV"], // same weird but for natur
+	["DAK","DAG"] // danskurser
 ];
 
 friends = _.reduce(splitinto,function(mem,newcodes,oldcode){

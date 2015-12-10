@@ -30,16 +30,19 @@ var SubjectDesc = React.createClass({
         <Section headline="Beskrivning" {...this.props}>
         	{ sub.replacedby && <p>
         		Detta ämne <strong>ges inte längre efter juni 2015</strong> utan ersattes av {linkToS(sub.replacedby,DB)}.
-        	</p> || ""}
+        	</p> || null}
         	{ sub.replaces && <p>
         		Detta ämne skapades efter juni 2015 för att ersätta {linkToS(sub.replaces,DB)}.
-        	</p> || ""}
+        	</p> || null}
 	        { sub.splitinto && <p>
 	        	Detta ämne <strong>ges inte längre efter juni 2015</strong>, utan är uppdelat i {list(sub.splitinto,DB)}
-	        </p> || ""}
+	        </p> || null}
 	        { sub.shardof && <p>
 	        	Efter juni 2015 så delades det gamla ämnet {linkToS(sub.shardof,DB)} upp i detta ämne samt {list(sub.shardofwith,DB)}
-	        </p> || ""}
+	        </p> || null}
+	        { sub.novux && <p>
+	        	Detta ämne får ej ges inom vuxenutbildningen utan endast på gymnasiet.
+	        </p> || null}
             <div dangerouslySetInnerHTML={{__html:sub.description}}/>
         </Section>
     );

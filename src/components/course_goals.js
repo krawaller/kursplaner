@@ -8,7 +8,7 @@ var CourseGoals = React.createClass({
   render: function(){
     var course = this.props.course, subject = this.props.subject;
     return (
-        <Section headline="Ämnesmål">
+        <Section headline="Ämnesmål i kursen" {...this.props}>
             <p>
                 {course.school==="grund"
                 ? "På grundskolan så jobbar man hela tiden med ämnets samtliga mål:"

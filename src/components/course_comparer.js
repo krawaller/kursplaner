@@ -5,6 +5,7 @@ var React = require('react'),
   Section = React.createFactory(require('./section')),
   CourseContent = require('./course_content'),
   CourseGrades = require('./course_grades'),
+  CourseDesc = require('./course_description'),
   _ = require('lodash');
   Router = require('react-router'),
   Link = Router.Link,
@@ -12,7 +13,7 @@ var React = require('react'),
 
 
 var CourseComparer = React.createClass({
-  mixins: [Sel("what",["centralt innehåll","kunskapskrav"]),Sel("grade",["E","C","A"])],
+  mixins: [Sel("what",["beskrivning","centralt innehåll","kunskapskrav"]),Sel("grade",["E","C","A"])],
   render: function(){
   	var course = this.props.course,
         coursesuff = (course.school ? " ("+course.school+")" : " (gy)")
@@ -22,7 +23,11 @@ var CourseComparer = React.createClass({
         othersuff = (other.school ? " ("+other.school+")" : " (gy)")
         now = this.state.what,
         nowg = this.state.grade,
-        Comp = (now==="kunskapskrav"?CourseGrades:CourseContent),
+        Comp = {
+          beskrivning: CourseDesc,
+          "centralt innehåll": CourseContent,
+          kunskapskrav: CourseGrades
+        }[now], //(now==="kunskapskrav"?CourseGrades:CourseContent),
         diff = (course.school!==other.school);
     return (
     	<Section headline={<span>Jämför {this.what()} {now==="kunskapskrav" && ["för"," ",this.grade()]}</span>}>
@@ -38,10 +43,10 @@ var CourseComparer = React.createClass({
         </div>
         <div className="row">
           <div className="col-xs-6">
-            <Comp DB={DB} course={course} sub={true} grade={nowg} other={other} />
+            <Comp DB={DB} course={course} sub={true} grade={nowg} other={other} subject={DB.subjects[course.subject]} />
           </div>
           <div className="col-xs-6">
-              <Comp DB={DB} course={other} sub={true} grade={nowg} other={course} />
+              <Comp DB={DB} course={other} sub={true} grade={nowg} other={course} subject={DB.subjects[course.subject]} />
           </div>
         </div>
     	</Section>

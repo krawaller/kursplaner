@@ -1,4 +1,5 @@
 {"subject":"DAK",
+"novux":true,
 "name":"Dansträning för yrkesdansare",
 "origname":"Dansträning för yrkesdansare",
 "points":100,
@@ -38,7 +39,9 @@
 "Eleven planerar <b>efter samråd</b> med handledare mentala tränings- och avslappningsmetoder för ökad motivation och målfokusering, och genomför <b>flera</b> övningar med <b>gott</b> resultat. Eleven motiverar <b>utförligt och</b> <b>nyanserat</b> sitt handlingssätt utifrån olika psykologiska teorier.",
 "Eleven använder <b>med god säkerhet</b> grundläggande begrepp och vokabulär i kommunikationen med andra.",
 "När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
-"friends":["DAKDAN0",
+"friends":["DAGDAS0",
+"DAGDAN0",
+"DAKDAN0",
 "DAKKLA01a",
 "DAKKLA01b",
 "DAKKLA02",
@@ -46,4 +49,7 @@
 "DAKMOD01a",
 "DAKMOD01b",
 "DAKMOD02",
-"DAKMOD03"]}
+"DAKMOD03",
+"DAGPAS0",
+"DAGREP0",
+"DAGSCE0"]}
