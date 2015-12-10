@@ -3,7 +3,8 @@
 var React = require('react'),
 	_ = require('lodash'),
   Router = require('react-router'),
-  Link = Router.Link;
+  Link = Router.Link,
+  favs = require("../favourites.js");
 
 var translator = {
   "grundskoleämnen":"grundsubjects",
@@ -16,7 +17,7 @@ var translator = {
 var SubjectsSelect = React.createClass({
   getInitialState: function(){
     var hasrelated = this.props.compareto && this.props.DB.subjects[this.props.compareto].friends
-    return{cat: hasrelated ? "relaterade ämnen" : "grundskoleämnen", hasrelated:hasrelated};
+    return{cat: hasrelated ? "relaterade ämnen" : "favoriter", hasrelated:hasrelated};
   },
   choose: function(c){
     this.setState({cat:c});
@@ -25,8 +26,13 @@ var SubjectsSelect = React.createClass({
     var DB = this.props.DB,
         now = this.state.cat,
         compareto = this.props.compareto,
-        subjectnames = (now === "relaterade ämnen" ? DB.subjects[compareto].friends : DB[translator[now]]),
-        keys = (this.state.hasrelated?["relaterade ämnen"]:[]).concat(Object.keys(translator));
+        subjectnames = (
+          now === "relaterade ämnen"
+          ? DB.subjects[compareto].friends
+          : now === "favoriter"
+          ? favs.getSubjectFavourites()
+          : DB[translator[now]]),
+        keys = (this.state.hasrelated?["relaterade ämnen"]:[]).concat("favoriter").concat(Object.keys(translator));
     var sel = (
       <div style={{display:"inline-block"}} className="btn-group">
         {_.map(keys,function(g){

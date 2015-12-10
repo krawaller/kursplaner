@@ -3,7 +3,8 @@
 var React = require('react'),
 	_ = require('lodash'),
   Router = require('react-router'),
-  Link = Router.Link;
+  Link = Router.Link,
+  favs = require("../favourites.js");
 
 var CoursesSelect = React.createClass({
   getInitialState: function(){
@@ -18,7 +19,7 @@ var CoursesSelect = React.createClass({
         compareto = this.props.compareto,
         thiscourse = courses[compareto],
         now = this.state.cat,
-        keys = ["Grundskola","Grundvux"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
+        keys = ["Favoriter","Grundskola","Grundvux"].concat(Object.keys(DB.coursedict).sort()), related=[], compcourse;
     if (compareto){
       keys = ["Relaterade kurser"].concat(keys);
       compcourse = courses[compareto];
@@ -32,9 +33,7 @@ var CoursesSelect = React.createClass({
         },this)}
       </div>
     );
-    //function linkToC(d){
-      //return <Link to={compareto?"coursecomparetoother":"coursedesc"} params={compareto?{course:compareto,other:d}:{course:d}}>{DB.courses[d].name}</Link>;
-    //}
+    var coursenames = this.state.cat==="Favoriter" ? favs.getCourseFavourites() : DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:this.state.cat==="Grundvux"?DB.grundvuxcourses:related)
     function linkToC(d){
       var suffix = "";
       if (now==="Relaterade kurser" && DB.courses[d].school!==DB.courses[compareto].school){
@@ -49,7 +48,8 @@ var CoursesSelect = React.createClass({
       <div>
         <p>{sel}</p>
         <div className="selectlist">
-          {_.flatten(_.map(DB.coursedict[this.state.cat]||(this.state.cat==="Grundskola"?DB.grundcourses:this.state.cat==="Grundvux"?DB.grundvuxcourses:related),function(s){
+          {_.flatten(_.map(
+              coursenames,function(s){
             return [linkToC(s)," "];
           }))}
         </div>

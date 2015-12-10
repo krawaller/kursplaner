@@ -2,7 +2,8 @@
 
 var React = require('react'),
     Section = React.createFactory(require('./section')),
-    _ = require("lodash");
+    _ = require("lodash"),
+    favs = require("../favourites.js");
 
 
 function linkToS(d,DB,sameschool){
@@ -29,9 +30,18 @@ function list(subjects,DB,school){
 }
 
 var SubjectDesc = React.createClass({
+	getInitialState: function(){
+		return {isfav: favs.getSubjectState(this.props.subject.code)}
+	},
+	toggleFav: function(){
+		console.log("TOGGLING!",this.props.subject.code);
+		favs.toggleSubjectState(this.props.subject.code);
+		this.setState({isfav:favs.getSubjectState(this.props.subject.code)});
+	},
   render: function(){
     var sub = this.props.subject,
-    	DB = this.props.DB;
+    	DB = this.props.DB,
+    	isfav = this.state.isfav;
     return (
         <Section headline="Beskrivning" {...this.props}>
         	{ sub.replacedby && <p>
@@ -57,6 +67,9 @@ var SubjectDesc = React.createClass({
             	}
             	{list(sub.friends,DB,sub.school||"gymn")}
             </p> : null}
+            <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
+            	{isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
+            </button>
         </Section>
     );
   }

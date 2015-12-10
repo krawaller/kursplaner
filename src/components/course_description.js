@@ -4,9 +4,18 @@ var React = require('react'),
     Section = React.createFactory(require('./section')),
     Router = require('react-router'),
     Link = Router.Link,
-    _ = require('lodash');
+    _ = require('lodash'),
+    favs = require("../favourites.js");
 
 var CourseDescription = React.createClass({
+  getInitialState: function(){
+    return {isfav: favs.getCourseState(this.props.course.code)}
+  },
+  toggleFav: function(){
+    console.log("TOGGLING!",this.props.course.code);
+    favs.toggleCourseState(this.props.course.code);
+    this.setState({isfav:favs.getCourseState(this.props.course.code)});
+  },
   render: function(){
     var course = this.props.course,
         subject = this.props.subject,
@@ -14,11 +23,13 @@ var CourseDescription = React.createClass({
         nums = [0,0,"två","tre","fyra","fem","sex","sju","åtta","nio","tio","elva","tolv","tretton","fjorton","femton"],
         desc = course.descarr,
         by = course.reqBy,
-        DB = this.props.DB;
+        DB = this.props.DB,
+        isfav = this.state.isfav;
     function linkToC(d,t){return <Link to="coursedesc" params={{course:d}}>{t || DB.courses[d].name}</Link>;}
     function linkToS(d){return <Link to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
     return (
         <Section {...this.props} headline="Beskrivning">
+            <div>
             {
               course.school === "grund" ? (
                 <p>
@@ -47,6 +58,10 @@ var CourseDescription = React.createClass({
                 </div>
               )
             }
+            <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
+              {isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
+            </button>
+            </div>
         </Section>
     );
   }
