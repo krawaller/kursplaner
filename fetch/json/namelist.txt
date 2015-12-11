@@ -459,7 +459,7 @@ Inköp 1
 Inköp 2
 Inredning och komfort 1
 Inredning och komfort 2
-Installationer
+Installationer [ej aktuell]
 Instrument eller sång 1
 Instrument eller sång 2
 Instrument eller sång 3
@@ -799,9 +799,9 @@ Programhantering
 Programmerbara styrsystem
 Programmering 1
 Programmering 2
-Projektering
 Projektering VVS 1
 Projektering VVS 2
+Projektering [ej aktuell]
 Projektering el 1
 Projektering el 2
 Provning och kontrollarbete
@@ -879,7 +879,7 @@ Samiskt hantverk 4
 Samiskt hantverk 5
 Sammanfogning
 Samtida kulturuttryck
-Sanitet och tappvatten
+Sanitet och tappvatten [ej aktuell]
 Sanitetsteknik 1
 Sanitetsteknik 1 [ej aktuell]
 Sanitetsteknik 2
@@ -1062,7 +1062,7 @@ Vattenbruk - grunder
 Vattenbruk - specialisering
 Vattenkraftstationer
 Vattenreningens mikrobiologi
-Ventilation och komfortkyla
+Ventilation och komfortkyla [ej aktuell]
 Ventilationsisolering
 Ventilationsmontering 1
 Ventilationsmontering 2
@@ -1080,7 +1080,7 @@ Visuell kommunikation
 Väghyvel
 Värdskap på resmålet
 Värdskap på resmålet [ej aktuell]
-Värme- och kylsystem
+Värme- och kylsystem [ej aktuell]
 Värmelära
 Värmeteknik 1
 Värmeteknik 1 [ej aktuell]

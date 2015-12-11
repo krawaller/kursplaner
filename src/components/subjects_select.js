@@ -19,21 +19,30 @@ var translator2 = {
   "nedlagda":"subjectsobsolete"
 }
 
+var translator3 = {
+  "a-g": "subjectsVOCa-g",
+  "h-o": "subjectsVOCh-o",
+  "p-ö": "subjectsVOCp-ö"
+}
+
 var SubjectsSelect = React.createClass({
   getInitialState: function(){
     var hasrelated = this.props.compareto && this.props.DB.subjects[this.props.compareto].friends && this.props.DB.subjects[this.props.compareto].friends.length
     return{
       cat: hasrelated ? "relaterade" : "favoriter",
       hasrelated: hasrelated,
-      cat2: "vanliga"
+      cat2: "vanliga",
+      cat3: "a-g"
     };
   },
   choose: function(c){ this.setState({cat:c}); },
   choose2: function(c){ this.setState({cat2:c}); },
+  choose3: function(c){ this.setState({cat3:c}); },
   render: function(){
     var DB = this.props.DB,
         now = this.state.cat,
         now2 = this.state.cat2,
+        now3 = this.state.cat3,
         compareto = this.props.compareto,
         subjectnames = (
           now === "relaterade"
@@ -41,7 +50,11 @@ var SubjectsSelect = React.createClass({
           : now === "favoriter"
           ? favs.getSubjectFavourites()
           : now === "gymn"
-          ? DB[translator2[now2]]
+          ? (
+            now2 === "yrkes"
+            ? DB[translator3[now3]]
+            : DB[translator2[now2]]
+          )
           : DB[translator[now]]
         ),
         keys = (this.state.hasrelated?["relaterade"]:[]).concat("favoriter").concat(Object.keys(translator));
@@ -59,6 +72,13 @@ var SubjectsSelect = React.createClass({
         },this)}
       </span>
     );
+    var sel3 = (
+      <span style={{display:"inline-block"}} className="btn-group">
+        {_.map(Object.keys(translator3),function(g){
+          return <button key={g} onClick={_.partial(this.choose3,g)} className={'btn btn-default'+(g===now3?' active':'')}>{g}</button>
+        },this)}
+      </span>
+    );
     function linkToC(d){
       var suffix = "";
       if (now==="relaterade" && DB.subjects[d].school!==DB.subjects[compareto].school){
@@ -66,11 +86,26 @@ var SubjectsSelect = React.createClass({
       }
       return <Link key={d} to={compareto?"subjectcomparetoother":"subjectdesc"} params={compareto?{subject:compareto,other:d}:{subject:d}}>{DB.subjects[d].name}{suffix}</Link>;
     }
+
+    var percol = subjectnames.length / 3,
+        col1 = subjectnames.slice(0,Math.ceil(percol)),
+        col2 = subjectnames.slice(Math.ceil(percol),2*Math.ceil(percol)),
+        col3 = subjectnames.slice(2*Math.ceil(percol),subjectnames.length);
     return (
       <div>
-        <p>{sel}{now === "gymn" ? <span> bland {sel2} </span> : null}</p>
-        <div className="selectlist">
-          {_.flatten(_.map(subjectnames,function(code){
+        <p>{sel}{now === "gymn" ? <span> bland {sel2} {now2 === "yrkes" ? <span> på {sel3} </span> : null}</span> : null}</p>
+        <div className="subcol">
+          {_.flatten(_.map(col1,function(code){
+            return [linkToC(code)," "];
+          }))}
+        </div>
+        <div className="subcol">
+          {_.flatten(_.map(col2,function(code){
+            return [linkToC(code)," "];
+          }))}
+        </div>
+        <div className="subcol">
+          {_.flatten(_.map(col3,function(code){
             return [linkToC(code)," "];
           }))}
         </div>

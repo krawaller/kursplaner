@@ -5,7 +5,8 @@ var React = require('react'),
     Router = require('react-router'),
     Link = Router.Link,
     _ = require('lodash'),
-    favs = require("../favourites.js");
+    favs = require("../favourites.js"),
+    Commercial = require("./aecommercial");
 
 var CourseDescription = React.createClass({
   getInitialState: function(){
@@ -38,6 +39,9 @@ var CourseDescription = React.createClass({
                 </p>
               ) : (
                 <div>
+                  { course.obsolete ? <p className="obsolete">
+                    Denna kurs tillhör ett ämne som inte längre ges och är därför ej aktuell.
+                  </p> : null}
                   <p>
                     {course.school === "grundvux" ? "Grundvuxkursen" : "Gymnasiekursen"} {course.name} har kod <strong>{course.code}</strong> och är på <strong>{course.points}</strong> poäng. Den är {tot===1?"enda kursen":"en av "+(nums[tot]||tot)+" kurser "} i ämnet {linkToS(subject.code)}.
                     {desc && [" "].concat(desc.map(function(d){
@@ -58,9 +62,10 @@ var CourseDescription = React.createClass({
                 </div>
               )
             }
-            <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
+            { !this.props.sub ? <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
               {isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
-            </button>
+            </button> : null }
+            { !this.props.sub && _.contains(["GRNMAT2","GRGRMAT01","MAT"],subject.code) ? <Commercial/> : null}
             </div>
         </Section>
     );

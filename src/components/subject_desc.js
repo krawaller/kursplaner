@@ -3,7 +3,8 @@
 var React = require('react'),
     Section = React.createFactory(require('./section')),
     _ = require("lodash"),
-    favs = require("../favourites.js");
+    favs = require("../favourites.js"),
+    Commercial = require("./aecommercial.js");
 
 
 function linkToS(d,DB,sameschool){
@@ -41,16 +42,26 @@ var SubjectDesc = React.createClass({
   render: function(){
     var sub = this.props.subject,
     	DB = this.props.DB,
-    	isfav = this.state.isfav;
+    	isfav = this.state.isfav,
+    	spec = {ELP:"INT",INT:"ELP"},
+    	specreplacers = {TEY:"TES",TES:"TEY"};
     return (
         <Section headline="Beskrivning" {...this.props}>
-        	{ sub.replacedby && <p>
+        	{ spec[sub.code] ? <p className="obsolete">
+        		Detta ämne <strong>ges inte längre efter juni 2015</strong> utan blev tillsammans med {' '}
+        		{linkToS(spec[sub.code],DB)} ersatt av {linkToS("TEY",DB)} och {linkToS("TES",DB)}.
+        	</p>: null}
+        	{ specreplacers[sub.code] ? <p>
+        		Detta ämne tillkom tillsammans med {linkToS(specreplacers[sub.code],DB)} i juli 2015 {' '}
+        		för att ersätta {linkToS("ELP",DB)} och {linkToS("INT",DB)}.
+        	</p>: null}
+        	{ sub.replacedby && <p className="obsolete">
         		Detta ämne <strong>ges inte längre efter juni 2015</strong> utan ersattes av {linkToS(sub.replacedby,DB)} med den nya koden <strong>{sub.replacedby}</strong>.
         	</p> || null}
         	{ sub.replaces && <p>
         		Detta ämne skapades efter juni 2015 för att ersätta {linkToS(sub.replaces,DB)} som hade koden <strong>{sub.replaces}</strong>.
         	</p> || null}
-	        { sub.splitinto && <p>
+	        { sub.splitinto && <p className="obsolete">
 	        	Detta ämne <strong>ges inte längre efter juni 2015</strong>, utan är uppdelat i {list(sub.splitinto,DB)}
 	        </p> || null}
 	        { sub.shardof && <p>
@@ -70,6 +81,7 @@ var SubjectDesc = React.createClass({
             <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
             	{isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
             </button>
+            { !this.props.sub && _.contains(["GRNMAT2","GRGRMAT01","MAT"],sub.code) ? <Commercial/> : null}
         </Section>
     );
   }

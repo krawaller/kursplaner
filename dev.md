@@ -6,9 +6,10 @@
  X lista med ämneslänkar
  - förkunskapskrav och nedlagda kurser (http://localhost:8000/kursplaner/#/courses/PRIPRO02/desc)
  - dynamisk hänvisning i nedlagd kurs till ny kurs
- - lista i kolumner
+ X lista i kolumner
  - ämnesdesk översta rad
-
+ X ae reklam
+ X fixa beskrivning av ELP och INT (http://skolverket.se/polopoly_fs/1.240415!/Menu/article/attachment/Kurskoder%20f%C3%B6r%20f%C3%B6rs%C3%B6ksverksamheten%20med%20ett%20fj%C3%A4rde%20tekniskt%20%C3%A5r%20och%20f%C3%B6r%20vidareutbildningen%20i%20form%20av%20ett%20fj%C3%A4rde%20tekniskt%20%C3%A5r%20.pdf)
 
 
 

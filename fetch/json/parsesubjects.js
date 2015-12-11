@@ -96,7 +96,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 			var code = path.split("_")[0],
 				name = path.split("_")[1].replace(".html",""),
 				origname = name;
-			if (splitinto[code]){
+			if (splitinto[code] || code==="ELP" || code === "INT"){
 				name += " [uppdelad]";
 			} else if (replacedby[code]){
 				name += " [ersatt]";
@@ -106,7 +106,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				code:code,
 				type:type,
 				courses:[],
-				obsolete: !!(splitinto[code] || replacedby[code]),
+				obsolete: !!(splitinto[code] || replacedby[code] || code==="ELP" || code === "INT"),
 				splitinto: splitinto[code],
 				replacedby: replacedby[code],
 				replaces: replaces[code],
@@ -930,7 +930,11 @@ _.each(GLOBAL.courses,function(course,code){
 _.each(GLOBAL.subjects,function(subject,code){
 	var type = subject.type;
 	if (type){ // means gymnasiekurs
-		if (subject.obsolete){ type = "obsolete"; }
+		if (subject.obsolete){
+			type = "obsolete";
+		} else if (type==="VOCATIONAL"){
+			type = subject.name < "H" ? "VOCa-g" : subject.name < "P" ? "VOCh-o" : "VOCp-ö";
+		}
 		if (!GLOBAL["subjects"+type]){
 			GLOBAL["subjects"+type]=[];
 		}
@@ -973,6 +977,13 @@ _.each(_.without(fs.readdirSync("./grundvuxsubjects/"),".DS_Store"),function(pat
 });
 
 
+// SORT SUBJECTS
+_.each(["subjectsOTHER","subjectsVOCa-g","subjectsVOCh-o","subjectsVOCp-ö","grundsubjects","grundvuxsubjects","subjectsobsolete"],function(key){
+	GLOBAL[key] = GLOBAL[key].sort(function(s1,s2){
+		return GLOBAL.subjects[s1].name > GLOBAL.subjects[s2].name ? 1 : -1;
+	});
+});
+
 
 
 _.each(dividers,function(l){
@@ -1008,7 +1019,7 @@ var friends = [
 	["LAT","KLA"], // latin och grekiska
 	["TES","TEY"], // tekniska system el och vvs
 	["GER","GRU","ITI","PEA","TEN","VÅR","VAD","SJU"], // vårdämnen
-	//["SAE","HIS"], // samerna + historia
+	["SAE","SAI","SAS"], // samerna
 	["HUM","HUA"], // weird humaniststuff
 	["NAE","NAV"], // same weird but for natur
 	["DAK","DAG"], // danskurser

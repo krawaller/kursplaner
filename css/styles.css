@@ -1,6 +1,41 @@
-.favvoknapp {
-	margin-top: 3em;
+.subcol {
+	margin-right: 5px;
+	width: 32%;
+	float: left;
 }
+
+.subcol a {
+	display: block;
+}
+
+.favvoknapp {
+	margin-top: 2em;
+}
+
+.bottompromo {
+	margin-top: 3em;
+	border-radius: 8px;
+	padding: 5px;
+	background-color: #FED1FF;
+}
+
+.obsolete {
+	border-radius: 8px;
+	padding: 5px;
+	background-color: #FFA8A5;
+}
+
+.bottompromo button {
+	float: right;
+	margin: 3px;
+}
+
+.bottompromo:after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
 
 .bottompara {
 	margin-top: 2em;
