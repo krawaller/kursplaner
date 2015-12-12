@@ -78,9 +78,9 @@ var SubjectDesc = React.createClass({
             	}
             	{list(sub.friends,DB,sub.school||"gymn")}
             </p> : null}
-            <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
-            	{isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
-            </button>
+            {!this.props.sub ? <button onClick={this.toggleFav} className={"favvoknapp btn btn-default btn-sm"+(false?" active":"")}>
+                {isfav?"Ta bort från favoriter":"Lägg till bland favoriter"}
+            </button> : null}
             { !this.props.sub && _.contains(["GRNMAT2","GRGRMAT01","MAT"],sub.code) ? <Commercial/> : null}
         </Section>
     );
