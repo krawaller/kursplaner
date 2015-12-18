@@ -38,6 +38,7 @@
 "req":"MUSINS01S",
 "reqarr":["MUSINS01S"],
 "reqBy":["MUSINS03S"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS02S",

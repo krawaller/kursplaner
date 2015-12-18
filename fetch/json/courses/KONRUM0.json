@@ -43,6 +43,7 @@
 "RECREC02"]},
 "reqarr":["KONKON02",
 "RECREC02"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",
 "ADMADM02",

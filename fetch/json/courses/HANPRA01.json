@@ -36,6 +36,7 @@
 "reqBy":["HANPRA02",
 "HANAFR0",
 "HANHAN00S"],
+"hasreqs":true,
 "friends":["HANAFR0",
 "HANBRS0",
 "HANHAN00S",

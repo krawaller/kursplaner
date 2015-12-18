@@ -33,6 +33,7 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> det egna skapandet samt värderar det med <b>nyanserade</b> omdöme <b>och formulerar vägar för hur skapandet ska utvecklas</b>. Dessutom gör eleve <b>komplexa</b> analyser av <b>flera</b> sceniska gestaltningar samt tolkar <b>dessa</b> <b>med säkerhet</b>. I sina analyser använder eleven <b>med säkerhet</b> relevanta begrepp."]},
 "req":"TEASCE02",
 "reqarr":["TEASCE02"],
+"hasreqs":true,
 "friends":["TEADRM0",
 "TEAFYS0",
 "TEALJU00S",

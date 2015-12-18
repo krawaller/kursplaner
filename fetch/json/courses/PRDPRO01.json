@@ -29,6 +29,7 @@
 "Eleven använder <b>med säkerhet</b> korrekt fackspråk i sina redogörelser och resonemang."]},
 "reqBy":["HUSHUS01",
 "PRDPRO02"],
+"hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",
 "HUSHUS03",

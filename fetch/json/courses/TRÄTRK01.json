@@ -60,6 +60,7 @@
 "req":"HUSHUS02",
 "notwith":"TRÄBYG0",
 "reqarr":["HUSHUS02"],
+"hasreqs":true,
 "friends":["TRÄBYG0",
 "ELMELM0",
 "GOLGOL01",

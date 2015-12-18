@@ -59,6 +59,7 @@
 "reqarr":["ANLANL02",
 "ANAANA02"],
 "reqBy":["MOBVAG0"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

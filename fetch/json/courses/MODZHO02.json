@@ -76,6 +76,7 @@
 "kinesiska inom ramen för elevens val i grundskolan"]},
 "reqarr":["MODZHO01"],
 "reqBy":["MODZHO03"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO03",

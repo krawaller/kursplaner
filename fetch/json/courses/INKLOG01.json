@@ -33,6 +33,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arbetsmiljöfrågor. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> logistikfrågor utifrån miljö- och resurshushållning.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["INKLOG02"],
+"hasreqs":true,
 "friends":["INKINK01",
 "INKINK02",
 "LAGLAG0",

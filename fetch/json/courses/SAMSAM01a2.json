@@ -38,6 +38,7 @@
 "reqBy":["SAMSAM02",
 "SAMINE0",
 "SAMINR0"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "SAMINE0",
 "SAMINR0",

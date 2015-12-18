@@ -44,6 +44,7 @@
 "ELTMAR0",
 "ELTTRL0",
 "MAYMAR0"],
+"hasreqs":true,
 "friends":["ELOBID0",
 "ELTBID0",
 "ELOKOT0",

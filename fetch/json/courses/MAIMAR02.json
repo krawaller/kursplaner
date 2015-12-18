@@ -52,6 +52,7 @@
 "req":"MAIMAR01",
 "reqarr":["MAIMAR01"],
 "reqBy":["MAIMAR03"],
+"hasreqs":true,
 "friends":["MAIBAT01",
 "MAIBAT02",
 "MAIMAR01",

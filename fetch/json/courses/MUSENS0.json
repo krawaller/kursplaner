@@ -36,6 +36,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång <b>samt ger välgrundade och nyanserade förslag på hur arbetsmiljön kan förbättras</b>."]},
 "reqBy":["MUSENS02S",
 "MUSKÖS02S"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS02S",

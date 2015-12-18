@@ -43,6 +43,7 @@
 "req":"DATDAS01S",
 "reqarr":["DATDAS01S"],
 "reqBy":["DATDAS03S"],
+"hasreqs":true,
 "friends":["DATDAN00S",
 "DATDAS01S",
 "DATDAS03S",

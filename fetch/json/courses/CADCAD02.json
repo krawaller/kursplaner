@@ -29,6 +29,7 @@
 "req":"CADCAD01",
 "reqarr":["CADCAD01"],
 "reqBy":["CADCAD03"],
+"hasreqs":true,
 "friends":["CADCAD00S",
 "CADCAD01",
 "CADCAD03"]}

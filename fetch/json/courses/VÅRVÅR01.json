@@ -38,6 +38,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för hälso- och sjukvårdens samt socialtjänstens historia och utveckling.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["VÅRVÅR02"],
+"hasreqs":true,
 "friends":["SJUAKU0",
 "SJUBAR0",
 "MÄNETI0",

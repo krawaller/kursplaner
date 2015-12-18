@@ -48,6 +48,7 @@
 "UTSUTS02"]},
 "reqarr":["KONKOF0",
 "UTSUTS02"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",
 "ADMADM02",

@@ -33,6 +33,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["PRIPRO02",
 "PRTPRO02"],
+"hasreqs":true,
 "friends":["PRIPRO01",
 "PRIPRO02",
 "PRTPRO02"]}

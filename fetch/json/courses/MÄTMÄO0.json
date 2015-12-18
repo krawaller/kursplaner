@@ -34,6 +34,7 @@
 "AUTIND0",
 "INRIND0",
 "MÄTPRR0"],
+"hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",
 "AUOAVH0",

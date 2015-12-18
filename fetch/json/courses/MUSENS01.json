@@ -32,6 +32,7 @@
 "Eleven samarbetar <b>med säkerhet</b> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <b>nyanserade</b> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <b>samt ger förslag på hur detta kan förbättras</b>.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet."]},
 "reqBy":["MUSENS02S"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS02S",
 "MUSENS0",

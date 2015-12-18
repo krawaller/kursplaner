@@ -68,6 +68,7 @@
 "MOBBAN0",
 "MOBGRV0",
 "MOBHJU0"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

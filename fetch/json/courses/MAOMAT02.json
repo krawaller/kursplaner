@@ -37,5 +37,6 @@
 "req":"MAOMAT01",
 "reqarr":["MAOMAT01"],
 "reqBy":["MAOMAT00S"],
+"hasreqs":true,
 "friends":["MAOMAT00S",
 "MAOMAT01"]}

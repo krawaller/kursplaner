@@ -52,6 +52,7 @@
 "reqarr":["ELRELF0",
 "ELLELL02",
 "ELLPRA0"],
+"hasreqs":true,
 "friends":["ELRANT0",
 "INSBES0",
 "ELRDAA0",

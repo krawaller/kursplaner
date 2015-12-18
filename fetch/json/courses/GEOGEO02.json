@@ -45,6 +45,7 @@
 "Eleven bearbetar <b>med säkerhet</b> data i datormiljö med hjälp av enkla statistiska metoder samt framställer <b>med säkerhet</b> tematiska kartor utifrån grunderna i geografiska informationssystem och visualisering i karta."]},
 "req":"GEOGEO01",
 "reqarr":["GEOGEO01"],
+"hasreqs":true,
 "friends":["GEOGEO01",
 "Geografi 1-3",
 "Geografi 4-6",

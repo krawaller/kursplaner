@@ -48,5 +48,6 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> några företeelser i olika sammanhang och delar av världen där engelska används, och gör då också <b>välutvecklade och nyanserade</b> jämförelser med egna erfarenheter och kunskaper."]},
 "req":"ENLENE06",
 "reqarr":["ENLENE06"],
+"hasreqs":true,
 "friends":["ENLENE05",
 "ENLENE06"]}

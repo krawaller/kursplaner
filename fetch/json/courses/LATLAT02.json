@@ -34,6 +34,7 @@
 "req":"LATLAT01",
 "reqarr":["LATLAT01"],
 "reqBy":["LATLAT03"],
+"hasreqs":true,
 "friends":["KLAKLA01",
 "KLAKLA02",
 "LATLAT01",

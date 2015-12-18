@@ -54,6 +54,7 @@
 "req":"MURMUR01",
 "reqarr":["MURMUR01"],
 "reqBy":["MURMUR03"],
+"hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",
 "HUSHUS03",

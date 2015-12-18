@@ -38,6 +38,7 @@
 "Eleven samarbetar och kommunicerar <b>med säkerhet</b> i tränings- och tävlingssituationer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["SPEIDS02"],
+"hasreqs":true,
 "friends":["SPEIDT0",
 "SPEIDS02",
 "SPEIDS03",

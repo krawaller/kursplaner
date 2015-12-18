@@ -32,6 +32,7 @@
 "Eleven utforskar i färdighetsträningen med <b>gott</b> resultat hur den egna kroppen fungerar. Dessutom redogör eleven <b>utförligt och</b> <b>nyanserat</b> för hur den egna kroppen fungerar. Eleven tränar <b>efter samråd</b> med handledare koordination, styrka och koncentration. Eleven använder <b>med säkerhet</b> grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DATDAS02S"],
+"hasreqs":true,
 "friends":["DATDAN00S",
 "DATDAS02S",
 "DATDAS03S",

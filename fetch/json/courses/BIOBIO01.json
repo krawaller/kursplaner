@@ -60,6 +60,7 @@
 "BIGMAN0",
 "BIIVAT01",
 "NATNAT0"],
+"hasreqs":true,
 "friends":["BIGBEA0",
 "GRNBIO2",
 "BIGBIG00S",

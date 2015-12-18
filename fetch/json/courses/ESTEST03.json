@@ -38,6 +38,7 @@
 "Eleven resonerar <b>utförligt och</b> <b>nyanserat</b> om eventuella etiska och konstnärliga konsekvenser av olika val under en konstnärlig process."]},
 "req":"ESTEST02",
 "reqarr":["ESTEST02"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "DIGDIG01",
 "DIGDIG02",

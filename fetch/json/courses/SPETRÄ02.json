@@ -48,6 +48,7 @@
 "TRNTRN01"],
 "reqBy":["SPEIDS03",
 "SPETRÄ03"],
+"hasreqs":true,
 "friends":["SPEIDT0",
 "SPEIDS01",
 "SPEIDS02",

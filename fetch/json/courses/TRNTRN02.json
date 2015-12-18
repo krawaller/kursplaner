@@ -39,6 +39,7 @@
 "SPETRÄ03"],
 "req":"TRNTRN01",
 "reqarr":["TRNTRN01"],
+"hasreqs":true,
 "friends":["SPEIDT0",
 "SPEIDS01",
 "SPEIDS02",

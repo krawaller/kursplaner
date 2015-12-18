@@ -51,6 +51,7 @@
 "comment":"med innehåll florist"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVFLO02"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

@@ -49,6 +49,7 @@
 "BILFOM0"]},
 "reqarr":["BILBIL0",
 "BILFOM0"],
+"hasreqs":true,
 "friends":["BILBIL0",
 "BILBIL01a1",
 "BILBIL01a2",

@@ -57,6 +57,7 @@
 "VVS - grund"]},
 "reqarr":["BYGBYG02"],
 "reqBy":["VENVEN02"],
+"hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",
 "VENVET0",

@@ -43,6 +43,7 @@
 "reqarr":["MÄTMÄT0"],
 "reqBy":["PROPRC02",
 "PROPRO0"],
+"hasreqs":true,
 "friends":["DAODAC0",
 "DAODAT0",
 "DAODAT01a",

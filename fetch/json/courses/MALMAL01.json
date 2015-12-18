@@ -27,6 +27,7 @@
 "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <b>utförligt</b> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
 "Eleven samarbetar och kommunicerar <b>med säkerhet</b> med andra. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["MALMAL02"],
+"hasreqs":true,
 "friends":["MALMAL00S",
 "MALMAL02",
 "MALMAL03",

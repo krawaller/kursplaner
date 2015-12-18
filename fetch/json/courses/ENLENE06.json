@@ -49,5 +49,6 @@
 "req":"ENLENE05",
 "reqarr":["ENLENE05"],
 "reqBy":["ENLENE07"],
+"hasreqs":true,
 "friends":["ENLENE05",
 "ENLENE07"]}

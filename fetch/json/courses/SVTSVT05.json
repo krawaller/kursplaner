@@ -47,6 +47,7 @@
 "req":"SVTSVT04",
 "reqarr":["SVTSVT04"],
 "reqBy":["SVTSVT06"],
+"hasreqs":true,
 "friends":["SVTSVT01",
 "SVTSVT02",
 "SVTSVT03",

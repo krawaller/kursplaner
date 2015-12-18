@@ -41,5 +41,6 @@
 "req":"KOTKOS01",
 "reqarr":["KOTKOS01"],
 "reqBy":["KOTKOS03"],
+"hasreqs":true,
 "friends":["KOTKOS01",
 "KOTKOS03"]}

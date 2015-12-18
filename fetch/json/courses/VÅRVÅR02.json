@@ -55,6 +55,7 @@
 "VADVAR00S"],
 "req":"VÅRVÅR01",
 "reqarr":["VÅRVÅR01"],
+"hasreqs":true,
 "friends":["SJUAKU0",
 "SJUBAR0",
 "MÄNETI0",

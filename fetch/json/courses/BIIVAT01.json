@@ -39,6 +39,7 @@
 "FIKFIS01",
 "FISFIS01",
 "VANVAT0"],
+"hasreqs":true,
 "friends":["BIOBIO01",
 "BIOBIO02",
 "BIIVAT02",

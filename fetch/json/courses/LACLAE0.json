@@ -49,6 +49,7 @@
 "reqarr":["FODFOO0",
 "FORFOD0"],
 "reqBy":["LACBAK0"],
+"hasreqs":true,
 "friends":["LACBAK0",
 "FORFOD0",
 "FODFOO0",

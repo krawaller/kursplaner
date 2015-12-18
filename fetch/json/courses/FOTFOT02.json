@@ -48,6 +48,7 @@
 "req":"FOTFOT01",
 "reqarr":["FOTFOT01"],
 "reqBy":["FOTFOT03"],
+"hasreqs":true,
 "friends":["FOTFOT01",
 "FOTFOT03",
 "FOTFOT04"]}

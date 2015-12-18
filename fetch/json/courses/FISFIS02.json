@@ -45,6 +45,7 @@
 "req":"FISFIS01",
 "reqarr":["FISFIS01"],
 "reqBy":["FISFIS03"],
+"hasreqs":true,
 "friends":["BIIVAT01",
 "BIIVAT02",
 "BIIVAT03",

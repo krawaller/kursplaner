@@ -53,6 +53,7 @@
 "moderna språk inom ramen för språkval i grundskolan"]},
 "reqarr":["MODXXX02"],
 "reqBy":["MODXXX04"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

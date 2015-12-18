@@ -79,6 +79,7 @@
 "kinesiska inom ramen för språkval i grundskolan"]},
 "reqarr":["MODZHO02"],
 "reqBy":["MODZHO04"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

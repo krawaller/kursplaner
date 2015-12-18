@@ -1,13 +1,16 @@
 ###PRERELEASE TODO
 
+ X flowcharts
  X favoriter
  - grundvux poäng sv (2 ggr 1000)
  - lista med kurslänkar
  X lista med ämneslänkar
- - förkunskapskrav och nedlagda kurser (http://localhost:8000/kursplaner/#/courses/PRIPRO02/desc)
+ X förkunskapskrav och nedlagda kurser (http://localhost:8000/kursplaner/#/courses/PRIPRO02/desc)
  - dynamisk hänvisning i nedlagd kurs till ny kurs
  X lista i kolumner
  - ämnesdesk översta rad
+ - flytta nevershowme från relaterade till lista öht
+ - lägg till info angående idrott & hälsa på komvux: http://www.skolverket.se/skolutveckling/studie-och-yrkesvagledning/val-och-vagledning/komvuxgy/kurser-som-far-inga-1.234410
  X ae reklam
  X fixa beskrivning av ELP och INT (http://skolverket.se/polopoly_fs/1.240415!/Menu/article/attachment/Kurskoder%20f%C3%B6r%20f%C3%B6rs%C3%B6ksverksamheten%20med%20ett%20fj%C3%A4rde%20tekniskt%20%C3%A5r%20och%20f%C3%B6r%20vidareutbildningen%20i%20form%20av%20ett%20fj%C3%A4rde%20tekniskt%20%C3%A5r%20.pdf)
 

@@ -47,6 +47,7 @@
 "reqarr":["VÅRVÅR02",
 "MEDMED01"],
 "reqBy":["VADVAR00S"],
+"hasreqs":true,
 "friends":["SJUBAR0",
 "GRUGRD0",
 "SJUHEM0",

@@ -27,6 +27,7 @@
 "Eleven värderar me <b>nyanserade</b> omdömen sin cad-arbetsplats ur ergonomisk synvinkel <b>samt ger förslag på hur arbetsplatsen kan förbättras</b>."]},
 "reqBy":["CADCAD02",
 "CADCAD00S"],
+"hasreqs":true,
 "friends":["CADCAD00S",
 "CADCAD02",
 "CADCAD03"]}

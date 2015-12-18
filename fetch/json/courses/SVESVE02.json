@@ -42,6 +42,7 @@
 "req":"SVESVE01",
 "reqarr":["SVESVE01"],
 "reqBy":["SVESVE03"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESKR0",

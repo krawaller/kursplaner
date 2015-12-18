@@ -43,6 +43,7 @@
 "I muntlig och skriftlig interaktion uttrycker sig eleven <b>relativt tydligt</b> och enkelt med ord, fraser oc <b>meningar</b>. Dessutom väljer och använder eleven <b>flera olika</b> strategier som löser problem i och förbättrar interaktionen.",
 "Eleven kommenterar i enkel form några företeelser i olika sammanhang och områden där språket används, och gör då också enkla jämförelser med egna erfarenheter och kunskaper."]},
 "reqBy":["MODXXX02"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

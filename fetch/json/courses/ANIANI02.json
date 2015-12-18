@@ -51,5 +51,6 @@
 "req":"ANIANI01",
 "reqarr":["ANIANI01"],
 "reqBy":["ANIANI00S"],
+"hasreqs":true,
 "friends":["ANIANI00S",
 "ANIANI01"]}

@@ -42,6 +42,7 @@
 "req":"KONKOF0",
 "reqarr":["KONKOF0"],
 "reqBy":["KONKON02"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",
 "ADMADM02",

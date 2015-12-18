@@ -33,6 +33,7 @@
 "Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken  <b>öppna, offentliga</b> sammanhang.",
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel. Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador."]},
 "reqBy":["MUSINS02S"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS02S",

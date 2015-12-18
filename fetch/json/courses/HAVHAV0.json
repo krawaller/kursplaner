@@ -45,6 +45,7 @@
 "HAVFRI01",
 "HAVTEX01",
 "HAVHNT01"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

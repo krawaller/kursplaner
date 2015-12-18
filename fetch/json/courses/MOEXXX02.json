@@ -42,6 +42,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"MOEXXX01",
 "reqarr":["MOEXXX01"],
+"hasreqs":true,
 "friends":["MOEMOD0",
 "MOEXXX01",
 "Modersmål 1-3",

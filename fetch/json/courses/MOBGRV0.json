@@ -74,6 +74,7 @@
 "ANAANA04"]},
 "reqarr":["ANLANL02",
 "BIGMAN0"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

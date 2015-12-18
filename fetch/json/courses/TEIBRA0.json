@@ -42,6 +42,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"TEIVVS0",
 "reqarr":["TEIVVS0"],
+"hasreqs":true,
 "friends":["TEIINT0",
 "TEIKOD0",
 "TEIVVS0",

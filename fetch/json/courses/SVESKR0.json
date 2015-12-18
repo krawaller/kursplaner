@@ -47,6 +47,7 @@
 "SVASVA01"]},
 "reqarr":["SVESVE01",
 "SVASVA01"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESVE01",

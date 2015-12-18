@@ -33,6 +33,7 @@
 "reqBy":["NAGNAT02",
 "RESHAL0",
 "TURHÅL0"],
+"hasreqs":true,
 "friends":["TURAKT0",
 "TURBEÖ0",
 "TURGUI0",

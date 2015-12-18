@@ -48,6 +48,7 @@
 "LACLAK0",
 "LACLAR0",
 "LACLAC0"],
+"hasreqs":true,
 "friends":["FORFOD0",
 "FODFOO0",
 "LACFÄR0",

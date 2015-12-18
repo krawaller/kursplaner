@@ -36,6 +36,7 @@
 "INUINU01",
 "PRUPRD02S",
 "SKGSKO01"],
+"hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",
 "HUSHUS03",

@@ -36,6 +36,7 @@
 "DAOMUL0",
 "NAIADM0",
 "NÄVADM0"],
+"hasreqs":true,
 "friends":["NAIADM0",
 "NÄVADM0",
 "AUOALL0",

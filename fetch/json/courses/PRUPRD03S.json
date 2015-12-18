@@ -42,6 +42,7 @@
 "req":"PRUPRD02S",
 "reqarr":["PRUPRD02S"],
 "reqBy":["PRUPRD04"],
+"hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",
 "HUSHUS03",

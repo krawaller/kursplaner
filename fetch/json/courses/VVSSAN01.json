@@ -37,6 +37,8 @@
 "Eleven utför <b>efter samråd</b> med handledare måttsättning, montering och funktionskontroll av vatten- och sanitetssystem utifrån ritningar, andra handlingar samt lagar och andra bestämmelser. I sin funktionskontroll utför eleven <b>efter samråd</b> med handledare täthetskontroller samt värderar med <b>nyanserade</b> omdömen om arbetet uppfyller fastställda kvalitetskrav <b>samt</b> <b>ger förslag på hur arbetet kan förbättras</b>. Dessutom gör eleven en <b>noggrann och utförlig</b> dokumentation av utförda åtgärder.",
 "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
+"reqBy":["VVSSAN02"],
+"hasreqs":true,
 "friends":["VVIENT0",
 "VVSENT0",
 "VVISAN01",

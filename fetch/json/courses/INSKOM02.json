@@ -39,6 +39,7 @@
 "req":"INSKOM01",
 "reqarr":["INSKOM01"],
 "reqBy":["INSKOM03"],
+"hasreqs":true,
 "friends":["ELRANT0",
 "INSBES0",
 "ELRDAA0",

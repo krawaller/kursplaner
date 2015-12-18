@@ -67,6 +67,7 @@
 "DATDAS04S"]},
 "reqarr":["DAKMOD01a"],
 "reqBy":["DAKMOD03"],
+"hasreqs":true,
 "friends":["DAGDAS0",
 "DAGDAN0",
 "DAKDAN0",

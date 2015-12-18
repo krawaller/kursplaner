@@ -36,6 +36,7 @@
 "reqarr":[],
 "reqBy":["RELREL02",
 "RELREL0"],
+"hasreqs":true,
 "friends":["GRNREL2",
 "RELREL0",
 "Religionskunskap 1-3",

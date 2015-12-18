@@ -37,6 +37,7 @@
 "req":"FODFOO0",
 "reqarr":["FODFOO0"],
 "reqBy":["SNOPIM0"],
+"hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",
 "PERBRO0",

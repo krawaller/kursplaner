@@ -34,6 +34,7 @@
 "req":"BAGKON01",
 "reqarr":["BAGKON01"],
 "reqBy":["BAGKON03"],
+"hasreqs":true,
 "friends":["BAGBAG00S",
 "BAGBAG01",
 "BAGBAG02",

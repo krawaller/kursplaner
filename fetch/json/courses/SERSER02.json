@@ -43,6 +43,7 @@
 "reqarr":["SERSER01"],
 "reqBy":["SERMAF0",
 "SERSER00S"],
+"hasreqs":true,
 "friends":["SERARR0",
 "SERFRU0",
 "RECLOG0",

@@ -48,6 +48,7 @@
 "req":"KOHHAN01",
 "reqarr":["KOHHAN01"],
 "reqBy":["KOHHAN03"],
+"hasreqs":true,
 "friends":["KOHHAN01",
 "KOHHAN03",
 "KOHHAN04",

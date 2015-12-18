@@ -55,6 +55,7 @@
 "req":"TRÄTRK02",
 "notwith":"TRÄBYG0",
 "reqarr":["TRÄTRK02"],
+"hasreqs":true,
 "friends":["TRÄBYG0",
 "ELMELM0",
 "GOLGOL01",

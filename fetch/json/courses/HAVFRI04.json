@@ -47,6 +47,7 @@
 "reqarr":["HAVFRI03"],
 "reqBy":["HAVFRI05",
 "HAVFRI05S"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

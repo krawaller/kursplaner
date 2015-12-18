@@ -42,6 +42,7 @@
 "Eleven framför <b>med säkerhet</b> det koreografiska materialet vid olika presentationer och sceniska framföranden <b>samt kommunicerar</b> <b>med säkerhet med publiken</b>. Dessutom gör eleven <b>välgrundade och nyanserade</b> reflektioner över arbetsprocessen, den egna arbetsinsatsen och resultatet. I sin reflektion <b>resonerar eleven om alternativa resultat av det gestaltande arbetet</b> samt använder <b>med säkerhet</b> adekvata begrepp."]},
 "req":"DANDAN01",
 "reqarr":["DANDAN01"],
+"hasreqs":true,
 "friends":["DANDAN01",
 "DANDAS0",
 "DANDAI0",

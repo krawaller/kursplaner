@@ -43,6 +43,7 @@
 "Eleven använder <b>med god säkerhet</b> grundläggande begrepp och vokabulär i kommunikationen med andra.",
 "När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DAKKLA02"],
+"hasreqs":true,
 "friends":["DAGDAS0",
 "DAGDAN0",
 "DAKDAN0",

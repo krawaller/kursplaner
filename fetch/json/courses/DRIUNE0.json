@@ -36,6 +36,7 @@
 "Eleven samarbetar i sitt arbete med andra samt använder <b>med säkerhet</b> korrekt fackspråk.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["DRIUNL0"],
+"hasreqs":true,
 "friends":["DRIAVH01",
 "DRIAVH02",
 "DRIUND0",

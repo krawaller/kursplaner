@@ -39,6 +39,7 @@
 "req":"GRFGRF01",
 "reqarr":["GRFGRF01"],
 "reqBy":["GRFGRF03"],
+"hasreqs":true,
 "friends":["GRFGRF01",
 "GRFGRF03",
 "GRFGRF04"]}

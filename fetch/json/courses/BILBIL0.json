@@ -55,6 +55,7 @@
 "reqarr":["BILBIL01b",
 "BILBIL01a2"],
 "reqBy":["BILBIL00S"],
+"hasreqs":true,
 "friends":["BILBIL00S",
 "BILBIL01a1",
 "BILBIL01a2",

@@ -44,5 +44,6 @@
 "Eleven kan identifiera och analysera <b>komplexa</b> språkliga drag samt göra <b>välgrundade och nyanserade</b> jämförelser mellan svenskt teckenspråk och svenska avseende form, struktur och framställning."]},
 "req":"SVNSVN02",
 "reqarr":["SVNSVN02"],
+"hasreqs":true,
 "friends":["SVNSVN01",
 "SVNSVN02"]}

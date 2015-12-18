@@ -39,6 +39,7 @@
 "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <b>nyanserade</b> omdömen <b>samt ger förslag på hur arbetet kan förbättras</b>. Eleven samarbetar med andra och använder <b>med säkerhet</b> fackspråk. När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"DRYDRY0",
 "reqarr":["DRYDRY0"],
+"hasreqs":true,
 "friends":["DRYBAT0",
 "DRYDRY0",
 "DRYDRC0"]}

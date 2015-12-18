@@ -52,6 +52,7 @@
 "req":"MODXXX05",
 "reqarr":["MODXXX05"],
 "reqBy":["MODXXX07"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

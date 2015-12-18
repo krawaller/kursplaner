@@ -31,6 +31,7 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <b>utförligt och</b> <b>nyanserat</b> sätt att bemöta passagerare med särskilda behov."]},
 "req":"PESPER00S",
 "reqarr":["PESPER00S"],
+"hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",
 "PESPER1",

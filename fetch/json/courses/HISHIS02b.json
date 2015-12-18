@@ -45,6 +45,7 @@
 "HISHIS01b"],
 "reqBy":["HISHIS03",
 "HUMHUM00S"],
+"hasreqs":true,
 "friends":["GRNHIS2",
 "Historia 1-3",
 "HISHIS01a1",

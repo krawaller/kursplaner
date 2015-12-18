@@ -57,6 +57,7 @@
 "req":"JÄRJÄR01",
 "reqarr":["JÄRJÄR01"],
 "reqBy":["JÄRJÄR03"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

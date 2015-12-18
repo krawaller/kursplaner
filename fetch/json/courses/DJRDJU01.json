@@ -62,6 +62,7 @@
 "HÄTHÄS01",
 "LANLAN01"],
 "reqBy":["DJRDJU02"],
+"hasreqs":true,
 "friends":["BIGBEA0",
 "BIGBIG00S",
 "HÄTDEN01a",

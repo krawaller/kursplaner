@@ -44,5 +44,6 @@
 "req":"INDIND01",
 "reqarr":["INDIND01"],
 "reqBy":["INDIND03"],
+"hasreqs":true,
 "friends":["INDIND01",
 "INDIND03"]}

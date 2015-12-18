@@ -40,6 +40,7 @@
 "target":"HAVHNT04",
 "comment":"med innehåll från vald profil"},
 "reqarr":["HAVHNT04"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

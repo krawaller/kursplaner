@@ -39,6 +39,7 @@
 "INRIND0",
 "PROPRC01",
 "PROPRE0"],
+"hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",
 "AUOAVH0",

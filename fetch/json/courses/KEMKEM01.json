@@ -46,6 +46,7 @@
 "req":"grundskolans kunskaper eller motsvarande",
 "reqarr":[],
 "reqBy":["KEMKEM02"],
+"hasreqs":true,
 "friends":["GRNKEM2",
 "Kemi 1-3",
 "KEMKEM02",

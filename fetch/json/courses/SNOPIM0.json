@@ -52,6 +52,7 @@
 "SNOREP0"]},
 "reqarr":["SNOSNO0",
 "SNOREP0"],
+"hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",
 "PERBRO0",

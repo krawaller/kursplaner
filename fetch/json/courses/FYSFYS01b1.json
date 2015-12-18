@@ -52,6 +52,7 @@
 "notwith":"FYSFYS01a",
 "reqarr":[],
 "reqBy":["FYSFYS01b2"],
+"hasreqs":true,
 "friends":["Fysik 1-3",
 "FYSFYS01a",
 "FYSFYS01b2",

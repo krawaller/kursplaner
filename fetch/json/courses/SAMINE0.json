@@ -41,6 +41,7 @@
 "SAMSAM01b"]},
 "reqarr":["SAMSAM01a2",
 "SAMSAM01b"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "SAMINR0",
 "SAESAM0",

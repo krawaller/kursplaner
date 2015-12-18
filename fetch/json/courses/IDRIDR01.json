@@ -42,6 +42,7 @@
 "req":"de kunskaper grundskolan ger eller motsvarande",
 "reqarr":[],
 "reqBy":["IDRIDR02"],
+"hasreqs":true,
 "friends":["IDRIDO01",
 "Idrott och hälsa 1-3",
 "IDRIDR02",

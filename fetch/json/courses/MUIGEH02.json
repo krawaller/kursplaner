@@ -31,6 +31,7 @@
 "Eleven skriver och läser <b>med säkerhet</b> noter i minst två klaver, harmoniserar melodier och <b>skriver</b> flerstämmig sats. Eleven beskriver också <b>utförligt och</b> <b>nyanserat</b> minst två notationssystem och ger <b>flera</b> exempel på deras användningsområde. Dessutom använder eleven minst <b>två</b> vedertagna system för ackordbeteckningar <b>och harmoniska analyser samt redogör översiktligt för ytterligare system</b>. Eleven sjunger och spelar efter notbilder och på gehör <b>med god kvalitet när det gäller rytm, melodi, harmonik och form</b>. <b>I sitt musicerande använder eleven gehöret i improviserad och noterad musik samt skriver enkla arrangemang för olika röst- eller instrumentkombinationer</b>. Eleven värderar med <b>nyanserade</b> omdömen sitt musicerande med hjälp av musikteoretiska begrepp <b>samt ger förslag på hur musicerandet kan förbättras</b>."]},
 "req":"MUIGEH01",
 "reqarr":["MUIGEH01"],
+"hasreqs":true,
 "friends":["MUIARA01",
 "MUIARA02",
 "MUIGEH01"]}

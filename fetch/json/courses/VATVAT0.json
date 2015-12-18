@@ -35,6 +35,7 @@
 "reqBy":["VATDRI0",
 "VATREN0",
 "VATVAR0"],
+"hasreqs":true,
 "friends":["VATDRI0",
 "VATREN0",
 "VATVAR0"]}

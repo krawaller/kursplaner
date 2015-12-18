@@ -45,6 +45,7 @@
 "HANPRA01"]},
 "reqarr":["FÖSSEV0",
 "HANPRA01"],
+"hasreqs":true,
 "friends":["HANAFR0",
 "HANBRS0",
 "FÖSPER01",

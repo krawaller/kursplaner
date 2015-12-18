@@ -34,6 +34,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["TEIBRA0",
 "TEIKOD0"],
+"hasreqs":true,
 "friends":["TEIBRA0",
 "TEIINT0",
 "TEIKOD0",

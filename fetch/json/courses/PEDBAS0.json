@@ -38,6 +38,7 @@
 "PEDMÄI0"]},
 "reqarr":["PEDLÄR0",
 "PEDMÄI0"],
+"hasreqs":true,
 "friends":["PEDAKI00S",
 "PEGDRA0",
 "PEDKOU0",

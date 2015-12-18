@@ -17,7 +17,7 @@ var SubjectCourseList = React.createClass({
         return <Link to="coursedesc" params={{course:d}}>{c.name}{c.points && <span>, {c.points} poäng</span>}</Link>;
     }
     return (
-        <Section headline="Ingående kurser">
+        <Section headline="Kurser i ämnet">
             {subject.school==="grund" ? (
                 <div>
                     <p>Normalt skiljer man inte mellan kurser och ämnen på grundskolan, men eftersom det finns specifikt centralt innehåll och kunskapskrav för de olika stadierna inom grundskolans ämnen så har vi valt att hantera dessa som kurser, för att matcha strukturen på gymnasienivå.</p>
@@ -56,6 +56,14 @@ var SubjectCourseList = React.createClass({
                             })}
                         </tbody>
                     </table>
+                    {subject.hasreqs ? <div>
+                        <p>
+Nedan visas en karta över förkunskapskrav som kurser i detta ämne ingår i. Berörda kurser i andra ämnen visas streckade.
+                        </p>
+                        <p className="mapcontainer">
+                            <img src={"./img/"+subject.code+".png"}/>
+                        </p>
+                    </div>: null}
                 </div>
             )}
         </Section>

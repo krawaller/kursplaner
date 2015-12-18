@@ -46,6 +46,7 @@
 "reqarr":["DRIUNH0",
 "DRIUNE0"],
 "reqBy":["DRIUNO0"],
+"hasreqs":true,
 "friends":["DRIAVH01",
 "DRIAVH02",
 "DRIUND0",

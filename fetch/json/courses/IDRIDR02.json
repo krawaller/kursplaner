@@ -36,6 +36,7 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> beskriva kroppsideals påverkan på människors hälsa. Dessutom kan eleven <b>utförligt och</b> <b>nyanserat</b> beskriva hur miljöer kan anpassas till människors förutsättningar."]},
 "req":"IDRIDR01",
 "reqarr":["IDRIDR01"],
+"hasreqs":true,
 "friends":["IDRIDR01",
 "IDRIDO01",
 "Idrott och hälsa 1-3",

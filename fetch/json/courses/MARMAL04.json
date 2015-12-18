@@ -61,6 +61,7 @@
 "MARMAL05"],
 "req":"MARMAL03",
 "reqarr":["MARMAL03"],
+"hasreqs":true,
 "friends":["LACBAK0",
 "BYGBYG01",
 "BYGBYG02",

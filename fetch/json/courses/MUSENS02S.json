@@ -38,6 +38,7 @@
 "MUSENS01"]},
 "reqarr":["MUSENS0",
 "MUSENS01"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS0",

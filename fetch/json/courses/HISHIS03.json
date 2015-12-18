@@ -39,6 +39,7 @@
 "HISHIS02b"]},
 "reqarr":["HISHIS02a",
 "HISHIS02b"],
+"hasreqs":true,
 "friends":["GRNHIS2",
 "Historia 1-3",
 "HISHIS01a1",

@@ -43,6 +43,7 @@
 "reqBy":["BYLGRN0",
 "BYLPLA0",
 "BYLPRO0"],
+"hasreqs":true,
 "friends":["SAHBIM0",
 "SAHBYV0",
 "BYLGRN0",

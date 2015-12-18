@@ -49,6 +49,7 @@
 "req":"HUNHUN01",
 "reqarr":["HUNHUN01"],
 "reqBy":["HUNHUN03"],
+"hasreqs":true,
 "friends":["HUNHUN01",
 "HUNHUN03",
 "HUNTRN0"]}

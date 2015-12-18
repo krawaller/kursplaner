@@ -34,6 +34,7 @@
 "reqBy":["FOMFOR02S",
 "FOMFAC0",
 "FOMTEX0"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

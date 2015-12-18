@@ -42,6 +42,7 @@
 "judgechangewarn":true,
 "req":"INUINU02",
 "reqarr":["INUINU02"],
+"hasreqs":true,
 "friends":["PRUINU0",
 "PRUIND0",
 "INUINU01",

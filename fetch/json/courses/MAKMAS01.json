@@ -38,5 +38,6 @@
 "Eleven beskriver <b>utförligt och</b> <b>nyanserat</b> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["MAKMAS02"],
+"hasreqs":true,
 "friends":["MAKMAS0",
 "MAKMAS02"]}

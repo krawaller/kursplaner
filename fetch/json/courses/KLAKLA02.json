@@ -32,6 +32,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för huvuddragen i det antika Greklands historia och samhällsliv samt ger <b>välgrundade och nyanserade</b> exempel på några viktiga strömningar inom grekisk arkitektur, konst, litteratur och filosofi. Eleven för <b>välgrundade och nyanserade</b> resonemang om hur dessa strömningar har påverkat senare tiders konst, litteratur och idéer fram till vår egen tid. Eleven gör <b>välgrundade och nyanserade</b> tolkningar av grekiska texter utifrån sina kunskaper om grekisk historia, kultur och samhällsliv."]},
 "req":"KLAKLA01",
 "reqarr":["KLAKLA01"],
+"hasreqs":true,
 "friends":["KLAKLA01",
 "LATLAT01",
 "LATLAT02",

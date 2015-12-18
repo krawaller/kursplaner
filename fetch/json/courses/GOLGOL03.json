@@ -59,6 +59,7 @@
 "TRÄTRK02"]},
 "reqarr":["GOLGOL02",
 "TRÄTRK02"],
+"hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",
 "TRÄBYG0",

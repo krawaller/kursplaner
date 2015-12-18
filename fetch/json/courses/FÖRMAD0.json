@@ -43,6 +43,7 @@
 "FÖRENT0"]},
 "reqarr":["FÖRFÖR01",
 "FÖRENT0"],
+"hasreqs":true,
 "friends":["ENTENR0",
 "FÖRENT0",
 "FÖRFÖR00S",

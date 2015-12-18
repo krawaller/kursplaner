@@ -58,6 +58,7 @@
 "TRÄTRK01"]},
 "reqarr":["BETBET01",
 "TRÄTRK01"],
+"hasreqs":true,
 "friends":["BETBET01",
 "BETBET02",
 "BETBET03",

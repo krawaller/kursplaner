@@ -37,5 +37,6 @@
 "Eleven genomför ett projektarbete med ett <b>gott</b> resultat. I arbetet väljer eleven lämplig metod och redovisningsform samt motivera<b>r utförligt och</b> <b>nyanserat</b> sina val."]},
 "req":"DESDES01",
 "reqarr":["DESDES01"],
+"hasreqs":true,
 "friends":["DESDES01",
 "DESDES0"]}

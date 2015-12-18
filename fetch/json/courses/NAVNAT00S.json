@@ -47,6 +47,7 @@
 "reqarr":["BIOBIO02",
 "FYSFYS02",
 "KEMKEM02"],
+"hasreqs":true,
 "friends":["BIOBIO01",
 "BIOBIO02",
 "BIOBIT0",

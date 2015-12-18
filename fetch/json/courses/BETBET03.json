@@ -54,6 +54,7 @@
 "req":"BETBET02",
 "reqarr":["BETBET02"],
 "reqBy":["BETBET04"],
+"hasreqs":true,
 "friends":["BETBET01",
 "BETBET02",
 "BETBET04",

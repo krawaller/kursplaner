@@ -56,6 +56,7 @@
 "PRUPRD01S"]},
 "reqarr":["MOTMOT01",
 "PRUPRD01S"],
+"hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",
 "ENEENE01",

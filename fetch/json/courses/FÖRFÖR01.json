@@ -33,6 +33,7 @@
 "reqBy":["FÖRFÖR02",
 "FÖRENT0",
 "FÖRMAD0"],
+"hasreqs":true,
 "friends":["ENTENR0",
 "FÖRENT0",
 "FÖRFÖR00S",

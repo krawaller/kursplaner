@@ -43,6 +43,7 @@
 "req":"DJUSÄL01",
 "reqarr":["DJUSÄL01"],
 "reqBy":["DJUDJI0"],
+"hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",
 "HÄTDEN02",

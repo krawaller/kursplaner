@@ -41,6 +41,7 @@
 "req":"SAASVT0",
 "reqarr":["SAASVT0"],
 "reqBy":["SAAKÄL02S"],
+"hasreqs":true,
 "friends":["SAAKÄL02S",
 "SAARÖR01S",
 "SAARÖR02S",

@@ -50,6 +50,7 @@
 "MEPMEI01",
 "DIGDIG01"],
 "reqBy":["ESTEST03"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "DIGDIG01",
 "DIGDIG02",

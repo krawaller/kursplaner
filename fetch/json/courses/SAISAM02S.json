@@ -46,6 +46,7 @@
 "req":"SAISAM01S",
 "reqarr":["SAISAM01S"],
 "reqBy":["SAISAM03S"],
+"hasreqs":true,
 "friends":["SAESAM0",
 "SAISAM0",
 "SASSAM0",

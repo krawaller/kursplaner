@@ -60,6 +60,7 @@
 "PRUPRD01S",
 "PRDPRO01"],
 "reqBy":["HUSHUS02"],
+"hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",
 "TRÄBYG0",

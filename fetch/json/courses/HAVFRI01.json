@@ -48,6 +48,7 @@
 "comment":"med innehåll frisör"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVFRI02"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

@@ -46,6 +46,7 @@
 "reqarr":["MÄTPRR0",
 "DARDAT01S",
 "DARDAT02"],
+"hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",
 "AUOAVH0",

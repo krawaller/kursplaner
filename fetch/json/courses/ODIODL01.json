@@ -40,6 +40,7 @@
 "req":"TRRTRA0",
 "reqarr":["TRRTRA0"],
 "reqBy":["ODIODL02"],
+"hasreqs":true,
 "friends":["ODIODI00S",
 "ODIODL02",
 "TRRTRA0",

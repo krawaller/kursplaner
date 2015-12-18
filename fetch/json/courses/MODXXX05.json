@@ -53,6 +53,7 @@
 "SPAXXX01a",
 "SPAXXX01b",
 "SPAXXX0"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

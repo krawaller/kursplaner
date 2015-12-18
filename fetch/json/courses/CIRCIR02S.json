@@ -42,5 +42,6 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"CIRCIR01S",
 "reqarr":["CIRCIR01S"],
+"hasreqs":true,
 "friends":["CIRAKR00S",
 "CIRCIR01S"]}

@@ -35,6 +35,7 @@
 "req":"VETLUS0",
 "reqarr":["VETLUS0"],
 "reqBy":["VETLUT0"],
+"hasreqs":true,
 "friends":["VETLUF0",
 "VETLUT0",
 "VETLUS0",

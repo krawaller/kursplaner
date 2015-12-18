@@ -72,6 +72,7 @@
 "VENVEI0"],
 "req":"BYGBYG01",
 "reqarr":["BYGBYG01"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

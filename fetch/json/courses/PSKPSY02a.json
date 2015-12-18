@@ -31,6 +31,7 @@
 "req":"PSKPSY01",
 "reqarr":["PSKPSY01"],
 "reqBy":["HUMHUM00S"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "PSKPSY01",
 "PSKPSY02b"]}

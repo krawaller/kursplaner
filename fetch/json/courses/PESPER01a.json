@@ -43,6 +43,7 @@
 "reqarr":["TRAYRK01a",
 "TRAYRK01b"],
 "reqBy":["PESPER00S"],
+"hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",
 "PESPER1",

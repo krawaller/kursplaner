@@ -37,6 +37,7 @@
 "Eleven samarbetar <b>och medverkar till att upprätthålla och utveckla samarbetet</b> för att nå planerade resultat.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["GODTUN0"],
+"hasreqs":true,
 "friends":["GODGOD1",
 "GODHAT0",
 "GODLAS0",

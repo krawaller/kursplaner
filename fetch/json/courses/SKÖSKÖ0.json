@@ -46,6 +46,7 @@
 "VÄXVÄK0"],
 "reqBy":["SKÖBEK0",
 "SKÖSKÖ00S"],
+"hasreqs":true,
 "friends":["SKÖBEK0",
 "BIGBEA0",
 "BIGBIG00S",

@@ -35,6 +35,7 @@
 "req":"TEASCE01",
 "reqarr":["TEASCE01"],
 "reqBy":["TEASCE03"],
+"hasreqs":true,
 "friends":["TEADRM0",
 "TEAFYS0",
 "TEALJU00S",

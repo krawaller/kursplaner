@@ -50,6 +50,7 @@
 "svenskt teckenspråk för hörande inom ramen för elevens val i grundskolan"]},
 "reqarr":["SVTSVT01"],
 "reqBy":["SVTSVT03"],
+"hasreqs":true,
 "friends":["SVTSVT01",
 "SVTSVT03",
 "SVTSVT04",

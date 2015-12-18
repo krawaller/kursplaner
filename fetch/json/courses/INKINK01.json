@@ -32,6 +32,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för arbetsmiljöfrågor. Dessutom diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> inköpsfrågor.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["INKINK02"],
+"hasreqs":true,
 "friends":["INKINK02",
 "LAGLAG0",
 "LAGLAP0",

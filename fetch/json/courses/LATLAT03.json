@@ -29,6 +29,7 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för romersk historia, kultur och samhällsliv samt för hur händelser, företeelser och idéer kommer till uttryck i de lästa texterna. Eleven för <b>välgrundade och nyanserade</b> resonemang om hur den romerska kulturen har påverkat senare tiders kulturer i Europa och i övriga världen. Vidare diskuterar eleven <b>utförligt och</b> <b>nyanserat</b> samt drar <b>välgrundade och nyanserade</b> slutsatser om hur litterära teman har påverkat senare tiders litteratur och konst."]},
 "req":"LATLAT02",
 "reqarr":["LATLAT02"],
+"hasreqs":true,
 "friends":["KLAKLA01",
 "KLAKLA02",
 "LATLAT01",

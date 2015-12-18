@@ -52,6 +52,7 @@
 "req":"GOLGOL01",
 "reqarr":["GOLGOL01"],
 "reqBy":["GOLGOL03"],
+"hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",
 "TRÄBYG0",

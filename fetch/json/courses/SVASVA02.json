@@ -34,6 +34,7 @@
 "req":"SVASVA01",
 "reqarr":["SVASVA01"],
 "reqBy":["SVASVA03"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESKR0",

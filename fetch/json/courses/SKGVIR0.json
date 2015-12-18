@@ -41,6 +41,7 @@
 "SKMAVV0"],
 "req":"SKGSKO01",
 "reqarr":["SKGSKO01"],
+"hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",
 "ENEENE01",

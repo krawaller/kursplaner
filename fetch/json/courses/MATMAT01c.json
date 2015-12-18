@@ -59,6 +59,7 @@
 "reqBy":["MATMAT02a",
 "MATMAT02b",
 "MATMAT02c"],
+"hasreqs":true,
 "friends":["GRNMAT2",
 "MATMAT00S",
 "Matematik 1-3",

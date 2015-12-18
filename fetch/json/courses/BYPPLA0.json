@@ -43,7 +43,7 @@
 "Eleven redogör <b>med säkerhet</b> för strategier och system för produktionsskedet i ett byggprojekt.",
 "Eleven använder <b>med säkerhet</b> begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
-"reqBy":["BYLPRO0"],
+"replaces":"BYLPLA0",
 "friends":["BYPBYG0",
 "BYLGRN0",
 "BYLPLA0",

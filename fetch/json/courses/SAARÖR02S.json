@@ -39,6 +39,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"SAARÖR01S",
 "reqarr":["SAARÖR01S"],
+"hasreqs":true,
 "friends":["SAAKÄL01S",
 "SAAKÄL02S",
 "SAARÖR01S",

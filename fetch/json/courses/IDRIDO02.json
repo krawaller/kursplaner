@@ -39,6 +39,7 @@
 "När eleven samråder med handledare kan hon eller han <b>med säkerhet</b> bedöma den egna förmågan och situationens krav."]},
 "req":"IDRIDO01",
 "reqarr":["IDRIDO01"],
+"hasreqs":true,
 "friends":["IDRIDR01",
 "IDRIDO01",
 "Idrott och hälsa 1-3",

@@ -24,6 +24,7 @@
 "Eleven skriver och läser <b>med säkerhet</b> noter i två klaver <b>samt musicerar efter noter i minst två klaver</b>. Eleven sjunger efter notbilder och på gehör <b>med god kvalitet när det gäller rytm, melodi, harmonik och form</b>. <b>I sitt musicerande kopplar eleven ihop gehör och musikteori</b>. Eleven värderar med <b>nyanserade</b> omdömen sitt musicerande med hjälp av musikteoretiska begrepp <b>samt ger förslag på hur musicerandet kan förbättras</b>."]},
 "reqBy":["MUIGEH02",
 "MUIARA01"],
+"hasreqs":true,
 "friends":["MUIARA01",
 "MUIARA02",
 "MUIGEH02"]}

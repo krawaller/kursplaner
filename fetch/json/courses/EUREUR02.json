@@ -50,6 +50,7 @@
 "req":"EUREUR01",
 "reqarr":["EUREUR01"],
 "reqBy":["EUREUR03"],
+"hasreqs":true,
 "friends":["EUREUR01",
 "EUREUR03",
 "EUREUR04"]}

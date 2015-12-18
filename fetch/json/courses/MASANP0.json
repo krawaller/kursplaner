@@ -41,6 +41,7 @@
 "MASMOB01"]},
 "reqarr":["MASLAI0",
 "MASMOB01"],
+"hasreqs":true,
 "friends":["MASARB0",
 "FODFOO0",
 "MASKOM0",

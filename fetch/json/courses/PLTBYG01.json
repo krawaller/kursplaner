@@ -53,6 +53,7 @@
 "req":"PLÅPLÅ0",
 "reqarr":["PLÅPLÅ0"],
 "reqBy":["PLTBYG02"],
+"hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",
 "PLTBYG02",

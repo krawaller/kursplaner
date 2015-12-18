@@ -29,6 +29,7 @@
 "Eleven kommunicerar med och bemöter människor i olika sociala och kulturella sammanhang. Detta gör eleven <b>e</b><b>fter samråd</b> med handledare. Dessutom värderar eleven med <b>nyanserade</b> omdömen det egna förhållningssättet i mötet med patienter och brukare <b>samt ger förslag på hur det egna förhållningssättet kan utvecklas</b>.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["MÄNINA0"],
+"hasreqs":true,
 "friends":["MÄNINA0",
 "VÅRVÅR01",
 "VÅRVÅR02"]}

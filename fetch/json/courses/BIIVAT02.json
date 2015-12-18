@@ -34,6 +34,7 @@
 "req":"BIIVAT01",
 "reqarr":["BIIVAT01"],
 "reqBy":["BIIVAT03"],
+"hasreqs":true,
 "friends":["BIOBIO01",
 "BIOBIO02",
 "BIIVAT01",

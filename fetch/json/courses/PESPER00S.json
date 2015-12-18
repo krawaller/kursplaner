@@ -43,6 +43,7 @@
 "PESPER1"],
 "reqBy":["PESTAX0",
 "TRAFOD0"],
+"hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",
 "PESPER1",

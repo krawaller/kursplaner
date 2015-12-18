@@ -39,6 +39,7 @@
 "notwith":"NAKNAK01b",
 "reqarr":["NAKNAK01a1"],
 "reqBy":["NAKNAK02"],
+"hasreqs":true,
 "friends":["NAKNAK01a1",
 "NAKNAK01b",
 "NAKNAK02"]}

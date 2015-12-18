@@ -41,6 +41,7 @@
 "req":"FÖSPER01",
 "reqarr":["FÖSPER01"],
 "reqBy":["FÖSPER03"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",
 "ADMADM02",

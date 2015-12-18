@@ -81,6 +81,7 @@
 "req":"MODZHO05",
 "reqarr":["MODZHO05"],
 "reqBy":["MODZHO07"],
+"hasreqs":true,
 "friends":["HUMHUM00S",
 "MODZHO01",
 "MODZHO02",

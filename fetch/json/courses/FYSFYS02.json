@@ -61,6 +61,7 @@
 "FYSFYS01b2"],
 "reqBy":["FYSFYS03",
 "NAVNAT00S"],
+"hasreqs":true,
 "friends":["Fysik 1-3",
 "FYSFYS01a",
 "FYSFYS01b1",

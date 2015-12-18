@@ -52,6 +52,7 @@
 "req":"ENGENG05",
 "reqarr":["ENGENG05"],
 "reqBy":["ENGENG07"],
+"hasreqs":true,
 "friends":["GRNENG2",
 "Engelska 1-3",
 "Engelska 4-6",

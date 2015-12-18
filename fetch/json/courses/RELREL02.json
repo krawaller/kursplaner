@@ -31,6 +31,7 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> etiska frågor och använder då etiska begrepp och ger, utifrån olika etiska teorier och modeller, <b>välgrundade och nyanserade</b> argument i frågorna."]},
 "req":"RELREL01",
 "reqarr":["RELREL01"],
+"hasreqs":true,
 "friends":["GRNREL2",
 "RELREL0",
 "RELREL01",

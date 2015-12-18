@@ -45,6 +45,8 @@
 "reqarr":["MÄTMÄO0",
 "MÄTMÄT0",
 "MÄTPRR0"],
+"reqBy":["AUTAVH0"],
+"hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",
 "AUOAVH0",

@@ -47,6 +47,7 @@
 "KONKON02"],
 "reqBy":["ADMADM02",
 "ADMADM00S"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM02",
 "KONEVE0",

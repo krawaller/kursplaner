@@ -41,6 +41,7 @@
 "req":"FOMFOR01S",
 "reqarr":["FOMFOR01S"],
 "reqBy":["FOMFOR03S"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

@@ -41,6 +41,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"LANLAN02",
 "reqarr":["LANLAN02"],
+"hasreqs":true,
 "friends":["DJUDJU00S",
 "DJUDJI0",
 "DJUDJR0",

@@ -50,6 +50,7 @@
 "req":"WEBWEU01",
 "reqarr":["WEBWEU01"],
 "reqBy":["WEBWEU03"],
+"hasreqs":true,
 "friends":["DAADAT0",
 "DALDAT0",
 "MJKMJU0",

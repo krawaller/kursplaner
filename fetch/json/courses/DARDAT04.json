@@ -40,6 +40,7 @@
 "req":"DARDAT03",
 "reqarr":["DARDAT03"],
 "reqBy":["DARDAT05"],
+"hasreqs":true,
 "friends":["AUTALL0",
 "AUTAVH0",
 "DARCAD0",

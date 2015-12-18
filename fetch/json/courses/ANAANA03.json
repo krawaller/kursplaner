@@ -60,6 +60,7 @@
 "MOBHJU0"]},
 "reqarr":["ANAANA02"],
 "reqBy":["ANAANA04"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

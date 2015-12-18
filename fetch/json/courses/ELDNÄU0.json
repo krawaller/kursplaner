@@ -47,6 +47,7 @@
 "ELDHÖG0"]},
 "reqarr":["ELDLÅS0",
 "ELDHÖG0"],
+"hasreqs":true,
 "friends":["ELDBEY0",
 "ELDHÖG0",
 "ELDLÅS0",

@@ -52,6 +52,7 @@
 "req":"HUBSPC01S",
 "reqarr":["HUBSPC01S"],
 "reqBy":["HUBSPC03S"],
+"hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",
 "HUSHUS03",

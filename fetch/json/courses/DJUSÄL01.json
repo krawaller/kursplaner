@@ -37,6 +37,7 @@
 "reqBy":["DJRDJU01",
 "DJUSÄL02",
 "DJUDJU00S"],
+"hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",
 "HÄTDEN02",

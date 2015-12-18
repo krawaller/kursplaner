@@ -39,6 +39,7 @@
 "TRAYRK01b",
 "TURGUI0",
 "TURREM0"],
+"hasreqs":true,
 "friends":["AKTAKT0",
 "TURAKT0",
 "LACBAK0",

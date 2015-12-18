@@ -46,6 +46,7 @@
 "req":"SEISEI01",
 "reqarr":["SEISEI01"],
 "reqBy":["SEISER00S"],
+"hasreqs":true,
 "friends":["SKMAVV0",
 "FOHFOR0",
 "SEISER00S",

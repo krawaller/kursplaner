@@ -39,5 +39,6 @@
 "req":"de kunskaper specialskolan ger eller motsvarande",
 "reqarr":[],
 "reqBy":["SVNSVN02"],
+"hasreqs":true,
 "friends":["SVNSVN02",
 "SVNSVN03"]}

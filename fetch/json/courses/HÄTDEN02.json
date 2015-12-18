@@ -48,6 +48,7 @@
 "HÄTDEN01b"]},
 "reqarr":["HÄTDEN01a",
 "HÄTDEN01b"],
+"hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",
 "DJUDJU00S",

@@ -44,6 +44,7 @@
 "req":"INUINU02",
 "reqarr":["INUINU02"],
 "reqBy":["INUINU04"],
+"hasreqs":true,
 "friends":["PRUINU0",
 "PRUIND0",
 "INUINU01",

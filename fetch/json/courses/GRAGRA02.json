@@ -38,6 +38,7 @@
 "reqarr":["GRAGRA01"],
 "reqBy":["GRAGRA0",
 "GRAGRR0"],
+"hasreqs":true,
 "friends":["GRAGRI0",
 "GRAGRP0",
 "GRAGRV0",

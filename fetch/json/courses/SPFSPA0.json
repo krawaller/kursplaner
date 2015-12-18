@@ -42,6 +42,7 @@
 "SPFKOM0",
 "SPFKOR0",
 "SPFSTY0"],
+"hasreqs":true,
 "friends":["SPFDIG0",
 "SPFDRI0",
 "SPFFEL01",

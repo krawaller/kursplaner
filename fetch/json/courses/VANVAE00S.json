@@ -43,6 +43,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "req":"VANVAT0",
 "reqarr":["VANVAT0"],
+"hasreqs":true,
 "friends":["BIIVAT01",
 "BIIVAT02",
 "BIIVAT03",

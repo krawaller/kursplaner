@@ -34,6 +34,7 @@
 "Eleven diskuterar <b>utförligt och</b> <b>nyanserat</b> hur <b>några</b> specifika betydelser kan uttryckas, relaterar det till <b>några</b> tankeströmningar <b>och gör</b> <b>välgrundade och nyanserade jämförelser mellan uttryck och betydelser i några olika sammanhang</b>.",
 "Eleven gör en <b>välgrundad och nyanserad</b> reflektion över lagar och andra bestämmelser med utgångspunkt i sin egen konstnärliga produktion."]},
 "reqBy":["ESTEST02"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "DIGDIG01",
 "DIGDIG02",

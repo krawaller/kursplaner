@@ -45,6 +45,7 @@
 "req":"ENEENE01",
 "reqarr":["ENEENE01"],
 "reqBy":["KRAKRA01"],
+"hasreqs":true,
 "friends":["VAEDRT0",
 "ENEENE01",
 "ENEFÖR0",

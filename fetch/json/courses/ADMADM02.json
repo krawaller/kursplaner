@@ -37,6 +37,7 @@
 "req":"ADMADM01",
 "reqarr":["ADMADM01"],
 "reqBy":["ADMPER0"],
+"hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",
 "KONEVE0",

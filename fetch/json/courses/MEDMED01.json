@@ -35,6 +35,7 @@
 "SJUHEM0",
 "SJULIN0",
 "SJURÄD0"],
+"hasreqs":true,
 "friends":["SJUAKU0",
 "SJUBAR0",
 "SJUHEM0",

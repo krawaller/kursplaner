@@ -36,6 +36,7 @@
 "SVELIT0",
 "SVERET0",
 "SVESKR0"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESKR0",

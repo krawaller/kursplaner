@@ -41,5 +41,6 @@
 "req":"SVNSVN01",
 "reqarr":["SVNSVN01"],
 "reqBy":["SVNSVN03"],
+"hasreqs":true,
 "friends":["SVNSVN01",
 "SVNSVN03"]}

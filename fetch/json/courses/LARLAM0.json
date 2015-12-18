@@ -40,6 +40,7 @@
 "LARCCT0",
 "LARINB0",
 "LARPAS0"],
+"hasreqs":true,
 "friends":["LARBRN0",
 "LARCCT0",
 "LARINB0",

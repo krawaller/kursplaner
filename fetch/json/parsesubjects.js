@@ -7,7 +7,24 @@ fs.readFileS = function(path,callback){ callback(null,fs.readFileSync(path)); }
 
 var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
-var GLOBAL = { grundsubjects: [], grundcourses:[], grundvuxsubjects: [], grundvuxcourses:[], courses: {}, subjects: {}, coursetocode: {}, codetocode: {}, codetosubjcourse: {}, coursenames:[], subjectcodes:[], coursecodes: []};
+var GLOBAL = {
+	grundsubjects: [],
+	grundcourses:[],
+	grundvuxsubjects: [],
+	grundvuxcourses:[],
+	gysubjects:[],
+	courses: {},
+	subjects: {},
+	coursetocode: {},
+	codetocode: {},
+	codetosubjcourse: {},
+	coursenames:[],
+	subjectcodes:[],
+	coursecodes: [],
+	livecoursenamestocode: {},
+	deadcoursenamestocode: {},
+	lowercasecourses: []
+};
 
 var novux = { // http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099
 	SPE: 1, // Specialidrott
@@ -113,6 +130,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				shardof: shardof[code],
 				shardofwith: shardof[code] && splitinto[shardof[code]].filter(function(i){return i!==code;})
 			};
+			GLOBAL.gysubjects.push(code);
 			/*var replacecode = {
 				BYL: "BYP",
 				DAL: "DAA",
@@ -397,6 +415,14 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						}
 					}
 					sub.courses.push(course.code);
+					// fix thingimajig
+					if (course.obsolete){
+						GLOBAL.deadcoursenamestocode[course.origname] = course.code;
+						GLOBAL.deadcoursenamestocode[course.name] = course.code;
+					} else {
+						GLOBAL.livecoursenamestocode[course.origname] = course.code;
+					}
+
 					// STEAL EVENTUAL COURSE COMMENTS FROM SUBJECT
 					_.each([["CC-","","innehållet"],["KR-","E","kunskapskraven"]],function(a){
 						var pre=a[0],suf=a[1],call=a[2], cid=pre+course.code+suf;
@@ -704,6 +730,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					GLOBAL.coursenames.push(course.name);
 					GLOBAL.codetocode[course.code] = course.code;
 					GLOBAL.coursetocode[course.name] = course.code;
+					GLOBAL.lowercasecourses[course.name.toLowerCase()] = course.code;
 					GLOBAL.coursecodes.push(course.code);
 				}
 			}
@@ -833,7 +860,7 @@ function fixStr(s,code){
 	if (s.match(/(kursen )?[Hh]istoria 2/)){ return {type:"OR",arr:["HISHIS02a","HISHIS02b"]} }
 	s = s.trim().replace(/^p?å? ?kursen */,"");
 	//return (n && c[0].match(/^\d/) ? list[0].split(/ \d/)[0]+" "+c : c).trim().replace("kursen ","");
-	if (!GLOBAL.codetocode[s] && !okTexts[s]){
+	if (!GLOBAL.codetocode[s] && !okTexts[s] && !GLOBAL.lowercasecourses[s]){
 		console.log(code,"Waaat?",s);
 	}
 	return s;
@@ -842,6 +869,8 @@ function fixStr(s,code){
 function harvestFiles(o){
 	if (typeof o === "string" && GLOBAL.codetocode[o]){
 		return [o];
+	} else if (typeof o === "string" && GLOBAL.lowercasecourses[o]) {
+		return [GLOBAL.lowercasecourses[o]];
 	} else if (o.target){
 		return [o.target];
 	} else if (o.arr){
@@ -851,32 +880,41 @@ function harvestFiles(o){
 	}
 }
 
-var names = _.keys(GLOBAL.coursetocode).sort(function(s,t){return s.length>t.length?-1:s.length<t.length?1:s>t?1:-1;});
+var names = _.keys(GLOBAL.coursetocode)
+	.map(function(s){return s.replace(" [ej aktuell]","")})
+	.sort(function(s,t){return s.length>t.length?-1:s.length<t.length?1:s>t?1:-1;})
+	//.filter(function(n){ return !n.match(" [ej aktuell]"); });
 
 _.each(GLOBAL.courses,function(course,code){
+	if (!course.obsolete && GLOBAL.deadcoursenamestocode[course.name]){
+		course.replaces = GLOBAL.deadcoursenamestocode[course.name];
+	} else if (course.obsolete && GLOBAL.livecoursenamestocode[course.name]){
+		course.replacedby = GLOBAL.livecoursenamestocode[course.name];
+	}
 	//betterbehaved
 	_.each(["descarr","reqRAW","notwithRAW","alsoreqRAW"],function(prop){
 		if (course[prop]){
-			// TODO - fix here, start with just the same subject names! Test with charkuteri to see if it worked!
-			var subjectnames = GLOBAL.subjects[course.subject].courses.map(function(cid){
-				return GLOBAL.courses[cid].name;
-			});
-			var subjectnamestocode = _.reduce(GLOBAL.subjects[course.subject].courses,function(mem,cid){
-				mem[GLOBAL.courses[cid].name] = cid;
-				return mem;
-			},{});
-
-			//console.log("SIBLINGNAMES",subjectnames);
-			_.each(names,function(name){
-				var repcid = GLOBAL.coursetocode[name],
-					repcourse = GLOBAL.courses[repcid];
-				if (repcourse.replaces && course.obsolete){
-					name = GLOBAL.courses[repcourse.replaces].name;
+			_.each(names,function(name,namenum){
+				name = name.replace(" [ej aktuell]","");
+				var repcid = (course.obsolete && GLOBAL.deadcoursenamestocode[name]) || GLOBAL.livecoursenamestocode[name] || GLOBAL.deadcoursenamestocode[name], //  GLOBAL.coursetocode[name],
+					repcourse = GLOBAL.courses[repcid],
+					debug = false && code === "DAODIG0" && {NAINAR0:1,DAODAC0:1}[repcid];
+				if (!repcourse){
+					console.log("ALARM! dealing with course",course.name,prop,"with code",code,"trying to find match for",name,"which should be",repcid);
+					console.log(course.prop);
 				}
 				if (!(code.match("HÄTDEN0")&&name.toLowerCase()==="naturbruk") && 
 					!(name.toLowerCase()==="form" && !course.name.match("Bild"))
-				)
-				    course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+(subjectnamestocode[name] || GLOBAL.coursetocode[name]));
+				) {
+					if (course[prop].match(" "+name) && repcourse.obsolete && !course.obsolete){
+						console.log("ALAAARM! Live course",course.name,course.code,"requiring dead",repcourse.name,repcid,", name was",name,"which in live returns",GLOBAL.livecoursenamestocode[name]);
+						throw "FOO";
+					}
+					debug && console.log("Replacing in course",code,prop,"which was",course[prop],"looking for ",name,repcid,namenum);
+					course[prop] = course[prop].replace(new RegExp(" "+name,"i")," "+repcid);
+					debug && console.log("Afterwards we now have",course[prop]);
+				    //course[prop] = course[prop].replace(" "+name.toLowerCase().replace("vvs","VVS")," "+(GLOBAL.coursetocode[name]));//repcid)); // GLOBAL.coursetocode[name]));
+				}
 			});
 			if (prop !== "descarr") course[prop.replace("RAW","")] = courseList(course[prop],code);
 		}
@@ -903,6 +941,10 @@ _.each(GLOBAL.courses,function(course,code){
 			console.log("HUM shit bah",mine);
 		}
 		_.each(_.uniq(mine),function(cid){
+			if (!GLOBAL.courses[cid]){
+				console.log("NO COURSE FOR",cid,GLOBAL.lowercasecourses[cid]);
+				throw "FOO";
+			}
 			if (!GLOBAL.courses[cid].reqBy){GLOBAL.courses[cid].reqBy = [];}
 			GLOBAL.courses[cid].reqBy = (GLOBAL.courses[cid].reqBy||[]).concat([code]);
 			course.reqarr.push(cid);
@@ -1051,9 +1093,13 @@ _.each(GLOBAL.subjects,function(subject,sid){
 	_.each(subject.courses,function(cid){
 		var course = GLOBAL.courses[cid];
 		_.each((course.reqarr||[]).concat(course.reqBy||[]),function(othercid){
+			subject.hasreqs = true;
+			course.hasreqs = true;
 			var othercourse = GLOBAL.courses[othercid];
+			othercourse.hasreqs = true;
 			if (othercourse.subject !== sid){
 				subject.friends.push(othercourse.subject);
+				GLOBAL.subjects[othercourse.subject].hasreqs = true;
 			}
 		});
 	});

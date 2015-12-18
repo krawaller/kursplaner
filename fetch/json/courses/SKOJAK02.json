@@ -42,6 +42,7 @@
 "req":"SKOJAK01",
 "reqarr":["SKOJAK01"],
 "reqBy":["SKOJAK00S"],
+"hasreqs":true,
 "friends":["SKOFIS01",
 "SKOFIS02",
 "SKOJAK00S",

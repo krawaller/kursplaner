@@ -35,6 +35,7 @@
 "reqBy":["AUTROB0",
 "DARDAT02",
 "INRROB0"],
+"hasreqs":true,
 "friends":["AUTALL0",
 "AUTAVH0",
 "DARCAD0",

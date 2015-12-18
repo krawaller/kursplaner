@@ -38,6 +38,7 @@
 "req":"DRYDRC0",
 "reqarr":["DRYDRC0"],
 "reqBy":["DRYDRY00S"],
+"hasreqs":true,
 "friends":["DRYBAT0",
 "DRYDRY00S",
 "DRYDRC0"]}

@@ -49,6 +49,7 @@
 "comment":"med innehåll textil design"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVTEX02"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

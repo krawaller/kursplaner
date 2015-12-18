@@ -53,6 +53,7 @@
 "req":"HAVFIN05",
 "notwith":"HAVFIN06b",
 "reqarr":["HAVFIN05"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

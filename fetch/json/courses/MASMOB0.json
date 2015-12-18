@@ -53,6 +53,7 @@
 "reqarr":["MASMAI0",
 "MASREP0"],
 "reqBy":["MASMOB01"],
+"hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",
 "FODFOO0",

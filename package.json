@@ -10,7 +10,8 @@
 		"pdf2json": "*",
 		"pdftohtmljs":"*",
 		"object-assign": "^1.0.0",
-		"diff": "1.2.1"
+		"diff": "1.2.1",
+		"graphviz": "^0.0.8"
 	},
 	"scripts": {
 		"build": "browserify --debug -t [reactify --es6] src/index.js > bundle.js",

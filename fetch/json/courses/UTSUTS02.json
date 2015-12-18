@@ -40,6 +40,7 @@
 "UTSUTS03S"],
 "req":"UTSUTS01",
 "reqarr":["UTSUTS01"],
+"hasreqs":true,
 "friends":["KONEVE0",
 "KONKOF01",
 "KONKON02",

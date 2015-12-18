@@ -55,6 +55,7 @@
 "reqarr":["PEDLÄR0",
 "PEDMÄI0"],
 "reqBy":["PEDPED0"],
+"hasreqs":true,
 "friends":["PEDAKI00S",
 "PEDBAS0",
 "PEGDRA0",

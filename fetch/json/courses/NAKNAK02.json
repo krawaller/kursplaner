@@ -43,6 +43,7 @@
 "NAKNAK01b"]},
 "reqarr":["NAKNAK01a2",
 "NAKNAK01b"],
+"hasreqs":true,
 "friends":["NAKNAK01a1",
 "NAKNAK01a2",
 "NAKNAK01b"]}

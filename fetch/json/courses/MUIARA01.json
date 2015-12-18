@@ -35,6 +35,7 @@
 "req":"MUIGEH01",
 "reqarr":["MUIGEH01"],
 "reqBy":["MUIARA02"],
+"hasreqs":true,
 "friends":["MUIARA02",
 "MUIGEH01",
 "MUIGEH02"]}

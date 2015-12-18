@@ -39,6 +39,7 @@
 "reqBy":["DRIUNR0",
 "DRIUNL0",
 "DRIUNP0"],
+"hasreqs":true,
 "friends":["DRIAVH01",
 "DRIAVH02",
 "DRIUND0",

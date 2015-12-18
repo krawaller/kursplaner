@@ -47,6 +47,7 @@
 "FODFOO0"]},
 "reqarr":["FORFOD0",
 "FODFOO0"],
+"hasreqs":true,
 "friends":["FORFOD0",
 "TRAFOR0",
 "TRAFOD0",

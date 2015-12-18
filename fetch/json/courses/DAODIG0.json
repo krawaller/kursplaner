@@ -45,6 +45,7 @@
 "DAODAC0"]},
 "reqarr":["DAODAT01a",
 "DAODAC0"],
+"hasreqs":true,
 "friends":["NAIADM0",
 "NÄVADM0",
 "AUOALL0",

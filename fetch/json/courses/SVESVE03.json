@@ -41,6 +41,7 @@
 "Eleven kan <b>utförligt och</b> <b>nyanserat</b> redogöra för några aspekter av det svenska språkets släktskapsförhållanden och historiska utveckling.<b> Dessutom kan eleven dra relevanta generella slutsatser om språkförändring</b>."]},
 "req":"SVESVE02",
 "reqarr":["SVESVE02"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESKR0",

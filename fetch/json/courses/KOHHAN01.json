@@ -41,6 +41,7 @@
 "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "reqBy":["KOHHAN02"],
+"hasreqs":true,
 "friends":["KOHHAN02",
 "KOHHAN03",
 "KOHHAN04",

@@ -37,6 +37,7 @@
 "Eleven anpassar <b>med säkerhet</b> sin planering av programmeringsuppgiften, <b>anpassar polymorfi</b>, uppmärksammar problem med typsäkerhet och utför <b>på ett systematiskt och effektivt sätt</b> felsökning av syntaxfel, <b>körtidsfel och programmeringslogiska fel</b>. Innan programmeringsuppgiften avslutas utvärderar eleven me <b>nyanserade</b> omdömen <b>och med förslag på förbättringar</b> programmets prestanda och ändamålsenlighet i <b>flera</b> situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder d <b>med säkerhet</b> datalogiska begrepp."]},
 "req":"PRRPRR01",
 "reqarr":["PRRPRR01"],
+"hasreqs":true,
 "friends":["PRRDAT0",
 "MÄTDIS0",
 "PRRIND0",

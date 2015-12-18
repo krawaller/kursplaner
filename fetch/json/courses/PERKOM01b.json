@@ -40,6 +40,7 @@
 "PERMOT0"]},
 "reqarr":["PERBRO0",
 "PERMOT0"],
+"hasreqs":true,
 "friends":["PERBRO0",
 "FORFOD0",
 "FODFOO0",

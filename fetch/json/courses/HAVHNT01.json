@@ -50,6 +50,7 @@
 "comment":"med innehåll från vald profil"},
 "reqarr":["HAVHAV0"],
 "reqBy":["HAVHNT02"],
+"hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",
 "HAVFIN02",

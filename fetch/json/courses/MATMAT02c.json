@@ -63,6 +63,7 @@
 "MATMAT01c"],
 "reqBy":["MATMAT03b",
 "MATMAT03c"],
+"hasreqs":true,
 "friends":["GRNMAT2",
 "MATMAT00S",
 "Matematik 1-3",

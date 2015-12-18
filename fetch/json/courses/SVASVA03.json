@@ -33,6 +33,7 @@
 "Eleven kan göra <b>välgrundade och nyanserade</b> reflektioner över hur språkbruk och språkanvändning påverkar människor sätt att tala och skriva, samt hur språk kan användas för att uttrycka maktförhållanden. Eleven kan ge exempel på inlärningsmöjligheter som förekommer i vardagslivet och undervisningssituationen samt <b>utförligt</b> beskriv <b>och använda</b> strategier och metoder för att utveckla sitt eget lärande."]},
 "req":"SVASVA02",
 "reqarr":["SVASVA02"],
+"hasreqs":true,
 "friends":["SVELIT0",
 "SVERET0",
 "SVESKR0",

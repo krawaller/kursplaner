@@ -29,6 +29,7 @@
 "VAEGEN0",
 "VAEHYD0",
 "VAEKOR0"],
+"hasreqs":true,
 "friends":["VAEDRT0",
 "ELLELL01",
 "ELLELL02",

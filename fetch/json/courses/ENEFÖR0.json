@@ -49,6 +49,7 @@
 "reqarr":["ENEENE01",
 "SKGSKO01",
 "VAOVAT01"],
+"hasreqs":true,
 "friends":["VAEDRT0",
 "ENEENE01",
 "ENEENE02",

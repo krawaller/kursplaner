@@ -41,5 +41,6 @@
 "Eleven redogör <b>utförligt och</b> <b>nyanserat</b> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna."]},
 "req":"ANIANI02",
 "reqarr":["ANIANI02"],
+"hasreqs":true,
 "friends":["ANIANI01",
 "ANIANI02"]}

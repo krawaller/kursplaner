@@ -74,6 +74,7 @@
 "reqarr":["ANLANL02",
 "BIGMAN0"],
 "reqBy":["MOBTEL0"],
+"hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
 "ANLANG0",

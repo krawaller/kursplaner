@@ -34,6 +34,7 @@
 "req":"MALMAL03",
 "reqarr":["MALMAL03"],
 "reqBy":["MALMAL00S"],
+"hasreqs":true,
 "friends":["MALMAL00S",
 "MALMAL01",
 "MALMAL02",

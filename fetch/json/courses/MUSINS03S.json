@@ -37,6 +37,7 @@
 "Eleven planerar och genomför <b>några</b> konsertframträdanden med tillfredsställande resultat och anpassar sitt uttryck efte <b>medmusiker</b>, situation och publik."]},
 "req":"MUSINS02S",
 "reqarr":["MUSINS02S"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS02S",

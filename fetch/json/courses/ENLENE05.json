@@ -45,5 +45,6 @@
 "req":"specialskolans kunskaper eller motsvarande",
 "reqarr":[],
 "reqBy":["ENLENE06"],
+"hasreqs":true,
 "friends":["ENLENE06",
 "ENLENE07"]}

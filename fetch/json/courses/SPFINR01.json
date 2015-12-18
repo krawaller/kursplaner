@@ -52,6 +52,7 @@
 "req":"SPFSPA0",
 "reqarr":["SPFSPA0"],
 "reqBy":["SPFINR02"],
+"hasreqs":true,
 "friends":["SPFDIG0",
 "SPFDRI0",
 "SPFFEL01",
