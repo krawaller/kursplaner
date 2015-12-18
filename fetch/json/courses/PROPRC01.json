@@ -43,6 +43,7 @@
 "reqarr":["MÄTMÄT0"],
 "reqBy":["PROPRC02",
 "PROPRO0"],
+"foreignlinks":["MÄTMÄT0"],
 "hasreqs":true,
 "friends":["DAODAC0",
 "DAODAT0",

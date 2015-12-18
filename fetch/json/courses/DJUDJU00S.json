@@ -42,6 +42,7 @@
 "LANLAN02"]},
 "reqarr":["DJUSÄL01",
 "LANLAN02"],
+"foreignlinks":["LANLAN02"],
 "hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",

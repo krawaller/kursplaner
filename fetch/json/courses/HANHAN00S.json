@@ -45,6 +45,7 @@
 "HANPRA01"]},
 "reqarr":["FÖSSEV0",
 "HANPRA01"],
+"foreignlinks":["FÖSSEV0"],
 "hasreqs":true,
 "friends":["HANAFR0",
 "HANBRS0",

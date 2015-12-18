@@ -49,6 +49,7 @@
 "replaces":"ODLODL0",
 "req":"BIGDJE0",
 "reqarr":["BIGDJE0"],
+"foreignlinks":["BIGDJE0"],
 "hasreqs":true,
 "friends":["BIGBEA0",
 "BIGBIG00S",

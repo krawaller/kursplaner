@@ -46,6 +46,7 @@
 "replaces":"TURVÄR0",
 "req":"RESREM0",
 "reqarr":["RESREM0"],
+"foreignlinks":["RESREM0"],
 "hasreqs":true,
 "friends":["AKTAKT0",
 "TURAKT0",

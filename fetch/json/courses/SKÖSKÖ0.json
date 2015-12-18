@@ -46,6 +46,8 @@
 "VÄXVÄK0"],
 "reqBy":["SKÖBEK0",
 "SKÖSKÖ00S"],
+"foreignlinks":["BIGMAN0",
+"VÄXVÄK0"],
 "hasreqs":true,
 "friends":["SKÖBEK0",
 "BIGBEA0",

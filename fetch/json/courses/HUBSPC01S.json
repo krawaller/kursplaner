@@ -54,6 +54,7 @@
 "req":"HUSHUS03",
 "reqarr":["HUSHUS03"],
 "reqBy":["HUBSPC02S"],
+"foreignlinks":["HUSHUS03"],
 "hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",

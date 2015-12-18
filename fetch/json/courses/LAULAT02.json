@@ -49,6 +49,7 @@
 "TRSTRG0"]},
 "reqarr":["LAULAT01",
 "TRSTRG0"],
+"foreignlinks":["TRSTRG0"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",

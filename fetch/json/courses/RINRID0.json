@@ -39,6 +39,7 @@
 "reqBy":["RINKOR01",
 "RINRID01",
 "TRVTRA01"],
+"foreignlinks":["TRVTRA01"],
 "hasreqs":true,
 "friends":["RINKOR01",
 "RIDKÖR01",

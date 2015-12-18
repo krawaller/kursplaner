@@ -34,6 +34,7 @@
 "req":"GOSGOD0",
 "reqarr":["GOSGOD0"],
 "reqBy":["TRAFOR0"],
+"foreignlinks":["TRAFOR0"],
 "hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",

@@ -52,6 +52,7 @@
 "req":"BYGBYG02",
 "reqarr":["BYGBYG02"],
 "reqBy":["ANLANL02"],
+"foreignlinks":["BYGBYG02"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",

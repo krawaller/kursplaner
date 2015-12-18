@@ -50,6 +50,7 @@
 "MARMAL04"]},
 "reqarr":["LACBAK0",
 "MARMAL04"],
+"foreignlinks":["MARMAL04"],
 "hasreqs":true,
 "friends":["LACBAK0",
 "FORFOD0",

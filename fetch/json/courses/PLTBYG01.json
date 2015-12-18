@@ -53,6 +53,7 @@
 "req":"PLÅPLÅ0",
 "reqarr":["PLÅPLÅ0"],
 "reqBy":["PLTBYG02"],
+"foreignlinks":["PLÅPLÅ0"],
 "hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",

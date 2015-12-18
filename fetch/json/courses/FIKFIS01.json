@@ -39,6 +39,7 @@
 "req":"BIIVAT01",
 "reqarr":["BIIVAT01"],
 "reqBy":["FIKFIS02"],
+"foreignlinks":["BIIVAT01"],
 "hasreqs":true,
 "friends":["BIIVAT01",
 "BIIVAT02",

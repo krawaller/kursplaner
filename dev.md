@@ -1,11 +1,13 @@
 ###PRERELEASE TODO
-
+ - DAK beroenden konstiga
+ - menycss
+ - äkta mobkolumner
  X flowcharts
  X favoriter
  - grundvux poäng sv (2 ggr 1000)
- - lista med kurslänkar
- X lista med ämneslänkar
- X förkunskapskrav och nedlagda kurser (http://localhost:8000/kursplaner/#/courses/PRIPRO02/desc)
+ - smartare lista med kurslänkar
+ X smartare lista med ämneslänkar
+ X fixa förkunskapskrav och nedlagda kurser
  - dynamisk hänvisning i nedlagd kurs till ny kurs
  X lista i kolumner
  - ämnesdesk översta rad

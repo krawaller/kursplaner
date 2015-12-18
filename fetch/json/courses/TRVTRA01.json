@@ -41,6 +41,7 @@
 "notwith":"RINKOR01",
 "reqarr":["RINRID0"],
 "reqBy":["TRVTRA02"],
+"foreignlinks":["RINRID0"],
 "hasreqs":true,
 "friends":["RINKOR01",
 "RIDKÖR01",

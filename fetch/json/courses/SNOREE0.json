@@ -47,6 +47,8 @@
 "reqarr":["SNOREP0",
 "MASREP0",
 "PERREA0"],
+"foreignlinks":["MASREP0",
+"PERREA0"],
 "hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",

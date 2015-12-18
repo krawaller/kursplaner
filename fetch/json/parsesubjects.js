@@ -13,6 +13,7 @@ var GLOBAL = {
 	grundvuxsubjects: [],
 	grundvuxcourses:[],
 	gysubjects:[],
+	gycourses:[],
 	courses: {},
 	subjects: {},
 	coursetocode: {},
@@ -415,6 +416,7 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 						}
 					}
 					sub.courses.push(course.code);
+					GLOBAL.gycourses.push(course.code);
 					// fix thingimajig
 					if (course.obsolete){
 						GLOBAL.deadcoursenamestocode[course.origname] = course.code;
@@ -966,6 +968,16 @@ _.each(GLOBAL.courses,function(course,code){
 		console.log("No category for",name,code);
 	} else {
 		dict[cat] = (dict[cat]||[]).concat(code);
+	}
+	// find foreing reqs
+	var foreign = (course.reqarr||[]).concat(course.reqBy||[]).filter(function(cid){
+		var other = GLOBAL.courses[cid];
+		return other.subject !== course.subject && !(other.obsolete && !course.obsolete);
+	});
+	if (foreign.length){
+		var sub = GLOBAL.subjects[course.subject];
+		course.foreignlinks = foreign;
+		sub.foreignlinks = _.uniq((sub.foreignlinks||[]).concat(foreign));
 	}
 });
 

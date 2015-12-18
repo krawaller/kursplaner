@@ -56,6 +56,7 @@
 "VVS - grund"]},
 "reqarr":["BYGBYG02"],
 "reqBy":["VENVET02"],
+"foreignlinks":["BYGBYG02"],
 "hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",

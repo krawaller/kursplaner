@@ -41,6 +41,7 @@
 "FRIFRS0",
 "RESMAS0",
 "TURMAS0"],
+"foreignlinks":["RESMAS0"],
 "hasreqs":true,
 "friends":["TURAKT0",
 "FRIBAD0",

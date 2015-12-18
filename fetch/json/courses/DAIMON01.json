@@ -39,6 +39,7 @@
 "req":"MNUMON02",
 "reqarr":["MNUMON02"],
 "reqBy":["DAIMON02"],
+"foreignlinks":["MNUMON02"],
 "hasreqs":true,
 "friends":["MÖNDAT01",
 "DAIMON02",

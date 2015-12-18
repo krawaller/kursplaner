@@ -50,6 +50,8 @@
 "WEBWEU01"]},
 "reqarr":["PRRPRR01",
 "WEBWEU01"],
+"foreignlinks":["PRRPRR01",
+"WEBWEU01"],
 "hasreqs":true,
 "friends":["PRRDAT0",
 "PRRIND0",

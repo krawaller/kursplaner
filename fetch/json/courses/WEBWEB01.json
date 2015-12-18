@@ -51,6 +51,7 @@
 "WEBWEB02"],
 "req":"WEBWEU01",
 "reqarr":["WEBWEU01"],
+"foreignlinks":["DAADAT0"],
 "hasreqs":true,
 "friends":["DAADAT0",
 "DALDAT0",

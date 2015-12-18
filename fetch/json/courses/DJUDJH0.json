@@ -39,6 +39,8 @@
 "req":"NAUNAU0",
 "reqarr":["NAUNAU0"],
 "reqBy":["HÄTHÄS01"],
+"foreignlinks":["NAUNAU0",
+"HÄTHÄS01"],
 "hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",

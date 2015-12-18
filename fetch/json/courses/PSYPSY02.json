@@ -40,6 +40,7 @@
 "reqBy":["PSYRÄS0",
 "PSYSAM0",
 "VADVAR00S"],
+"foreignlinks":["VADVAR00S"],
 "hasreqs":true,
 "friends":["PSYPSY01",
 "PSYRÄS0",

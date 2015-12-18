@@ -42,6 +42,7 @@
 "VAIVAI02"]},
 "reqarr":["ADMADM02",
 "VAIVAI02"],
+"foreignlinks":["VAIVAI02"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

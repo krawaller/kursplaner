@@ -37,6 +37,7 @@
 "reqBy":["DJRDJU01",
 "DJUSÄL02",
 "DJUDJU00S"],
+"foreignlinks":["DJRDJU01"],
 "hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",

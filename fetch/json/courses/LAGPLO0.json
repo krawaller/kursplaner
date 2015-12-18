@@ -51,6 +51,7 @@
 "reqarr":["LAGLAG0",
 "LAGLAP0",
 "INKLOG02"],
+"foreignlinks":["INKLOG02"],
 "hasreqs":true,
 "friends":["INKINK01",
 "INKINK02",

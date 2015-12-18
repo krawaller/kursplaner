@@ -35,6 +35,7 @@
 "INRROB0"],
 "req":"DARDAT01S",
 "reqarr":["DARDAT01S"],
+"foreignlinks":["INRROB0"],
 "hasreqs":true,
 "friends":["AUTALL0",
 "AUTAVH0",

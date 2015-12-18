@@ -58,6 +58,8 @@
 "MARMAL01"]},
 "reqarr":["HUSHUS02",
 "MARMAL01"],
+"foreignlinks":["HUSHUS02",
+"MARMAL01"],
 "hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",

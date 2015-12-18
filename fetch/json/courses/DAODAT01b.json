@@ -30,6 +30,7 @@
 "reqBy":["DAODAT0",
 "NAIADM0",
 "NÄVADM0"],
+"foreignlinks":["NAIADM0"],
 "hasreqs":true,
 "friends":["NAIADM0",
 "NÄVADM0",

@@ -45,6 +45,7 @@
 "replaces":"ELTKOT0",
 "req":"ELEELR0",
 "reqarr":["ELEELR0"],
+"foreignlinks":["ELEELR0"],
 "hasreqs":true,
 "friends":["ELOBID0",
 "ELTBID0",

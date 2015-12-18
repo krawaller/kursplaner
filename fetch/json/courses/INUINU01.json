@@ -43,6 +43,7 @@
 "req":"PRUPRD01S",
 "reqarr":["PRUPRD01S"],
 "reqBy":["INUINU02"],
+"foreignlinks":["PRUPRD01S"],
 "hasreqs":true,
 "friends":["PRUINU0",
 "PRUIND0",

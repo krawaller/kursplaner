@@ -48,6 +48,8 @@
 "FRIFRT0"]},
 "reqarr":["AKTBEO0",
 "FRIFRT0"],
+"foreignlinks":["AKTBEO0",
+"FRIFRT0"],
 "hasreqs":true,
 "friends":["AKTAKT0",
 "TURAKT0",

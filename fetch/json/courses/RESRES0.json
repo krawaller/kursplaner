@@ -48,6 +48,7 @@
 "replaces":"TURRES0",
 "req":"AKTBEO0",
 "reqarr":["AKTBEO0"],
+"foreignlinks":["AKTBEO0"],
 "hasreqs":true,
 "friends":["AKTAKT0",
 "TURAKT0",

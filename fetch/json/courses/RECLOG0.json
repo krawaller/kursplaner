@@ -38,6 +38,8 @@
 "reqBy":["RECREC01",
 "SERFRU0",
 "VAIVAI01"],
+"foreignlinks":["SERFRU0",
+"VAIVAI01"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

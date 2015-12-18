@@ -46,6 +46,7 @@
 "MÄTMÄT0"]},
 "reqarr":["AUTFAS01",
 "MÄTMÄT0"],
+"foreignlinks":["MÄTMÄT0"],
 "hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",

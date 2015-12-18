@@ -53,6 +53,7 @@
 "req":"HUSHUS02",
 "reqarr":["HUSHUS02"],
 "reqBy":["MURMUR02"],
+"foreignlinks":["HUSHUS02"],
 "hasreqs":true,
 "friends":["HUSHUS01",
 "HUSHUS02",

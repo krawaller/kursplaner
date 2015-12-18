@@ -47,6 +47,8 @@
 "reqarr":["ENEENE02",
 "ENEVAE0"],
 "reqBy":["KRAKRA02"],
+"foreignlinks":["ENEENE02",
+"ENEVAE0"],
 "hasreqs":true,
 "friends":["ENEENE01",
 "ENEENE02",

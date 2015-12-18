@@ -45,6 +45,7 @@
 "reqarr":["TURBEÖ0",
 "FORFOD0"],
 "reqBy":["TURVÄR0"],
+"foreignlinks":["FORFOD0"],
 "hasreqs":true,
 "friends":["AKTAKT0",
 "TURAKT0",

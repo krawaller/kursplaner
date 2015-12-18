@@ -54,6 +54,8 @@
 "reqarr":["NABVIE0",
 "SKGVIR0",
 "SKGSKO01"],
+"foreignlinks":["SKGVIR0",
+"SKGSKO01"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "FOHFOR0",

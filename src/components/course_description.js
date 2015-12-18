@@ -51,14 +51,14 @@ var CourseDescription = React.createClass({
                       return m.concat([linkToC(part)].concat(n===by.length-1?[]:n===by.length-2?[" och "]:[", "]));
                     },[])).concat([". "])}
                   </p>
-                  {course.samenamecoursecode ? <p>
-                      Det finns en {linkToC(course.samenamecoursecode,"kurs med samma namn")} som denna i ämnet {linkToS(course.samenamesubjectcode)}.
-                  </p> : ""}
                   {course.novux ? (subject.courses.length === 1 ? <p>
                     Denna kurs får ej ges inom vuxenutbildningen.
                   </p> : <p>
                     Liksom övriga kurser i {linkToS(subject.code)} så får denna kurs ej ges inom vuxenutbildningen.
                   </p>) : null}
+                  {course.hasreqs ? <p className="mapcontainer">
+                      <img src={"./img/"+course.code+".png"}/>
+                  </p>:null}
                 </div>
               )
             }

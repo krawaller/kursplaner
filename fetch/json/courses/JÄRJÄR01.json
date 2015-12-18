@@ -55,6 +55,7 @@
 "req":"ANLANL02",
 "reqarr":["ANLANL02"],
 "reqBy":["JÄRJÄR02"],
+"foreignlinks":["ANLANL02"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",

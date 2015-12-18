@@ -39,6 +39,7 @@
 "replaces":"MÖNMÖN02",
 "req":"MNUMON01",
 "reqarr":["MNUMON01"],
+"foreignlinks":["DAIMON01"],
 "hasreqs":true,
 "friends":["DAIMON01",
 "MÖNDAT01",

@@ -58,6 +58,7 @@
 "LANLAN00S"],
 "req":"LANLAN01",
 "reqarr":["LANLAN01"],
+"foreignlinks":["DJUDJU00S"],
 "hasreqs":true,
 "friends":["DJUDJU00S",
 "DJUDJI0",

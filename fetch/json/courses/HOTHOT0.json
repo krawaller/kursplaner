@@ -41,6 +41,7 @@
 "KONKON02"]},
 "reqarr":["HOTREC02",
 "KONKON02"],
+"foreignlinks":["KONKON02"],
 "hasreqs":true,
 "friends":["KONEVE0",
 "HOTFRU0",

@@ -37,6 +37,7 @@
 "SVASVA01"]},
 "reqarr":["SVESVE01",
 "SVASVA01"],
+"foreignlinks":["SVASVA01"],
 "hasreqs":true,
 "friends":["SVELIT0",
 "SVESKR0",

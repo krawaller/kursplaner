@@ -42,6 +42,7 @@
 "req":"TRRTRA0",
 "reqarr":["TRRTRA0"],
 "reqBy":["TRDTRÄ02"],
+"foreignlinks":["TRRTRA0"],
 "hasreqs":true,
 "friends":["TRDTRÄ00S",
 "TRDTRÄ02",

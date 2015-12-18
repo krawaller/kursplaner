@@ -48,6 +48,8 @@
 "DAODAT01b"]},
 "reqarr":["DAODAT01a",
 "DAODAT01b"],
+"foreignlinks":["DAODAT01a",
+"DAODAT01b"],
 "hasreqs":true,
 "friends":["NAIADM0",
 "DAODAC0",

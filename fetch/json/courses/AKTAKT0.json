@@ -50,6 +50,7 @@
 "NAUNAU0"]},
 "reqarr":["AKTBEO0",
 "NAUNAU0"],
+"foreignlinks":["NAUNAU0"],
 "hasreqs":true,
 "friends":["TURAKT0",
 "AKTBEO0",

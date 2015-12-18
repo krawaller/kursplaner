@@ -43,6 +43,8 @@
 "NABSMÅ0",
 "SKGSKO01",
 "SKMSMA0"],
+"foreignlinks":["SKGSKO01",
+"SKMSMA0"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",

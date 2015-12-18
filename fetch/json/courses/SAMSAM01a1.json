@@ -41,6 +41,7 @@
 "reqarr":[],
 "reqBy":["SAMSAM01a2",
 "SAESAM0"],
+"foreignlinks":["SAESAM0"],
 "hasreqs":true,
 "friends":["HUMHUM00S",
 "SAMINE0",

@@ -44,6 +44,7 @@
 "replaces":"HOTFRU0",
 "req":"RECLOG0",
 "reqarr":["RECLOG0"],
+"foreignlinks":["RECLOG0"],
 "hasreqs":true,
 "friends":["SERARR0",
 "RECLOG0",

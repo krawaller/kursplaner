@@ -54,6 +54,8 @@
 "reqarr":["NAUNAU0",
 "RENREE01"],
 "reqBy":["NABVIE0"],
+"foreignlinks":["NAUNAU0",
+"RENREE01"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",

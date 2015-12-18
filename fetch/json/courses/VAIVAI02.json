@@ -46,6 +46,7 @@
 "replaces":"HOTVÅN02",
 "req":"VAIVAI01",
 "reqarr":["VAIVAI01"],
+"foreignlinks":["ADMPER0"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

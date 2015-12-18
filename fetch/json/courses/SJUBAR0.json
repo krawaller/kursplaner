@@ -49,6 +49,8 @@
 "MEDMED01"]},
 "reqarr":["VÅRVÅR02",
 "MEDMED01"],
+"foreignlinks":["VÅRVÅR02",
+"MEDMED01"],
 "hasreqs":true,
 "friends":["SJUAKU0",
 "GRUGRD0",

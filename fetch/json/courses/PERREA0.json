@@ -50,6 +50,7 @@
 "reqBy":["PERBRO0",
 "PERMOT0",
 "SNOREE0"],
+"foreignlinks":["SNOREE0"],
 "hasreqs":true,
 "friends":["PERBRO0",
 "FORFOD0",

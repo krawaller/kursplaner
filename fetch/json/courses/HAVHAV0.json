@@ -45,6 +45,8 @@
 "HAVFRI01",
 "HAVTEX01",
 "HAVHNT01"],
+"foreignlinks":["FOMFAC0",
+"FOMTEX0"],
 "hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",

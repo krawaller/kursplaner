@@ -43,6 +43,7 @@
 "MASLAI0",
 "MASMOB0",
 "SNOREE0"],
+"foreignlinks":["SNOREE0"],
 "hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",

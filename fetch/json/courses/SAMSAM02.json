@@ -39,6 +39,7 @@
 "SAMSAM01b"],
 "reqBy":["SAMSAM03",
 "HUMHUM00S"],
+"foreignlinks":["HUMHUM00S"],
 "hasreqs":true,
 "friends":["HUMHUM00S",
 "SAMINE0",

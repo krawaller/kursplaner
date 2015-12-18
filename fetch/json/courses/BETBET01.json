@@ -55,6 +55,8 @@
 "reqarr":["BYGBYG02"],
 "reqBy":["BETBET02",
 "ELMELM0"],
+"foreignlinks":["BYGBYG02",
+"ELMELM0"],
 "hasreqs":true,
 "friends":["BETBET02",
 "BETBET03",

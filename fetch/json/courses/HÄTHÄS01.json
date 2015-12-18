@@ -48,6 +48,8 @@
 "HÄTDEN01b"],
 "req":"DJUDJH0",
 "reqarr":["DJUDJH0"],
+"foreignlinks":["DJUDJH0",
+"DJRDJU01"],
 "hasreqs":true,
 "friends":["HÄTDEN01a",
 "HÄTDEN01b",

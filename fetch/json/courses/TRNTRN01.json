@@ -33,6 +33,8 @@
 "reqBy":["SPEIDS02",
 "SPETRÄ02",
 "TRNTRN02"],
+"foreignlinks":["SPEIDS02",
+"SPETRÄ02"],
 "hasreqs":true,
 "friends":["SPEIDT0",
 "SPEIDS01",

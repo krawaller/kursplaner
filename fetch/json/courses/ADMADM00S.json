@@ -44,6 +44,7 @@
 "ADMADM01"]},
 "reqarr":["FÖSSEV0",
 "ADMADM01"],
+"foreignlinks":["FÖSSEV0"],
 "hasreqs":true,
 "friends":["ADMADM01",
 "ADMADM02",

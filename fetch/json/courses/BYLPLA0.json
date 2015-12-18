@@ -48,6 +48,7 @@
 "req":"SAHBYC0",
 "reqarr":["SAHBYC0"],
 "reqBy":["BYLPRO0"],
+"foreignlinks":["SAHBYC0"],
 "hasreqs":true,
 "friends":["SAHBIM0",
 "SAHBYV0",

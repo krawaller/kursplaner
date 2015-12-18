@@ -43,6 +43,7 @@
 "replaces":"NABLAA0",
 "req":"FOHFOR0",
 "reqarr":["FOHFOR0"],
+"foreignlinks":["FOHFOR0"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",

@@ -46,6 +46,8 @@
 "replaces":"HOTREC02",
 "req":"RECREC01",
 "reqarr":["RECREC01"],
+"foreignlinks":["ADMADM01",
+"KONRUM0"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

@@ -74,6 +74,8 @@
 "reqarr":["ANLANL02",
 "BIGMAN0"],
 "reqBy":["MOBTEL0"],
+"foreignlinks":["ANLANL02",
+"BIGMAN0"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",

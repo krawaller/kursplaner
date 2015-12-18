@@ -14,8 +14,23 @@ var SubjectCourseList = React.createClass({
         DB = this.props.DB;
     function linkToC(d){
         var c = DB.courses[d];
-        return <Link to="coursedesc" params={{course:d}}>{c.name}{c.points && <span>, {c.points} poäng</span>}</Link>;
+        return <Link to="coursedesc" params={{course:d}}>{c.name}</Link>;
     }
+    function makeList(courses){
+        var l = courses.length;
+        return _.reduce(courses,function(mem,cid,n){
+            mem.push(linkToC(cid));
+            if (n === l-1){
+                //mem.push(".");
+            } else if (n === l-2){
+                mem.push(" och ");
+            } else {
+                mem.push(", ");
+            }
+            return mem;
+        },[]);
+    }
+
     return (
         <Section headline="Kurser i ämnet">
             {subject.school==="grund" ? (
@@ -58,12 +73,15 @@ var SubjectCourseList = React.createClass({
                     </table>
                     {subject.hasreqs ? <div>
                         <p>
-Nedan visas en karta över förkunskapskrav som kurser i detta ämne ingår i. Berörda kurser i andra ämnen visas streckade.
+<span>Nedan visas en karta över förkunskapskrav som kurser i detta ämne ingår i. </span>
+{subject.foreignlinks ?
+    <span> Berörda kurser som tillhör andra ämnen ({makeList(subject.foreignlinks)}) visas streckade.</span>
+: null}
                         </p>
                         <p className="mapcontainer">
                             <img src={"./img/"+subject.code+".png"}/>
                         </p>
-                    </div>: null}
+                    </div>: subject.school ? null : subject.courses.length === 1 ? <p>Kursen har inga förkunskapskrav och ingår inte i några andra kursers förkunskapskrav.</p> : <p>Ingen av kurserna har några förkunskapskrav, och de ingår inte heller i förkunskapskraven för några andra kurser.</p>}
                 </div>
             )}
         </Section>

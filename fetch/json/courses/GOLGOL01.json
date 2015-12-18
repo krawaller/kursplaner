@@ -53,6 +53,7 @@
 "req":"BYGBYG02",
 "reqarr":["BYGBYG02"],
 "reqBy":["GOLGOL02"],
+"foreignlinks":["BYGBYG02"],
 "hasreqs":true,
 "friends":["BYGBYG01",
 "BYGBYG02",

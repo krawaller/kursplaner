@@ -50,6 +50,7 @@
 "replaces":"DALDAT0",
 "req":"WEBWEB01",
 "reqarr":["WEBWEB01"],
+"foreignlinks":["WEBWEB01"],
 "hasreqs":true,
 "friends":["DALDAT0",
 "WEBMOB0",

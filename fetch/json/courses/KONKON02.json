@@ -49,6 +49,7 @@
 "KONRUM0"],
 "req":"KONKOF01",
 "reqarr":["KONKOF01"],
+"foreignlinks":["ADMADM01"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

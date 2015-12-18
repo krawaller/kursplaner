@@ -48,6 +48,7 @@
 "reqarr":["TRRTRA0",
 "VAOVAT01"],
 "reqBy":["TRRTRA00S"],
+"foreignlinks":["VAOVAT01"],
 "hasreqs":true,
 "friends":["BIGBEA0",
 "BIGBIG00S",

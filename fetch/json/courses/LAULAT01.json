@@ -50,6 +50,7 @@
 "notwith":"TRSTRG0",
 "reqarr":["FOHFOR0"],
 "reqBy":["LAULAT02"],
+"foreignlinks":["FOHFOR0"],
 "hasreqs":true,
 "friends":["SKMAVV0",
 "NABAVV0",

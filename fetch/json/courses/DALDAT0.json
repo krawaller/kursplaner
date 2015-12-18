@@ -50,6 +50,7 @@
 "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <b>utförligt och</b> <b>nyanserat</b> om personlig integritet och andra etiska frågor i relation till datalagring."]},
 "req":"WEBWEB01",
 "reqarr":["WEBWEB01"],
+"foreignlinks":["WEBWEB01"],
 "hasreqs":true,
 "friends":["DAADAT0",
 "WEBMOB0",

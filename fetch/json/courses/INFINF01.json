@@ -37,6 +37,7 @@
 "INFINF02",
 "INFINE0",
 "INFPRG0"],
+"foreignlinks":["ADMADM01"],
 "hasreqs":true,
 "friends":["ADMADM00S",
 "ADMADM01",

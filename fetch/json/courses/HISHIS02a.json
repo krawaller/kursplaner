@@ -43,6 +43,7 @@
 "HISHIS01b"],
 "reqBy":["HISHIS03",
 "HUMHUM00S"],
+"foreignlinks":["HUMHUM00S"],
 "hasreqs":true,
 "friends":["GRNHIS2",
 "Historia 1-3",

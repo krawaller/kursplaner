@@ -43,6 +43,7 @@
 "HAVHAV0"]},
 "reqarr":["FOMFOR01S",
 "HAVHAV0"],
+"foreignlinks":["HAVHAV0"],
 "hasreqs":true,
 "friends":["HAVFIN01",
 "HAVFIN02",

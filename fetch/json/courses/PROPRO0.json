@@ -48,6 +48,7 @@
 "reqarr":["DAOINU0",
 "PROPRC01",
 "PROPRE0"],
+"foreignlinks":["DAOINU0"],
 "hasreqs":true,
 "friends":["DAODAC0",
 "DAODAT0",

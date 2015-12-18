@@ -40,6 +40,7 @@
 "reqBy":["MASLAT0",
 "MASLAI0",
 "MASMOB0"],
+"foreignlinks":["FODFOO0"],
 "hasreqs":true,
 "friends":["MASANP0",
 "MASARB0",

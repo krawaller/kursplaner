@@ -70,6 +70,7 @@
 "MOBHJU0"]},
 "reqarr":["BYGBYG02"],
 "reqBy":["ANAANA02"],
+"foreignlinks":["BYGBYG02"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",

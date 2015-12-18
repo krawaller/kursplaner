@@ -37,6 +37,7 @@
 "req":"MEDMED01",
 "reqarr":["MEDMED01"],
 "reqBy":["VADVAR00S"],
+"foreignlinks":["VADVAR00S"],
 "hasreqs":true,
 "friends":["SJUAKU0",
 "SJUBAR0",

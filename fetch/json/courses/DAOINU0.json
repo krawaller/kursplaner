@@ -37,6 +37,8 @@
 "PROPRO0"],
 "req":"DAODAT01a",
 "reqarr":["DAODAT01a"],
+"foreignlinks":["AUOAVH0",
+"PROPRO0"],
 "hasreqs":true,
 "friends":["NAIADM0",
 "NÄVADM0",

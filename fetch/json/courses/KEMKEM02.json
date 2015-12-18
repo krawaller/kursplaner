@@ -48,6 +48,7 @@
 "req":"KEMKEM01",
 "reqarr":["KEMKEM01"],
 "reqBy":["NAVNAT00S"],
+"foreignlinks":["NAVNAT00S"],
 "hasreqs":true,
 "friends":["GRNKEM2",
 "KEMKEM01",

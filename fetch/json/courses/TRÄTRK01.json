@@ -60,6 +60,8 @@
 "req":"HUSHUS02",
 "notwith":"TRÄBYG0",
 "reqarr":["HUSHUS02"],
+"foreignlinks":["HUSHUS02",
+"ELMELM0"],
 "hasreqs":true,
 "friends":["TRÄBYG0",
 "ELMELM0",
