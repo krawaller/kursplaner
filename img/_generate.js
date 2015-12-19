@@ -11,22 +11,20 @@ var fixName = function(str,thissub,mainsub){
 	return str;
 }
 
-DB.gysubjects.forEach(function(sid){
+function drawSubject(sid){
 	var sub = DB.subjects[sid],
 		nodes = {},
 		edges = {},
-		g = graphviz.digraph("G");
+		g;
 	if (sub.hasreqs){
+		g = graphviz.digraph("G");
 		sub.courses.forEach(function(cid){
 			var course = DB.courses[cid],
 				cname = fixName(course.name,course.subject,sid),
-				debug = cid === "SVESKR0";
+				debug = false; // cid === "SVESKR0";
 			if (course.hasreqs){
 				if (!nodes[cname]){
 					nodes[cname] = g.addNode(cname);
-				}
-				if (sub.code === "MAT"){
-					console.log("MATTE",cid,cname);
 				}
 				(course.reqarr||[]).forEach(function(rcid){
 					var rcourse = DB.courses[rcid],
@@ -61,17 +59,17 @@ DB.gysubjects.forEach(function(sid){
 		g.output( "png", sub.code+".png" );
 	}
 	//console.log("Finished",sub.name);
-});
+}
 
-
-
-DB.gycourses.forEach(function(cid){
+function drawCourse(cid){
 	var course = DB.courses[cid],
 		cname = course.name, //fixName(course.name,course.subject,sid),
-		debug = false, // cid === "SVESKR0";
+		debug = false,
 		nodes = {},
-		g = graphviz.digraph("G");
+		g;
 	if (course.hasreqs){
+		g = graphviz.digraph("G");
+		debug && console.log("Drawing",cid);
 		nodes[cname] = g.addNode(cname,{style:"bold"});
 		(course.reqarr||[]).forEach(function(rcid){
 			var rcourse = DB.courses[rcid],
@@ -91,9 +89,32 @@ DB.gycourses.forEach(function(cid){
 				g.addEdge( nodes[cname], nodes[rname], styles );
 			}
 		});
-		g.output( "png", course.code+".png" );
+		try {
+			g.output( "png", course.code+".png" );
+		} catch(e) {
+			console.log("The eff?!",cid,cname,course.reqarr,course.reqBy);
+			throw e;
+		}
+	} else {
+		debug && console.log("Ignoring",cid);
 	}
+}
+
+
+//DB.gysubjects.forEach(drawSubject);
+
+//drawCourse = _.debounce(drawCourse,100);
+//DB.gycourses.forEach(drawCourse);
+var pertime = 25,
+	betweeneach = 800;
+_.range(0,Math.ceil(DB.gycourses.length/pertime)+1).forEach(function(n){
+	_.delay(function(){
+		console.log("Dealing with",n*pertime,"to",(n+1)*pertime);
+		DB.gycourses.slice(n*pertime,(n+1)*pertime).forEach(drawCourse)
+	},n*betweeneach);
 });
+
+console.log(DB.gycourses);
 
 
 /*

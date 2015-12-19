@@ -1,20 +1,21 @@
 {
-	"devDependencies": {
-		"lodash": "*",
-		"browserify": "~5.11.2",
-		"reactify": "~0.14.0",
-		"react": "~0.12.1",
-		"uglify-js": "~2.4.15",
-		"react-router": "~0.11.4",
-		"jsdom": "7.1.0",
-		"pdf2json": "*",
-		"pdftohtmljs":"*",
-		"object-assign": "^1.0.0",
-		"diff": "1.2.1",
-		"graphviz": "^0.0.8"
-	},
-	"scripts": {
-		"build": "browserify --debug -t [reactify --es6] src/index.js > bundle.js",
-		"build-dist": "NODE_EMV?production browserify -t [reactify --es6] src/index.js | uglifyjs -m > bundle.min.js"
-	}
+  "devDependencies": {
+    "async": "^1.5.0",
+    "browserify": "~5.11.2",
+    "diff": "1.2.1",
+    "graphviz": "^0.0.8",
+    "jsdom": "7.1.0",
+    "lodash": "*",
+    "object-assign": "^1.0.0",
+    "pdf2json": "*",
+    "pdftohtmljs": "*",
+    "react": "~0.12.1",
+    "react-router": "~0.11.4",
+    "reactify": "~0.14.0",
+    "uglify-js": "~2.4.15"
+  },
+  "scripts": {
+    "build": "browserify --debug -t [reactify --es6] src/index.js > bundle.js",
+    "build-dist": "NODE_EMV?production browserify -t [reactify --es6] src/index.js | uglifyjs -m > bundle.min.js"
+  }
 }
