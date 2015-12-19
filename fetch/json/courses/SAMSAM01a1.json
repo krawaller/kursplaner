@@ -39,6 +39,7 @@
 "req":"de kunskaper grundskolan ger eller motsvarande",
 "notwith":"SAMSAM01b",
 "reqarr":[],
+"notwitharr":["SAMSAM01b"],
 "reqBy":["SAMSAM01a2",
 "SAESAM0"],
 "foreignlinks":["SAESAM0"],

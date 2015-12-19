@@ -44,6 +44,7 @@
 "req":"HAVFLO05",
 "notwith":"HAVFLO06a",
 "reqarr":["HAVFLO05"],
+"notwitharr":["HAVFLO06a"],
 "hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",

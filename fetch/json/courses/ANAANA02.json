@@ -65,6 +65,8 @@
 "arr":["MOBGRV0",
 "MOBHJU0"]},
 "reqarr":["ANAANA01"],
+"notwitharr":["MOBGRV0",
+"MOBHJU0"],
 "reqBy":["ANAANA03",
 "ANLANÄ0",
 "ANLANN0"],

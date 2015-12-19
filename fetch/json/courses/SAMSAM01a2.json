@@ -35,6 +35,7 @@
 "req":"SAMSAM01a1",
 "notwith":"SAMSAM01b",
 "reqarr":["SAMSAM01a1"],
+"notwitharr":["SAMSAM01b"],
 "reqBy":["SAMSAM02",
 "SAMINE0",
 "SAMINR0"],

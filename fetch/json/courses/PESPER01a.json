@@ -45,6 +45,7 @@
 "reqBy":["PESPER00S"],
 "foreignlinks":["TRAYRK01a",
 "TRAYRK01b"],
+"notwitharr":["PESPER1"],
 "hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",

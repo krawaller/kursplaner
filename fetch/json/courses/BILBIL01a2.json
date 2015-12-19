@@ -48,6 +48,7 @@
 "req":"BILBIL01a1",
 "notwith":"BILBIL01b",
 "reqarr":["BILBIL01a1"],
+"notwitharr":["BILBIL01b"],
 "reqBy":["BILBIL0",
 "BILFOM0"],
 "hasreqs":true,

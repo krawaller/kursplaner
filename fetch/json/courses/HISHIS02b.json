@@ -43,6 +43,8 @@
 "notwith":"HISHIS02a",
 "reqarr":["HISHIS01a2",
 "HISHIS01b"],
+"notwitharr":["HISHIS02a",
+"SAESAM0"],
 "reqBy":["HISHIS03",
 "HUMHUM00S"],
 "foreignlinks":["HUMHUM00S"],

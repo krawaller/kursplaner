@@ -56,6 +56,7 @@
 "req":"TRÄTRK01",
 "notwith":"TRÄBYG0",
 "reqarr":["TRÄTRK01"],
+"notwitharr":["TRÄBYG0"],
 "foreignlinks":["GOLGOL03"],
 "hasreqs":true,
 "friends":["TRÄBYG0",

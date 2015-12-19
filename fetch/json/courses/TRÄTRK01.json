@@ -60,6 +60,7 @@
 "req":"HUSHUS02",
 "notwith":"TRÄBYG0",
 "reqarr":["HUSHUS02"],
+"notwitharr":["TRÄBYG0"],
 "foreignlinks":["HUSHUS02",
 "ELMELM0"],
 "hasreqs":true,

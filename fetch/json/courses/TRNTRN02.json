@@ -39,6 +39,7 @@
 "SPETRÄ03"],
 "req":"TRNTRN01",
 "reqarr":["TRNTRN01"],
+"notwitharr":["SPETRÄ02"],
 "foreignlinks":["SPEIDS03",
 "SPETRÄ03"],
 "hasreqs":true,

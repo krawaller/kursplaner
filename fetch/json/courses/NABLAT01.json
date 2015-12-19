@@ -49,6 +49,7 @@
 "req":"NABFOR0",
 "notwith":"NABTRG0",
 "reqarr":["NABFOR0"],
+"notwitharr":["NABTRG0"],
 "reqBy":["NABLAT02"],
 "hasreqs":true,
 "friends":["SKMAVV0",

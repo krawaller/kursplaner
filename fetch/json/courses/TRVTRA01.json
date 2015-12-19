@@ -40,6 +40,7 @@
 "req":"RINRID0",
 "notwith":"RINKOR01",
 "reqarr":["RINRID0"],
+"notwitharr":["RINKOR01"],
 "reqBy":["TRVTRA02"],
 "foreignlinks":["RINRID0"],
 "hasreqs":true,

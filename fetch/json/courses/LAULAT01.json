@@ -49,6 +49,7 @@
 "req":"FOHFOR0",
 "notwith":"TRSTRG0",
 "reqarr":["FOHFOR0"],
+"notwitharr":["TRSTRG0"],
 "reqBy":["LAULAT02"],
 "foreignlinks":["FOHFOR0"],
 "hasreqs":true,

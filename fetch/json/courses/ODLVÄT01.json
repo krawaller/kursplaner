@@ -57,6 +57,7 @@
 "req":"BIGMAN0",
 "notwith":"ODLTRÅ0",
 "reqarr":["BIGMAN0"],
+"notwitharr":["ODLTRÅ0"],
 "foreignlinks":["BIGMAN0"],
 "hasreqs":true,
 "friends":["BIGBEA0",

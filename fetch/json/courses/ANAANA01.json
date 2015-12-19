@@ -69,6 +69,8 @@
 "arr":["MOBGRV0",
 "MOBHJU0"]},
 "reqarr":["BYGBYG02"],
+"notwitharr":["MOBGRV0",
+"MOBHJU0"],
 "reqBy":["ANAANA02"],
 "foreignlinks":["BYGBYG02"],
 "hasreqs":true,

@@ -1,7 +1,8 @@
 var util = require('util'),
     graphviz = require('graphviz'),
     DB = require('../fetch/json/master.json'),
-    _ = require('lodash');
+    _ = require('lodash'),
+    writepngfromdot = require('./_writepngfromdot');
 
 var fixName = function(str,thissub,mainsub){
 	//str = str;
@@ -22,7 +23,7 @@ function drawSubject(sid){
 			var course = DB.courses[cid],
 				cname = fixName(course.name,course.subject,sid),
 				debug = false; // cid === "SVESKR0";
-			if (course.hasreqs){
+			if (course.hasreqs || course.notwitharr){
 				if (!nodes[cname]){
 					nodes[cname] = g.addNode(cname);
 				}
@@ -54,6 +55,25 @@ function drawSubject(sid){
 						}
 					}
 				});
+				(course.notwitharr||[]).forEach(function(ncid){
+					var ncourse = DB.courses[ncid],
+						nname = fixName(ncourse.name,ncourse.subject,course.subject),
+						styles = ncourse.subject !== course.subject ? {style:"dashed"} : {},
+						edgename = [cname,nname].sort().join("_");
+					if (!edges[edgename]){
+						if (!nodes[nname]){
+							nodes[nname] = g.addNode(nname,styles);
+						}
+						edges[edgename] = 1;
+						g.addEdge( nodes[cname], nodes[nname], {
+							color: "red",
+							dir: "both",
+							arrowhead: "tee",
+							arrowtail: "tee",
+							constraint: false
+						});
+					}
+				});
 			}
 		});
 		g.output( "png", sub.code+".png" );
@@ -66,30 +86,56 @@ function drawCourse(cid){
 		cname = course.name, //fixName(course.name,course.subject,sid),
 		debug = false,
 		nodes = {},
-		g;
-	if (course.hasreqs){
-		g = graphviz.digraph("G");
+		g, before, after, same;
+	if (course.hasreqs || course.notwitharr){
+		g = graphviz.digraph("G",{foo:"BAR",rankdir:"UD"});
+		before = g.addCluster("cluster_before");
+		same = g.addCluster("cluster_same",{rank:"same"});
+		g.set("rankdir","UD");
+		after = g.addCluster("cluster_after");
 		debug && console.log("Drawing",cid);
-		nodes[cname] = g.addNode(cname,{style:"bold"});
+		nodes[cname] = same.addNode(cname,{style:"bold",group:cid});
+		// FIRST JUST NODES AND EDGES IN SAME LEVEL
+		(course.notwitharr||[]).forEach(function(ncid){
+			var ncourse = DB.courses[ncid],
+				nname = fixName(ncourse.name,ncourse.subject,course.subject),
+				styles = ncourse.subject !== course.subject ? {style:"dashed",group:cid} : {group:cid};
+			if (!nodes[nname]){
+				nodes[nname] = same.addNode(nname,styles);
+			}
+			same.addEdge( nodes[nname], nodes[cname], {
+				color: "red",
+				dir: "both",
+				arrowhead: "tee",
+				arrowtail: "tee",
+				weight: 2
+			});
+		});
+
 		(course.reqarr||[]).forEach(function(rcid){
 			var rcourse = DB.courses[rcid],
 				rname = fixName(rcourse.name,rcourse.subject,course.subject);
 				styles = rcourse.subject !== course.subject ? {style:"dashed"} : {};
-			nodes[rname] = g.addNode(rname,styles);
+			nodes[rname] = before.addNode(rname,styles);
 			debug && console.log("adding edge from",cid,"to",rcid);
-			g.addEdge( nodes[rname], nodes[cname], styles );
+			g.addEdge( nodes[rname], nodes[cname], _.extend({weight:1},styles) );
 		});
 		(course.reqBy||[]).forEach(function(rcid){
 			var rcourse = DB.courses[rcid],
 				rname = fixName(rcourse.name,rcourse.subject,course.subject),
 				styles = rcourse.subject !== course.subject ? {style:"dashed"} : {};
 			if (!(rcourse.obsolete && !course.obsolete)){
-				nodes[rname] = g.addNode(rname,styles);
+				nodes[rname] = after.addNode(rname,styles);
 				debug && console.log("adding edge from",rcid,"to",cid);
-				g.addEdge( nodes[cname], nodes[rname], styles );
+				g.addEdge( nodes[cname], nodes[rname], _.extend({weight:3},styles) );
 			}
 		});
+
+
+
+
 		try {
+			console.log( g.to_dot() ); 
 			g.output( "png", course.code+".png" );
 		} catch(e) {
 			console.log("The eff?!",cid,cname,course.reqarr,course.reqBy);
@@ -100,21 +146,64 @@ function drawCourse(cid){
 	}
 }
 
+function drawCourse2(cid){
+	var course = DB.courses[cid],
+		cname = course.name, //fixName(course.name,course.subject,sid),
+		debug = false,
+		g,
+		flip = false;
+	if (course.hasreqs || course.notwitharr){
+		g = 'digraph G { rankdir=TB; "'+cname+'" [style=bold]; ';
+		debug && console.log("Drawing",cid);
+		// FIRST JUST NODES AND EDGES IN SAME LEVEL
+		if (course.notwitharr){
+			var samestr = '{ rank=same; "'+cname+'"; ';
+			course.notwitharr.forEach(function(ncid){
+				var ncourse = DB.courses[ncid],
+					nname = fixName(ncourse.name,ncourse.subject,course.subject),
+					styles = ncourse.subject !== course.subject ? '[style=dashed]' : '';
+				g += '"'+nname+'" '+styles+';';
+				g += ((flip = !flip) ? '"'+nname+'" -> "'+cname+'"' : '"'+cname+'" -> "'+nname+'" ')+'[ color = red, dir = both, arrowhead = tee, arrowtail = tee]; ';
+				samestr+= '"'+nname+'"; ';
+			});
+			g += samestr+' } '; // { rank=same; "Matematik 2a"; "Matematik 2b"; "Matematik 2c"; }
+		}
+		(course.reqarr||[]).forEach(function(rcid){
+			var rcourse = DB.courses[rcid],
+				rname = fixName(rcourse.name,rcourse.subject,course.subject);
+				styles = rcourse.subject !== course.subject ? '[style=dashed]' : '';
+			g += '"'+rname+'" '+styles+'; ';
+			g += '"'+rname+'" -> "'+cname+'"; ';
+		});
+		(course.reqBy||[]).forEach(function(rcid){
+			var rcourse = DB.courses[rcid],
+				rname = fixName(rcourse.name,rcourse.subject,course.subject);
+				styles = rcourse.subject !== course.subject ? '[style=dashed]' : '';
+			if (!(!course.obsolete && rcourse.obsolete)){
+				g += '"'+rname+'" '+styles+'; ';
+				g += '"'+cname+'" -> "'+rname+'"; ';
+			};
+		});
+		writepngfromdot(g+' }','./'+course.code+".png");
+	} else {
+		debug && console.log("Ignoring",cid);
+	}
+}
+
 
 //DB.gysubjects.forEach(drawSubject);
 
 //drawCourse = _.debounce(drawCourse,100);
 //DB.gycourses.forEach(drawCourse);
+
 var pertime = 25,
 	betweeneach = 800;
 _.range(0,Math.ceil(DB.gycourses.length/pertime)+1).forEach(function(n){
 	_.delay(function(){
 		console.log("Dealing with",n*pertime,"to",(n+1)*pertime);
-		DB.gycourses.slice(n*pertime,(n+1)*pertime).forEach(drawCourse)
+		DB.gycourses.slice(n*pertime,(n+1)*pertime).forEach(drawCourse2)
 	},n*betweeneach);
 });
-
-console.log(DB.gycourses);
 
 
 /*

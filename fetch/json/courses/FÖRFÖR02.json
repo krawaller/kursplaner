@@ -42,6 +42,7 @@
 "req":"FÖRFÖR01",
 "notwith":"FÖRRED01",
 "reqarr":["FÖRFÖR01"],
+"notwitharr":["FÖRRED01"],
 "reqBy":["FÖRFÖR00S",
 "FÖRRED02"],
 "hasreqs":true,

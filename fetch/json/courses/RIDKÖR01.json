@@ -46,6 +46,7 @@
 "req":"RIDRID0",
 "notwith":"RIDTRA01",
 "reqarr":["RIDRID0"],
+"notwitharr":["RIDTRA01"],
 "reqBy":["RIDKÖR02"],
 "hasreqs":true,
 "friends":["RINKOR01",

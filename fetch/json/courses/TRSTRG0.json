@@ -49,6 +49,7 @@
 "req":"FOHFOR0",
 "notwith":"LAULAT01",
 "reqarr":["FOHFOR0"],
+"notwitharr":["LAULAT01"],
 "foreignlinks":["FOHFOR0",
 "LAULAT02"],
 "hasreqs":true,

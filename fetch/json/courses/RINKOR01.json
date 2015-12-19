@@ -46,6 +46,7 @@
 "req":"RINRID0",
 "notwith":"TRVTRA01",
 "reqarr":["RINRID0"],
+"notwitharr":["TRVTRA01"],
 "reqBy":["RINKOR02"],
 "hasreqs":true,
 "friends":["RIDKÖR01",

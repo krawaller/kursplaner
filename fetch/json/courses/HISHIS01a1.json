@@ -33,6 +33,7 @@
 "req":"de kunskaper grundskolan ger eller motsvarande",
 "notwith":"HISHIS01b",
 "reqarr":[],
+"notwitharr":["HISHIS01b"],
 "reqBy":["HISHIS01a2",
 "SAESAM0"],
 "foreignlinks":["SAESAM0"],

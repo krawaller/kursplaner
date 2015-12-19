@@ -52,6 +52,7 @@
 "req":"HAVTEX05",
 "notwith":"HAVTEX06b",
 "reqarr":["HAVTEX05"],
+"notwitharr":["HAVTEX06b"],
 "hasreqs":true,
 "friends":["FOMFAC0",
 "HAVFIN01",

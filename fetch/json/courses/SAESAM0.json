@@ -57,6 +57,8 @@
 "HISHIS02b"]},
 "reqarr":["HISHIS01a1",
 "SAMSAM01a1"],
+"notwitharr":["HISHIS02a",
+"HISHIS02b"],
 "foreignlinks":["HISHIS01a1",
 "SAMSAM01a1"],
 "hasreqs":true,

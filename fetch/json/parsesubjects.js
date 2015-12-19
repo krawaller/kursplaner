@@ -939,9 +939,6 @@ _.each(GLOBAL.courses,function(course,code){
 	if (course.req){
 		course.reqarr = [];
 		var mine = harvestFiles(course.req);
-		if (code==="HUMHUM00S"){
-			console.log("HUM shit bah",mine);
-		}
 		_.each(_.uniq(mine),function(cid){
 			if (!GLOBAL.courses[cid]){
 				console.log("NO COURSE FOR",cid,GLOBAL.lowercasecourses[cid]);
@@ -951,6 +948,9 @@ _.each(GLOBAL.courses,function(course,code){
 			GLOBAL.courses[cid].reqBy = (GLOBAL.courses[cid].reqBy||[]).concat([code]);
 			course.reqarr.push(cid);
 		});
+	}
+	if (course.notwith){
+		course.notwitharr = harvestFiles(course.notwith);
 	}
 });
 
@@ -978,6 +978,16 @@ _.each(GLOBAL.courses,function(course,code){
 		var sub = GLOBAL.subjects[course.subject];
 		course.foreignlinks = foreign;
 		sub.foreignlinks = _.uniq((sub.foreignlinks||[]).concat(foreign));
+	}
+	// check notwithstuff
+	if (course.notwitharr){
+		course.notwitharr.forEach(function(othercid){
+			var othercourse = GLOBAL.courses[othercid];
+			if (!othercourse.notwitharr || !_.contains(othercourse.notwitharr,code)){
+				console.log("WHAT THE HECK",code,"cannot join",othercid,"but that course lacks same warning!",othercourse.notwitharr);
+				othercourse.notwitharr = (othercourse.notwitharr||[]).concat(code);
+			}
+		});
 	}
 });
 

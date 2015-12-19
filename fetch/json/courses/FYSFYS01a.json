@@ -64,6 +64,8 @@
 "arr":["FYSFYS01b1",
 "FYSFYS01b2"]},
 "reqarr":[],
+"notwitharr":["FYSFYS01b1",
+"FYSFYS01b2"],
 "reqBy":["FYSFYS02"],
 "hasreqs":true,
 "friends":["Fysik 1-3",

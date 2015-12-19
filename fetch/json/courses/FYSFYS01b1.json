@@ -51,6 +51,7 @@
 "req":"grundskolans kunskaper eller motsvarande",
 "notwith":"FYSFYS01a",
 "reqarr":[],
+"notwitharr":["FYSFYS01a"],
 "reqBy":["FYSFYS01b2"],
 "hasreqs":true,
 "friends":["Fysik 1-3",

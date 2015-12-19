@@ -49,6 +49,7 @@
 "req":"BIGMAN0",
 "notwith":"VAOVAT01",
 "reqarr":["BIGMAN0"],
+"notwitharr":["VAOVAT01"],
 "foreignlinks":["BIGMAN0",
 "ODIODL01",
 "TRDTRÄ01"],

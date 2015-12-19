@@ -41,6 +41,8 @@
 "arr":["HISHIS01a1",
 "HISHIS01a2"]},
 "reqarr":[],
+"notwitharr":["HISHIS01a1",
+"HISHIS01a2"],
 "reqBy":["HISHIS02a",
 "HISHIS02b"],
 "hasreqs":true,

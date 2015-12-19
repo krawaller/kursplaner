@@ -1,4 +1,5 @@
 ###PRERELEASE TODO
+ - lägg till ej med i beskrivning!!! (DAKMOD01b)
  - DAK beroenden konstiga
  - menycss
  - äkta mobkolumner

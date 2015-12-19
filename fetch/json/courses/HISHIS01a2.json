@@ -38,6 +38,7 @@
 "req":"HISHIS01a1",
 "notwith":"HISHIS01b",
 "reqarr":["HISHIS01a1"],
+"notwitharr":["HISHIS01b"],
 "reqBy":["HISHIS02a",
 "HISHIS02b"],
 "hasreqs":true,

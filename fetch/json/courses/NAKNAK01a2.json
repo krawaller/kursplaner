@@ -38,6 +38,7 @@
 "req":"NAKNAK01a1",
 "notwith":"NAKNAK01b",
 "reqarr":["NAKNAK01a1"],
+"notwitharr":["NAKNAK01b"],
 "reqBy":["NAKNAK02"],
 "hasreqs":true,
 "friends":["NAKNAK01a1",

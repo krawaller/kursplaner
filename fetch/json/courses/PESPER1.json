@@ -64,6 +64,8 @@
 "arr":["PESPER01a",
 "PESPER01b"]},
 "reqarr":["TRAYRK1"],
+"notwitharr":["PESPER01a",
+"PESPER01b"],
 "reqBy":["PESPER00S"],
 "foreignlinks":["TRAYRK1"],
 "hasreqs":true,

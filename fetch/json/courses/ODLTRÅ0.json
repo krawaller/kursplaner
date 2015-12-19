@@ -45,6 +45,7 @@
 "req":"BIGMAN0",
 "notwith":"ODLVÄT01",
 "reqarr":["BIGMAN0"],
+"notwitharr":["ODLVÄT01"],
 "reqBy":["ODLTRR0",
 "ODLTRS0"],
 "foreignlinks":["BIGMAN0"],

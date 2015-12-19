@@ -58,6 +58,7 @@
 "reqarr":["MATMAT02a",
 "MATMAT02b",
 "MATMAT02c"],
+"notwitharr":["MATMAT03b"],
 "reqBy":["MATMAT04"],
 "hasreqs":true,
 "friends":["GRNMAT2",

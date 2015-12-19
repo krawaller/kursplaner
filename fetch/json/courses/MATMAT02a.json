@@ -64,6 +64,8 @@
 "reqarr":["MATMAT01a",
 "MATMAT01b",
 "MATMAT01c"],
+"notwitharr":["MATMAT02b",
+"MATMAT02c"],
 "reqBy":["MATMAT03b",
 "MATMAT03c"],
 "hasreqs":true,

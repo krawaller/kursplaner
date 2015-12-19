@@ -63,6 +63,8 @@
 "arr":["MOBGRV0",
 "MOBHJU0"]},
 "reqarr":["ANAANA03"],
+"notwitharr":["MOBGRV0",
+"MOBHJU0"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",

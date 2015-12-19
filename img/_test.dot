@@ -1,0 +1,18 @@
+digraph G { 
+  rankdir=TB;
+  "Matematik 2b" [ style = bold];
+  "Matematik 2a";
+  "Matematik 2a" -> "Matematik 2b" [ color = red, dir = both, arrowhead = tee, arrowtail = tee];
+  "Matematik 2b";
+  "Matematik 2b" -> "Matematik 2c" [ color = red, dir = both, arrowhead = tee, arrowtail = tee];
+  { rank=same; "Matematik 2a"; "Matematik 2b"; "Matematik 2c"; }
+  "Matematik 1a";
+  "Matematik 1b";
+  "Matematik 1c";
+  "Matematik 1a" -> "Matematik 2b";
+  "Matematik 1b" -> "Matematik 2b";
+  "Matematik 1c" -> "Matematik 2b";
+  "Matematik 3b";"Matematik 3c";
+  "Matematik 2b" -> "Matematik 3b";
+  "Matematik 2b" -> "Matematik 3c";
+}

@@ -45,6 +45,8 @@
 "arr":["SAMSAM01a1",
 "SAMSAM01a2"]},
 "reqarr":[],
+"notwitharr":["SAMSAM01a1",
+"SAMSAM01a2"],
 "reqBy":["SAMSAM02",
 "SAMINE0",
 "SAMINR0"],
