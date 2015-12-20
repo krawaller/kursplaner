@@ -3,6 +3,8 @@
 "name":"Byggprocessen",
 "origname":"Byggprocessen",
 "points":100,
+"instrRAW":"Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+"descarr":["Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."],
 "code":"SAHBYC0",
 "goals":[0,0,0,0,0,1,1,1,1,0],
 "excludesgoals":true,

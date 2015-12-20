@@ -3,6 +3,8 @@
 "name":"Datalogi",
 "origname":"Datalogi",
 "points":100,
+"instrRAW":"Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+"descarr":["Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."],
 "code":"PRRDAT0",
 "goals":[0,1,2,2,1,2,1,2],
 "excludesgoals":true,

@@ -65,6 +65,8 @@
 "SKÖSKÖ0",
 "TRRTRA0",
 "VAOVAT01"],
+"notwitharr":["VÄXVÄK0"],
+"remotenotwitharr":["VÄXVÄK0"],
 "hasreqs":true,
 "friends":["MOBBAN0",
 "SKÖBEK0",

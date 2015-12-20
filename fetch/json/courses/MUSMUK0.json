@@ -3,6 +3,8 @@
 "name":"Musik för yrkesdansare",
 "origname":"Musik för yrkesdansare",
 "points":50,
+"instrRAW":"Kursen får bara anordnas på yrkesdansarutbildningen.",
+"descarr":["Kursen får bara anordnas på yrkesdansarutbildningen."],
 "code":"MUSMUK0",
 "goals":[1,2,2,0,1,0,0,0,0],
 "excludesgoals":true,

@@ -23,11 +23,26 @@ var CourseDescription = React.createClass({
         tot = subject.courses.length,
         nums = [0,0,"två","tre","fyra","fem","sex","sju","åtta","nio","tio","elva","tolv","tretton","fjorton","femton"],
         desc = course.descarr,
+        remnotwith = course.remotenotwitharr,
         by = course.reqBy,
         DB = this.props.DB,
         isfav = this.state.isfav;
     function linkToC(d,t){return <Link to="coursedesc" params={{course:d}}>{t || DB.courses[d].name}</Link>;}
     function linkToS(d){return <Link to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;}
+    function list(courses){
+      var l = courses.length;
+      return _.reduce(courses,function(mem,cid,n){
+        mem.push(linkToC(cid));
+        if (n === l-1){
+          mem.push(".");
+        } else if (n === l-2){
+          mem.push(" och ");
+        } else {
+          mem.push(", ");
+        }
+        return mem;
+      },[]);
+    }
     return (
         <Section {...this.props} headline="Beskrivning">
             <div>
@@ -47,6 +62,11 @@ var CourseDescription = React.createClass({
                     {desc && [" "].concat(desc.map(function(d){
                       return DB.courses[d]?linkToC(d):d;
                     }))}
+                    {remnotwith ? remnotwith.length === 1 ? <span>{' '}
+                      I kursplanen för {linkToC(remnotwith[0])} så står det att den inte får ingå i examen tillsammans med {course.name}.
+                    </span> : <span>{' '}
+                      I kursplanerna för {list(remnotwith)} så står det att de inte får ingå i examen tillsammans med {course.name}.
+                    </span>: null}
                     {by && [" Kursen ingår i förkunskapskraven för "].concat(_.reduce(by,function(m,part,n){
                       return m.concat([linkToC(part)].concat(n===by.length-1?[]:n===by.length-2?[" och "]:[", "]));
                     },[])).concat([". "])}
@@ -56,7 +76,7 @@ var CourseDescription = React.createClass({
                   </p> : <p>
                     Liksom övriga kurser i {linkToS(subject.code)} så får denna kurs ej ges inom vuxenutbildningen.
                   </p>) : null}
-                  {course.hasreqs ? <p className="mapcontainer">
+                  {course.hasreqs || course.notwitharr ? <p className="mapcontainer">
                       <img src={"./img/"+course.code+".png"}/>
                   </p>:null}
                 </div>

@@ -46,6 +46,8 @@
 "MÄTMÄT0"]},
 "reqarr":["AUTFAS01",
 "MÄTMÄT0"],
+"notwitharr":["AUTALL0"],
+"remotenotwitharr":["AUTALL0"],
 "foreignlinks":["MÄTMÄT0"],
 "hasreqs":true,
 "friends":["AUOALL0",

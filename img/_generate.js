@@ -191,11 +191,11 @@ function drawCourse2(cid){
 }
 
 
-//DB.gysubjects.forEach(drawSubject);
+DB.gysubjects.forEach(drawSubject);
 
 //drawCourse = _.debounce(drawCourse,100);
 //DB.gycourses.forEach(drawCourse);
-
+/*
 var pertime = 25,
 	betweeneach = 800;
 _.range(0,Math.ceil(DB.gycourses.length/pertime)+1).forEach(function(n){
@@ -204,7 +204,7 @@ _.range(0,Math.ceil(DB.gycourses.length/pertime)+1).forEach(function(n){
 		DB.gycourses.slice(n*pertime,(n+1)*pertime).forEach(drawCourse2)
 	},n*betweeneach);
 });
-
+*/
 
 /*
 

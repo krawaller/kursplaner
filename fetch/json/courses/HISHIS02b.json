@@ -48,6 +48,7 @@
 "reqBy":["HISHIS03",
 "HUMHUM00S"],
 "foreignlinks":["HUMHUM00S"],
+"remotenotwitharr":["SAESAM0"],
 "hasreqs":true,
 "friends":["GRNHIS2",
 "Historia 1-3",

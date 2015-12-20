@@ -46,6 +46,7 @@
 "foreignlinks":["TRAYRK01a",
 "TRAYRK01b"],
 "notwitharr":["PESPER1"],
+"remotenotwitharr":["PESPER1"],
 "hasreqs":true,
 "friends":["TRAFOR0",
 "TRAFOD0",
