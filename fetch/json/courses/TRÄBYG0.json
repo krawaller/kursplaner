@@ -60,6 +60,7 @@
 "notwitharr":["TRÄTRK01",
 "TRÄTRK02",
 "TRÄTRK03"],
+"hasreqs":true,
 "friends":["ELMELM0",
 "GOLGOL01",
 "GOLGOL02",

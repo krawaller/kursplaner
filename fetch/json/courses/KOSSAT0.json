@@ -33,6 +33,7 @@
 "Eleven gör <b>komplexa</b> tolkningar och analyser av olika samtida kulturuttryck med hjälp av <b>några</b> presentationsformer och ger <b>välgrundade och nyanserade</b> förklaringar till sina tolkningar och analyser. Vidare formulerar eleven <b>välgrundade och nyanserade</b> reflektioner över egna kulturupplevelser. I sin tolkning och analys använder eleven <b>med säkerhet</b> relevanta begrepp och teorier."]},
 "notwith":"KOSKOS0",
 "notwitharr":["KOSKOS0"],
+"hasreqs":true,
 "friends":["KOSFIL0",
 "KOSKOS0",
 "KOSKUL0"]}

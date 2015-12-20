@@ -963,6 +963,20 @@ _.each(GLOBAL.courses,function(course,code){
 var dividers = ["A-C","D-E","F-G","H-J","K-L","M-N","O-R","S","T-Ö"];
 var dict = {};
 
+// check notwithstuff
+_.each(GLOBAL.courses,function(course,code){
+	if (course.notwitharr){
+		course.notwitharr.forEach(function(othercid){
+			var othercourse = GLOBAL.courses[othercid];
+			if (!othercourse.notwitharr || !_.contains(othercourse.notwitharr,code)){
+				console.log("WHAT THE HECK",code,"cannot join",othercid,"but that course lacks same warning!");
+				othercourse.notwitharr = (othercourse.notwitharr||[]).concat(code);
+				othercourse.remotenotwitharr = (othercourse.remotenotwitharr||[]).concat(code);
+			}
+		});
+	}
+});
+
 _.each(GLOBAL.courses,function(course,code){
 	var name = course.name;
 	var cat = _.contains(["Å","Ä","Ö"],name[0]) ? dividers[dividers.length-1] : _.find(dividers,function(l,n){
@@ -974,7 +988,7 @@ _.each(GLOBAL.courses,function(course,code){
 		dict[cat] = (dict[cat]||[]).concat(code);
 	}
 	// find foreing reqs
-	var foreign = (course.reqarr||[]).concat(course.reqBy||[]).filter(function(cid){
+	var foreign = (course.reqarr||[]).concat(course.reqBy||[]).concat(course.notwitharr||[]).filter(function(cid){
 		var other = GLOBAL.courses[cid];
 		return other.subject !== course.subject && !(other.obsolete && !course.obsolete);
 	});
@@ -982,17 +996,6 @@ _.each(GLOBAL.courses,function(course,code){
 		var sub = GLOBAL.subjects[course.subject];
 		course.foreignlinks = foreign;
 		sub.foreignlinks = _.uniq((sub.foreignlinks||[]).concat(foreign));
-	}
-	// check notwithstuff
-	if (course.notwitharr){
-		course.notwitharr.forEach(function(othercid){
-			var othercourse = GLOBAL.courses[othercid];
-			if (!othercourse.notwitharr || !_.contains(othercourse.notwitharr,code)){
-				console.log("WHAT THE HECK",code,"cannot join",othercid,"but that course lacks same warning!");
-				othercourse.notwitharr = (othercourse.notwitharr||[]).concat(code);
-				othercourse.remotenotwitharr = (othercourse.remotenotwitharr||[]).concat(code);
-			}
-		});
 	}
 });
 
@@ -1119,7 +1122,7 @@ _.each(GLOBAL.subjects,function(subject,sid){
 	subject.friends = subject.friends || [];
 	_.each(subject.courses,function(cid){
 		var course = GLOBAL.courses[cid];
-		_.each((course.reqarr||[]).concat(course.reqBy||[]),function(othercid){
+		_.each((course.reqarr||[]).concat(course.reqBy||[]).concat(course.notwitharr||[]),function(othercid){
 			subject.hasreqs = true;
 			course.hasreqs = true;
 			var othercourse = GLOBAL.courses[othercid];

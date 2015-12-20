@@ -44,6 +44,7 @@
 "notwith":"UTSUTS01",
 "reqarr":["HANPRA02"],
 "notwitharr":["UTSUTS01"],
+"foreignlinks":["UTSUTS01"],
 "hasreqs":true,
 "friends":["HANAFR0",
 "HANBRS0",
@@ -54,4 +55,7 @@
 "HANPRA01",
 "HANPRA02",
 "FÖSSEV0",
-"FÖSTEL0"]}
+"FÖSTEL0",
+"UTSUTS01",
+"UTSUTS02",
+"UTSUTS03S"]}

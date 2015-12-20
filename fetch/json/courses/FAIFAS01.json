@@ -36,6 +36,7 @@
 "reqBy":["FAIFAS02"],
 "notwitharr":["AUOALL0"],
 "remotenotwitharr":["AUOALL0"],
+"foreignlinks":["AUOALL0"],
 "hasreqs":true,
 "friends":["AUOALL0",
 "AUTALL0",

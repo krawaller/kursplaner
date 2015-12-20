@@ -65,6 +65,8 @@
 "reqarr":["ANAANA03"],
 "notwitharr":["MOBGRV0",
 "MOBHJU0"],
+"foreignlinks":["MOBGRV0",
+"MOBHJU0"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
@@ -77,5 +79,10 @@
 "ANAANA02",
 "ANAANA03",
 "ANLANS0",
+"MOBBAN0",
 "BYGBYG01",
-"BYGBYG02"]}
+"BYGBYG02",
+"MOBGRV0",
+"MOBHJU0",
+"MOBTEL0",
+"MOBVAG0"]}

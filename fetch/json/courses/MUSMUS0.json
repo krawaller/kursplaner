@@ -40,6 +40,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med säkerhet</b> den egna förmågan och situationens krav."]},
 "notwith":"MUSENS0",
 "notwitharr":["MUSENS0"],
+"hasreqs":true,
 "friends":["MUSBRU0",
 "MUSENS01",
 "MUSENS02S",

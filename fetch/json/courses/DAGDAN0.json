@@ -54,6 +54,7 @@
 "När eleven samråder med handledare bedömer hon eller han <b>med god säkerhet</b> den egna förmågan och situationens krav."]},
 "notwith":"DAGDAS0",
 "notwitharr":["DAGDAS0"],
+"hasreqs":true,
 "friends":["DAGDAS0",
 "DAKDAN0",
 "DAKDAS0",

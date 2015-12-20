@@ -72,7 +72,9 @@
 "notwitharr":["MOBGRV0",
 "MOBHJU0"],
 "reqBy":["ANAANA02"],
-"foreignlinks":["BYGBYG02"],
+"foreignlinks":["BYGBYG02",
+"MOBGRV0",
+"MOBHJU0"],
 "hasreqs":true,
 "friends":["ANLANL0",
 "ANLANÄ0",
@@ -85,5 +87,10 @@
 "ANAANA03",
 "ANAANA04",
 "ANLANS0",
+"MOBBAN0",
 "BYGBYG01",
-"BYGBYG02"]}
+"BYGBYG02",
+"MOBGRV0",
+"MOBHJU0",
+"MOBTEL0",
+"MOBVAG0"]}

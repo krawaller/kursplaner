@@ -76,7 +76,7 @@ var CourseDescription = React.createClass({
                   </p> : <p>
                     Liksom övriga kurser i {linkToS(subject.code)} så får denna kurs ej ges inom vuxenutbildningen.
                   </p>) : null}
-                  {course.hasreqs || course.notwitharr ? <p className="mapcontainer">
+                  {!this.props.sub && (course.hasreqs || course.notwitharr) ? <p className="mapcontainer">
                       <img src={"./img/"+course.code+".png"}/>
                   </p>:null}
                 </div>
