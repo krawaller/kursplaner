@@ -1,6 +1,22 @@
+.body {
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+.content {
+	padding: 5px;
+}
+
+.bigtablecontainer {
+	width: 100%;
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
 .mapcontainer {
 	width: 100%;
 	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
 	text-align: center;
 	margin-top: 2em;
 	padding-bottom: 1em;

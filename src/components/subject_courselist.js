@@ -44,7 +44,7 @@ var SubjectCourseList = React.createClass({
             ) : (
                 <div>
                     <p>Följande {list.length===1?"kurs är den enda i ämnet":(nums[list.length]||list.length)+" kurser ingår i ämnet"}:</p>
-                    <table className="table coursetable">
+                    <table className="table coursetable bigtablecontainer">
                         <thead>
                             <tr>
                                 <th colSpan="2"></th>
