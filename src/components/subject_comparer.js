@@ -9,7 +9,9 @@ var React = require('react'),
   _ = require('lodash');
   Router = require('react-router'),
   Link = Router.Link,
+  NavSelPath = require("./parts/navselpath"),
   Sel = require('../mixins/select');
+
 
 
 var SubjectComparer = React.createClass({
@@ -21,11 +23,17 @@ var SubjectComparer = React.createClass({
         othercode = this.props.params && this.props.params.other,
         other = DB.subjects[othercode],
         othersuff = (other.school ? " ("+other.school+")" : " (gy)")
-        now = this.state.what,
+        now = this.props.params.aspect || "beskrivning",
         Comp = (now==="ämnesmål"?SubjectGoals:now==="syfte"?SubjectPurpose:SubjectDesc),
-        diff = (subject.school!==other.school);
+        diff = (subject.school!==other.school),
+        base = "/subjects/"+subject.code+"/compareto/"+othercode;
+    var paths = {
+      "beskrivning": base,
+      "syfte": base+"/syfte",
+      "ämnesmål": base+"/ämnesmål"
+    };
     return (
-    	<Section headline={<span>Jämför {this.what()}</span>}>
+    	<Section headline={<span>Jämför <NavSelPath links={paths} active={now} /></span>}>
         <div className="row">
           <div className="col-xs-6">
             <h5>{subject.name}{diff && subsuff}</h5>

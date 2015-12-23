@@ -55,11 +55,14 @@ module.exports = (
             <Route name="subjectcourses" path="/subjects/:subject/courses" handler={SubjectCourseList}/>
             <Route name="subjectauth" path="/subjects/:subject/auth" handler={SubjectAuth}/>
             <Route name="subjectcomparetochoice" path="/subjects/:subject/compareto" handler={Multiroute}>
-              <Route name="subjectcomparetoother" path="/subjects/:subject/compareto/:other" handler={SubjectComparer}/>
+              <Route name="subjectcomparetoother" path="/subjects/:subject/compareto/:other" handler={Multiroute}>
+                <Route name="subjectcomparetootheraspect" path="/subjects/:subject/compareto/:other/:aspect" handler={SubjectComparer}/>
+                <DefaultRoute handler={SubjectComparer}/>
+              </Route>
               <DefaultRoute handler={SubjectCompareChoice}/>
             </Route>
-            <Route name="subjectcomments" path="/subjects/:subject/comments" handler={SubjectComments}>
-              <Route name="subjectcommentstype" path="/subjects/:subject/comments/:type" handler={SubjectComments}/>
+            <Route name="subjectcomments" path="/subjects/:subject/comments" handler={Multiroute}>
+              <Route name="subjectcommentstype" path="/subjects/:subject/comments/:ctype" handler={SubjectComments}/>
               <DefaultRoute handler={SubjectComments} />
             </Route>
           </Route>
