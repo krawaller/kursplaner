@@ -4,7 +4,8 @@ var React = require('react'),
 	_ = require('lodash'),
   Router = require('react-router'),
   Link = Router.Link,
-  favs = require("../favourites.js");
+  favs = require("../favourites.js"),
+  Columnlist = require("./parts/columnlist");
 
 var translator = {
   "grund":"grundsubjects",
@@ -86,29 +87,10 @@ var SubjectsSelect = React.createClass({
       }
       return <Link key={d} to={compareto?"subjectcomparetoother":"subjectdesc"} params={compareto?{subject:compareto,other:d}:{subject:d}}>{DB.subjects[d].name}{suffix}</Link>;
     }
-
-    var percol = subjectnames.length / 3,
-        col1 = subjectnames.slice(0,Math.ceil(percol)),
-        col2 = subjectnames.slice(Math.ceil(percol),2*Math.ceil(percol)),
-        col3 = subjectnames.slice(2*Math.ceil(percol),subjectnames.length);
     return (
       <div>
         <p>{sel}{now === "gymn" ? <span> bland {sel2} {now2 === "yrkes" ? <span> på {sel3} </span> : null}</span> : null}</p>
-        <div className="subcol">
-          {_.flatten(_.map(col1,function(code){
-            return [linkToC(code)," "];
-          }))}
-        </div>
-        <div className="subcol">
-          {_.flatten(_.map(col2,function(code){
-            return [linkToC(code)," "];
-          }))}
-        </div>
-        <div className="subcol">
-          {_.flatten(_.map(col3,function(code){
-            return [linkToC(code)," "];
-          }))}
-        </div>
+        <Columnlist list={subjectnames} fn={linkToC} />
       </div>
     );
   }

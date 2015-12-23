@@ -4,7 +4,7 @@ var React = require('react'),
 	_ = require('lodash'),
 	Router = require('react-router'),
   RouteHandler = Router.RouteHandler,
-  NavBar = require('./navbar');
+  NavBar = require('./parts/navbar');
 
 var Course = React.createClass({
   render: function(){

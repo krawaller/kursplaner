@@ -2,7 +2,7 @@
 
 var React = require('react'),
   Section = React.createFactory(require('./section')),
-  NavBar = require('./navbar'),
+  NavBar = require('./parts/navbar'),
   RouteHandler = require('react-router').RouteHandler;
 
 var Masterplan = React.createClass({

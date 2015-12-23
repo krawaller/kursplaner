@@ -3,7 +3,7 @@
 var React = require('react'),
   Section = React.createFactory(require('./section')),
 	_ = require('lodash'),
-  NavSel = require('./navselect');
+  NavSel = require('./parts/navselect');
 
 var Masterplan = React.createClass({
   render: function(){

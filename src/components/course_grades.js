@@ -4,7 +4,7 @@ var React = require('react'),
     Section = React.createFactory(require('./section')),
     _ = require('lodash'),
     //Sel = require('../mixins/select'),
-    NavSel = require('./navselect'),
+    NavSel = require('./parts/navselect'),
     diff = require('diff');
 
 var CourseGrades = React.createClass({

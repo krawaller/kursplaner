@@ -1,4 +1,5 @@
 ###PRERELEASE TODO
+ - visa nivå i coursedesc
  - store original adresses!
  - se till att all instr kommer med (ex affärskommunikation AFFAFÄ00S)
  - se till att dynamiskt tillagda notwith visas! just nu i notwitharr, men det är descarr som publiceras!

@@ -34,7 +34,7 @@ var Router = require('react-router'),
 module.exports = (
     <Route handler={Wrapper}>
         <Route name="home" path="/" handler={Home} />
-        
+
         <Route name="masterplans" path="/masters" handler={Multiroute}>
           <Route name="masterplan" path="/masters/:level" handler={Masterplan}>
             <Route name="masterplanmission" path="/masters/:level/mission" handler={MasterplanMission}/>
@@ -63,7 +63,8 @@ module.exports = (
               <DefaultRoute handler={SubjectComments} />
             </Route>
           </Route>
-          <DefaultRoute handler={Subjects}/>
+          <Route name="subjectselect" path="/subjects/select/:cat" handler={Subjects}/>
+          <DefaultRoute name="subjectselectdefault" handler={Subjects}/>
         </Route>
 
         <Route name="courses" path="/courses" handler={Multiroute}>

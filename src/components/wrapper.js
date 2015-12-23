@@ -3,7 +3,7 @@
 var React = require('react'),
     Router = require('react-router'),
     RouteHandler = React.createFactory(Router.RouteHandler),
-    Navbar = require('./navbar');
+    Navbar = require('./parts/navbar');
 
 var Wrapper = React.createClass({
     render: function() {
