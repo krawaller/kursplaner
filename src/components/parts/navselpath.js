@@ -13,7 +13,7 @@ var NavSelectPath = React.createClass({
   },
   render: function(){
     return (
-      <div style={{display:"inline-block"}} className="btn-group clearfix">
+      <div style={{display:"inline-block"}} className="btn-group clearfix navselpath">
         {_.map(this.props.links,function(path,title){
           return <Link key={path} to={path} className={"btn btn-sm btn-default "+(path===this.props.active ? 'active' : '')}>{title}</Link>
         },this)}
