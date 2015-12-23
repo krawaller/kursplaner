@@ -1,4 +1,6 @@
 ###PRERELEASE TODO
+ X fixa alla ??
+ - make static! :D
  - visa nivå i coursedesc
  - store original adresses!
  - se till att all instr kommer med (ex affärskommunikation AFFAFÄ00S)

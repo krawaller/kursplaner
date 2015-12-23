@@ -8,6 +8,7 @@ fs.readFileS = function(path,callback){ callback(null,fs.readFileSync(path)); }
 var otherrules = fs.readFileSync("../html/vissaamnen.html").toString();
 
 var GLOBAL = {
+	specsubjects: [],
 	grundsubjects: [],
 	grundcourses:[],
 	grundvuxsubjects: [],
@@ -320,8 +321,11 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 					console.log("Error reading description for",type,code,name,"DATA",data,typeof data,data.length);
 				}
 			}
-			// VUX
-			sub.novux = !!novux[code]   //!_.contains(["SPE","DAG","DAK","BYL","DAL","GYM","INO","MJU","PRT","HUA","NAE"],code); // http://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/gymnasial/amnen-som-inte-kan-ges-inom-kommunal-vuxenutbildning-1.177099
+			// VUX (actually 4th year)
+			if (novux[code]){
+				sub.novux = true;
+				GLOBAL.specsubjects.push(code);
+			}
 			// PURPOSE
 			try {
 				if (code==="ITI"){

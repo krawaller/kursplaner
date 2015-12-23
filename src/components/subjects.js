@@ -21,6 +21,7 @@ var sel2 = _.mapValues({
 	vanliga: "common",
 	yrkes: "voc_a-g",
 	"övriga": "other",
+	speciella: "spec",
 	nedlagda: "obsolete"
 },function(p){return base+p;});
 var sel3 = _.mapValues({
@@ -50,7 +51,7 @@ var Subjects = React.createClass({
 	var DB = this.props.DB,
 		cat = this.props.params.cat || "fav",
 		subs, msg,
-		depth = {fav:1,grund:1,grundvux:1,common:2,other:2,obsolete:2}[cat] || 3;
+		depth = {fav:1,grund:1,grundvux:1,common:2,other:2,obsolete:2,spec:2}[cat] || 3;
 	console.log("Rendering for real",cat);
 	switch(cat){
 		case "fav":
@@ -76,6 +77,10 @@ var Subjects = React.createClass({
 		case "obsolete":
 			subs = DB.subjectsobsolete;
 			msg = <p>Visar gymnasieämnen som inte längre är aktuella:</p>;
+			break;
+		case "spec":
+			subs = DB.specsubjects;
+			msg = <p>Visar ämnen som endast får anordnas på angivna gymnasieutbildningar och ej inom vuxenutbildningen:</p>;
 			break;
 		case "voc_a-g":
 			subs = DB["subjectsVOCa-g"];
