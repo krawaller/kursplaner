@@ -26,7 +26,9 @@ var Course = React.createClass({
       <div key={code}>
         <h2>Kursen {course.name}</h2>
         <NavBar links={links}/>
-        <RouteHandler course={course} subject={subject} {...this.props} />
+        <div className="mainbox">
+          <RouteHandler course={course} subject={subject} {...this.props} />
+        </div>
       </div>
     );
   }

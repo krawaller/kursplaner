@@ -28,7 +28,9 @@ var Subject = React.createClass({
     	<div>
     		<h2>Ämne {subject.code}: {subject.name}</h2>
         <NavBar key={code} links={links}/>
-        <RouteHandler subject={subject} DB={DB} {...this.props} />
+        <div className="mainbox">
+          <RouteHandler subject={subject} DB={DB} {...this.props} />
+        </div>
     	</div>
     );
   }

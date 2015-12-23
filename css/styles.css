@@ -1,6 +1,26 @@
+.wrapper .navbar {
+	margin-bottom: 0px;
+}
+
+.topnav h2, .topnav h3 {
+	margin-top: 5px;
+}
+
+.topnav h2 {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.mainbox {
+    border-top: 1px solid #e7e7e7;
+    padding: 5px;
+    background-color: white;
+}
+
 .body {
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;
+	background-color: #f8f8f8;
 }
 
 .navselpath {

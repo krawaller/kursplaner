@@ -10,7 +10,7 @@ var Wrapper = React.createClass({
         return (
             <div className="wrapper">
                 <Navbar links={{Hem:"home","Ämnesplaner":"subjects",Kursplaner:"courses"}}/>
-                <div className="content">
+                <div className="topnav">
                     <RouteHandler {...this.props} />
                 </div>
             </div>

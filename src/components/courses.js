@@ -8,7 +8,9 @@ var Courses = React.createClass({
   render: function(){
     return (<div>
       <h2>Välj kurs (totalt {Object.keys(this.props.DB.courses).length} st)</h2>
-      <Courses_select {...this.props}/>
+      <div className="mainbox">
+      	<Courses_select {...this.props}/>
+      </div>
     </div>)
   }
 });

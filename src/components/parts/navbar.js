@@ -7,7 +7,7 @@ var React = require('react'),
 var Navbar = React.createClass({
   render: function() {
     return (
-      <div className='navbar navbar-default'>
+      <div className='navbar'>
         <ul className='nav nav-pills navbar-left' role='tablist'>
           {_.map(this.props.links,function(arr,title){
             var arr = [].concat(arr), target = arr[0], params=arr[1]||{};

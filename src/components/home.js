@@ -7,7 +7,7 @@ var React = require('react'),
 var Home = React.createClass({
     render: function() {
         return (
-        	<div>
+        	<div className="mainbox">
             	<h2>Home sweet home</h2>
             	<p>Välkomna till kurskollen, siten som tillhandahåller Skolverkets ämnesplaner på ett mindre asjobbigt sätt!</p>
             	<p>Den är långtifrån klar och det finns många vassa kanter, men redan nu kan du förhoppningsvis ha glädje av att enkelt kunna navigera styrdokumenten!</p>

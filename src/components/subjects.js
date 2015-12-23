@@ -98,7 +98,7 @@ var Subjects = React.createClass({
 
     return (<div key={cat}>
       <h2>Välj ämne (totalt {Object.keys(this.props.DB.subjects).length})</h2>
-      <div>
+      <div className="mainbox">
         <p key="lvl1">
         	<NavSelectPath links={sel1} active={depth===1 ? base+cat : base+"common"} />
         	{depth > 1 ? <span key="lvl2">
