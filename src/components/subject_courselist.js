@@ -44,33 +44,35 @@ var SubjectCourseList = React.createClass({
             ) : (
                 <div>
                     <p>Följande {list.length===1?"kurs är den enda i ämnet":(nums[list.length]||list.length)+" kurser ingår i ämnet"}:</p>
-                    <table className="table coursetable bigtablecontainer">
-                        <thead>
-                            <tr>
-                                <th colSpan="2"></th>
-                                <th colSpan={subject.goals.length} className='coursegoals'>ingående ämnesmål</th>
-                            </tr>
-                            <tr>
-                                <th>Kurs</th>
-                                <th>Nivå</th>
-                                {_.map(subject.goals,function(g,n){return <th key={n}>{n+1}</th>;})}
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {_.map(list,function(cid,n){
-                                var course = DB.courses[cid];
-                                return (
-                                    <tr key={cid}>
-                                        <td>{linkToC(cid)}</td>
-                                        <td>{{basic:"grundl",normal:"normal",high:"fördjup"}[course.level]}</td>
-                                        {_.map(course.goals,function(u,n){
-                                            return <td key={n}>{["--","ja",<strong>ja</strong>][u]}</td>;
-                                        })}
-                                    </tr>
-                                );
-                            })}
-                        </tbody>
-                    </table>
+                    <div className="bigtablecontainer">
+                        <table className="table coursetable">
+                            <thead>
+                                <tr>
+                                    <th colSpan="2"></th>
+                                    <th colSpan={subject.goals.length} className='coursegoals'>ingående ämnesmål</th>
+                                </tr>
+                                <tr>
+                                    <th>Kurs</th>
+                                    <th>Nivå</th>
+                                    {_.map(subject.goals,function(g,n){return <th key={n}>{n+1}</th>;})}
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {_.map(list,function(cid,n){
+                                    var course = DB.courses[cid];
+                                    return (
+                                        <tr key={cid}>
+                                            <td>{linkToC(cid)}</td>
+                                            <td>{{basic:"grundl",normal:"normal",high:"fördjup"}[course.level]}</td>
+                                            {_.map(course.goals,function(u,n){
+                                                return <td key={n}>{["--","ja",<strong>ja</strong>][u]}</td>;
+                                            })}
+                                        </tr>
+                                    );
+                                })}
+                            </tbody>
+                        </table>
+                    </div>
                     {subject.hasreqs ? <div>
                         <p>
 <span>Nedan visas en karta över förkunskapskrav som kurser i detta ämne ingår i. </span>
