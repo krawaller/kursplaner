@@ -34,14 +34,24 @@ function linkToS(DB,d){
   return <Link key={d} to="subjectdesc" params={{subject:d}}>{DB.subjects[d].name}</Link>;
 }
 
+var cache = {};
 
 var Subjects = React.createClass({
   render: function(){
+  	var cat = this.props.params.cat || "fav";
+  	if (cat === "fav"){
+  		return this.renderMe();
+  	} else {
+  		var stuff = cache[cat] || (cache[cat]=React.renderToStaticMarkup(this.renderMe()));
+  		return <div dangerouslySetInnerHTML={{__html:stuff}}/>;
+  	}
+  },
+  renderMe: function(){
 	var DB = this.props.DB,
 		cat = this.props.params.cat || "fav",
 		subs, msg,
 		depth = {fav:1,grund:1,grundvux:1,common:2,other:2,obsolete:2}[cat] || 3;
-
+	console.log("Rendering for real",cat);
 	switch(cat){
 		case "fav":
 			subs = fav.getSubjectFavourites();

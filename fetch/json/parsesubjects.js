@@ -101,57 +101,114 @@ var replacedby = {
 
 var replaces = _.invert(replacedby);
 
+var clean = {
+	" vad som är ": / vad som ��r /g,
+	"tillämp": /till��mp/g,
+	"gäller": /g��ller/g,
+	"förklar": /f��rklar/g,
+	"möjlig": /m��jlig/g,
+	"säkerhet": /s��kerhet/g,
+	"framåt": /fram��t/g,
+	"TIG-svetsning rör": "TIG-svetsning rår",
+	"redogör": /redog��r/g,
+	"några": /n��gra/g,
+	"såväl": /såv��l/g,
+	"utförlig": /utf��rlig/g,
+	"ramen för språkval": /ramen f��r språkval/g,
+	" på ": / p�� /g,
+	"Hälsopedagogik": /H��lsopedagogik/g,
+	"utvärderar med": "utvärderar med<br/>",
+	"I utvärderingen": "I<br/>utvärderingen",
+	"ställ": /st��ll/g,
+	"på kursen": "på kursen på kursen",
+	" även ": / ��ven /g,
+	" samråd ": / samr��d /g,
+	"Från ": /Fr��n /g,
+	"områden": /omr��den/g,
+	"använd": /anv��nd/g,
+	" så ": / s�� /g,
+	"lärare-elev": /lärare���elev/g,
+	"odersmål": /odersm��l/g,
+	"poäng": /po��ng/g,
+	"innehåller": /inneh��ller/g,
+	"följande": /f��ljande/g,
+	"språk": /spr��k/g,
+	"Nätunderhållsarbete på luftledningsnät 0,4–24kV": /[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,
+	"rubriken Ämnets": /rubriken ��mnets/g,
+	"ämne": /��mne/g,
+	"innehåll": /inneh��ll/g,
+	"miljö": /milj��/g,
+	"för vanliga": /f��r vanliga/g,
+	"rör publicering": /r��r publicering/g,
+	"Mobila applikationer 1, 100 poäng": /Mobila applikationer, 100 *poäng/g,
+	"växt": /v��xt/g,
+	"hjälp": /hj��lp/g,
+	"terräng": /terr��ng/g,
+	"innebär": /inneb��r/g,
+	"Underhåll - hydraulik": /Underhåll ��� hydraulik/g,
+	" från ": / fr��n /g,
+	"arbetet gör eleven": /arbetet g��r eleven/g,
+	"besök": /bes��k/g,
+	"kursen psykologi 2, kursen historia 2 eller": "kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller",
+	"som bygger på kursen byggprocessens organisation": "som bygger på kursen SAHBYC0",
+	"gång": /g��ng/g,
+	"omdöme": /omd��me/g,
+	"förvänt": /förv��nt/g,
+	" På ": / P�� /g,
+	"förny": /f��rny/g,
+	"bedöm": /bed��m/g,
+	"företag": /f��retag/g,
+	"förutsätt": /föruts��tt/g,
+	"utvärder": /utv��rder/g,
+	" planering utgör ett ": / planering utg��r ett /g,
+	" För den kvinnliga dansaren ": / F��r den kvinnliga dansaren /g,
+	" passar för uppgiften": / passar f��r uppgiften/g,
+	"förmåga": /f��rmåga/g,
+	" gör en tolkning": / g��r en tolkning/g,
+	" som är ": / som ��r /g,
+	"mätinstrument": /m��tinstrument/g,
+	"för olika energitekniska": /f��r olika energitekniska/g,
+	"åtgärd": /��tgärd/g,
+	"för uppbyggnad av": /f��r uppbyggnad av/g,
+	"följ": /f��lj/g,
+	"tjänst": /tj��nst/g,
+	" förstå ": / först�� /g,
+	"säkert": /s��kert/g,
+	"ingenjör": /ingenj��r/g,
+	"lärar": /l��rar/g,
+	"tänkt": /t��nkt/g,
+	"översikt": /��versikt/g,
+	"till övervägande del för": /till övervägande del f��r/g,
+	"kunskapsutveckling ��� det": /kunskapsutveckling och det/g,
+	"utför": /utf��r/g,
+	"När eleven samråder": /N��r eleven samråder/g,
+	"påverk": /p��verk/g,
+	"hänsyn": /h��nsyn/g,
+	"också": /ocks��/g,
+	"kommer att möta": /kommer att m��ta/g,
+	"ansvar för kundens egendom samt för lokaler": /ansvar för kundens egendom samt f��r lokaler/g,
+	"förstå": /först��/g,
+	"för att planera": /f��r att planera/g,
+	"själv": /sj��lv/g,
+	"ett riktigt sätt": /ett riktigt s��tt/g,
+	"hälsa": /h��lsa/g,
+	"förmåga": /f(��|ö)rm(��|å)ga/g,
+	"Förmåga": /F(��|��|ö)rm(��|å)ga/g,
+	"löshoppning": /l��shoppning/g,
+	"område": /omr��de/g,
+	"förekom": /f��rekom/g,
+	" över": / ��ver/g,
+	"ritningar för produktion": /ritningar f��r produktion/g,
+	"Eleven för ett <b>enkelt </b>resonemang": /Eleven f��r ett <b>enkelt <\/b>resonemang/g,
+	"välj": /v��lj/g,
+	"genomföra": /genomf��ra/g,
+	"det lästa.": /det l��sta\./g
+}
+
 _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 	var folder = "../html/subjects/"+type+"/";
 	_.each(_.without(fs.readdirSync(folder),".DS_Store"),function(path){
 		fs.readFileS(folder+path,function(err,data){
-			var clean = {
-				"säkerhet": /s��kerhet/g,
-				"framåt": /fram��t/g,
-				"TIG-svetsning rör": "TIG-svetsning rår",
-				"redogör": /redog��r/g,
-				"några": /n��gra/g,
-				"såväl": /såv��l/g,
-				"utförlig": /utf��rlig/g,
-				"ramen för språkval": /ramen f��r språkval/g,
-				" på ": / p�� /g,
-				"Hälsopedagogik": /H��lsopedagogik/g,
-				"utvärderar med": "utvärderar med<br/>",
-				"I utvärderingen": "I<br/>utvärderingen",
-				"ställ": /st��ll/g,
-				"på kursen": "på kursen på kursen",
-				" även ": / ��ven /g,
-				" samråd ": / samr��d /g,
-				"Från ": /Fr��n /g,
-				"områden": /omr��den/g,
-				"använd": /anv��nd/g,
-				" så ": / s�� /g,
-				"lärare-elev": /lärare���elev/g,
-				"odersmål": /odersm��l/g,
-				"poäng": /po��ng/g,
-				"innehåller": /inneh��ller/g,
-				"följande": /f��ljande/g,
-				"språk": /spr��k/g,
-				"Nätunderhållsarbete på luftledningsnät 0,4–24kV": /[Nn]ätunderhållsarbete på luftledningsnät 0,4([—-]|&mdash;)24 ?kV/g,
-				"rubriken Ämnets": /rubriken ��mnets/g,
-				"ämne": /��mne/g,
-				"innehåll": /inneh��ll/g,
-				"miljö": /milj��/g,
-				"för vanliga": /f��r vanliga/g,
-				"rör publicering": /r��r publicering/g,
-				"Mobila applikationer 1, 100 poäng": /Mobila applikationer, 100 *poäng/g,
-				"växt": /v��xt/g,
-				"hjälp": /hj��lp/g,
-				"terräng": /terr��ng/g,
-				"innebär": /inneb��r/g,
-				"Underhåll - hydraulik": /Underhåll ��� hydraulik/g,
-				" från ": / fr��n /g,
-				"arbetet gör eleven": /arbetet g��r eleven/g,
-				"besök": /bes��k/g,
-				"kursen psykologi 2, kursen historia 2 eller": "kursen PSKPSY02a, kursen PSKPSY02b, kursen HISHIS02a, kursen HISHIS02b eller",
-				"som bygger på kursen byggprocessens organisation": "som bygger på kursen SAHBYC0",
-				"gång": /g��ng/g
-			}
 			data = (data.toString()
 				.replace(/[\n\t\r\f]/g,"")
 				.replace(/<div class="docs-wrapper">.*?<\/div>/g,"")
@@ -168,11 +225,17 @@ _.each(["COMMON","VOCATIONAL","OTHER"],function(type){
 				.replace(/<p class="helper"><a href="(.*?)">Kommentar<\/a><\/p>/g,"")
 				.replace(/Ö/g,"Ö")
 				.replace(/A¨/g,"Ä")
-				.replace(/ {2}/g," ");
+				.replace(/ {2}/g," ")
 			);
-			_.reduce(clean,function(str,faulty,correct){
+			data = _.reduce(clean,function(str,faulty,correct){
 				return str.replace(faulty,correct);
 			},data);
+
+			if (data.match("��") && path !== "HUB_Husbyggnad – specialyrken.html"){
+				console.log("ALARM ALARM!",data,path);
+				throw "FOO"
+			}
+
 			if (err || !data || data===" "){
 				console.log("Error reading",folder+path)
 				throw "FileReadError";
@@ -997,9 +1060,6 @@ _.each(GLOBAL.courses,function(course,code){
 			if (GLOBAL.courses[part]){
 				course.descarr = course.descarr.replace(part,"___"+part+"___")
 			}
-			if (code==="VÅRVÅR02"){
-				console.log("AIE AIE AIE",part,Object.keys(GLOBAL.courses[part]||{}));
-			}
 		});
 		course.descarr = course.descarr.replace(/^som /,"Den ").split("___");
 	};
@@ -1036,7 +1096,7 @@ _.each(GLOBAL.courses,function(course,code){
 		course.notwitharr.forEach(function(othercid){
 			var othercourse = GLOBAL.courses[othercid];
 			if (!othercourse.notwitharr || !_.contains(othercourse.notwitharr,code)){
-				console.log("WHAT THE HECK",code,"cannot join",othercid,"but that course lacks same warning!");
+				//console.log("WHAT THE HECK",code,"cannot join",othercid,"but that course lacks same warning!");
 				othercourse.notwitharr = (othercourse.notwitharr||[]).concat(code);
 				othercourse.remotenotwitharr = (othercourse.remotenotwitharr||[]).concat(code);
 			}
@@ -1177,10 +1237,11 @@ friends = _.reduce(replacedby,function(mem,newcode,oldcode){
 
 _.each(friends,function(rel){
 	_.each(rel,function(sid){
-		if (!GLOBAL.subjects[sid]){
+		var sub = GLOBAL.subjects[sid];
+		if (!sub){
 			console.log("SUBJECT ERROR",sid,"WAH");
 		}
-		GLOBAL.subjects[sid].friends = _.without(rel,sid);
+		sub.friends = _.uniq((sub.friends||[]).concat(_.without(rel,sid)));
 	});
 });
 

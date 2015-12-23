@@ -4,8 +4,33 @@ var util = require('util'),
     _ = require('lodash'),
     writepngfromdot = require('./_writepngfromdot');
 
+var rev = {
+	DAT: {
+		"Klassisk balett 1a": "Klassisk balett 1-3",
+		"Klassisk balett 1b": "Klassisk balett 1-3",
+		"Klassisk balett 2": "Klassisk balett 1-3",
+		"Klassisk balett 3": "Klassisk balett 1-3",
+		"Modern nutida dans 1a": "Modern nutida dans 1-3",
+		"Modern nutida dans 1b": "Modern nutida dans 1-3",
+		"Modern nutida dans 2": "Modern nutida dans 1-3",
+		"Modern nutida dans 3": "Modern nutida dans 1-3"
+	},
+	DAK: {
+		"Dansteknik 1": "Dansteknik 1-4",
+		"Dansteknik 2": "Dansteknik 1-4",
+		"Dansteknik 3": "Dansteknik 1-4",
+		"Dansteknik 4": "Dansteknik 1-4"
+	},
+	MOB: {
+		"Anläggningsförare 1": "Anläggningsförare 1-4",
+		"Anläggningsförare 2": "Anläggningsförare 1-4",
+		"Anläggningsförare 3": "Anläggningsförare 1-4",
+		"Anläggningsförare 4": "Anläggningsförare 1-4"
+	}
+}
+
 var fixName = function(str,thissub,mainsub){
-	//str = str;
+	str = rev[mainsub] && rev[mainsub][str] || str;
 	if (thissub!==mainsub){
 		str+="\n("+thissub+")";
 	}
@@ -16,13 +41,14 @@ function drawSubject(sid){
 	var sub = DB.subjects[sid],
 		nodes = {},
 		edges = {},
-		g;
+		g,
+		notcount = 0;
 	if (sub.hasreqs){
 		g = graphviz.digraph("G");
 		sub.courses.forEach(function(cid){
 			var course = DB.courses[cid],
 				cname = fixName(course.name,course.subject,sid),
-				debug = false; // cid === "SVESKR0";
+				debug = false; // cid === "SVESKR0"
 			if (course.hasreqs || course.notwitharr){
 				if (!nodes[cname]){
 					nodes[cname] = g.addNode(cname);
@@ -64,6 +90,7 @@ function drawSubject(sid){
 						if (!nodes[nname]){
 							nodes[nname] = g.addNode(nname,styles);
 						}
+						notcount = notcount+1;
 						edges[edgename] = 1;
 						g.addEdge( nodes[cname], nodes[nname], {
 							color: "red",
@@ -76,6 +103,9 @@ function drawSubject(sid){
 				});
 			}
 		});
+		if (notcount > 5){
+			console.log("Check out sub",sub.code)
+		}
 		g.output( "png", sub.code+".png" );
 	}
 	//console.log("Finished",sub.name);

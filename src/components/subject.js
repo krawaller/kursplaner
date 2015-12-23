@@ -16,9 +16,11 @@ var Subject = React.createClass({
       Syfte: ["subjectpurpose",{subject:code}],
       "Ämnesmål": ["subjectgoals",{subject:code}],
       "Kurser i ämnet": ["subjectcourses",{subject:code}],
-      "Behörighet": ["subjectauth",{subject:code}],
-      "Jämför": ["subjectcomparetochoice",{subject:code}]
+      "Behörighet": ["subjectauth",{subject:code}]
     };
+    if (subject.friends && subject.friends.length){
+      links["Jämför"] = ["subjectcomparetochoice",{subject:code}];
+    }
     if (Object.keys(subject.comments||{}).length){
       links["Kommentarer"] = ["subjectcomments",{subject:code}];
     }
