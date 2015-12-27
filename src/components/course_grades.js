@@ -14,20 +14,6 @@ var CourseGrades = React.createClass({
     var arr = j[grade]||j.G && ["Denna första del av ämnet på grundskolan har endast kunskapskrav för <strong>godtagbara kunskaper</strong>:"].concat(j.G)||["I denna första del av ämnet så saknas kunskapskrav."];
     return "<p>"+arr.join("</p><p>")+"</p>";
   },
-  comparePrint: function(course,other,grade){
-    var me = this.decidePrint(course,grade),
-        him = this.decidePrint(other,grade);
-    return _.reduce(diff.diffWords(me,him),function(str,part){
-        if (part.value!=='>'){
-            if (part.removed){
-                str+="<span class='diffunique'>"+part.value+"</span>";
-            } else if (!part.added){
-                str+="<span>"+part.value+"</span>";
-            }
-        }
-        return str;
-    },"");
-  },
   render: function(){
     var p = _.extend({},{grade:"E",},this.props.params||{});
     var now=this.props.grade || p.grade; // can be sent as props in compare shit
@@ -39,7 +25,7 @@ var CourseGrades = React.createClass({
         <Section {...this.props}>
             {!this.props.grade && <h3>Kunskapskrav {j.E && <span>för {Grade}</span>}</h3>}
             { now !== "matris" ? (
-                <div dangerouslySetInnerHTML={{__html:other&&false?this.comparePrint(course,other,now):this.decidePrint(course,now)}}/>
+                <div dangerouslySetInnerHTML={{__html:this.decidePrint(course,now)}}/>
               ) : _.map(_.range(0,Math.max(j.A.length,j.C.length,j.E.length)),function(n){
                     return (
                       <div key={n} className='row'>
