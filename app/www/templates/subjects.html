@@ -1,0 +1,27 @@
+<ion-view title="Ämnen">
+  <ion-header-bar class="bar-light item-input-inset bar-subheader">
+    <label class="item-input-wrapper">
+      <i class="icon ion-ios-search placeholder-icon"></i>
+      <input type="search" placeholder="Sök" ng-model="search.name">
+
+      <a ng-if="search.name != ''" on-touch="search.name = ''">
+        <i class="icon ion-ios-close placeholder-icon"></i>
+      </a>
+    </label>
+    <a class="button button-icon icon ion-ios-settings-strong" ng-click="popover.show($event)"></a>
+  </ion-header-bar>
+  <ion-content overflow-scroll="true" class="has-header">
+    <ion-list>
+      <ion-item
+        collection-repeat="subject in subjects | filter:search track by subject.name"
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}">
+        {{subject.name}}
+        <span class="item-note">
+          {{subject.code}}
+        </span>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
