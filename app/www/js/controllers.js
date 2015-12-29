@@ -46,7 +46,9 @@ angular.module('app.controllers', [])
 })
 
 .controller('SubjectCtrl', function($scope, $stateParams, DataService) {
-  $scope.subject = DataService.getSubject($stateParams.subject);
+  var subject = DataService.getSubject($stateParams.subject);
+  $scope.subject = subject
+  $scope.description = subject.description
 })
 
 .controller('CourseCtrl', function($scope, $stateParams, DataService) {

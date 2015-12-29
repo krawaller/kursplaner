@@ -1,5 +1,6 @@
 <ion-view title="{{subject.name}}">
   <ion-content overflow-scroll="true" padding="true" class="has-header">
-    {{subject.description}}
+    <div ng-bind-html="description"></div>
+
   </ion-content>
 </ion-view>
