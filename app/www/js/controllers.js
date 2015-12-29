@@ -32,13 +32,13 @@ angular.module('app.controllers', [])
     }, 200);
   };
 
-  $scope.subjects = DataService.getSubjects();
+  $scope.subjects = DataService.sortedsubjects;
 })
 
 .controller('CoursesCtrl', function($scope, $http, DataService) {
   $scope.search = { name: '' };
 
-  $scope.courses = DataService.getCourses();
+  $scope.courses = DataService.sortedcourses;
 })
 
 .controller('SettingsCtrl', function($scope) {
