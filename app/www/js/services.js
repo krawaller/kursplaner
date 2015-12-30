@@ -20,13 +20,15 @@ angular.module('app.services', [])
     };
   }
 
-  this.sortedsubjects = data.sortedsubjects.map(function(code){
-    return data.subjectsByCode[code];
-  });
+  this.sortedsubjects = data.sortedsubjects;
 
-  this.sortedcourses = data.sortedcourses.map(function(code){
-    return data.coursesByCode[code];
-  });
+  this.sortedsubjectsbyschool = data.sortedsubjectsbyschool;
+
+  this.sortedgymnsubjectsbytype = data.sortedgymnsubjectsbytype;
+
+  this.sortedcourses = data.sortedcourses;
+
+  this.sortedcoursesbyschool = data.sortedcoursesbyschool;
 
   this.listAllSubjects = function () {
     return sortedsubjects;

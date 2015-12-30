@@ -15,11 +15,11 @@ angular.module('app.controllers', [])
 
   $scope.filters = [
     { text: "Inget filter", value: "0" },
-    { text: "Vanliga", value: "a" },
-    { text: "Övriga", value: "b" },
-    { text: "Yrkes", value: "c" },
-    { text: "Speciella", value: "d" },
-    { text: "Nedlagda", value: "e" },
+    { text: "Vanliga", value: "vanliga" },
+    { text: "Vissa", value: "vissa" },
+    { text: "Yrkes", value: "yrkes" },
+    //{ text: "Speciella", value: "d" },
+    { text: "Nedlagda", value: "nedlagda" },
   ];
 
   $scope.filter = {
@@ -29,17 +29,27 @@ angular.module('app.controllers', [])
   $scope.onFilterChange = function () {
     $timeout(function () {
       $scope.popover.hide();
+      updateSubjectList();
     }, 200);
   };
 
-  $scope.hasSchool = function(type){
-    return type === DataService.getSchool();
+  $scope.selectedschool = DataService.getSchool();
+
+  function updateSubjectList(){
+    if ($scope.selectedschool !== "gymn" || $scope.filter.value === "0"){
+      $scope.subjects = DataService.sortedsubjectsbyschool[$scope.selectedschool];
+    } else {
+      $scope.subjects = DataService.sortedgymnsubjectsbytype[$scope.filter.value];
+    }
   }
 
-  $scope.setSchool = DataService.setSchool;
-  $scope.getSchool = DataService.getSchool;
+  $scope.setSchool = function(type){
+    $scope.selectedschool = type;
+    DataService.setSchool(type);
+    updateSubjectList();
+  };
 
-  $scope.subjects = DataService.sortedsubjects;
+  updateSubjectList();
 })
 
 .controller('CoursesCtrl', function($scope, $http, DataService) {
