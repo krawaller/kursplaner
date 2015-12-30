@@ -21,7 +21,8 @@ _.each(master.subjects,function(subject,code){
   ret.subjectsByCode[code] = _.extend(_.pick(subject,["name","code"]),{
     description: prerender.subjectDescription(code),
     auth: prerender.subjectAuthorization(code),
-    goals: prerender.subjectGoals(code)
+    goals: prerender.subjectGoals(code),
+    school: subject.school || "gymn"
   });
 });
 
