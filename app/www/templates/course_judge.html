@@ -1,15 +1,23 @@
 <ion-view title="Kunskapskrav">
+
+  <ion-header-bar class="bar-light item-input-inset bar-subheader" ng-if="allgrades" >
+      <div class="button-bar">
+          <a class="button button-small" ng-class="{'button-positive': isGrade('E')}" ng-click="setGrade('E')">E</a>
+          <a class="button button-small" ng-class="{'button-positive': isGrade('C')}" ng-click="setGrade('C')">C</a>
+          <a class="button button-small" ng-class="{'button-positive': isGrade('A')}" ng-click="setGrade('A')">A</a>
+      </div>
+  </ion-header-bar>
+
   <ion-content overflow-scroll="true" padding="true" class="has-header">
-    <div ng-if="course.judge.G">
+    <div ng-if="justG">
       <p>Denna första del av ämnet på grundskolan har endast kunskapskrav för <strong>godtagbara kunskaper</strong>:</p>
       <div ng-bind-html="course.judge.G"></div>
     </div>
-    <div ng-if="Object.keys(course.judge).length === 0">
+    <div ng-if="nogrades">
       <p>I denna första del av ämnet så saknas kunskapskrav.</p>
     </div>
-    <div ng-if="course.judge.E">
-      <p>Jag har inte orkat lägga in en betygsväljare än så du får bara se kraven för betyg E:</p>
-      <div ng-bind-html="course.judge.E"></div>
+    <div ng-if="allgrades">
+      <div ng-bind-html="course.judge[getGrade()]"></div>
     </div>
   </ion-content>
 </ion-view>

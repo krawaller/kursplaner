@@ -37,6 +37,7 @@ angular.module('app.controllers', [])
   }
 
   $scope.setSchool = DataService.setSchool;
+  $scope.getSchool = DataService.getSchool;
 
   $scope.subjects = DataService.sortedsubjects;
 })
@@ -101,4 +102,11 @@ angular.module('app.controllers', [])
     DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](course.code, 'course');
     $scope.isFavorite = !$scope.isFavorite;
   };
+  var grade = "E";
+  $scope.justG = course.judge && course.judge.G;
+  $scope.nogrades = Object.keys(course.judge||{}).length === 0;
+  $scope.allgrades = course.judge && course.judge.E;
+  $scope.getGrade = function(){ return grade; };
+  $scope.isGrade = function(g){ return g===grade; };
+  $scope.setGrade = function(g){ grade=g; };
 })
