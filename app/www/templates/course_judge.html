@@ -1,0 +1,15 @@
+<ion-view title="Kunskapskrav">
+  <ion-content overflow-scroll="true" padding="true" class="has-header">
+    <div ng-if="course.judge.G">
+      <p>Denna första del av ämnet på grundskolan har endast kunskapskrav för <strong>godtagbara kunskaper</strong>:</p>
+      <div ng-bind-html="course.judge.G"></div>
+    </div>
+    <div ng-if="Object.keys(course.judge).length === 0">
+      <p>I denna första del av ämnet så saknas kunskapskrav.</p>
+    </div>
+    <div ng-if="course.judge.E">
+      <p>Jag har inte orkat lägga in en betygsväljare än så du får bara se kraven för betyg E:</p>
+      <div ng-bind-html="course.judge.E"></div>
+    </div>
+  </ion-content>
+</ion-view>

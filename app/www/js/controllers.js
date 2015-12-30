@@ -97,7 +97,6 @@ angular.module('app.controllers', [])
 
   $scope.description = course.description;
   $scope.content = course.content;
-
   $scope.toggleFavorite = function () {
     DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](course.code, 'course');
     $scope.isFavorite = !$scope.isFavorite;

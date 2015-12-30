@@ -124,6 +124,15 @@ angular.module('app.routes', [])
         }
       }
     })
+    .state('tabsController.course_judge', {
+      url: '/courses/:course/judge',
+      views: {
+        'tab3': {
+          templateUrl: 'templates/course_judge.html',
+          controller: 'CourseCtrl'
+        }
+      }
+    })
     .state('tabsController', {
       url: '/kursplaner',
       abstract:true,

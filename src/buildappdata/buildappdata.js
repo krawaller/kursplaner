@@ -23,7 +23,9 @@ _.each(master.courses,function(course,code){
     content: prerender.courseContent(code),
     school: course.school || "gymn",
     comments: course.comments,
-    judge: course.judge
+    judge: _.mapValues(course.judge,function(rows,grade){
+      return "<p>"+rows.join("</p><p>")+"</p>";
+    })
   });
 });
 
