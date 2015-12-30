@@ -147,7 +147,7 @@ angular.module('app.routes', [])
         }
       }
     })
-    .state('tabsController.settings', {
+    /*.state('tabsController.settings', {
       url: '/settings',
       views: {
         'tab5': {
@@ -155,7 +155,7 @@ angular.module('app.routes', [])
           controller: 'SettingsCtrl'
         }
       }
-    })
+    })*/
 
 
     ;
