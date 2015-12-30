@@ -23,6 +23,19 @@
       >
         Centralt innehåll <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
+      <div
+        ng-if="commentlist.length"
+        class="item item-divider"
+      >
+        Kommentarer
+      </div>
+      <ion-item
+        collection-repeat="comment in commentlist"
+        class="item-icon-right"
+        href="#/kursplaner/courses/{{course.code}}/commenton/{{comment}}"
+      >
+        {{comment}} <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
       <!--<ion-item class="item-icon-right">
         Ämnesmål <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>

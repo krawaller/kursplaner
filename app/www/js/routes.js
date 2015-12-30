@@ -70,6 +70,15 @@ angular.module('app.routes', [])
         }
       }
     })
+    .state('tabsController.course_comment', {
+      url: '/courses/:course/commenton/:comment',
+      views: {
+        'tab3': {
+          templateUrl: 'templates/course_comment.html',
+          controller: 'CourseCtrl'
+        }
+      }
+    })
     .state('tabsController', {
       url: '/kursplaner',
       abstract:true,

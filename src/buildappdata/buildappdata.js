@@ -21,7 +21,8 @@ _.each(master.courses,function(course,code){
   ret.coursesByCode[code] = _.extend(_.pick(course,["name","code"]),{
     description: prerender.courseDescription(code),
     content: prerender.courseContent(code),
-    school: course.school || "gymn"
+    school: course.school || "gymn",
+    comments: course.comments
   });
 });
 

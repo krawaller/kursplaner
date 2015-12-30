@@ -74,13 +74,16 @@ angular.module('app.controllers', [])
 .controller('CourseCtrl', function($scope, $stateParams, DataService) {
   var course = DataService.getCourse($stateParams.course);
   $scope.course = course;
-  $scope.isFavorite = DataService.isFavorite($scope.course.code, 'course');
+  $scope.commentlist = Object.keys(course.comments||{});
+  $scope.comment = (course.comments||{})[$stateParams.comment];
+  $scope.commenttype = $stateParams.comment;
+  $scope.isFavorite = DataService.isFavorite(course.code, 'course');
 
   $scope.description = course.description;
   $scope.content = course.content;
 
   $scope.toggleFavorite = function () {
-    DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite']($scope.course.code, 'course');
+    DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](course.code, 'course');
     $scope.isFavorite = !$scope.isFavorite;
   };
 })
