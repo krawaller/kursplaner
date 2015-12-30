@@ -52,6 +52,24 @@ angular.module('app.routes', [])
         }
       }
     })
+    .state('tabsController.course.description', {
+      url: '/description',
+      views: {
+        'tab3': {
+          templateUrl: 'templates/course_desc.html',
+          controller: 'CourseCtrl'
+        }
+      }
+    })
+    .state('tabsController.course.content', {
+      url: '/content',
+      views: {
+        'tab3': {
+          templateUrl: 'templates/course_content.html',
+          controller: 'CourseCtrl'
+        }
+      }
+    })
     .state('tabsController', {
       url: '/kursplaner',
       abstract:true,

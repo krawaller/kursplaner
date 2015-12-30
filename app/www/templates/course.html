@@ -11,13 +11,19 @@
   </ion-nav-buttons>
   <ion-content overflow-scroll="true" class="has-header">
     <ion-list>
-      <ion-item class="item-icon-right">
-        Beskrivning <i class="icon ion-chevron-right icon-accessory"></i>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/courses/{{course.code}}/description"
+      >
+        Fakta <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
-      <ion-item class="item-icon-right">
-        Syfte <i class="icon ion-chevron-right icon-accessory"></i>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/courses/{{course.code}}/content"
+      >
+        Centralt innehåll <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
-      <ion-item class="item-icon-right">
+      <!--<ion-item class="item-icon-right">
         Ämnesmål <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
       <ion-item class="item-icon-right">
@@ -63,7 +69,7 @@
       </ion-item>
       <ion-item class="item-icon-right">
         Naturvetenskaplig specialisering <i class="icon ion-chevron-right icon-accessory"></i>
-      </ion-item>
+      </ion-item>-->
     </ion-list>
   </ion-content>
 </ion-view>

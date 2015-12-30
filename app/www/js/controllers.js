@@ -72,8 +72,12 @@ angular.module('app.controllers', [])
 })
 
 .controller('CourseCtrl', function($scope, $stateParams, DataService) {
-  $scope.course = DataService.getCourse($stateParams.course);
+  var course = DataService.getCourse($stateParams.course);
+  $scope.course = course;
   $scope.isFavorite = DataService.isFavorite($scope.course.code, 'course');
+
+  $scope.description = course.description;
+  $scope.content = course.content;
 
   $scope.toggleFavorite = function () {
     DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite']($scope.course.code, 'course');
