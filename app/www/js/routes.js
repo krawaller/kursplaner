@@ -34,6 +34,51 @@ angular.module('app.routes', [])
         }
       }
     })
+    .state('tabsController.subject_description', {
+      url: '/subjects/:subject/description',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_desc.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
+    .state('tabsController.subject_goals', {
+      url: '/subjects/:subject/goals',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_goals.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
+    .state('tabsController.subject_purpose', {
+      url: '/subjects/:subject/purpose',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_purpose.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
+    .state('tabsController.subject_auth', {
+      url: '/subjects/:subject/auth',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_auth.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
+    .state('tabsController.subject_comment', {
+      url: '/subjects/:subject/commenton/:comment',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_comment.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
     .state('tabsController.courses', {
       url: '/courses',
       views: {

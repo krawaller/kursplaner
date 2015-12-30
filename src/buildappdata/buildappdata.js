@@ -31,7 +31,13 @@ _.each(master.subjects,function(subject,code){
     description: prerender.subjectDescription(code),
     auth: prerender.subjectAuthorization(code),
     goals: prerender.subjectGoals(code),
-    school: subject.school || "gymn"
+    purpose: subject.purpose,
+    school: subject.school || "gymn",
+    comments: subject.comments ? _.reduce(subject.comments,function(ret,com,type){
+      var conv = {ABOUT_THE_SUBJECT:"ämnet",PURPOSE:"syftet",DESCRIPTION:"innehållet",COMPARISON_GY2000:"Gy2000",COMPARISON_GR:"grundskolan"};
+      ret[ conv[type] ] = com;
+      return ret;
+    },{}) : undefined
   });
 });
 

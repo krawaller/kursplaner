@@ -61,7 +61,15 @@ angular.module('app.controllers', [])
 .controller('SubjectCtrl', function($scope, $stateParams, DataService) {
   var subject = DataService.getSubject($stateParams.subject);
   $scope.subject = subject;
+
   $scope.description = subject.description;
+  $scope.purpose = subject.purpose;
+  $scope.auth = subject.auth;
+  $scope.goals = subject.goals;
+
+  $scope.commentlist = Object.keys(subject.comments||{});
+  $scope.comment = (subject.comments||{})[$stateParams.comment];
+  $scope.commenttype = $stateParams.comment;
 
   $scope.isFavorite = DataService.isFavorite(subject.code, 'subject');
 

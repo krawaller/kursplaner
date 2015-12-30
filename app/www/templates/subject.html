@@ -9,8 +9,44 @@
       class="button button-icon icon">
     </button>
   </ion-nav-buttons>
-  <ion-content overflow-scroll="true" padding="true" class="has-header">
-    <div ng-bind-html="description"></div>
-
-  </ion-content>
+  <ion-content overflow-scroll="true" class="has-header">
+    <ion-list>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}/description"
+      >
+        Beskrivning <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}/purpose"
+      >
+        Syfte <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}/goals"
+      >
+        Ämnesmål <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+      <ion-item
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}/auth"
+      >
+        Behörighet <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+      <div
+        ng-if="commentlist.length"
+        class="item item-divider"
+      >
+        Kommentarer
+      </div>
+      <ion-item
+        collection-repeat="comment in commentlist"
+        class="item-icon-right"
+        href="#/kursplaner/subjects/{{subject.code}}/commenton/{{comment}}"
+      >
+        {{comment}} <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+    </ion-content>
 </ion-view>
