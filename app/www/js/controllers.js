@@ -32,6 +32,12 @@ angular.module('app.controllers', [])
     }, 200);
   };
 
+  $scope.hasSchool = function(type){
+    return type === DataService.getSchool();
+  }
+
+  $scope.setSchool = DataService.setSchool;
+
   $scope.subjects = DataService.sortedsubjects;
 })
 
@@ -78,6 +84,7 @@ angular.module('app.controllers', [])
     DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](subject.code, 'subject');
     $scope.isFavorite = !$scope.isFavorite;
   };
+
 })
 
 .controller('CourseCtrl', function($scope, $stateParams, DataService) {

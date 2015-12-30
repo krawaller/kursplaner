@@ -1,4 +1,13 @@
 <ion-view title="Ämnen">
+
+  <ion-header-bar class="bar-light item-input-inset bar-subheader">
+      <div class="button-bar">
+          <a class="button button-small" ng-class="{'button-positive': hasSchool('grund')}" ng-click="setSchool('grund')">Grundskola</a>
+          <a class="button button-small" ng-class="{'button-positive': hasSchool('grundvux')}" ng-click="setSchool('grundvux')">Grundvux</a>
+          <a class="button button-small" ng-class="{'button-positive': hasSchool('gymn')}" ng-click="setSchool('gymn')">Gymnasie</a>
+      </div>
+  </ion-header-bar>
+
   <ion-header-bar class="bar-light item-input-inset bar-subheader">
     <label class="item-input-wrapper">
       <i class="icon ion-ios-search placeholder-icon"></i>

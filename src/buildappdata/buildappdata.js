@@ -22,7 +22,8 @@ _.each(master.courses,function(course,code){
     description: prerender.courseDescription(code),
     content: prerender.courseContent(code),
     school: course.school || "gymn",
-    comments: course.comments
+    comments: course.comments,
+    judge: course.judge
   });
 });
 

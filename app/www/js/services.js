@@ -81,4 +81,17 @@ angular.module('app.services', [])
     if (index !== -1) favorites[type + 's'].splice(index, 1);
     localStorage.setItem('favorites', JSON.stringify(favorites));
   };
+
+
+  var schooltype = localStorage.getItem('schooltype') || "gymn";
+
+  this.setSchool = function(type){
+    schooltype = type;
+    localStorage.setItem('schooltype',type);
+  };
+
+  this.getSchool = function(){
+    return schooltype;
+  };
+
 }]);
