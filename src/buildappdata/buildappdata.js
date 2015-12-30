@@ -37,7 +37,10 @@ _.each(master.subjects,function(subject,code){
       var conv = {ABOUT_THE_SUBJECT:"ämnet",PURPOSE:"syftet",DESCRIPTION:"innehållet",COMPARISON_GY2000:"Gy2000",COMPARISON_GR:"grundskolan"};
       ret[ conv[type] ] = com;
       return ret;
-    },{}) : undefined
+    },{}) : undefined,
+    courselinks: subject.courses.map(function(code){
+      return {code:code,name:ret.coursesByCode[code].name};
+    })
   });
 });
 

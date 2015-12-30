@@ -48,5 +48,21 @@
       >
         {{comment}} <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
+      <div class="item item-divider">
+        Kurser i ämnet
+      </div>
+      <ion-item
+        collection-repeat="courselink in courselinks"
+        class="item-icon-right"
+        href="#/kursplaner/courses/{{courselink.code}}"
+      >
+        <div class="row">
+          <div class="col-75 truncate">{{courselink.name}}</div>
+          <div class="col-25 truncate">
+            <span class="item-note">{{courselink.code}}</span>
+          </div>
+          <i class="icon ion-chevron-right icon-accessory"></i>
+        </div>
+      </ion-item>
     </ion-content>
 </ion-view>

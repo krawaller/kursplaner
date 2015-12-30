@@ -62,6 +62,7 @@ angular.module('app.controllers', [])
   var subject = DataService.getSubject($stateParams.subject);
   $scope.subject = subject;
 
+  $scope.courselinks = subject.courselinks;
   $scope.description = subject.description;
   $scope.purpose = subject.purpose;
   $scope.auth = subject.auth;
