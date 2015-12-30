@@ -1,4 +1,14 @@
 <ion-view title="{{course.name}}">
+  <ion-nav-buttons side="secondary">
+    <button
+      ng-click="toggleFavorite()"
+      ng-class="{
+        'ion-ios-heart': !isFavorite,
+        'ion-ios-heart-outline': isFavorite
+      }"
+      class="button button-icon icon">
+    </button>
+  </ion-nav-buttons>
   <ion-content overflow-scroll="true" class="has-header">
     <ion-list>
       <ion-item class="item-icon-right">

@@ -57,10 +57,19 @@ angular.module('app.routes', [])
       abstract:true,
       templateUrl: 'templates/tabsController.html'
     })
+    .state('tabsController.favorites', {
+      url: '/favorites',
+      views: {
+        'tab4': {
+          templateUrl: 'templates/favorites.html',
+          controller: 'FavoritesCtrl'
+        }
+      }
+    })
     .state('tabsController.settings', {
       url: '/settings',
       views: {
-        'tab4': {
+        'tab5': {
           templateUrl: 'templates/settings.html',
           controller: 'SettingsCtrl'
         }

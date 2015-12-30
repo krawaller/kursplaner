@@ -41,16 +41,42 @@ angular.module('app.controllers', [])
   $scope.courses = DataService.sortedcourses;
 })
 
+.controller('FavoritesCtrl', function($scope, DataService) {
+  function refresh () {
+    $scope.favorites = DataService.getFavorites();
+  };
+
+  $scope.$on('$ionicView.beforeEnter', refresh);
+
+  $scope.removeFavorite = function (code, type) {
+    DataService.removeFavorite(code, type);
+    refresh();
+  };
+})
+
 .controller('SettingsCtrl', function($scope) {
   $scope.choice = 'gymnasie';
 })
 
 .controller('SubjectCtrl', function($scope, $stateParams, DataService) {
   var subject = DataService.getSubject($stateParams.subject);
-  $scope.subject = subject
-  $scope.description = subject.description
+  $scope.subject = subject;
+  $scope.description = subject.description;
+
+  $scope.isFavorite = DataService.isFavorite(subject.code, 'subject');
+
+  $scope.toggleFavorite = function () {
+    DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](subject.code, 'subject');
+    $scope.isFavorite = !$scope.isFavorite;
+  };
 })
 
 .controller('CourseCtrl', function($scope, $stateParams, DataService) {
   $scope.course = DataService.getCourse($stateParams.course);
+  $scope.isFavorite = DataService.isFavorite($scope.course.code, 'course');
+
+  $scope.toggleFavorite = function () {
+    DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite']($scope.course.code, 'course');
+    $scope.isFavorite = !$scope.isFavorite;
+  };
 })
