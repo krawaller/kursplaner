@@ -1,14 +1,6 @@
 <ion-view title="Ämnen">
 
   <ion-header-bar class="bar-light item-input-inset bar-subheader">
-      <div class="button-bar">
-          <a class="button button-small" ng-class="{'button-positive': selectedschool === 'grund'}" ng-click="setSchool('grund')">Grundskola</a>
-          <a class="button button-small" ng-class="{'button-positive': selectedschool === 'grundvux'}" ng-click="setSchool('grundvux')">Grundvux</a>
-          <a class="button button-small" ng-class="{'button-positive': selectedschool === 'gymn'}" ng-click="setSchool('gymn')">Gymnasie</a>
-      </div>
-  </ion-header-bar>
-
-  <ion-header-bar class="bar-light item-input-inset bar-subheader" ng-if="selectedschool === 'gymn'">
     <label class="item-input-wrapper">
       <i class="icon ion-ios-search placeholder-icon"></i>
       <input type="search" placeholder="Sök" ng-model="search.name">
@@ -24,7 +16,30 @@
     </a>
   </ion-header-bar>
 
-  <ion-content overflow-scroll="true" class="has-header">
+  <ion-footer-bar class="bar-light has-tabs">
+    <div class="button-bar">
+      <a
+        class="button"
+        ng-class="{'button-positive': selectedschool === 'grund'}"
+        ng-click="setSchool('grund')">
+        Grundskola
+      </a>
+      <a
+        class="button"
+        ng-class="{'button-positive': selectedschool === 'grundvux'}"
+        ng-click="setSchool('grundvux')">
+        Grundvux
+      </a>
+      <a
+        class="button"
+        ng-class="{'button-positive': selectedschool === 'gymn'}"
+        ng-click="setSchool('gymn')">
+        Gymnasie
+      </a>
+    </div>
+  </ion-footer-bar>
+
+  <ion-content overflow-scroll="true" class="has-footer has-subheader">
     <ion-list>
       <ion-item
         collection-repeat="subject in subjects | filter:search track by subject.name"
