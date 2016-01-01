@@ -30,3 +30,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+.button-bar .button {
+  border-color: $bar-light-border;
+}
