@@ -147,16 +147,6 @@ angular.module('app.routes', [])
         }
       }
     })
-    /*.state('tabsController.settings', {
-      url: '/settings',
-      views: {
-        'tab5': {
-          templateUrl: 'templates/settings.html',
-          controller: 'SettingsCtrl'
-        }
-      }
-    })*/
-
 
     ;
 

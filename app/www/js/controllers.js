@@ -90,10 +90,6 @@ angular.module('app.controllers', [])
   };
 })
 
-.controller('SettingsCtrl', function($scope) {
-  $scope.choice = 'gymnasie';
-})
-
 .controller('SubjectCtrl', function($scope, $stateParams, DataService) {
   var subject = DataService.getSubject($stateParams.subject);
   $scope.subject = subject;
