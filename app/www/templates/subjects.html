@@ -41,6 +41,7 @@
   </ion-footer-bar>
 
   <ion-content overflow-scroll="true" class="has-footer has-subheader">
+    <p>{{instruction}}</p>
     <ion-list>
       <ion-item
         collection-repeat="subject in subjects | filter:search track by subject.name"

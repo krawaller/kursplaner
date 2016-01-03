@@ -36,11 +36,30 @@ angular.module('app.controllers', [])
   $scope.selectedschool = DataService.getSchool();
 
   function updateSubjectList(){
+    // find out what we should show
+    var showing = $scope.selectedschool;
+    if (showing==="gymn"){
+      showing += $scope.filter.value
+    }
+    // select relevant list from data
     if ($scope.selectedschool !== "gymn" || $scope.filter.value === "0"){
       $scope.subjects = DataService.sortedsubjectsbyschool[$scope.selectedschool];
     } else {
       $scope.subjects = DataService.sortedgymnsubjectsbytype[$scope.filter.value];
     }
+    // show instruction according to what we're showing
+    var instr = {
+      grund: "alla ämnen på grundskolan",
+      grundvux: "alla ämmen på grundläggande nivå inom vuxenutbildningen",
+      gymn0: "samtliga gymnasieämnen",
+      gymnvanliga: "samtliga gymnasieämnen klassade som 'vanliga'",
+      gymnvissa: "de gymnasieämnen som har särskilda behörighetsregler",
+      gymnyrkes: "samtliga gymnasieämnen klassade som yrkesämnen"
+    }[showing];
+    var searching = !!$scope.filter && $scope.filter.search && $scope.filter.search.name;
+    instr = (searching ? "söker bland " : "visar ") + instr; // TODO - not working, how to access search?
+    instr += " (totalt "+$scope.subjects.length+" st)";
+    $scope.instruction = instr;
   }
 
   $scope.setSchool = function(type){
