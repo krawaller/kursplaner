@@ -24,6 +24,7 @@ _.each(master.courses,function(course,code){
     description: prerender.courseDescription(code),
     content: prerender.courseContent(code),
     school: course.school || "gymn",
+    hasdiagram: course.hasreqs || course.notwitharr,
     comments: course.comments,
     judge: _.mapValues(course.judge,function(rows,grade){
       return "<p>"+rows.join("</p><p>")+"</p>";

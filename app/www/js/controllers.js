@@ -122,7 +122,6 @@ angular.module('app.controllers', [])
   $scope.commenttype = $stateParams.comment;
   $scope.isFavorite = DataService.isFavorite(course.code, 'course');
 
-  $scope.description = course.description;
   $scope.content = course.content;
   $scope.toggleFavorite = function () {
     DataService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](course.code, 'course');
