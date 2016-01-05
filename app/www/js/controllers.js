@@ -68,6 +68,12 @@ angular.module('app.controllers', [])
     updateSubjectList();
   };
 
+  $scope.clearFilters = function () {
+    $scope.filter = { value: '' };
+    $scope.search = { name: '' };
+    updateSubjectList();
+  };
+
   updateSubjectList();
 })
 

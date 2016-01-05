@@ -55,5 +55,11 @@
         <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
     </ion-list>
+    <div class="clear-filter-message" ng-if="filter.value || search.name">
+      <p>Det finns aktiva filter som kanske döljer vissa resultat.</p>
+      <button class="button button-small button-assertive" ng-click="clearFilters()">
+        Ta bort filter
+      </button>
+    </div>
   </ion-content>
 </ion-view>
