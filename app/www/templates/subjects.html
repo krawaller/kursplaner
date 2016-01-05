@@ -47,7 +47,7 @@
         collection-repeat="subject in subjects | filter:search track by subject.name"
         class="item-icon-right"
         href="#/kursplaner/subjects/{{subject.code}}">
-        {{subject.name}}
+        <span ng-bind-html="subject.name | highlight:search.name"></span>
         <span class="item-note">
           {{subject.code}}
         </span>

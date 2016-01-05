@@ -21,8 +21,14 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
 
-.item .row {
-  padding: 0;
+.item {
+  .row {
+    padding: 0;
+  }
+  em {
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
 }
 
 .truncate {
