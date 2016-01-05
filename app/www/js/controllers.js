@@ -14,7 +14,7 @@ angular.module('app.controllers', [])
   });
 
   $scope.filters = [
-    { text: "Inget filter", value: "0" },
+    { text: "Inget filter", value: "" },
     { text: "Vanliga", value: "vanliga" },
     { text: "Vissa", value: "vissa" },
     { text: "Yrkes", value: "yrkes" },
@@ -23,7 +23,7 @@ angular.module('app.controllers', [])
   ];
 
   $scope.filter = {
-    value: '0'
+    value: ''
   };
 
   $scope.onFilterChange = function () {
@@ -42,7 +42,7 @@ angular.module('app.controllers', [])
       showing += $scope.filter.value
     }
     // select relevant list from data
-    if ($scope.selectedschool !== "gymn" || $scope.filter.value === "0"){
+    if ($scope.selectedschool !== "gymn" || !$scope.filter.value){
       $scope.subjects = DataService.sortedsubjectsbyschool[$scope.selectedschool];
     } else {
       $scope.subjects = DataService.sortedgymnsubjectsbytype[$scope.filter.value];

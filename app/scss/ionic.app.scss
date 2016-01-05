@@ -31,6 +31,10 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
   }
 }
 
+.has-filter:before {
+  color: $positive;
+}
+
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
