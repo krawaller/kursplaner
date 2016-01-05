@@ -99,6 +99,7 @@ angular.module('app.controllers', [])
   $scope.purpose = subject.purpose;
   $scope.auth = subject.auth;
   $scope.goals = subject.goals;
+  $scope.type = subject.type;
 
   $scope.commentlist = Object.keys(subject.comments||{});
   $scope.comment = (subject.comments||{})[$stateParams.comment];
