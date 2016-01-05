@@ -7,7 +7,7 @@ angular.module('app.controllers', [])
 .controller('SubjectsCtrl', function($scope, $http, $ionicPopover, $timeout, DataService) {
   $scope.search = { name: '' };
 
-  $ionicPopover.fromTemplateUrl('my-popover.html', {
+  $ionicPopover.fromTemplateUrl('templates/subjects_filterpopover.html', {
     scope: $scope
   }).then(function(popover) {
     $scope.popover = popover;
@@ -56,7 +56,7 @@ angular.module('app.controllers', [])
       gymnvissa: "de gymnasieämnen som har särskilda behörighetsregler",
       gymnyrkes: "samtliga gymnasieämnen klassade som yrkesämnen"
     }[showing];
-    var searching = !!$scope.filter && $scope.filter.search && $scope.filter.search.name;
+    var searching = !!$scope.search && $scope.search.name;
     instr = (searching ? "söker bland " : "visar ") + instr; // TODO - not working, how to access search?
     instr += " (totalt "+$scope.subjects.length+" st)";
     $scope.instruction = instr;

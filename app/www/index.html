@@ -24,23 +24,5 @@
       </ion-nav-back-button>
     </ion-nav-bar>
     <ion-nav-view></ion-nav-view>
-
-    <script id="my-popover.html" type="text/ng-template">
-      <ion-popover-view>
-        <ion-header-bar>
-          <h1 class="title">Filtrera</h1>
-        </ion-header-bar>
-        <ion-content>
-          <ion-list>
-            <ion-radio ng-repeat="filter in filters"
-              ng-value="filter.value"
-              ng-model="$parent.filter.value"
-              ng-change="$parent.onFilterChange()">
-              {{filter.text}}
-            </ion-radio>
-          </ion-list>
-        </ion-content>
-      </ion-popover-view>
-    </script>
   </body>
 </html>
