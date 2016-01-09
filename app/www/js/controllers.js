@@ -49,7 +49,7 @@ angular.module('app.controllers', [])
       gymnyrkes: "samtliga gymnasieämnen klassade som yrkesämnen"
     }[showing];
     var searching = $scope.search && $scope.search.name;
-    instr = (searching ? "söker bland " : "visar ") + instr;
+    instr = (searching ? "söker bland " : "visar ") + instr; // TODO - not working, how to access search?
     instr += " (totalt "+$scope.subjects.length+" st)";
     $scope.instruction = instr;
   }

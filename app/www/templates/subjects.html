@@ -45,7 +45,7 @@
     <p>{{instruction}}</p>
     <ion-list>
       <ion-item
-        collection-repeat="subject in subjects | filter:search track by subject.name"
+        collection-repeat="subject in matchedSubjects = (subjects | filter:search) track by subject.name"
         class="item-icon-right"
         href="#/kursplaner/subjects/{{subject.code}}">
         <span ng-bind-html="subject.name | highlight:search.name"></span>
@@ -55,6 +55,7 @@
         <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
     </ion-list>
+    <div ng-hide="matchedSubjects.length">Inga ämnen matchar sökningen.</div>
     <div class="clear-filter-message" ng-if="selectedschool === 'gymn' && filter.value">
       <button class="button button-small button-assertive" ng-click="clearFilters()">
         Ta bort filter
