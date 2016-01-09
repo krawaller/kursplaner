@@ -35,19 +35,11 @@ angular.module('app.controllers', [])
 
   $scope.selectedschool = DataService.getSchool();
 
-  function updateSubjectList(){
-    // find out what we should show
+  function updateDynamicDescription(){
     var showing = $scope.selectedschool;
     if (showing==="gymn"){
       showing += $scope.filter.value
     }
-    // select relevant list from data
-    if ($scope.selectedschool !== "gymn" || !$scope.filter.value){
-      $scope.subjects = DataService.sortedsubjectsbyschool[$scope.selectedschool];
-    } else {
-      $scope.subjects = DataService.sortedgymnsubjectsbytype[$scope.filter.value];
-    }
-    // show instruction according to what we're showing
     var instr = {
       grund: "alla ämnen på grundskolan",
       grundvux: "alla ämmen på grundläggande nivå inom vuxenutbildningen",
@@ -56,10 +48,23 @@ angular.module('app.controllers', [])
       gymnvissa: "de gymnasieämnen som har särskilda behörighetsregler",
       gymnyrkes: "samtliga gymnasieämnen klassade som yrkesämnen"
     }[showing];
-    var searching = !!$scope.search && $scope.search.name;
-    instr = (searching ? "söker bland " : "visar ") + instr; // TODO - not working, how to access search?
+    var searching = $scope.search && $scope.search.name;
+    instr = (searching ? "söker bland " : "visar ") + instr;
     instr += " (totalt "+$scope.subjects.length+" st)";
     $scope.instruction = instr;
+  }
+
+  $scope.$watch('search.name',updateDynamicDescription);
+
+  function updateSubjectList(){
+
+    // select relevant list from data
+    if ($scope.selectedschool !== "gymn" || !$scope.filter.value){
+      $scope.subjects = DataService.sortedsubjectsbyschool[$scope.selectedschool];
+    } else {
+      $scope.subjects = DataService.sortedgymnsubjectsbytype[$scope.filter.value];
+    }
+    updateDynamicDescription();
   }
 
   $scope.setSchool = function(type){
@@ -70,7 +75,6 @@ angular.module('app.controllers', [])
 
   $scope.clearFilters = function () {
     $scope.filter = { value: '' };
-    $scope.search = { name: '' };
     updateSubjectList();
   };
 

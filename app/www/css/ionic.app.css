@@ -9723,6 +9723,13 @@ a.button {
 .item .row {
   padding: 0; }
 
+.item em {
+  font-weight: 800;
+  letter-spacing: -0.5px; }
+
+.has-filter:before {
+  color: #387ef5; }
+
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -9730,3 +9737,8 @@ a.button {
 
 .button-bar .button {
   border-color: #ddd; }
+
+.clear-filter-message {
+  width: 60%;
+  margin: 10px auto 20px;
+  text-align: center; }
