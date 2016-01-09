@@ -51,7 +51,7 @@ angular.module('app.controllers', [])
     var instr = {
       grund: "alla ämnen på grundskolan",
       grundvux: "alla ämmen på grundläggande nivå inom vuxenutbildningen",
-      gymn0: "samtliga gymnasieämnen",
+      gymn: "samtliga gymnasieämnen",
       gymnvanliga: "samtliga gymnasieämnen klassade som 'vanliga'",
       gymnvissa: "de gymnasieämnen som har särskilda behörighetsregler",
       gymnyrkes: "samtliga gymnasieämnen klassade som yrkesämnen"
