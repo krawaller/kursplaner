@@ -37,7 +37,7 @@
     </div>
 
     <div ng-if="type === 'COMMON'">
-        <p>{{name}} är ett så kallat <strong>vanligt ämne</strong>. Därmed krävs för behörighet att du har:</p>
+        <p>{{subject.name}} är ett så kallat <strong>vanligt ämne</strong>. Därmed krävs för behörighet att du har:</p>
         <ul>
             <li>Ämneslärarexamen med inriktning mot arbete i gymnasieskolan, eller</li>
             <li>Ämneslärarexamen med inriktning mot arbete i grundskolans årskurs 7- 9, eller</li>
@@ -49,7 +49,7 @@
     </div>
 
     <div ng-if="type === 'VOCATIONAL'">
-      <p>{{name}} är ett <strong>yrkesämne</strong>. Därmed krävs för behörighet att du har:</p>
+      <p>{{subject.name}} är ett <strong>yrkesämne</strong>. Därmed krävs för behörighet att du har:</p>
       <ul>
           <li>Yrkeslärarexamen, eller</li>
           <li>Äldre examen som är avsedd för arbete i gymnasieskolan i ett yrkesämne, eller</li>
@@ -58,7 +58,7 @@
     </div>
 
     <div ng-if="type === 'OTHER'">
-      <p>{{name}} tillhör de ämnen som benämns som <strong>vissa ämnen</strong>. För behörighet krävs:</p>
+      <p>{{subject.name}} tillhör de ämnen som benämns som <strong>vissa ämnen</strong>. För behörighet krävs:</p>
       <ul>
           <li>Ämneslärarexamen med inriktning mot arbete i gymnasieskolan, eller</li>
           <li>Examen avsedd för arbete i gymnasieskolan från en äldre lärarutbildning än den som infördes 2011, eller</li>
