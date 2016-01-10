@@ -43,6 +43,15 @@ angular.module('app.routes', [])
         }
       }
     })
+    .state('tabsController.subject_facts', {
+      url: '/subjects/:subject/facts',
+      views: {
+        'tab2': {
+          templateUrl: 'templates/subject_facts.html',
+          controller: 'SubjectCtrl'
+        }
+      }
+    })
     .state('tabsController.subject_goals', {
       url: '/subjects/:subject/goals',
       views: {

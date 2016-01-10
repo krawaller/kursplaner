@@ -106,6 +106,7 @@ angular.module('app.controllers', [])
 
   $scope.courselinks = subject.courselinks;
   $scope.description = subject.description;
+  $scope.facts = subject.facts;
   $scope.purpose = subject.purpose;
   $scope.auth = subject.auth;
   $scope.goals = subject.goals;

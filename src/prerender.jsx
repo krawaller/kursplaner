@@ -106,7 +106,7 @@ module.exports = {
             </p>
         </div>);
     },
-    subjectDescription: function(code){
+    subjectFacts: function(code){
         function linkToS(d,DB,sameschool){
             var sub = DB.subjects[d], s = sub.school || "gymn";
             // return <Link key={d} to="subjectdesc" params={{subject:d}}>{sub.name} {s !== (sameschool||"gymn") ? " ("+s+")" : null}</Link>;
@@ -153,7 +153,6 @@ module.exports = {
             { sub.novux && <p>
                 Detta ämne får ej ges inom vuxenutbildningen utan endast på gymnasiet.
             </p> || null}
-            <div dangerouslySetInnerHTML={{__html:sub.description}}/>
             { sub.friends.length ? <p>
                 { sub.school
                     ? <span>Motsvarighet till detta ämne i andra skolformer är </span>

@@ -34,7 +34,8 @@ _.each(master.courses,function(course,code){
 
 _.each(master.subjects,function(subject,code){
   ret.subjectsByCode[code] = _.extend(_.pick(subject,["name","code"]),{
-    description: prerender.subjectDescription(code),
+    facts: prerender.subjectFacts(code),
+    description: subject.description,
     auth: subject.type === 'OTHER' ? prerender.subjectAuthorization(code) : '',
     goals: prerender.subjectGoals(code),
     purpose: subject.purpose,
