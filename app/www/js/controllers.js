@@ -46,7 +46,8 @@ angular.module('app.controllers', [])
       gymn: "samtliga gymnasieämnen",
       gymnvanliga: "gymnasieämnen klassade som 'vanliga'",
       gymnvissa: "de gymnasieämnen som har särskilda behörighetsregler",
-      gymnyrkes: "gymnasieämnen klassade som yrkesämnen"
+      gymnyrkes: "gymnasieämnen klassade som yrkesämnen",
+      gymnnedlagda: "nedlagda gymnasieämnen"
     }[showing];
     var searching = $scope.search && $scope.search.name;
     instr = (searching ? "söker bland " : "visar ") + instr; // TODO - not working, how to access search?
