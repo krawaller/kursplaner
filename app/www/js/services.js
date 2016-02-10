@@ -1,16 +1,27 @@
 angular.module('app.services', [])
 
 
-.factory('DataService', [function(){
+.factory('SchoolService',function(){
+  var schooltype = localStorage.getItem('schooltype') || "gymn";
+  return {
+    setSchool: function(type){
+      schooltype = type;
+      localStorage.setItem('schooltype',type);
+    },
+    getSchool: function(){
+      return schooltype;
+    }
+  }
+})
+
+
+.factory('DataService', function(){
 
   var request = new XMLHttpRequest();
   request.open('GET', 'js/data.json', false);
   request.send(null);
 
   var data = JSON.parse(request.responseText);
-
-
-  var schooltype = localStorage.getItem('schooltype') || "gymn";
 
   return {
     sortedsubjects: data.sortedsubjects,
@@ -39,16 +50,9 @@ angular.module('app.services', [])
     },
     getSubject: function (code) {
       return data.subjectsByCode[code];
-    },
-    setSchool: function(type){
-      schooltype = type;
-      localStorage.setItem('schooltype',type);
-    },
-    getSchool: function(){
-      return schooltype;
     }
   };
-}])
+})
 
 
 

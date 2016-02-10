@@ -4,7 +4,7 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('SubjectsCtrl', function($scope, $http, $ionicPopover, $timeout, DataService) {
+.controller('SubjectsCtrl', function($scope, $http, $ionicPopover, $timeout, DataService, SchoolService) {
   $scope.search = { name: '' };
 
   $ionicPopover.fromTemplateUrl('templates/subjects_filterpopover.html', {
@@ -33,7 +33,7 @@ angular.module('app.controllers', [])
     }, 200);
   };
 
-  $scope.selectedschool = DataService.getSchool();
+  $scope.selectedschool = SchoolService.getSchool();
 
   function updateDynamicDescription(){
     var showing = $scope.selectedschool;
@@ -70,7 +70,7 @@ angular.module('app.controllers', [])
 
   $scope.setSchool = function(type){
     $scope.selectedschool = type;
-    DataService.setSchool(type);
+    SchoolService.setSchool(type);
     updateSubjectList();
   };
 
