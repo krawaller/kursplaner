@@ -88,15 +88,15 @@ angular.module('app.controllers', [])
   $scope.courses = DataService.sortedcourses;
 })
 
-.controller('FavoritesCtrl', function($scope, FavouriteService) {
+.controller('FavouritesCtrl', function($scope, FavouriteService) {
   function refresh () {
-    $scope.favorites = FavouriteService.getFavorites();
+    $scope.favourites = FavouriteService.getFavourites();
   };
 
   $scope.$on('$ionicView.beforeEnter', refresh);
 
-  $scope.removeFavorite = function (code, type) {
-    FavouriteService.removeFavorite(code, type);
+  $scope.removeFavourite = function (code, type) {
+    FavouriteService.removeFavourite(code, type);
     refresh();
   };
 })
@@ -117,11 +117,11 @@ angular.module('app.controllers', [])
   $scope.comment = (subject.comments||{})[$stateParams.comment];
   $scope.commenttype = $stateParams.comment;
 
-  $scope.isFavorite = FavouriteService.isFavorite(subject.code, 'subject');
+  $scope.isFavourite = FavouriteService.isFavourite(subject.code, 'subject');
 
-  $scope.toggleFavorite = function () {
-    FavouriteService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](subject.code, 'subject');
-    $scope.isFavorite = !$scope.isFavorite;
+  $scope.toggleFavourite = function () {
+    FavouriteService[($scope.isFavourite ? 'remove' : 'add') + 'Favourite'](subject.code, 'subject');
+    $scope.isFavourite = !$scope.isFavourite;
   };
 
 })
@@ -132,12 +132,12 @@ angular.module('app.controllers', [])
   $scope.commentlist = Object.keys(course.comments||{});
   $scope.comment = (course.comments||{})[$stateParams.comment];
   $scope.commenttype = $stateParams.comment;
-  $scope.isFavorite = FavouriteService.isFavorite(course.code, 'course');
+  $scope.isFavourite = FavouriteService.isFavourite(course.code, 'course');
 
   $scope.content = course.content;
-  $scope.toggleFavorite = function () {
-    FavouriteService[($scope.isFavorite ? 'remove' : 'add') + 'Favorite'](course.code, 'course');
-    $scope.isFavorite = !$scope.isFavorite;
+  $scope.toggleFavourite = function () {
+    FavouriteService[($scope.isFavourite ? 'remove' : 'add') + 'Favourite'](course.code, 'course');
+    $scope.isFavourite = !$scope.isFavourite;
   };
   var grade = "E";
   $scope.justG = course.judge && course.judge.G;

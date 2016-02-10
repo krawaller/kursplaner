@@ -58,41 +58,41 @@ angular.module('app.services', [])
 
 .factory('FavouriteService', ["DataService",function(DataService){
 
-  var favorites;
+  var favourites;
 
   try {
-    favorites = JSON.parse(localStorage.getItem('favorites'));
+    favourites = JSON.parse(localStorage.getItem('favourites'));
   } catch (error) {}
-  if (!favorites) {
-    favorites = {
+  if (!favourites) {
+    favourites = {
       courses: [],
       subjects: []
     };
   }
 
   return {
-    getFavorites: function () {
+    getFavourites: function () {
       return {
-        courses: favorites.courses.map(function (code) {
+        courses: favourites.courses.map(function (code) {
           return DataService.getCourse(code);
         }),
-        subjects: favorites.subjects.map(function (code) {
+        subjects: favourites.subjects.map(function (code) {
           return DataService.getSubject(code);
         })
       };
     },
-    isFavorite: function (code, type) {
-      return favorites[type + 's'].indexOf(code) !== -1;
+    isFavourite: function (code, type) {
+      return favourites[type + 's'].indexOf(code) !== -1;
     },
-    addFavorite: function (code, type) {
-      var index = favorites[type + 's'].indexOf(code);
-      if (index === -1) favorites[type + 's'].push(code);
-      localStorage.setItem('favorites', JSON.stringify(favorites));
+    addFavourite: function (code, type) {
+      var index = favourites[type + 's'].indexOf(code);
+      if (index === -1) favourites[type + 's'].push(code);
+      localStorage.setItem('favourites', JSON.stringify(favourites));
     },
-    removeFavorite: function (code, type) {
-      var index = favorites[type + 's'].indexOf(code);
-      if (index !== -1) favorites[type + 's'].splice(index, 1);
-      localStorage.setItem('favorites', JSON.stringify(favorites));
+    removeFavourite: function (code, type) {
+      var index = favourites[type + 's'].indexOf(code);
+      if (index !== -1) favourites[type + 's'].splice(index, 1);
+      localStorage.setItem('favourites', JSON.stringify(favourites));
     }
   };
 

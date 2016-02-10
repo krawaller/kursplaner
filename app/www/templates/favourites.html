@@ -1,18 +1,18 @@
-<ion-view title="Favoriter">
+<ion-view title="Favouriter">
   <ion-content class="has-header">
     <ion-list>
-      <div ng-if="!(favorites.courses.length || favorites.subjects.length)" class="card">
+      <div ng-if="!(favourites.courses.length || favourites.subjects.length)" class="card">
         <div class="item item-divider">
-          Inga favoriter
+          Inga favouriter
         </div>
         <div class="item item-text-wrap">
-          Du har inte lagt till några kurser eller ämnen som favoriter.
+          Du har inte lagt till några kurser eller ämnen som favouriter.
         </div>
       </div>
 
-      <div ng-if="favorites.courses.length" class="item item-divider">Kurser</div>
+      <div ng-if="favourites.courses.length" class="item item-divider">Kurser</div>
       <ion-item
-        ng-repeat="course in favorites.courses"
+        ng-repeat="course in favourites.courses"
         class="item-icon-right"
         href="#/kursplaner/courses/{{course.code}}">
         <div class="row">
@@ -21,12 +21,12 @@
             <span class="item-note">{{course.code}}</span>
           </div>
           <i class="icon ion-chevron-right icon-accessory"></i>
-          <ion-option-button class="button-assertive" ng-click="removeFavorite(course.code, 'course')">Ta bort</ion-option-button>
+          <ion-option-button class="button-assertive" ng-click="removeFavourite(course.code, 'course')">Ta bort</ion-option-button>
         </div>
       </ion-item>
-      <div ng-if="favorites.subjects.length" class="item item-divider">Ämnen</div>
+      <div ng-if="favourites.subjects.length" class="item item-divider">Ämnen</div>
       <ion-item
-        ng-repeat="subject in favorites.subjects"
+        ng-repeat="subject in favourites.subjects"
         class="item-icon-right"
         href="#/kursplaner/subjects/{{subject.code}}">
         <div class="row">
@@ -35,7 +35,7 @@
             <span class="item-note">{{subject.code}}</span>
           </div>
           <i class="icon ion-chevron-right icon-accessory"></i>
-          <ion-option-button class="button-assertive" ng-click="removeFavorite(subject.code, 'subject')">Ta bort</ion-option-button>
+          <ion-option-button class="button-assertive" ng-click="removeFavourite(subject.code, 'subject')">Ta bort</ion-option-button>
         </div>
       </ion-item>
     </ion-list>

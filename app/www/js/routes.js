@@ -147,12 +147,12 @@ angular.module('app.routes', [])
       abstract:true,
       templateUrl: 'templates/tabsController.html'
     })
-    .state('tabsController.favorites', {
-      url: '/favorites',
+    .state('tabsController.favourites', {
+      url: '/favourites',
       views: {
         'tab4': {
-          templateUrl: 'templates/favorites.html',
-          controller: 'FavoritesCtrl'
+          templateUrl: 'templates/favourites.html',
+          controller: 'FavouritesCtrl'
         }
       }
     })
