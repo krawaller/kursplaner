@@ -1,7 +1,8 @@
 angular.module('app.services', [])
 
+
 .service('DataService', [function(){
-  console.log('dataservice')
+
   var request = new XMLHttpRequest();
   request.open('GET', 'js/data.json', false);
   request.send(null);
@@ -9,16 +10,6 @@ angular.module('app.services', [])
   var data = JSON.parse(request.responseText);
   console.log('data', data);
 
-  var favorites;
-  try {
-    favorites = JSON.parse(localStorage.getItem('favorites'));
-  } catch (error) {}
-  if (!favorites) {
-    favorites = {
-      courses: [],
-      subjects: []
-    };
-  }
 
   this.sortedsubjects = data.sortedsubjects;
 
@@ -57,13 +48,42 @@ angular.module('app.services', [])
     return data.subjectsByCode[code];
   };
 
+  var schooltype = localStorage.getItem('schooltype') || "gymn";
+
+  this.setSchool = function(type){
+    schooltype = type;
+    localStorage.setItem('schooltype',type);
+  };
+
+  this.getSchool = function(){
+    return schooltype;
+  };
+
+}])
+
+
+
+.service('FavouriteService', ["DataService",function(DataService){
+
+  var favorites;
+
+  try {
+    favorites = JSON.parse(localStorage.getItem('favorites'));
+  } catch (error) {}
+  if (!favorites) {
+    favorites = {
+      courses: [],
+      subjects: []
+    };
+  }
+
   this.getFavorites = function () {
     return {
       courses: favorites.courses.map(function (code) {
-        return data.coursesByCode[code];
+        return DataService.getCourse(code);
       }),
       subjects: favorites.subjects.map(function (code) {
-        return data.subjectsByCode[code];
+        return DataService.getSubject(code);
       })
     };
   };
@@ -83,17 +103,5 @@ angular.module('app.services', [])
     if (index !== -1) favorites[type + 's'].splice(index, 1);
     localStorage.setItem('favorites', JSON.stringify(favorites));
   };
-
-
-  var schooltype = localStorage.getItem('schooltype') || "gymn";
-
-  this.setSchool = function(type){
-    schooltype = type;
-    localStorage.setItem('schooltype',type);
-  };
-
-  this.getSchool = function(){
-    return schooltype;
-  };
-
 }]);
+
